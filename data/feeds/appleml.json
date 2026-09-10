@@ -1,0 +1,59 @@
+{
+ "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "group": "lab",
+ "items": [
+  {
+   "date": "2026-09-02T00:00:00+00:00",
+   "link": "https://machinelearning.apple.com/research/refactor-vla-motor-programs",
+   "title": "REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs"
+  },
+  {
+   "date": "2026-08-28T00:00:00+00:00",
+   "link": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
+   "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs"
+  },
+  {
+   "date": "2026-08-28T00:00:00+00:00",
+   "link": "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
+   "title": "Agent Seer: Synthesizing Scenarios from Specification Understanding"
+  },
+  {
+   "date": "2026-08-27T00:00:00+00:00",
+   "link": "https://machinelearning.apple.com/research/rubric-based-alignment",
+   "title": "From Preferences to Principles: Rubric-Based Alignment for Grounded Knowledge Answers"
+  },
+  {
+   "date": "2026-08-26T00:00:00+00:00",
+   "link": "https://machinelearning.apple.com/research/proof-gen-optimized-distillation",
+   "title": "PROOF-Gen: From Optimized Data to Better Distillation"
+  },
+  {
+   "date": "2026-08-26T00:00:00+00:00",
+   "link": "https://machinelearning.apple.com/research/idea-prune-pipeline",
+   "title": "IDEA Prune: An Integrated Enlarge-and-Prune Pipeline in Generative Language Model Pretraining"
+  },
+  {
+   "date": "2026-08-26T00:00:00+00:00",
+   "link": "https://machinelearning.apple.com/research/relightable-gaussians-3d-generation",
+   "title": "Luce: Relightable Gaussians for 3D Asset Generation"
+  },
+  {
+   "date": "2026-08-25T00:00:00+00:00",
+   "link": "https://machinelearning.apple.com/research/starflow2-multimodal-generation",
+   "title": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation"
+  },
+  {
+   "date": "2026-08-24T00:00:00+00:00",
+   "link": "https://machinelearning.apple.com/research/internalized-visual-thinking",
+   "title": "Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning"
+  },
+  {
+   "date": "2026-08-20T00:00:00+00:00",
+   "link": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
+   "title": "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions"
+  }
+ ],
+ "name": "Apple ML",
+ "slug": "appleml",
+ "url": "https://machinelearning.apple.com/rss.xml"
+}

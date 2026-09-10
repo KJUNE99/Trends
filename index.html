@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ML Radar</title>
+<style>
+:root{
+  --bg:#fbfbfa; --panel:#fff; --ink:#1a1a19; --dim:#6b6b66; --line:#e4e4e0;
+  --accent:#2f6f4f; --warn:#8a5a00; --bad:#a33; --chip:#f0f0ec;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#16171a; --panel:#1d1e22; --ink:#e8e8e4; --dim:#9a9a94; --line:#2e2f34;
+  --accent:#7fc9a3; --warn:#d9a441; --bad:#e07070; --chip:#26272c;
+}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:14px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,"Helvetica Neue",sans-serif}
+a{color:inherit}
+header{padding:18px 20px 12px;border-bottom:1px solid var(--line)}
+h1{margin:0;font-size:17px;letter-spacing:.02em}
+.meta{color:var(--dim);font-size:12px;margin-top:3px}
+.bar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:10px}
+button{font:inherit;font-size:12px;padding:4px 10px;border:1px solid var(--line);
+  background:var(--panel);color:var(--ink);border-radius:5px;cursor:pointer}
+button:hover{border-color:var(--dim)}
+button.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+#panel{display:none;padding:12px 20px;border-bottom:1px solid var(--line);background:var(--panel)}
+#panel.open{display:block}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:2px 14px}
+.grid label{display:flex;gap:7px;align-items:baseline;padding:3px 0;cursor:pointer;font-size:13px}
+.grid input{margin:0;flex:none;position:relative;top:1px}
+.grp{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--dim);
+  margin:12px 0 4px;grid-column:1/-1}
+main{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:0;align-items:start}
+@media(max-width:900px){main{grid-template-columns:1fr}}
+section{padding:16px 20px;min-width:0}
+section+section{border-left:1px solid var(--line)}
+@media(max-width:900px){section+section{border-left:0;border-top:1px solid var(--line)}}
+h2{margin:0 0 12px;font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--dim);
+  display:flex;justify-content:space-between;align-items:baseline}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:7px;
+  margin-bottom:10px;overflow:hidden}
+.card>h3{margin:0;font-size:12px;font-weight:600;padding:8px 11px;cursor:pointer;
+  display:flex;gap:8px;align-items:center;border-bottom:1px solid var(--line)}
+.card>h3 .n{color:var(--dim);font-weight:400}
+.card>h3 .caret{margin-left:auto;color:var(--dim);font-size:10px}
+.card.shut>h3{border-bottom:0}
+.card.shut ul{display:none}
+ul{list-style:none;margin:0;padding:0}
+li{padding:7px 11px;border-top:1px solid var(--line)}
+li:first-child{border-top:0}
+.t{display:block;text-decoration:none;font-weight:500}
+.t:hover{text-decoration:underline;text-decoration-color:var(--dim)}
+.sub{color:var(--dim);font-size:12px;margin-top:2px;display:flex;gap:8px;flex-wrap:wrap;align-items:baseline}
+.src{color:var(--accent);font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.04em}
+.chip{background:var(--chip);border-radius:4px;padding:0 5px;font-size:11px}
+.chip a{text-decoration:none}
+.stale{color:var(--warn);font-size:11px;font-weight:600}
+.dead{color:var(--bad);font-size:11px;font-weight:600}
+.empty{color:var(--dim);padding:7px 11px;font-size:12px}
+#err{padding:10px 20px;color:var(--bad);font-size:12px}
+</style>
+</head>
+<body>
+<header>
+  <h1>ML Radar</h1>
+  <div class="meta" id="meta">불러오는 중…</div>
+  <div class="bar">
+    <button id="btnPanel">소스 <span id="cnt"></span></button>
+    <button id="btnGroup" class="on">소스별</button>
+    <button id="btnTime">시간순</button>
+    <span class="meta" id="warn"></span>
+  </div>
+</header>
+<div id="panel"><div class="grid" id="toggles"></div>
+  <div class="bar"><button id="allOn">전체 켜기</button><button id="allOff">전체 끄기</button></div>
+</div>
+<div id="err"></div>
+<main>
+  <section><h2><span>논문 · 최근 7일</span><span id="pn"></span></h2><div id="papers"></div></section>
+  <section><h2><span>글 · 최근 30일</span><span id="an"></span></h2><div id="arts"></div></section>
+</main>
+
+<script>
+const PAPER_DAYS = 7, ARTICLE_DAYS = 30, TIME_CAP = 5;
+const GROUPS = {newsletter:"뉴스레터", lab:"랩 · 연구", eng:"엔지니어링", papers:"논문"};
+const LS_OFF = "mlradar.off", LS_SHUT = "mlradar.shut", LS_VIEW = "mlradar.view";
+
+const load = k => { try { return JSON.parse(localStorage.getItem(k)) || [] } catch { return [] } };
+const save = (k,v) => { try { localStorage.setItem(k, JSON.stringify(v)) } catch {} };
+let off = new Set(load(LS_OFF));
+let shut = new Set(load(LS_SHUT));
+let view = (()=>{ try { return localStorage.getItem(LS_VIEW) || "group" } catch { return "group" } })();
+
+const esc = s => (s==null?"":String(s)).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const days = iso => { const d=new Date(iso); return isNaN(d)?null:Math.floor((Date.now()-d)/864e5) };
+const fmt = iso => { const d=new Date(iso); return isNaN(d)?"":
+  `${d.getMonth()+1}/${String(d.getDate()).padStart(2,"0")}` };
+const within = (iso,n) => { const a=days(iso); return a!==null && a<=n };
+
+let STATUS=null, PAPERS=[], FEEDS={};
+
+async function getJSON(u){ const r=await fetch(u,{cache:"no-store"}); if(!r.ok) throw new Error(u+" "+r.status); return r.json() }
+
+async function boot(){
+  try{
+    STATUS = await getJSON("data/status.json?t="+Date.now());
+  }catch(e){
+    document.getElementById("err").textContent =
+      "status.json을 읽지 못했습니다. 아직 한 번도 수집이 돌지 않았을 수 있습니다. (" + e.message + ")";
+    document.getElementById("meta").textContent = "";
+    return;
+  }
+  const v = "?v=" + encodeURIComponent(STATUS.generated_at || "");
+  const jobs = STATUS.sources.map(async s => {
+    if (s.slug === "hf_papers") {
+      try { PAPERS = (await getJSON("data/papers.json"+v)).items || [] } catch { PAPERS = [] }
+    } else {
+      try { FEEDS[s.slug] = (await getJSON("data/feeds/"+s.slug+".json"+v)).items || [] }
+      catch { FEEDS[s.slug] = [] }
+    }
+  });
+  await Promise.all(jobs);
+  buildToggles(); render();
+}
+
+function staleBadge(s){
+  if (s.ok) return "";
+  const d = s.stale_days;
+  if (d === null || d === undefined) return `<span class="dead">한 번도 성공 못함</span>`;
+  const cls = d >= 7 ? "dead" : "stale";
+  return `<span class="${cls}">${d}일째 갱신 없음</span>`;
+}
+
+function buildToggles(){
+  const box = document.getElementById("toggles");
+  const order = ["papers","newsletter","lab","eng"];
+  const byG = {}; STATUS.sources.forEach(s => (byG[s.group] ||= []).push(s));
+  box.innerHTML = order.filter(g=>byG[g]).map(g =>
+    `<div class="grp">${GROUPS[g]||g}</div>` + byG[g].map(s => `
+      <label><input type="checkbox" data-slug="${s.slug}" ${off.has(s.slug)?"":"checked"}>
+      <span>${esc(s.name)} <span class="chip">${s.n_items}</span> ${staleBadge(s)}</span></label>`).join("")
+  ).join("");
+  box.querySelectorAll("input").forEach(i => i.onchange = () => {
+    i.checked ? off.delete(i.dataset.slug) : off.add(i.dataset.slug);
+    save(LS_OFF,[...off]); render();
+  });
+  document.getElementById("allOn").onclick = () => {
+    off.clear(); save(LS_OFF,[]); buildToggles(); render(); };
+  document.getElementById("allOff").onclick = () => {
+    off = new Set(STATUS.sources.map(s=>s.slug)); save(LS_OFF,[...off]); buildToggles(); render(); };
+}
+
+function paperLI(p){
+  const L = p.linked || {};
+  const bits = [];
+  bits.push(`<span class="chip">▲ ${p.upvotes}</span>`);
+  bits.push(`<a class="chip" href="${esc(p.arxiv)}" target="_blank" rel="noopener">arXiv</a>`);
+  if (p.github) bits.push(`<a class="chip" href="${esc(p.github)}" target="_blank" rel="noopener">code</a>`);
+  if (L.models)   bits.push(`<span class="chip" title="${esc((L.top_models||[]).join(', '))}">모델 ${L.models}</span>`);
+  if (L.datasets) bits.push(`<span class="chip" title="${esc((L.top_datasets||[]).join(', '))}">데이터셋 ${L.datasets}</span>`);
+  const au = (p.authors||[]).slice(0,3).join(", ")
+           + (p.n_authors > 3 ? ` 외 ${p.n_authors-3}명` : "");
+  return `<li><a class="t" href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.title)}</a>
+    <div class="sub"><span>${fmt(p.date)}</span><span>${esc(au)}</span>${bits.join("")}</div></li>`;
+}
+
+function artLI(it, srcName){
+  return `<li><a class="t" href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+    <div class="sub">${srcName?`<span class="src">${esc(srcName)}</span>`:""}<span>${fmt(it.date)}</span></div></li>`;
+}
+
+function card(id, title, count, badge, inner){
+  const isShut = shut.has(id);
+  return `<div class="card ${isShut?"shut":""}" data-card="${id}">
+    <h3><span>${esc(title)}</span><span class="n">${count}</span>${badge}
+        <span class="caret">${isShut?"▸":"▾"}</span></h3>
+    <ul>${inner}</ul></div>`;
+}
+
+function render(){
+  const st = Object.fromEntries(STATUS.sources.map(s=>[s.slug,s]));
+
+  // ---- papers (left)
+  const pbox = document.getElementById("papers");
+  if (off.has("hf_papers")) {
+    pbox.innerHTML = `<div class="empty">HF Daily Papers가 꺼져 있습니다.</div>`;
+    document.getElementById("pn").textContent = "";
+  } else {
+    const ps = PAPERS.filter(p => within(p.date, PAPER_DAYS))
+                     .sort((a,b) => (b.date||"").localeCompare(a.date||"") || b.upvotes-a.upvotes);
+    document.getElementById("pn").textContent = ps.length + "편";
+    pbox.innerHTML = ps.length
+      ? card("hf_papers","Hugging Face Daily Papers", ps.length+"편",
+             staleBadge(st.hf_papers), ps.map(paperLI).join(""))
+      : `<div class="empty">최근 ${PAPER_DAYS}일 논문이 없습니다. ${staleBadge(st.hf_papers)}</div>`;
+  }
+
+  // ---- articles (right)
+  const live = STATUS.sources.filter(s => s.slug!=="hf_papers" && !off.has(s.slug));
+  const abox = document.getElementById("arts");
+  let total = 0;
+
+  if (view === "time") {
+    let rows = [];
+    live.forEach(s => {
+      const its = (FEEDS[s.slug]||[]).filter(i => within(i.date, ARTICLE_DAYS))
+                    .sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+      total += its.length;
+      // per-source cap so one high-volume feed cannot own the column
+      its.slice(0, TIME_CAP).forEach(i => rows.push({...i, _src:s.name}));
+    });
+    rows.sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+    abox.innerHTML = rows.length
+      ? `<div class="card"><ul>${rows.map(r=>artLI(r,r._src)).join("")}</ul></div>
+         <div class="empty">소스당 최근 ${TIME_CAP}건까지 표시 · 30일 내 전체 ${total}건</div>`
+      : `<div class="empty">표시할 글이 없습니다.</div>`;
+  } else {
+    const order = ["newsletter","lab","eng"];
+    let html = "";
+    order.forEach(g => {
+      const inG = live.filter(s => s.group === g);
+      if (!inG.length) return;
+      html += `<div class="grp" style="margin:14px 0 6px">${GROUPS[g]||g}</div>`;
+      inG.forEach(s => {
+        const its = (FEEDS[s.slug]||[]).filter(i => within(i.date, ARTICLE_DAYS))
+                      .sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+        total += its.length;
+        html += card(s.slug, s.name, its.length+"건", staleBadge(st[s.slug]),
+          its.length ? its.map(i=>artLI(i,null)).join("")
+                     : `<li class="empty">최근 ${ARTICLE_DAYS}일 글 없음</li>`);
+      });
+    });
+    abox.innerHTML = html || `<div class="empty">모든 소스가 꺼져 있습니다.</div>`;
+  }
+  document.getElementById("an").textContent = total + "건";
+
+  abox.querySelectorAll("[data-card] > h3").forEach(h => h.onclick = () => {
+    const id = h.parentElement.dataset.card;
+    shut.has(id) ? shut.delete(id) : shut.add(id);
+    save(LS_SHUT,[...shut]); render();
+  });
+  pbox.querySelectorAll("[data-card] > h3").forEach(h => h.onclick = () => {
+    const id = h.parentElement.dataset.card;
+    shut.has(id) ? shut.delete(id) : shut.add(id);
+    save(LS_SHUT,[...shut]); render();
+  });
+
+  const bad = STATUS.sources.filter(s => !s.ok);
+  document.getElementById("warn").innerHTML = bad.length
+    ? `<span class="stale">${bad.length}개 소스 갱신 실패</span>` : "";
+  const g = STATUS.generated_at ? new Date(STATUS.generated_at) : null;
+  document.getElementById("meta").textContent =
+    (g ? `마지막 수집 ${g.toLocaleString("ko-KR")}` : "") +
+    ` · 소스 ${STATUS.sources.length}개 중 ${STATUS.sources.filter(s=>s.ok).length}개 정상`;
+  document.getElementById("cnt").textContent =
+    `${STATUS.sources.length - off.size}/${STATUS.sources.length}`;
+}
+
+document.getElementById("btnPanel").onclick = () =>
+  document.getElementById("panel").classList.toggle("open");
+document.getElementById("btnGroup").onclick = () => {
+  view="group"; save(LS_VIEW,null); try{localStorage.setItem(LS_VIEW,"group")}catch{}
+  document.getElementById("btnGroup").classList.add("on");
+  document.getElementById("btnTime").classList.remove("on"); render(); };
+document.getElementById("btnTime").onclick = () => {
+  view="time"; try{localStorage.setItem(LS_VIEW,"time")}catch{}
+  document.getElementById("btnTime").classList.add("on");
+  document.getElementById("btnGroup").classList.remove("on"); render(); };
+if (view==="time"){ document.getElementById("btnTime").classList.add("on");
+  document.getElementById("btnGroup").classList.remove("on"); }
+boot();
+</script>
+</body>
+</html>

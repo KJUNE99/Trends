@@ -1,0 +1,54 @@
+{
+ "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "group": "eng",
+ "items": [
+  {
+   "date": "2026-09-03T05:29:14+00:00",
+   "link": "https://d2.naver.com/news/7360495",
+   "title": "FE News 26년 9월 소식을 전해드립니다."
+  },
+  {
+   "date": "2026-09-02T05:51:41+00:00",
+   "link": "https://d2.naver.com/news/3092933",
+   "title": "[네이버피셜] 네이버 개발자라면 꼭 만나게 됩니다"
+  },
+  {
+   "date": "2026-09-01T06:52:03+00:00",
+   "link": "https://d2.naver.com/helloworld/4452165",
+   "title": "Python의 멀티프로세싱과 Airflow, 그리고 관련된 문제 해결기 1편"
+  },
+  {
+   "date": "2026-08-10T16:39:52+00:00",
+   "link": "https://d2.naver.com/helloworld/7337586",
+   "title": "우리 팀만의 vLLM 플러그인 만들기 2편 - 모델 변환부터 배포까지 AI-native로 자동화하기"
+  },
+  {
+   "date": "2026-08-10T16:39:25+00:00",
+   "link": "https://d2.naver.com/helloworld/0525182",
+   "title": "우리 팀만의 vLLM 플러그인 만들기 1편 - 검색 AI 모델 서빙 성능 극대화하기"
+  },
+  {
+   "date": "2026-08-05T14:12:35+00:00",
+   "link": "https://d2.naver.com/news/1783497",
+   "title": "FE News 26년 8월 소식을 전해드립니다."
+  },
+  {
+   "date": "2026-07-24T15:25:33+00:00",
+   "link": "https://d2.naver.com/helloworld/4821538",
+   "title": "[AI 해커톤 후기] AI 해커톤 1위 팀이 AI에게 맡기지 않은 것"
+  },
+  {
+   "date": "2026-07-21T18:35:44+00:00",
+   "link": "https://d2.naver.com/helloworld/5788040",
+   "title": "VictoriaMetrics 운영기 2편 — 장비 증설 없이 리소스 위기를 해결한 3단계 최적화 전략"
+  },
+  {
+   "date": "2026-07-13T12:43:28+00:00",
+   "link": "https://d2.naver.com/helloworld/1883072",
+   "title": "[AI 해커톤 후기] AI 시대의 해커톤과 인간의 역할: AI의 계획과 사람의 전략"
+  }
+ ],
+ "name": "NAVER D2",
+ "slug": "naverd2",
+ "url": "https://d2.naver.com/d2.atom"
+}

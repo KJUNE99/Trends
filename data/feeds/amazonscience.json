@@ -1,0 +1,54 @@
+{
+ "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "group": "lab",
+ "items": [
+  {
+   "date": "2026-08-31T15:35:33+00:00",
+   "link": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+   "title": "Developing provably correct Rust code with Verus"
+  },
+  {
+   "date": "2026-08-26T17:10:40+00:00",
+   "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+   "title": "When LLM judges agree, should we believe them?"
+  },
+  {
+   "date": "2026-08-21T15:57:17+00:00",
+   "link": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
+   "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures"
+  },
+  {
+   "date": "2026-08-11T16:22:19+00:00",
+   "link": "https://www.amazon.science/blog/a-decade-of-mathematical-certainty-reflections-on-the-automated-reasoning-group",
+   "title": "A decade of mathematical certainty: Reflections on the Automated Reasoning Group"
+  },
+  {
+   "date": "2026-08-10T20:23:04+00:00",
+   "link": "https://www.amazon.science/news/aws-trainium-frontier-competition-co-design-models-and-kernels-on-purpose-built-ai-chips",
+   "title": "AWS Trainium Frontier competition: Co-design models and kernels on purpose-built AI chips"
+  },
+  {
+   "date": "2026-08-05T15:00:00+00:00",
+   "link": "https://www.amazon.science/research-awards/latest-news/34-amazon-research-awards-build-on-trainium-recipients-announced",
+   "title": "34 Amazon Research Awards Build on Trainium recipients announced"
+  },
+  {
+   "date": "2026-07-30T17:26:47+00:00",
+   "link": "https://www.amazon.science/blog/how-controllers-from-industrial-machinery-can-coordinate-multitask-machine-learning",
+   "title": "How controllers from industrial machinery can coordinate multitask machine learning"
+  },
+  {
+   "date": "2026-07-29T15:16:52+00:00",
+   "link": "https://www.amazon.science/blog/a-new-benchmark-for-evaluating-patient-facing-health-ai-agents",
+   "title": "A new benchmark for evaluating patient-facing health AI agents"
+  },
+  {
+   "date": "2026-07-26T08:00:00+00:00",
+   "link": "https://www.amazon.science/news/amazon-is-investing-in-the-lean-focused-research-organization",
+   "title": "Amazon is investing in the Lean Focused Research Organization"
+  }
+ ],
+ "name": "Amazon Science",
+ "slug": "amazonscience",
+ "url": "https://www.amazon.science/index.rss"
+}

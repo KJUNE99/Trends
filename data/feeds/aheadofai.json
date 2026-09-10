@@ -1,0 +1,29 @@
+{
+ "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "group": "newsletter",
+ "items": [
+  {
+   "date": "2026-09-09T11:14:25+00:00",
+   "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+   "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning"
+  },
+  {
+   "date": "2026-08-22T11:11:39+00:00",
+   "link": "https://magazine.sebastianraschka.com/p/claude-watermarking",
+   "title": "How Claude Watermarks AI-Generated Text"
+  },
+  {
+   "date": "2026-08-15T11:54:24+00:00",
+   "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+   "title": "Building an AI Text Detector From Scratch"
+  },
+  {
+   "date": "2026-07-18T11:16:09+00:00",
+   "link": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+   "title": "Controlling Reasoning Effort in LLMs"
+  }
+ ],
+ "name": "Ahead of AI",
+ "slug": "aheadofai",
+ "url": "https://magazine.sebastianraschka.com/feed"
+}

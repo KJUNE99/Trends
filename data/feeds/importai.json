@@ -1,0 +1,49 @@
+{
+ "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "group": "newsletter",
+ "items": [
+  {
+   "date": "2026-09-07T12:26:31+00:00",
+   "link": "https://importai.substack.com/p/import-ai-472-deepminds-cheating",
+   "title": "Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman"
+  },
+  {
+   "date": "2026-08-31T13:31:06+00:00",
+   "link": "https://importai.substack.com/p/import-ai-471-why-hugging-face-worries",
+   "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI"
+  },
+  {
+   "date": "2026-08-24T13:12:40+00:00",
+   "link": "https://importai.substack.com/p/import-ai-470-no-rights-for-machines",
+   "title": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye"
+  },
+  {
+   "date": "2026-08-17T13:05:36+00:00",
+   "link": "https://importai.substack.com/p/import-ai-469-science-ai-rsi-simulator",
+   "title": "Import AI 469: Science AI; RSI simulator; and Zuck's technological pessimism"
+  },
+  {
+   "date": "2026-08-10T12:32:20+00:00",
+   "link": "https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench",
+   "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing"
+  },
+  {
+   "date": "2026-08-03T13:31:22+00:00",
+   "link": "https://importai.substack.com/p/import-ai-467-self-sustaining-ai",
+   "title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity"
+  },
+  {
+   "date": "2026-07-27T13:30:53+00:00",
+   "link": "https://importai.substack.com/p/import-ai-466-the-bitter-lesson-for",
+   "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI's accidental AI hacker"
+  },
+  {
+   "date": "2026-07-20T12:31:45+00:00",
+   "link": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
+   "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan"
+  }
+ ],
+ "name": "Import AI",
+ "slug": "importai",
+ "url": "https://importai.substack.com/feed"
+}

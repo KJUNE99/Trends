@@ -1,0 +1,59 @@
+{
+ "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "group": "eng",
+ "items": [
+  {
+   "date": "2026-09-07T15:00:00+00:00",
+   "link": "https://tech.kakao.com/posts/835",
+   "title": "if(kakao)2026 둘째 날, 기술 세션 소개"
+  },
+  {
+   "date": "2026-09-07T15:00:00+00:00",
+   "link": "https://tech.kakao.com/posts/833",
+   "title": "if(kakao)2026 첫째 날, 기술 세션 소개"
+  },
+  {
+   "date": "2026-09-06T15:00:00+00:00",
+   "link": "https://tech.kakao.com/posts/834",
+   "title": "카카오, if(kakao)26 컨퍼런스 개최... 모든 연결에 지능을"
+  },
+  {
+   "date": "2026-08-30T15:00:00+00:00",
+   "link": "https://tech.kakao.com/posts/832",
+   "title": "곧, if(kakao)26의 이야기가 시작됩니다."
+  },
+  {
+   "date": "2026-08-30T15:00:00+00:00",
+   "link": "https://tech.kakao.com/posts/831",
+   "title": "같은 장애를 두 번 겪지 않기 위해, 배포 전에 리뷰합니다 — KRIS 개발기"
+  },
+  {
+   "date": "2026-08-26T15:00:00+00:00",
+   "link": "https://tech.kakao.com/posts/830",
+   "title": "지역 AI 생태계의 새로운 가능성, 카카오 AI 돛 Summit 26을 개최합니다!"
+  },
+  {
+   "date": "2026-08-06T15:00:00+00:00",
+   "link": "https://tech.kakao.com/posts/829",
+   "title": "개인화된 Airflow 테스트 환경 구축 및 운영 경험"
+  },
+  {
+   "date": "2026-08-03T15:00:00+00:00",
+   "link": "https://tech.kakao.com/posts/828",
+   "title": "Beyond AI That Speaks Well: Making Kanana-o Speak the Way Users Want"
+  },
+  {
+   "date": "2026-08-03T15:00:00+00:00",
+   "link": "https://tech.kakao.com/posts/827",
+   "title": "잘 말하는 AI를 넘어, 원하는 대로 말하는 AI로: Kanana-o 음성 생성 고도화 과정"
+  },
+  {
+   "date": "2026-07-27T15:00:00+00:00",
+   "link": "https://tech.kakao.com/posts/826",
+   "title": "더 작고 강해진 Kanana SLM 개발"
+  }
+ ],
+ "name": "Kakao Tech",
+ "slug": "kakaotech",
+ "url": "https://tech.kakao.com/feed/"
+}

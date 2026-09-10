@@ -1,0 +1,89 @@
+{
+ "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "group": "lab",
+ "items": [
+  {
+   "date": "2026-09-03T18:20:31+00:00",
+   "link": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+   "title": "Transfer learning for genomic prediction in underrepresented populations"
+  },
+  {
+   "date": "2026-09-03T16:00:03+00:00",
+   "link": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+   "title": "A connectomics milestone: Mapping the complete male fruit fly brain"
+  },
+  {
+   "date": "2026-09-01T18:40:00+00:00",
+   "link": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+   "title": "Mapping global methane emissions from space with deep learning"
+  },
+  {
+   "date": "2026-08-31T17:19:40+00:00",
+   "link": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+   "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting"
+  },
+  {
+   "date": "2026-08-27T17:37:00+00:00",
+   "link": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+   "title": "Planetary prediction engine: Automating global models via Earth AI"
+  },
+  {
+   "date": "2026-08-26T18:42:43+00:00",
+   "link": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+   "title": "GlucoFM: Foundation model for continuous glucose monitoring"
+  },
+  {
+   "date": "2026-08-25T19:10:59+00:00",
+   "link": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+   "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR"
+  },
+  {
+   "date": "2026-08-21T17:02:24+00:00",
+   "link": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+   "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data"
+  },
+  {
+   "date": "2026-08-21T10:54:00+00:00",
+   "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+   "title": "How mobility gives language models a deeper understanding of place"
+  },
+  {
+   "date": "2026-08-17T10:34:00+00:00",
+   "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+   "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery"
+  },
+  {
+   "date": "2026-08-12T09:51:00+00:00",
+   "link": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
+   "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality"
+  },
+  {
+   "date": "2026-08-11T17:04:00+00:00",
+   "link": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
+   "title": "Advancing AMIE towards expert-level audio-visual clinical consultations"
+  },
+  {
+   "date": "2026-07-30T20:36:36+00:00",
+   "link": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
+   "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence"
+  },
+  {
+   "date": "2026-07-22T21:32:00+00:00",
+   "link": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
+   "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment"
+  },
+  {
+   "date": "2026-07-22T18:40:21+00:00",
+   "link": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
+   "title": "Towards a quantum computer that learns from its errors"
+  },
+  {
+   "date": "2026-07-15T18:06:00+00:00",
+   "link": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
+   "title": "Towards demystifying the creativity of diffusion models"
+  }
+ ],
+ "name": "Google Research",
+ "slug": "googleresearch",
+ "url": "https://research.google/blog/rss/"
+}
