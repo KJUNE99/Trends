@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-10T02:20:16.827941+00:00",
+ "fetched_at": "2026-09-10T11:24:09.585646+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-10T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/gradio-workflow-1111",
+   "summary": null,
+   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow"
+  },
   {
    "date": "2026-09-09T15:36:24+00:00",
    "image": null,
