@@ -1,45 +1,61 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "group": "lab",
  "items": [
   {
    "date": "2026-08-31T16:00:00+00:00",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/GigaPathFlash-BlogHeroFeature-1400x788_NEW.jpg",
    "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+   "summary": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration…",
    "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models"
   },
   {
    "date": "2026-08-20T16:00:00+00:00",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/Skala-BlogHeroFeature-1400x788-1-1.jpg",
    "link": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+   "summary": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to…",
    "title": "Broadening access to Skala creates a faster path to predictive DFT"
   },
   {
    "date": "2026-08-12T16:00:00+00:00",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/MindTopo-BlogHeroFeature-1400x788-1-scaled.jpg",
    "link": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+   "summary": "A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and highlights new opportunities to strengthen spatial reasoning and planning. The post MindTopo reveals…",
    "title": "MindTopo reveals VLMs’ spatial reasoning abilities"
   },
   {
    "date": "2026-08-11T16:00:00+00:00",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/CAREX-BlogHeroFeature-1400x788-1-scaled.jpg",
    "link": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+   "summary": "Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation. The post…",
    "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement"
   },
   {
    "date": "2026-08-03T16:00:00+00:00",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/Orchard-BlogHeroFeature-1400x788_NEW.jpg",
    "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+   "summary": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to…",
    "title": "Orchard: An open framework for scalable agentic AI"
   },
   {
    "date": "2026-07-30T17:00:00+00:00",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/PraxisWorld-BlogHeroFeature-1400x788-1.jpg",
    "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+   "summary": "Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the…",
    "title": "Echoverse: Deep, evolving environments for computer-use agents"
   },
   {
    "date": "2026-07-30T16:00:00+00:00",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/EvoLib-BlogHeroFeature-1400x788-1-scaled.jpg",
    "link": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+   "summary": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. The post…",
    "title": "EvoLib: Turning experience into evolving knowledge"
   },
   {
    "date": "2026-07-13T16:00:00+00:00",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/RustSymCrypt-BlogHeroFeature-1400x788-1-1024x576.jpg",
    "link": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+   "summary": "Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves. The…",
    "title": "Verifying Rust cryptography in SymCrypt, from standards to code"
   }
  ],

@@ -1,95 +1,131 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "group": "lab",
  "items": [
   {
    "date": "2026-09-09T16:00:42+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/me-ai-for-media-kv-1920x1080-5262591.jpeg",
    "link": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+   "summary": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
    "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC"
   },
   {
    "date": "2026-09-03T16:00:59+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg",
    "link": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+   "summary": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New…",
    "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026"
   },
   {
    "date": "2026-09-03T13:00:35+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gfn-thursday-9-3-blog-1920x1080-logo.jpg",
    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+   "summary": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts…",
    "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW"
   },
   {
    "date": "2026-09-03T11:56:49+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.png",
    "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+   "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and…",
    "title": "NVIDIA to Acquire Hugging Face"
   },
   {
    "date": "2026-09-01T21:19:20+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/crowdstrike-nvidia-stage-scaled.jpg",
    "link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+   "summary": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO…",
    "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
   },
   {
    "date": "2026-08-27T13:00:33+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-27-nv-blog-1280x680-logo.jpg",
    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
+   "summary": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology…",
    "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026"
   },
   {
    "date": "2026-08-27T13:00:17+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/vera-key-visual-1920x1080-1.jpg",
    "link": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+   "summary": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
    "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now"
   },
   {
    "date": "2026-08-26T21:05:30+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gpu-architecture-corp-blog-nvhbm-1280x680-5547600.jpg",
    "link": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+   "summary": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute…",
    "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
   },
   {
    "date": "2026-08-25T15:30:48+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg",
    "link": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+   "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark…",
    "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark"
   },
   {
    "date": "2026-08-24T15:00:54+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nvidia-dsx-maxlps-fg-i4of6-d-scaled.jpg",
    "link": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+   "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI…",
    "title": "How XPUs Meet a World-Class AI Factory"
   },
   {
    "date": "2026-08-24T15:00:41+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-scaled.png",
    "link": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+   "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with…",
    "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents"
   },
   {
    "date": "2026-08-24T15:00:19+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700.jpg",
    "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+   "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries…",
    "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents"
   },
   {
    "date": "2026-08-20T13:00:24+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GFN_Thursday-Firefox.jpg",
    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+   "summary": "It’s a new way into the cloud. GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or…",
    "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support"
   },
   {
    "date": "2026-08-17T12:34:51+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png",
    "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+   "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI…",
    "title": "Securing the Infrastructure of Intelligence"
   },
   {
    "date": "2026-08-14T17:13:05+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/telco-tech-blog-header-indosat-ai-technology-center-1920x1080-1.png",
    "link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+   "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM…",
    "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent"
   },
   {
    "date": "2026-08-13T13:00:33+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-13-blog-1920x1080-logo.jpg",
    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+   "summary": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations…",
    "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More"
   },
   {
    "date": "2026-08-12T14:00:00+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GlassdoorBestCEOs2026_16x9.png",
    "link": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+   "summary": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees…",
    "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs"
   },
   {
    "date": "2026-08-12T00:38:21+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/jhh-support-blog-visual-logo-lock-up-3x4-1.png",
    "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+   "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the…",
    "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class"
   }
  ],

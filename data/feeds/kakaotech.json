@@ -1,55 +1,75 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "group": "eng",
  "items": [
   {
    "date": "2026-09-07T15:00:00+00:00",
+   "image": null,
    "link": "https://tech.kakao.com/posts/835",
+   "summary": "if(kakao)2026 둘째 날은 안정성과 인프라, 거버넌스, AI-DLC, Model & Agent에 대해 이야기합니다. 키노트를 제외한 총 30개의 기술 세션들이 아래와 같이 진행됩니다. [안전성과 인프라] 1. 유휴 서버를 찾다가 Hybrid Cloud까지 갔습니다: 비용 가시화에서 Unit Economics를 향해가는 카카오의 FinOps 여정 (백정태, 정원천) “서버가 놀고…",
    "title": "if(kakao)2026 둘째 날, 기술 세션 소개"
   },
   {
    "date": "2026-09-07T15:00:00+00:00",
+   "image": null,
    "link": "https://tech.kakao.com/posts/833",
+   "summary": "if(kakao)2026 첫째 날은 AI 방향성, 신뢰와 안전, Model & Agent, 상생과 성장에 대해 이야기합니다. 키노트를 제외한 총 23개의 기술 세션들이 아래와 같이 진행됩니다. [AI 방향성] 1. You Only Train Once: 더 효율적으로 Kanana SLM 개발하기 (류민호, 한규빈) 단 한 번의 학습으로, 4개의 Small Dense Model Family를…",
    "title": "if(kakao)2026 첫째 날, 기술 세션 소개"
   },
   {
    "date": "2026-09-06T15:00:00+00:00",
+   "image": null,
    "link": "https://tech.kakao.com/posts/834",
+   "summary": "🔗 if(kakao)26 바로가기 - 10월 13일부터 14일까지 이틀간 카카오 AI 캠퍼스에서 온·오프라인 진행 -올해 슬로건 ‘모든 연결에 지능을’… AI가 확장할 연결의 경험과 신뢰할 수 있는 기술 기준 제시 - 50여개 기술 세션서 AI 적용 성과와 개발 경험 공유…파이어사이드 챗·네트워킹 프로그램도 운영 [2026-09-07] 카카오(대표이사 정신아)가 오는 10월 13일부터…",
    "title": "카카오, if(kakao)26 컨퍼런스 개최... 모든 연결에 지능을"
   },
   {
    "date": "2026-08-30T15:00:00+00:00",
+   "image": null,
    "link": "https://tech.kakao.com/posts/832",
+   "summary": "“모든 연결에 지능을” if(kakao)26은 이 한 문장에서 시작합니다. 카카오가 기술을 만들며 마주한 고민과 질문, 그 과정에서 얻은 경험과 발견을 나누는 if(kakao)26! 어떤 이야기들이 기다리고 있을지 궁금하신가요? 앞으로 카카오테크 블로그를 통해 if(kakao)26의 다양한 이야기를 하나씩 소개해 드릴 예정입니다! 하나씩 공개될 if(kakao)26의 새로운 이야기를 기대해…",
    "title": "곧, if(kakao)26의 이야기가 시작됩니다."
   },
   {
    "date": "2026-08-30T15:00:00+00:00",
+   "image": null,
    "link": "https://tech.kakao.com/posts/831",
+   "summary": "들어가며 지난 글 LLM as a Judge를 활용한 CodeBuddy 성능 평가에서는 사내 AI 코드 리뷰 서비스 코드버디(CodeBuddy)의 응답 품질을 어떻게 측정할 것인지를 다뤘습니다. 평가 체계를 세우고 나니 다음 질문이 따라왔습니다. \"그래서 이 리뷰가 실제로 무엇을 막아주고 있는가?\" 코드버디는 PR을 요약하고(describe), 리뷰하고(review), 개선안을…",
    "title": "같은 장애를 두 번 겪지 않기 위해, 배포 전에 리뷰합니다 — KRIS 개발기"
   },
   {
    "date": "2026-08-26T15:00:00+00:00",
+   "image": null,
    "link": "https://tech.kakao.com/posts/830",
+   "summary": "대한민국 AI 생태계의 새로운 바람이 시작됩니다! ⛵ 카카오가 부산광역시, 카카오임팩트와 함께 지역 AI 생태계 조성과 기술 교류를 위한 '카카오 AI 돛 Summit 26’을 개최합니다! 이번 서밋은 카카오가 4대 과학기술원(KAIST, GIST, DGIST, UNIST)과 협력하여 비수도권의 인재 양성 및 창업을 지원하는 ‘카카오 AI 돛’ 프로젝트의 핵심 행사입니다. '미래를 향해…",
    "title": "지역 AI 생태계의 새로운 가능성, 카카오 AI 돛 Summit 26을 개최합니다!"
   },
   {
    "date": "2026-08-06T15:00:00+00:00",
+   "image": null,
    "link": "https://tech.kakao.com/posts/829",
+   "summary": "안녕하세요! 데이터서비스 조직의 비오, 소나, 테라입니다. 데이터서비스 조직은 다양한 기술로 데이터 생태계를 만들어 가며 모든 크루가 데이터로 문제를 해결할 수 있도록 돕고 있습니다. 그 과정에서 수많은 데이터 파이프라인을 다루고 있으며 이를 위해 수천 개의 Airflow DAG를 여러 하둡별 에어플로우 클러스터 위에서 운영하고 있습니다. 이렇게 여러 파이프라인을 다루다 보니 새로운…",
    "title": "개인화된 Airflow 테스트 환경 구축 및 운영 경험"
   },
   {
    "date": "2026-08-03T15:00:00+00:00",
+   "image": null,
    "link": "https://tech.kakao.com/posts/828",
+   "summary": "Hello, we are Martin (Daejin Jo), Abigail (Heayoung Park), and Edwin (Wooyoung Kang) from Kanana, the team responsible for developing AI models at Kakao. Our team focuses on building unified multimodal language models…",
    "title": "Beyond AI That Speaks Well: Making Kanana-o Speak the Way Users Want"
   },
   {
    "date": "2026-08-03T15:00:00+00:00",
+   "image": null,
    "link": "https://tech.kakao.com/posts/827",
+   "summary": "Intro 안녕하세요, 카카오의 AI 모델 개발을 담당하는 카나나(Kanana) 조직의 Martin(조대진), Abigail(박혜영), Edwin(강우영)입니다. 저희 팀에서는 사람처럼 보고, 듣고, 말하는 통합 멀티모달(Multimodal) 언어모델을 중점적으로 개발하고 있습니다. 지난 5월, 국내 최초로 공개한 통합 멀티모달 언어모델 공개 이후, 저희는 실제 서비스 환경에서 더 나은…",
    "title": "잘 말하는 AI를 넘어, 원하는 대로 말하는 AI로: Kanana-o 음성 생성 고도화 과정"
   },
   {
    "date": "2026-07-27T15:00:00+00:00",
+   "image": null,
    "link": "https://tech.kakao.com/posts/826",
+   "summary": "안녕하세요. 카카오의 AI 모델 개발을 담당하는 카나나 LLM 조직에서 언어모델을 개발하고 있는 Kaya, Ryan, Wavy 입니다. 지난 “작지만 강한 Kanana Nano 효율적으로 개발하기”에서 비용 효율적으로 SLM(Small Language Model)을 개발하는 방법에 대해서 소개드렸었는데요, 이번 글에서는 더 강력해져서 돌아온 카카오의 두 번째 SLM 시리즈를 소개드리고자…",
    "title": "더 작고 강해진 Kanana SLM 개발"
   }
  ],

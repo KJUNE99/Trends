@@ -1,55 +1,75 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "group": "lab",
  "items": [
   {
    "date": "2026-09-02T00:00:00+00:00",
+   "image": null,
    "link": "https://machinelearning.apple.com/research/refactor-vla-motor-programs",
+   "summary": "Most current vision-language-action (VLA) models—such as OpenVLA, π0, RT-2, and RDT-1B—are “monolithic.” This means they generate raw motor commands or very short sequences of actions, without organizing behaviors into…",
    "title": "REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs"
   },
   {
    "date": "2026-08-28T00:00:00+00:00",
+   "image": null,
    "link": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
+   "summary": "Modern AI systems are being deployed in complex domains such as medicine, science, and law, where there is often not a single correct answer given the observed evidence. Such systems must be able to represent and update…",
    "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs"
   },
   {
    "date": "2026-08-28T00:00:00+00:00",
+   "image": null,
    "link": "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
+   "summary": "Evaluating AI agents that use external tools requires realistic test scenarios that capture how practitioners compose tools and iterate across conversation turns. Constructing such scenarios by hand demands deep domain…",
    "title": "Agent Seer: Synthesizing Scenarios from Specification Understanding"
   },
   {
    "date": "2026-08-27T00:00:00+00:00",
+   "image": null,
    "link": "https://machinelearning.apple.com/research/rubric-based-alignment",
+   "summary": "Designing effective reward signals for open-domain question answering is challenging because high-quality responses must simultaneously satisfy multiple aspects of answer quality that are difficult to capture with a…",
    "title": "From Preferences to Principles: Rubric-Based Alignment for Grounded Knowledge Answers"
   },
   {
    "date": "2026-08-26T00:00:00+00:00",
+   "image": null,
    "link": "https://machinelearning.apple.com/research/proof-gen-optimized-distillation",
+   "summary": "Supervised fine-tuning on teacher-generated trajectories is the standard first stage for distilling tool-calling capabilities into deployable models. Post-training pipelines that drive shipped tool-calling agents re-run…",
    "title": "PROOF-Gen: From Optimized Data to Better Distillation"
   },
   {
    "date": "2026-08-26T00:00:00+00:00",
+   "image": null,
    "link": "https://machinelearning.apple.com/research/idea-prune-pipeline",
+   "summary": "Recent advancements in large language models have intensified the need for efficient and deployable models within limited inference budgets. Structured pruning pipelines have shown promise in token efficiency compared…",
    "title": "IDEA Prune: An Integrated Enlarge-and-Prune Pipeline in Generative Language Model Pretraining"
   },
   {
    "date": "2026-08-26T00:00:00+00:00",
+   "image": null,
    "link": "https://machinelearning.apple.com/research/relightable-gaussians-3d-generation",
+   "summary": "High-fidelity image-to-3D generation requires a 3D representation that captures both geometry and appearance. To support relighting and integration into standard rendering pipelines, the representation should include…",
    "title": "Luce: Relightable Gaussians for 3D Asset Generation"
   },
   {
    "date": "2026-08-25T00:00:00+00:00",
+   "image": null,
    "link": "https://machinelearning.apple.com/research/starflow2-multimodal-generation",
+   "summary": "Unified multimodal models that understand, reason over, and generate interleaved text–image sequences remain structurally fragmented: existing approaches either sacrifice visual fidelity through discrete tokenization…",
    "title": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation"
   },
   {
    "date": "2026-08-24T00:00:00+00:00",
+   "image": null,
    "link": "https://machinelearning.apple.com/research/internalized-visual-thinking",
+   "summary": "Multimodal large language models increasingly use visual chain-of-thought (Visual CoT) to reason about spatial, temporal, and embodied environments. By generating intermediate reasoning images, Visual CoT provides an…",
    "title": "Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning"
   },
   {
    "date": "2026-08-20T00:00:00+00:00",
+   "image": null,
    "link": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
+   "summary": "Cross-lingual knowledge transfer is critical for building high-performing multilingual language models for languages with insufficient training data. When target language data is scarce, the knowledge required for many…",
    "title": "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions"
   }
  ],

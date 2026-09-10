@@ -1,50 +1,68 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "group": "eng",
  "items": [
   {
    "date": "2026-09-03T05:29:14+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2/SMART_EDITOR/2026/09/03/0d187a1c-d990-413f-b4aa-591a628548b5.png/",
    "link": "https://d2.naver.com/news/7360495",
+   "summary": "26년 9월 소식에서는 다음과 같은 유용한 정보들을 만나보실 수 있습니다. 주요소식 ​ ​ The AI Engineering Skills Map Andrew Ng이 DeepLearning.AI 팀과 함께 1만 건이 넘는 채용 공고 분석과 전문가 인터뷰, 설문을 종합해 정리한 AI 엔지니어링 역량 지도다. AI 애플리케이션 구축·배포, 소프트웨어 엔지니어링 기본기, 코딩 에이전트 활용…",
    "title": "FE News 26년 9월 소식을 전해드립니다."
   },
   {
    "date": "2026-09-02T05:51:41+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FSMART_EDITOR%2F2026%2F09%2F02%2F6b8eae5a-2c59-481b-86ee-0295b09f5fd7.png/",
    "link": "https://d2.naver.com/news/3092933",
+   "summary": "네이버의 기술과 개발 경험을 개발자들과 나누는 Developer Experience 팀의 인터뷰가 네이버피셜 에 공개됐습니다. ​ Developer Experience 팀은 D2를 비롯한 기술 콘텐츠를 만들고, 네이버 개발자의 성장 단계에 맞는 교육과 기술 공유 프로그램을 통해 개발자의 경험과 노하우를 연결하고 있습니다. ​ 이번 인터뷰에서는 사람과 사람, 사람과 도구를 잇는…",
    "title": "[네이버피셜] 네이버 개발자라면 꼭 만나게 됩니다"
   },
   {
    "date": "2026-09-01T06:52:03+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202608-%EB%8F%84%EC%A0%95%EC%9A%B0%2Ffiles%2Fimage-2026-8-10_10-5-52.png",
    "link": "https://d2.naver.com/helloworld/4452165",
+   "summary": "저희 팀은 데이터 입수 플랫폼의 배치 워크플로를 Airflow 2.10.2로 운영하고 있습니다. 2025년 4월 Airflow 3.0이 릴리스되었고, UI 개선과 다양한 신규 기능이 포함되었습니다. 이 변화가 저희 운영 환경에 필요하다고 판단했고 도입을 위한 PoC(Proof of Concept)를 진행했습니다. 이 글은 그 PoC 과정에서 Python의 멀티프로세싱 방식 중 하나인…",
    "title": "Python의 멀티프로세싱과 Airflow, 그리고 관련된 문제 해결기 1편"
   },
   {
    "date": "2026-08-10T16:39:52+00:00",
+   "image": null,
    "link": "https://d2.naver.com/helloworld/7337586",
+   "summary": "1편 에서는 검색·추천 모델을 vLLM 사용자 정의 플러그인으로 옮겨 서빙 성능을 높인 과정을 소개했습니다. 모델을 vLLM에서 실행할 수 있게 된 뒤에는 또 다른 문제가 남았습니다. 모델마다 반복해야 하는 변환 작업이 복잡하고, vLLM의 빠른 변화까지 계속 따라가야 한다는 점입니다. Hugging Face 모델 하나를 vLLM에 올리는 과정은 버튼 한 번으로 끝나지 않습니다. ‘딸깍’…",
    "title": "우리 팀만의 vLLM 플러그인 만들기 2편 - 모델 변환부터 배포까지 AI-native로 자동화하기"
   },
   {
    "date": "2026-08-10T16:39:25+00:00",
+   "image": null,
    "link": "https://d2.naver.com/helloworld/0525182",
+   "summary": "네이버 플레이스 AI MLOps는 지난 1년간 검색과 추천에 사용하는 스코어링 모델의 서빙 구조를 vLLM 기반으로 전환했습니다. 이 글에서는 사내 Engineering Day에서 발표한 내용을 바탕으로, 모델 서빙 경로를 최적화해 성능을 높인 과정을 소개합니다. 먼저 결과부터 살펴보겠습니다. 0.6B 재순위화(reranking) 모델을 Hugging Face…",
    "title": "우리 팀만의 vLLM 플러그인 만들기 1편 - 검색 AI 모델 서빙 성능 극대화하기"
   },
   {
    "date": "2026-08-05T14:12:35+00:00",
+   "image": null,
    "link": "https://d2.naver.com/news/1783497",
+   "summary": "주요소식 26년 8월 소식에서는 다음과 같은 유용한 정보들을 만나보실 수 있습니다. State of CSS 2026 매년 진행되는 CSS 생태계 설문 조사인 State of CSS의 2026년 결과다. 2026년 5월 15일부터 6월 29일까지 진행되어 4,902명이 응답했고, 앵커 포지셔닝(Anchor Positioning)이 \"가장 마음에 드는 신규 기능\"과 \"브라우저 지원 때문에 쓰지…",
    "title": "FE News 26년 8월 소식을 전해드립니다."
   },
   {
    "date": "2026-07-24T15:25:33+00:00",
+   "image": null,
    "link": "https://d2.naver.com/helloworld/4821538",
+   "summary": "기업의 업무에 AI를 도입하면 무엇이 달라질까요? 반복 업무를 자동화하고, 매달 작성하던 보고서를 대신 만들고, 업무 시스템과 연결해 사용자가 요청한 작업까지 처리할 수 있을까요? 네이버 사내에서 열린 ‘모두의 Engineering Day AI 해커톤’에 참여하면서 저희도 비슷한 의문을 품었습니다. 낯선 재무 업무를 이해하고 Claude Code를 활용해 실제로 동작하는 결과물을 만들어야…",
    "title": "[AI 해커톤 후기] AI 해커톤 1위 팀이 AI에게 맡기지 않은 것"
   },
   {
    "date": "2026-07-21T18:35:44+00:00",
+   "image": null,
    "link": "https://d2.naver.com/helloworld/5788040",
+   "summary": "VictoriaMetrics 운영기 1편 에서는 네이버 검색의 대규모 메트릭 저장소 VictoriaMetrics 클러스터의 규모, 2계층 아키텍처, 180대 노드의 무중단 장비 교체와 증설 전략을 소개했습니다. 2편에서는 장비를 더 늘리지 않고 리소스 위기를 해결하기 위해 진행한 소프트웨어적 최적화 과정을 다룹니다. 메모리 문제를 해결한 뒤에도 쿠버네티스 전환은 계속 빨라졌고, 컨테이너…",
    "title": "VictoriaMetrics 운영기 2편 — 장비 증설 없이 리소스 위기를 해결한 3단계 최적화 전략"
   },
   {
    "date": "2026-07-13T12:43:28+00:00",
+   "image": null,
    "link": "https://d2.naver.com/helloworld/1883072",
+   "summary": "모두가 같은 주제로, 같은 수준의 AI 도구를 들고 시작한 해커톤. 그런데 결과물은 팀마다 전혀 달랐습니다. 같은 도구를 썼는데 왜 결과는 달라졌을까요? 네이버가 전사 차원에서 처음으로 개발자와 비개발자의 구분 없이 연 모두의 Engineering Day AI 해커톤 에서 가장 흥미로웠던 질문입니다. 이 글은 그 질문에 대한 회고로, AI를 어떻게 활용했는지, 그리고 끝까지 사람의 몫으로…",
    "title": "[AI 해커톤 후기] AI 시대의 해커톤과 인간의 역할: AI의 계획과 사람의 전략"
   }
  ],

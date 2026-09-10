@@ -1,50 +1,68 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "group": "eng",
  "items": [
   {
    "date": "2026-09-03T16:00:20+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/09/ZGateway-Figure-1.png",
    "link": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
+   "summary": "We’re introducing ZGateway, the proxy we are using to unify traffic through ZippyDB, Meta’s most widely-used key value store. As a bonus, it also enables admission control, load balancing, cross-region resilience, and…",
    "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB"
   },
   {
    "date": "2026-09-02T09:00:29+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/08/Domain-Expert-AI-Table.png",
    "link": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+   "summary": "We’ve built an AI agent that acts as a secondary expert for a given domain, making deep specialist knowledge readily available and preserved for anyone in an organization to access, share, and build upon. This is not a…",
    "title": "An Organizational Second Brain: Building an AI That Learns From Experts"
   },
   {
    "date": "2026-08-24T18:02:29+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/08/MetaRoCE-image-1.png",
    "link": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+   "summary": "Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles. To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA…",
    "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet"
   },
   {
    "date": "2026-08-24T17:45:52+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/08/Meta-MTIA-300-Figure-1.png",
    "link": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
+   "summary": "MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models. We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the…",
    "title": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines"
   },
   {
    "date": "2026-08-12T13:00:28+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/07/WhatsApp-Scam-Alert-Ledger-Verification-Model-Download-Flow_1.png",
    "link": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
+   "summary": "WhatsApp is committed to helping people stay safe while protecting the privacy of their messages. As scam tactics evolve — from impersonation to social engineering to AI-generated lures — we’re always evolving as well…",
    "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees"
   },
   {
    "date": "2026-08-05T19:20:20+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/05/Multi-stage-Model-Overview.png",
    "link": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
+   "summary": "Every day, Meta’s recommendation platforms handle billions of user interactions, generating rich temporal signals that capture individual preferences and intent across products, ads, and content. In our 2024 post on…",
    "title": "From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking"
   },
   {
    "date": "2026-08-03T18:00:17+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image13.png",
    "link": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
+   "summary": "Meta’s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes…",
    "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model"
   },
   {
    "date": "2026-07-15T17:00:52+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image1.jpg",
    "link": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+   "summary": "Hierarchical Interest Representation is a research area for Meta Ads. We’re exploring an upstream representation layer over the universe of Ads entities – users, advertisers, products, services – learning unified…",
    "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization"
   },
   {
    "date": "2026-07-13T16:00:50+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image1.webp",
    "link": "https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/",
+   "summary": "TL; DR At Meta’s scale, a few milliseconds of latency degradation can have a significant negative impact on ads performance. When a Linux kernel upgrade risked regressing latency across Meta’s ad serving fleet, we…",
    "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler"
   }
  ],

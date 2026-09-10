@@ -1,390 +1,544 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "group": "lab",
  "items": [
   {
    "date": "2026-09-09T20:31:04+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/multimodal-dynamo-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
+   "summary": "Encode-prefill-decode (EPD) disaggregation is an inference optimization technique for multimodal models that separates the vision encoder stage from the prefill... Encode-prefill-decode (EPD) disaggregation is an…",
    "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving"
   },
   {
    "date": "2026-09-09T20:24:12+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/cuda-python-768x432.png",
    "link": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
+   "summary": "Every NVIDIA CUDA Toolkit release adds functionality and performance improvements that help developers get more from NVIDIA GPUs and the broader NVIDIA software... Every NVIDIA CUDA Toolkit release adds functionality…",
    "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs"
   },
   {
    "date": "2026-09-08T12:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-1-768x432.png",
    "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+   "summary": "In September 2026, NVIDIA announced it is leaning into native GPU programming in Rust. CUDA C++ and CUDA Python are mature, enterprise-grade toolchains, and... In September 2026, NVIDIA announced it is leaning into…",
    "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels"
   },
   {
    "date": "2026-09-04T18:04:55+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/ai-agent-skills-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/",
+   "summary": "Enterprise work spans messages, decisions, projects, and obligations that change over time. An AI agent that starts without this context must reconstruct it... Enterprise work spans messages, decisions, projects, and…",
    "title": "Building a Memory-Driven Agent with NVIDIA NemoClaw"
   },
   {
    "date": "2026-09-04T16:21:04+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image2-3-768x432.png",
    "link": "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson/",
+   "summary": "Running reasoning and agentic AI at the edge has been harder than it needs to be. Until recently, models capable of multi-step reasoning were too large to run... Running reasoning and agentic AI at the edge has been…",
    "title": "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson"
   },
   {
    "date": "2026-09-03T22:36:02+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/kai-scheduler-representation-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/",
+   "summary": "Modern AI platforms are no longer a single application behind one login screen. A user may start in a central portal, open a governed dataset, launch a notebook... Modern AI platforms are no longer a single application…",
    "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms"
   },
   {
    "date": "2026-09-03T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/nvidia-pair-virtual-inference-router-768x432.png",
    "link": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network/",
+   "summary": "AI agents are learning to do more by working together. A lead agent can break a complex task into smaller jobs and assign those jobs to specialized subagents.... AI agents are learning to do more by working together. A…",
    "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network"
   },
   {
    "date": "2026-09-02T17:15:57+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/keyboard_16x9-768x431.jpg",
    "link": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/",
+   "summary": "NVIDIA CUDA remains the foundation of GPU-accelerated computing, powering everything from scientific simulations to large-scale AI training. But writing... Source NVIDIA CUDA remains the foundation of GPU-accelerated…",
    "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough"
   },
   {
    "date": "2026-09-02T16:04:19+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/llm-optimize-deploy-768x432.png",
    "link": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
+   "summary": "This post is the third in a series on AI model co-design. It explores how to accelerate LLM inference while maintaining accuracy using speculative decoding and... This post is the third in a series on AI model…",
    "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference"
   },
   {
    "date": "2026-09-01T17:00:04+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Agentic-Adaptive-Security-e1788211755260-768x432.webp",
    "link": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/",
+   "summary": "AI is changing the pace of cybersecurity. Agentic systems can coordinate work and pursue complex objectives over long horizons. Security teams are beginning to... AI is changing the pace of cybersecurity. Agentic…",
    "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron"
   },
   {
    "date": "2026-09-01T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image4-5-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/",
+   "summary": "The surge in AI adoption is transforming everything from chatbots to content generation. Still, a common pain point remains: How can organizations confidently... The surge in AI adoption is transforming everything from…",
    "title": "How to Size GPUs for AI Inference and TCO Without Overspending"
   },
   {
    "date": "2026-08-31T16:30:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/AdobeStock_842772489-e1787092703768-768x431.webp",
    "link": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
+   "summary": "Agentic AI is changing how research is done. AI scientists can read papers, propose hypotheses, call models, and determine which experiments to prioritize next.... Agentic AI is changing how research is done. AI…",
    "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science"
   },
   {
    "date": "2026-08-31T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/NuRec-AV.gif",
    "link": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
+   "summary": "A perception stack is shaped by the vehicle that carries it. Move the same software to a new carline—for example, from an SUV to a sedan or another vehicle... A perception stack is shaped by the vehicle that carries it…",
    "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec"
   },
   {
    "date": "2026-08-28T17:06:28+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/ai-use-cases-1-768x432.png",
    "link": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/",
+   "summary": "Open AI models are evolving faster than ever, but bringing them into native applications can still require model-specific conversion, preprocessing,... Open AI models are evolving faster than ever, but bringing them…",
    "title": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect"
   },
   {
    "date": "2026-08-26T21:06:58+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/NVHBM-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/",
+   "summary": "AI factories must support increasingly large models and more complex reasoning workloads. To keep up with the insatiable compute demands of AI workloads,... AI factories must support increasingly large models and more…",
    "title": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure"
   },
   {
    "date": "2026-08-26T20:05:06+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/robot-quad-composite-1-1.gif",
    "link": "https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/",
+   "summary": "Navigation enables a robot to turn perception and motion into purposeful autonomy. Unlike locomotion, which produces stable movement, navigation must be used to... Navigation enables a robot to turn perception and…",
    "title": "How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents"
   },
   {
    "date": "2026-08-26T17:07:12+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Agentic-AI-Qwen-768x432.png",
    "link": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding/",
+   "summary": "Alibaba released the model weights for Qwen3.8-Flash-Next as a preview of the upcoming Qwen4 architecture for developers to experiment with and evaluate. It’s... Alibaba released the model weights for Qwen3.8-Flash-Next…",
    "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding"
   },
   {
    "date": "2026-08-25T20:57:54+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/unnamed-17-768x432.png",
    "link": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/",
+   "summary": "When an LLM engine process fails, the standard recovery path involves a cold restart. This requires loading weights into HBM from storage, compiling kernels,... When an LLM engine process fails, the standard recovery…",
    "title": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo"
   },
   {
    "date": "2026-08-25T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image3-5-768x432.png",
    "link": "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/",
+   "summary": "For years, a Python developer who needed a GPU had two realistic choices: Learn NVIDIA CUDA C++ well enough to write an extension, set up a build toolchain, and... For years, a Python developer who needed a GPU had two…",
    "title": "CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access"
   },
   {
    "date": "2026-08-24T15:08:39+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/featured_image-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules/",
+   "summary": "The massive growth of generative AI has fundamentally altered data center design. As distributed model training scales to span hundreds of thousands of GPUs,... The massive growth of generative AI has fundamentally…",
    "title": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules"
   },
   {
    "date": "2026-08-24T15:00:05+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image3-4-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt/",
+   "summary": "AI agents have expanded inference from single-turn interactions into multi-step workflows that reason, invoke tools, coordinate subagents, and carry growing... AI agents have expanded inference from single-turn…",
    "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt"
   },
   {
    "date": "2026-08-24T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/data-center-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
+   "summary": "AI factories are power-constrained industrial systems. The question is no longer how many GPUs fit in a data center, but how much AI output each available... AI factories are power-constrained industrial systems. The…",
    "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS"
   },
   {
    "date": "2026-08-24T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/BlueField-4-Scale-In-768x432.png",
    "link": "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories/",
+   "summary": "Traditional cloud infrastructure was designed for predictable, general-purpose workloads and standard interfaces. Agentic AI factories connect diverse users,... Traditional cloud infrastructure was designed for…",
    "title": "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories"
   },
   {
    "date": "2026-08-24T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/nvidia-vera-e1787349682277-768x432.webp",
    "link": "https://developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu/",
+   "summary": "AI factories are interconnected systems where fleet economics depend on how efficiently the entire stack converts power and capital into completed agent tasks.... AI factories are interconnected systems where fleet…",
    "title": "Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU"
   },
   {
    "date": "2026-08-24T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/gpu-architecture-groq3-lpx-rack-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin/",
+   "summary": "NVIDIA Groq 3 LPX is the interactive AI inference accelerator for the NVIDIA Vera Rubin platform. At the core of the platform is NVIDIA Vera Rubin NVL72, the... NVIDIA Groq 3 LPX is the interactive AI inference…",
    "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin"
   },
   {
    "date": "2026-08-21T16:21:04+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image10_1920x1080-768x432.jpeg",
    "link": "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale/",
+   "summary": "Use AdaptGrow, a GPU-accelerated matrix factorization algorithm, to turn rolling correlation and tail-dependence matrices into hard clusters, soft factor... Use AdaptGrow, a GPU-accelerated matrix factorization…",
    "title": "GPU-Accelerated Clustering for Financial Instruments at Scale"
   },
   {
    "date": "2026-08-21T13:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/agentic-ai-visual-cybersecurity-avo-1-768x432.png",
    "link": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+   "summary": "A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives... A frontier language model is only one component of an AI agent…",
    "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents"
   },
   {
    "date": "2026-08-21T13:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Security-Stack-768x432.png",
    "link": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/",
+   "summary": "As AI agents become more capable and operate over longer horizons, building security and trust into the applications they power becomes increasingly important.... As AI agents become more capable and operate over longer…",
    "title": "Where Security Fits in an AI Agent Stack"
   },
   {
    "date": "2026-08-20T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image2-3-768x432.png",
    "link": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/",
+   "summary": "Recommender systems (RecSys) are one of the most ubiquitous machine learning problems in the consumer internet industry yet notoriously difficult to train and... Recommender systems (RecSys) are one of the most…",
    "title": "How Generative Recommenders Are Redefining RecSys at Scale"
   },
   {
    "date": "2026-08-19T22:22:37+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image6-2-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
+   "summary": "NVIDIA Holoscan is a platform for building real-time AI applications at the edge, from medical imaging to robotics. HoloHub is its companion repository: a... NVIDIA Holoscan is a platform for building real-time AI…",
    "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents"
   },
   {
    "date": "2026-08-19T17:50:47+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2023/09/nvflare-featured-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/",
+   "summary": "Modern vision-language models (VLMs) can support tasks such as visual question answering, captioning, and image-text reasoning. In practice, however, the data... Modern vision-language models (VLMs) can support tasks…",
    "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE"
   },
   {
    "date": "2026-08-19T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/AI-Agent-Skills-768x432.png",
    "link": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/",
+   "summary": "AI agents are only as effective as the context they receive. Even with capable models and well-documented NVIDIA libraries, agents can spend extra steps finding... AI agents are only as effective as the context they…",
    "title": "Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator"
   },
   {
    "date": "2026-08-19T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Cosmos.gif",
    "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
+   "summary": "Robots need policies that can adapt to their sensors, environments, and tasks while running on onboard computing hardware. World models offer a foundation for... Robots need policies that can adapt to their sensors…",
    "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control"
   },
   {
    "date": "2026-08-18T18:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image5-768x432.png",
    "link": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/",
+   "summary": "Atomistic simulation requires three things: knowledge of the science, compute-efficient implementation of simulations, and accessible interfaces to the... Atomistic simulation requires three things: knowledge of the…",
    "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit"
   },
   {
    "date": "2026-08-18T16:48:08+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/agentic-ai-visual-data-processing-768x432.png",
    "link": "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy/",
+   "summary": "Uniform Manifold Approximation and Projection (UMAP) is a dimensionality reduction technique widely used for visualization and feature extraction. Applications... Uniform Manifold Approximation and Projection (UMAP) is…",
    "title": "Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy"
   },
   {
    "date": "2026-08-17T18:12:48+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/qad-nvfp4-model-optimization-768x432.png",
    "link": "https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer/",
+   "summary": "Teams customize their models to hit their targets for latency, speed, memory, and compute. With the open NVIDIA Nemotron family of models, developers can find... Teams customize their models to hit their targets for…",
    "title": "Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer"
   },
   {
    "date": "2026-08-12T18:23:13+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Qwen-Open-Source-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/",
+   "summary": "Alibaba released the open weights for Qwen3.8-2.4T-A95B (Qwen3.8-Max), its largest open-weight model, bringing near-frontier capabilities to the open... Alibaba released the open weights for Qwen3.8-2.4T-A95B…",
    "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72"
   },
   {
    "date": "2026-08-12T16:13:47+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/AI-Factory-e1786140990629-768x432.webp",
    "link": "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories/",
+   "summary": "AI infrastructure spans multiple layers, from compute and networking to storage, orchestration, and applications. When performance degrades, identifying the... AI infrastructure spans multiple layers, from compute and…",
    "title": "How to Choose Full-Stack Observability for NVIDIA AI Factories"
   },
   {
    "date": "2026-08-11T19:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image4-1-768x432.png",
    "link": "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/",
+   "summary": "Video is a core data path across NVIDIA Jetson applications, from robotics and intelligent video analytics to industrial automation, healthcare, media... Video is a core data path across NVIDIA Jetson applications, from…",
    "title": "NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation"
   },
   {
    "date": "2026-08-11T13:01:07+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/agentic-ai-nemotron-3.5-lightning-768x432.png",
    "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
+   "summary": "Long-running AI agents spend most of their time on high-volume execution: tool calls, result validation, and subagent delegation. Using a frontier reasoning... Long-running AI agents spend most of their time on…",
    "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents"
   },
   {
    "date": "2026-08-11T13:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Agentic-AI-Switchyard-768x432.png",
    "link": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
+   "summary": "Building an AI agent does not end with choosing a single model. Each model has its own strengths, weaknesses, and cost profile, which can shift from one... Building an AI agent does not end with choosing a single model…",
    "title": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard"
   },
   {
    "date": "2026-08-10T13:27:19+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Open-Model-768x432.png",
    "link": "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/",
+   "summary": "Meta returns to the open source ecosystem with the release of Muse Glimmer, a 30B open-weight dense model with a 120K+ context window built for local AI... Meta returns to the open source ecosystem with the release of…",
    "title": "Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA"
   },
   {
    "date": "2026-08-04T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Cosmos-World-Models-Robot.gif",
    "link": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
+   "summary": "A central challenge in robotics is building policies that generalize beyond the demonstrations they’re trained on. A policy that succeeds in a training scene... A central challenge in robotics is building policies that…",
    "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation"
   },
   {
    "date": "2026-08-04T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Alpamayo-2-Super-Traffic.gif",
    "link": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
+   "summary": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data... Autonomous vehicle (AV) development often relies on separate…",
    "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super"
   },
   {
    "date": "2026-08-03T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/kai-scheduler-representation-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/",
+   "summary": "Running a dedicated Kubernetes cluster per team often results in more isolation than an organization requires. While one cluster can be successfully shared... Running a dedicated Kubernetes cluster per team often…",
    "title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure"
   },
   {
    "date": "2026-08-03T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image3-16-768x432.png",
    "link": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/",
+   "summary": "Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,... Storage is an active part of every agentic AI workflow. As…",
    "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage"
   },
   {
    "date": "2026-07-31T22:16:17+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/llm-optimize-deploy-768x432.png",
    "link": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/",
+   "summary": "As agentic and long-context workloads become common, the context lengths increase and attention consumes a larger share of inference time (Figure 1). Because... As agentic and long-context workloads become common, the…",
    "title": "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference"
   },
   {
    "date": "2026-07-31T15:13:02+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image9-2-768x432.png",
    "link": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
+   "summary": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,... The demand for high-quality video continues to accelerate…",
    "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek"
   },
   {
    "date": "2026-07-30T22:43:04+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-768x432-jpg.webp",
    "link": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
+   "summary": "NVIDIA nvmath-python is a library designed to bridge the gap between the Python scientific community and NVIDIA CUDA-X math libraries. It gives Python users... NVIDIA nvmath-python is a library designed to bridge the…",
    "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python"
   },
   {
    "date": "2026-07-30T21:09:59+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Secure-Agent-e1785433904796-768x433.webp",
    "link": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/",
+   "summary": "Knowledge workers are increasingly integrating AI agents into their workflows. Agents that function as \"digital coworkers\" offer clear benefits. For example,... Knowledge workers are increasingly integrating AI agents…",
    "title": "Four Ways to Deploy More Secure AI Agents"
   },
   {
    "date": "2026-07-30T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image6-6-768x431.png",
    "link": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
+   "summary": "Two AI computing clusters built from identical NVIDIA H100, GB200 NVL72, or GB300 NVL72 systems can deliver materially different training throughput. We... Two AI computing clusters built from identical NVIDIA H100…",
    "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure"
   },
   {
    "date": "2026-07-29T16:46:45+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/synthetic-gen-rep-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/",
+   "summary": "Deploying an AI coding assistant in a regulated, sovereign, or source-sensitive environment, often comes with challenges. Three common issues are: the source... Deploying an AI coding assistant in a regulated…",
    "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails"
   },
   {
    "date": "2026-07-28T20:49:21+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Surgical-Intelligence-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/",
+   "summary": "Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation.... Unlike autonomous driving or industrial robotics, healthcare…",
    "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation"
   },
   {
    "date": "2026-07-27T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-ising-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
+   "summary": "NVIDIA Ising Calibration is an open source vision language model (VLM) designed to interpret diagnostic outputs from quantum processors and determine how they... NVIDIA Ising Calibration is an open source vision…",
    "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning"
   },
   {
    "date": "2026-07-27T09:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Agentic-AI-NOOA-768x432.png",
    "link": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
+   "summary": "Building a great AI agent isn’t just about choosing the right models. The harness is the architecture surrounding the model. How it renders context, executes... Building a great AI agent isn’t just about choosing the…",
    "title": "Six Agent Harness Capabilities for Higher Model Performance"
   },
   {
    "date": "2026-07-27T00:45:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image4-11-768x432.png",
    "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
+   "summary": "Modern chip design is increasingly limited by engineering time. Register transfer level (RTL) development and verification require specialized hardware... Modern chip design is increasingly limited by engineering time…",
    "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding"
   },
   {
    "date": "2026-07-27T00:45:00+00:00",
+   "image": null,
    "link": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
+   "summary": "As AI workloads increase, explosive compute demand is pushing the semiconductor industry to meet unprecedented performance targets. Even small delays can have... As AI workloads increase, explosive compute demand is…",
    "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing"
   },
   {
    "date": "2026-07-24T16:45:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image5-11-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
+   "summary": "Every byte moved has a cost. As model checkpoints grow to hundreds of gigabytes or even a terabyte, that cost adds up quickly. To make things even worse, moving... Every byte moved has a cost. As model checkpoints grow…",
    "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light"
   },
   {
    "date": "2026-07-23T16:07:03+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/walking-machine-game-rtx-768x432.png",
    "link": "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/",
+   "summary": "NVIDIA OptiX ray tracing engine is an application framework for achieving optimal ray tracing performance on the GPU. Applications using OptiX can fail in ways... NVIDIA OptiX ray tracing engine is an application…",
    "title": "Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit"
   },
   {
    "date": "2026-07-23T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Start-Customizing-768x432.png",
    "link": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
+   "summary": "Customization is what enables developers to take a general model and tailor it to use cases, domains, languages, and more. However, customization comes with a... Customization is what enables developers to take a…",
    "title": "Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes"
   },
   {
    "date": "2026-07-22T16:35:04+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/NVIDIA-NCCL-Inspector-Real-Time-Performance-Monitoring-768x432.png",
    "link": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
+   "summary": "A TensorRT engine build can take seconds to many minutes. Large strongly typed models, deep tactic search, and a cold timing cache on a brand-new GPU SKU can... A TensorRT engine build can take seconds to many minutes…",
    "title": "Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++"
   },
   {
    "date": "2026-07-21T18:30:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/World-Record-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+   "summary": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token... Frontier model pre-training has converged on mixture of…",
    "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72"
   },
   {
    "date": "2026-07-21T18:15:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-rubin-gpu-768x432.png",
    "link": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+   "summary": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale.... What began as discrete AI model training and…",
    "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI"
   },
   {
    "date": "2026-07-21T18:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Vera-CPU-e1783372749296-768x432.webp",
    "link": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
+   "summary": "Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with... Agentic AI shifts more of the critical execution path…",
    "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI"
   },
   {
    "date": "2026-07-20T15:46:28+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvlinkimage1_16x9-768x432.jpeg",
    "link": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
+   "summary": "The demand for AI continues to accelerate. Workloads are getting larger, models are becoming more complex, and there is mounting pressure to deploy AI compute... The demand for AI continues to accelerate. Workloads are…",
    "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories"
   },
   {
    "date": "2026-07-20T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-omniverse-rtx-sensor-ximulation.webp",
    "link": "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/",
+   "summary": "Developers building 3D, design, simulation, robotics, and industrial digital twin applications need ways to bring physical AI capabilities into the tools and... Developers building 3D, design, simulation, robotics, and…",
    "title": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps"
   },
   {
    "date": "2026-07-16T22:59:09+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image1-2.gif",
    "link": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/",
+   "summary": "Capcom's RE ENGINE team set out to bring path tracing into two shipping titles at once, Resident Evil Requiem and PRAGMATA, each with a different visual... Source Capcom's RE ENGINE team set out to bring path tracing…",
    "title": "Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem"
   },
   {
    "date": "2026-07-16T16:03:35+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-metropolis-nemoclaw-768x432.png",
    "link": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
+   "summary": "A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and... A video analytics AI agent that can perceive, reason, and act…",
    "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows"
   },
   {
    "date": "2026-07-16T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Bluefield-4-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/",
+   "summary": "Agentic AI changes the infrastructure pattern for AI factories. One request can trigger many model calls, tool calls, memory lookups, policy checks, storage... Agentic AI changes the infrastructure pattern for AI…",
    "title": "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField"
   },
   {
    "date": "2026-07-15T23:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/deepstream-featured.gif",
    "link": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
+   "summary": "Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking... Developers building video analytics applications across…",
    "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills"
   },
   {
    "date": "2026-07-15T21:57:23+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nanousd.gif",
    "link": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/",
+   "summary": "OpenUSD is an open, extensible framework that provides a common scene description language for physical AI. It enables teams to bring CAD data, simulation... OpenUSD is an open, extensible framework that provides a…",
    "title": "Develop Lightweight USD Runtimes Faster with AI Agents"
   },
   {
    "date": "2026-07-15T17:37:12+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/CUDA-Tile-Flash-Attention-768x431.png",
    "link": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/",
+   "summary": "For over fifteen years, x86 CPUs have shipped with a dedicated hardware instruction for carryless multiplication. It’s a small but stubborn primitive that... For over fifteen years, x86 CPUs have shipped with a…",
    "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3"
   },
   {
    "date": "2026-07-14T18:20:32+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image7-1-768x432.png",
    "link": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/",
+   "summary": "The NVIDIA Nemotron Model Reasoning Challenge invited the Kaggle community to explore a focused question: What techniques can improve reasoning accuracy when... The NVIDIA Nemotron Model Reasoning Challenge invited the…",
    "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning"
   },
   {
    "date": "2026-07-14T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/agentic-ai-rl-gym-768x432.png",
    "link": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+   "summary": "Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve... Coding AI agents are becoming practical operators for…",
    "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo"
   },
   {
    "date": "2026-07-14T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-tao-cosmos-traffic-intersection-768x432.png",
    "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/",
+   "summary": "What if autonomous coding AI agents could push your vision reasoning models above 90% accuracy with almost no manual effort? When adapting vision reasoning... What if autonomous coding AI agents could push your vision…",
    "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills"
   },
   {
    "date": "2026-07-13T19:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image1-5-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/",
+   "summary": "Useful quantum computers will require fault tolerant logical operations. Researchers are actively exploring many different quantum error correction (QEC) codes... Useful quantum computers will require fault tolerant…",
    "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300x"
   },
   {
    "date": "2026-07-13T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image1.gif",
    "link": "https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models/",
+   "summary": "Across science, engineering, and finance, many of the most important risks come from low-likelihood, high-impact events. Estimating the probability of these... Across science, engineering, and finance, many of the most…",
    "title": "Extreme Event Likelihoods with Guided Generative Models"
   }
  ],

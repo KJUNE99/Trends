@@ -1,40 +1,54 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "group": "eng",
  "items": [
   {
    "date": "2026-08-28T16:01:02+00:00",
+   "image": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png",
    "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
+   "summary": "By Emma Yanyang Kong , Aditya Deshpande , Asad Abbasi , Bowei Yan , David Fagnan , Ashish Rastogi , Dhaval Patel , Ray Zhang Introduction The Netflix experience is a journey of discovery. Every visual cue, from the…",
    "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale"
   },
   {
    "date": "2026-08-21T16:01:01+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*Rn81hdaUHY94Sf8S-GOHZA.png",
    "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
+   "summary": "Samuel Yeboah , Francesco Di Chiara and Mingliang Liu Today, Netflix runs two Flink autoscalers. That is exactly one more than we want. We built the first one in-house years ago, when there was no mature option suited…",
    "title": "A Tale of Two Flink Autoscalers"
   },
   {
    "date": "2026-08-07T16:01:02+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*X_O1wdMIVfm9upb2tLXD9A.png",
    "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
+   "summary": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC execution API Authors: Nilesh Mishra and Ajit Koti This is the third entry of a multi-part blog series describing how we…",
    "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…"
   },
   {
    "date": "2026-07-31T16:01:02+00:00",
+   "image": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e7607acebde8",
    "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
+   "summary": "by Aarti Laddha , Richard Diaz-Cool , Rishika Idnani , Venkatesh Selveraj Netflix supports a vast and evolving set of features and content types, ranging from 4K streaming and immersive audio to live streaming and cloud…",
    "title": "Modeling Device Capabilities for Analytics"
   },
   {
    "date": "2026-07-30T20:10:15+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*7Jb6-3knD_VCB_wWN5M3Mw.png",
    "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
+   "summary": "Authors: Ying Li , Arjun Rao , Shradha Sehgal Introduction Recommendations sit at the heart of the Netflix experience. Our current production models rely on thousands of hand‑crafted features over users, items, and…",
    "title": "GenRec: Towards LLM-Native Recommendation at Netflix"
   },
   {
    "date": "2026-07-17T21:32:39+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*GKGOrp0xddZwHomMhiSeCA.png",
    "link": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
+   "summary": "By AI Platform’s Model Runtime team and Inference team Introduction Most organizations consume LLMs through hosted APIs. Netflix went further — we run the full stack ourselves, from model deployment through inference…",
    "title": "In-House LLM Serving at Netflix"
   },
   {
    "date": "2026-07-13T22:44:11+00:00",
+   "image": "https://cdn-images-1.medium.com/max/947/1*dgCgcPQv-EvBNb_AXqtnhA.png",
    "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
+   "summary": "By Parth Jain , Rakesh Sukumar , Yingwu Zhao , Renzo Sanchez-Silva & Nathan Fisher A deep dive into the engineering challenges of building a real-time service dependency map at Netflix scale: from streaming…",
    "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned"
   }
  ],

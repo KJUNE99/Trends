@@ -1,25 +1,33 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "group": "newsletter",
  "items": [
   {
    "date": "2026-09-09T11:14:25+00:00",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png",
    "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+   "summary": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks A lot has happened in the last few weeks. I am sure that OpenAI’s GPT-6 Astra is top of mind for everyone right now…",
    "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning"
   },
   {
    "date": "2026-08-22T11:11:39+00:00",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/fb73bfb5-0291-4e5e-b425-6c3be054276e_1914x1076.png",
    "link": "https://magazine.sebastianraschka.com/p/claude-watermarking",
+   "summary": "A 48-minute video walkthrough of token sampling, watermark detection, and removal I recently posted a Substack note about Claude’s new watermarking process and implementation. Since it’s such a popular topic and sparked…",
    "title": "How Claude Watermarks AI-Generated Text"
   },
   {
    "date": "2026-08-15T11:54:24+00:00",
+   "image": "https://substackcdn.com/image/fetch/$s_!Om23!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F875b5076-19a9-4ffe-91d4-cafa156f650a_5343x5696.png",
    "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+   "summary": "An End-to-End Project With Dataset Construction, Model Training, Local Deployment, and RLVR Substack recently launched its AI detector feature in the UI, which is super interesting. Separately, lots of people asked me…",
    "title": "Building an AI Text Detector From Scratch"
   },
   {
    "date": "2026-07-18T11:16:09+00:00",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/286a0beb-32b2-41fc-8bcf-6bae189b53f2_1488x840.png",
    "link": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+   "summary": "How LLMs Learn Low-, Medium-, and High-Effort Reasoning Modes It has been almost two years since OpenAI released o1, a model that popularized the idea of LLM-based reasoning models. DeepSeek-R1 followed about four…",
    "title": "Controlling Reasoning Effort in LLMs"
   }
  ],

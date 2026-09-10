@@ -1,20 +1,26 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "group": "eng",
  "items": [
   {
    "date": "2026-08-25T07:00:00+00:00",
+   "image": null,
    "link": "https://techblog.lycorp.co.jp/en/developing-harmfulness-detection-model-for-open-chat-metadata",
+   "summary": "Hello. I am Yeoun Yi, an ML engineer on the AI Services Lab team. Our team develops models to preven...",
    "title": "Developing a model to detect harmful content from OpenChat titles and descriptions"
   },
   {
    "date": "2026-07-27T08:30:00+00:00",
+   "image": null,
    "link": "https://techblog.lycorp.co.jp/en/applying-e2ee-to-apache-kafka-in-line-app",
+   "summary": "Introduction: Why end-to-end encryption for Kafka?On the LINE app, billions of messages are exchange...",
    "title": "1M messages per second: Applying E2EE to Apache Kafka in the LINE app"
   },
   {
    "date": "2026-07-21T07:00:00+00:00",
+   "image": null,
    "link": "https://techblog.lycorp.co.jp/en/building-group-video-calls-inside-line-app-with-ai-and-line-planet",
+   "summary": "LINE Developers and LINE front-end framework (LIFF) let you open a service space for LINE app users....",
    "title": "Using AI to build a group video call service inside the LINE app without a web engineer"
   }
  ],

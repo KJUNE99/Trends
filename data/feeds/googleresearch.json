@@ -1,85 +1,117 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "group": "lab",
  "items": [
   {
    "date": "2026-09-03T18:20:31+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BBJ_GenomicPrediction5-UniqueGeneticTraits.png",
    "link": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+   "summary": null,
    "title": "Transfer learning for genomic prediction in underrepresented populations"
   },
   {
    "date": "2026-09-03T16:00:03+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Male-Fruit-Fly-Brain-Map-hero.jpg",
    "link": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+   "summary": null,
    "title": "A connectomics milestone: Mapping the complete male fruit fly brain"
   },
   {
    "date": "2026-09-01T18:40:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/MAPL-EMIT-overview-hero.png",
    "link": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+   "summary": null,
    "title": "Mapping global methane emissions from space with deep learning"
   },
   {
    "date": "2026-08-31T17:19:40+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/TimesFM31_Architecture.png",
    "link": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+   "summary": null,
    "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting"
   },
   {
    "date": "2026-08-27T17:37:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PlanetaryPredictionEngine_Cover.png",
    "link": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+   "summary": null,
    "title": "Planetary prediction engine: Automating global models via Earth AI"
   },
   {
    "date": "2026-08-26T18:42:43+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/GlucoFM1_Overview.png",
    "link": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+   "summary": null,
    "title": "GlucoFM: Foundation model for continuous glucose monitoring"
   },
   {
    "date": "2026-08-25T19:10:59+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AgentHands5_Workflow.png",
    "link": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+   "summary": "Human-Computer Interaction and Visualization",
    "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR"
   },
   {
    "date": "2026-08-21T17:02:24+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Biomarker-Discovery-Framework-1.png",
    "link": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+   "summary": null,
    "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data"
   },
   {
    "date": "2026-08-21T10:54:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/MobilityPOIs_Hero.png",
    "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+   "summary": null,
    "title": "How mobility gives language models a deeper understanding of place"
   },
   {
    "date": "2026-08-17T10:34:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PhotoScanIR_Overview.png",
    "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+   "summary": null,
    "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery"
   },
   {
    "date": "2026-08-12T09:51:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/KnowledgeProfiling1_Overview.png",
    "link": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
+   "summary": null,
    "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality"
   },
   {
    "date": "2026-08-11T17:04:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AMIE_Video-hero.png",
    "link": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
+   "summary": null,
    "title": "Advancing AMIE towards expert-level audio-visual clinical consultations"
   },
   {
    "date": "2026-07-30T20:36:36+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png",
    "link": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
+   "summary": null,
    "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence"
   },
   {
    "date": "2026-07-22T21:32:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/SymptomAI1_Overview.png",
    "link": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
+   "summary": null,
    "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment"
   },
   {
    "date": "2026-07-22T18:40:21+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/RL_for__QEC-2.png",
    "link": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
+   "summary": null,
    "title": "Towards a quantum computer that learns from its errors"
   },
   {
    "date": "2026-07-15T18:06:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Interpolation-effect-1.gif",
    "link": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
+   "summary": null,
    "title": "Towards demystifying the creativity of diffusion models"
   }
  ],

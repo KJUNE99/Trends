@@ -8,7 +8,7 @@ Design rules (do not break these):
     fills a 30-day view after a few days of runs.
   * No ranking, no scoring, no cross-source dedup, no summarisation. Fetch and store.
 """
-import json, os, sys, time, urllib.request, urllib.error
+import html, json, os, re, sys, time, urllib.request, urllib.error
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone, timedelta
@@ -85,6 +85,48 @@ def merge(old_items, new_items, keep_days, key="link"):
     return out
 
 
+
+MEDIA = "{http://search.yahoo.com/mrss/}"
+CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
+IMG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)', re.I)
+TAG_RE = re.compile(r"<[^>]+>")
+WS_RE = re.compile(r"\s+")
+# 1x1 trackers, share buttons and other junk we never want to render
+BAD_IMG = re.compile(r"(pixel|track|beacon|badge|button|icon|avatar|emoji|/p/\d+\.gif)", re.I)
+SUMMARY_MAX = 220
+
+
+def clean_text(raw, limit=SUMMARY_MAX):
+    if not raw:
+        return None
+    t = WS_RE.sub(" ", html.unescape(TAG_RE.sub(" ", raw))).strip()
+    if len(t) < 25:
+        return None
+    if len(t) > limit:
+        cut = t[:limit]
+        sp = cut.rfind(" ")
+        t = (cut[:sp] if sp > limit * 0.6 else cut).rstrip(" ,.;:-") + "\u2026"
+    return t
+
+
+def pick_image(el, body):
+    """media:content -> media:thumbnail -> image enclosure -> first <img> in body."""
+    for tag in (MEDIA + "content", MEDIA + "thumbnail"):
+        for m in el.findall(tag):
+            u = m.get("url")
+            if u and not BAD_IMG.search(u):
+                return u
+    for e in el.findall("enclosure"):
+        if "image" in (e.get("type") or "") and e.get("url") and not BAD_IMG.search(e.get("url")):
+            return e.get("url")
+    if body:
+        for m in IMG_RE.finditer(body):
+            u = html.unescape(m.group(1))
+            if u.startswith("http") and not BAD_IMG.search(u):
+                return u
+    return None
+
+
 # ---------------------------------------------------------------- RSS / Atom
 def parse_feed(raw):
     root = ET.fromstring(raw)
@@ -97,9 +139,12 @@ def parse_feed(raw):
                 link = (g or "").strip()
             d = parse_dt(it.findtext("pubDate") or it.findtext(
                 "{http://purl.org/dc/elements/1.1/}date"))
-            out.append({"title": (it.findtext("title") or "").strip(),
+            body = (it.findtext("description") or "") + (it.findtext(CONTENT + "encoded") or "")
+            out.append({"title": html.unescape((it.findtext("title") or "").strip()),
                         "link": link,
-                        "date": d.isoformat() if d else None})
+                        "date": d.isoformat() if d else None,
+                        "image": pick_image(it, body),
+                        "summary": clean_text(body)})
     else:
         for it in root.findall(f"{ATOM}entry"):
             href = ""
@@ -108,9 +153,12 @@ def parse_feed(raw):
                     href = l.get("href") or ""
                     break
             d = parse_dt(it.findtext(f"{ATOM}published") or it.findtext(f"{ATOM}updated"))
-            out.append({"title": (it.findtext(f"{ATOM}title") or "").strip(),
+            body = (it.findtext(f"{ATOM}content") or "") + (it.findtext(f"{ATOM}summary") or "")
+            out.append({"title": html.unescape((it.findtext(f"{ATOM}title") or "").strip()),
                         "link": href.strip(),
-                        "date": d.isoformat() if d else None})
+                        "date": d.isoformat() if d else None,
+                        "image": pick_image(it, body),
+                        "summary": clean_text(body)})
     return [x for x in out if x["title"] and x["link"] and x["date"]]
 
 
@@ -175,6 +223,8 @@ def do_papers():
                 "authors": [a.get("name") for a in (p.get("authors") or [])][:6],
                 "n_authors": len(p.get("authors") or []),
                 "github": p.get("githubRepo") or None,
+                "thumb": r.get("thumbnail") or None,
+                "summary": clean_text(p.get("summary") or r.get("summary"), 260),
                 "linked": None,
             })
         items = [i for i in items if i["title"] and i["date"]]

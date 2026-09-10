@@ -1,50 +1,68 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "group": "lab",
  "items": [
   {
    "date": "2026-08-31T15:35:33+00:00",
+   "image": null,
    "link": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+   "summary": "How the Verus \"program verifier\", which automatically checks code against a mathematical specification of its functionality, helps increase security assurance in software projects.Many open-source and industry software…",
    "title": "Developing provably correct Rust code with Verus"
   },
   {
    "date": "2026-08-26T17:10:40+00:00",
+   "image": null,
    "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+   "summary": "Discounting the opinions of LLM judges with highly correlated outputs ensures that panels of judges reflect a true diversity of perspectives.Imagine evaluating a retrieval-augmented-generation system. A user asks a…",
    "title": "When LLM judges agree, should we believe them?"
   },
   {
    "date": "2026-08-21T15:57:17+00:00",
+   "image": null,
    "link": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
+   "summary": "Extendable framework enables testing agents on the full set of capabilities required to successfully complete a procedure, not isolated proxy tasks.A standard operating procedure, or SOP, is the written set of steps an…",
    "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures"
   },
   {
    "date": "2026-08-11T16:22:19+00:00",
+   "image": null,
    "link": "https://www.amazon.science/blog/a-decade-of-mathematical-certainty-reflections-on-the-automated-reasoning-group",
+   "summary": "Ten years after we founded the Automated Reasoning Group, mathematical logic has moved from academic research into production services that secure millions of customer workloads — demonstrating that systems can be…",
    "title": "A decade of mathematical certainty: Reflections on the Automated Reasoning Group"
   },
   {
    "date": "2026-08-10T20:23:04+00:00",
+   "image": null,
    "link": "https://www.amazon.science/news/aws-trainium-frontier-competition-co-design-models-and-kernels-on-purpose-built-ai-chips",
+   "summary": "A competition with a finalist ceremony during NeurIPS 2026, challenging researchers to train language models from scratch on Trainium, exploring what optimal architectures look like when the hardware changes.Modern LLM…",
    "title": "AWS Trainium Frontier competition: Co-design models and kernels on purpose-built AI chips"
   },
   {
    "date": "2026-08-05T15:00:00+00:00",
+   "image": "https://cdn.amazon.science/31/cd/ee13144c43e7926aca2e634b4032/build-on-trainium-2026.png",
    "link": "https://www.amazon.science/research-awards/latest-news/34-amazon-research-awards-build-on-trainium-recipients-announced",
+   "summary": "Amazon announces 34 recipients of the Build on Trainium program, a $110 million credit initiative supporting AI research at 30 universities including Stanford, UC Berkeley, UIUC, UCLA, CMU, and MIT, with a focus on…",
    "title": "34 Amazon Research Awards Build on Trainium recipients announced"
   },
   {
    "date": "2026-07-30T17:26:47+00:00",
+   "image": null,
    "link": "https://www.amazon.science/blog/how-controllers-from-industrial-machinery-can-coordinate-multitask-machine-learning",
+   "summary": "Instead of compromising among parameter updates dictated by different training objectives, ControlG allocates computational capacity to objectives sequentially and dynamically.Training a machine learning model to handle…",
    "title": "How controllers from industrial machinery can coordinate multitask machine learning"
   },
   {
    "date": "2026-07-29T15:16:52+00:00",
+   "image": null,
    "link": "https://www.amazon.science/blog/a-new-benchmark-for-evaluating-patient-facing-health-ai-agents",
+   "summary": "PatientAgentBench generates a synthetic patient health record, a realistic clinical vignette, and a patient agent that converses with the AI system under evaluation, to capture what a patient-facing agent actually has…",
    "title": "A new benchmark for evaluating patient-facing health AI agents"
   },
   {
    "date": "2026-07-26T08:00:00+00:00",
+   "image": null,
    "link": "https://www.amazon.science/news/amazon-is-investing-in-the-lean-focused-research-organization",
+   "summary": "As AI agents take on higher-stakes decisions, Lean programming language makes it possible to mathematically prove they will behave safely.We want to tell you about an investment we're making and why we're excited about…",
    "title": "Amazon is investing in the Lean Focused Research Organization"
   }
  ],

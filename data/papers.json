@@ -1,21 +1,21 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "items": [
   {
-   "arxiv": "https://arxiv.org/abs/2609.10540",
+   "arxiv": "https://arxiv.org/abs/2609.10226",
    "authors": [
-    "Zheng-Hui Huang",
-    "Guixu Lin",
-    "Jiacheng Lin",
-    "Yi-Chuan Huang",
-    "Ruihan Yu",
-    "Muyao Niu"
+    "Leilei Ding",
+    "Shumin Wang",
+    "Yuting Huang",
+    "Fanqi Wan",
+    "Yinmin Zhang",
+    "Qi Han"
    ],
    "comments": 0,
    "date": "2026-09-08T20:00:00+00:00",
-   "github": "https://github.com/AlayaLab/pwm",
-   "id": "2609.10540",
-   "link": "https://huggingface.co/papers/2609.10540",
+   "github": "https://github.com/one2piece2hello/faibench_Frontier_InfraBench",
+   "id": "2609.10226",
+   "link": "https://huggingface.co/papers/2609.10226",
    "linked": {
     "datasets": 0,
     "models": 0,
@@ -23,9 +23,11 @@
     "top_datasets": [],
     "top_models": []
    },
-   "n_authors": 11,
-   "title": "Programmable World Model",
-   "upvotes": 2
+   "n_authors": 13,
+   "summary": "Large language models (LLMs) have demonstrated remarkable capabilities in reasoning and code generation, raising the prospect that they could assist in developing and optimizing the very infrastructure that powers them. However, existing benchmarks mainly…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.10226.png",
+   "title": "Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?",
+   "upvotes": 0
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.10522",
@@ -54,7 +56,62 @@
     ]
    },
    "n_authors": 10,
+   "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.10522.png",
    "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+   "upvotes": 4
+  },
+  {
+   "arxiv": "https://arxiv.org/abs/2609.10540",
+   "authors": [
+    "Zheng-Hui Huang",
+    "Guixu Lin",
+    "Jiacheng Lin",
+    "Yi-Chuan Huang",
+    "Ruihan Yu",
+    "Muyao Niu"
+   ],
+   "comments": 0,
+   "date": "2026-09-08T20:00:00+00:00",
+   "github": "https://github.com/AlayaLab/pwm",
+   "id": "2609.10540",
+   "link": "https://huggingface.co/papers/2609.10540",
+   "linked": {
+    "datasets": 0,
+    "models": 0,
+    "spaces": 0,
+    "top_datasets": [],
+    "top_models": []
+   },
+   "n_authors": 11,
+   "summary": "Recent video world models generate increasingly realistic and interactive visual experiences, yet lack reliable mechanisms for maintaining persistent world state and enforcing programmable rules over extended interactions. We introduce Programmable World…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.10540.png",
+   "title": "Programmable World Model",
+   "upvotes": 4
+  },
+  {
+   "arxiv": "https://arxiv.org/abs/2609.08650",
+   "authors": [
+    "Youngjun Yu",
+    "Sanghwan Jang",
+    "Hwanjo Yu"
+   ],
+   "comments": 1,
+   "date": "2026-09-07T20:00:00+00:00",
+   "github": "https://github.com/colin31472/DATPO",
+   "id": "2609.08650",
+   "link": "https://huggingface.co/papers/2609.08650",
+   "linked": {
+    "datasets": 0,
+    "models": 0,
+    "spaces": 0,
+    "top_datasets": [],
+    "top_models": []
+   },
+   "n_authors": 3,
+   "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) has been central to the recent success of Large Reasoning Models. However, while RLVR significantly improves single-sample accuracy, it often fails to expand the model's intrinsic reasoning coverage…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08650.png",
+   "title": "Difficulty-Adaptive Tree-Structured Policy Optimization for Expanding Reasoning Coverage in RLVR",
    "upvotes": 0
   },
   {
@@ -80,8 +137,10 @@
     "top_models": []
    },
    "n_authors": 8,
+   "summary": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI models often struggle…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.09140.png",
    "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
-   "upvotes": 2
+   "upvotes": 3
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.08108",
@@ -106,6 +165,8 @@
     "top_models": []
    },
    "n_authors": 8,
+   "summary": "Accurate estimation of clinically meaningful gait parameters from monocular video is important for scalable mobility assessment, yet progress is limited by the small scale, restricted viewpoints, and limited visual diversity of existing datasets. We introduce…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08108.png",
    "title": "SynthGait-19K: A Physically Grounded Synthetic Video Dataset for Gait Parameter Estimation",
    "upvotes": 15
   },
@@ -134,8 +195,10 @@
     ]
    },
    "n_authors": 9,
+   "summary": "Monocular depth estimation is a ubiquitous yet highly ill-posed computer vision task, with downstream applications in scene reconstruction, computational photography, and robotics, among others. Despite the field's maturity, recent models still struggle to…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08084.png",
    "title": "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation",
-   "upvotes": 44
+   "upvotes": 45
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.08345",
@@ -160,6 +223,8 @@
     "top_models": []
    },
    "n_authors": 10,
+   "summary": "Representing a 3D scene as multi-view images allows 2D VLMs to reason in 3D by reusing priors from pre-training, sidestepping the scarcity of annotated 3D data. However, it produces thousands of redundant visual tokens whose cost grows with every view…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08345.png",
    "title": "CoVeR: Coverage-Based Token Pruning for Multi-View 3D Reasoning in VLMs",
    "upvotes": 20
   },
@@ -189,6 +254,8 @@
     ]
    },
    "n_authors": 33,
+   "summary": "We introduce AuK, an open-source foundational model that unifies speech generation and editing through a common interface of natural-language instructions and audio context. To support this broad capability set, we construct approximately 3.03 billion…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08936.png",
    "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
    "upvotes": 179
   },
@@ -217,6 +284,8 @@
     ]
    },
    "n_authors": 10,
+   "summary": "Autoregressive (AR) video diffusion models have shown great potential in real-time video generation. Recent methods distill pretrained bidirectional video diffusion models into causal AR students through Distribution Matching Distillation (DMD), but the…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.09123.png",
    "title": "Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout",
    "upvotes": 43
   },
@@ -245,6 +314,8 @@
     ]
    },
    "n_authors": 23,
+   "summary": "In this work, we present Gander, an end-to-end model that unifies omni perception, realtime interaction, and agentic capabilities within a single framework. In contrast to turn-based conventional paradigms, Gander continuously receives streaming inputs across…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08977.png",
    "title": "Omni Interaction Agent Technical Report",
    "upvotes": 116
   },
@@ -271,6 +342,8 @@
     "top_models": []
    },
    "n_authors": 7,
+   "summary": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.09158.png",
    "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
    "upvotes": 19
   },
@@ -295,6 +368,8 @@
     "top_models": []
    },
    "n_authors": 4,
+   "summary": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving implicit the procedural knowledge of what…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.09153.png",
    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
    "upvotes": 22
   },
@@ -321,6 +396,8 @@
     "top_models": []
    },
    "n_authors": 9,
+   "summary": "Weak-to-strong generalization asks whether stronger models can learn from weaker supervisors and surpass them. This question is particularly important for successive model generations and multi-domain consolidation, where repeating frontier-scale…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08798.png",
    "title": "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation",
    "upvotes": 80
   },
@@ -347,6 +424,8 @@
     "top_models": []
    },
    "n_authors": 13,
+   "summary": "We present Miles v0.1, a full-stack, production-ready system for frontier post-training. Building upon the clean design of slime, Miles designs each stage of the reinforcement-learning (RL) training loop around a single principle: components should be…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08368.png",
    "title": "Miles v0.1: Production-Level Post-Training",
    "upvotes": 44
   },
@@ -370,38 +449,10 @@
     "top_models": []
    },
    "n_authors": 3,
+   "summary": "Large Language Models demonstrate remarkable proficiency in static reasoning, yet training them as autonomous agents through Reinforcement Learning (RL) for long-horizon tasks is often hindered by severe reward sparsity. While conventional agent-side warming…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08404.png",
    "title": "Environments as Scaffold: Enriching Feedback to Bootstrap Self-Evolving Agents in Long-Horizon Tasks",
    "upvotes": 21
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.08183",
-   "authors": [
-    "NeoHorse Team",
-    "Guoliang Cao",
-    "Guohao Dai",
-    "Tianyu Guo",
-    "Kai Han",
-    "Hailin Hu"
-   ],
-   "comments": 6,
-   "date": "2026-09-07T20:00:00+00:00",
-   "github": "https://github.com/TokenRhythm/NeoHorse",
-   "id": "2609.08183",
-   "link": "https://huggingface.co/papers/2609.08183",
-   "linked": {
-    "datasets": 0,
-    "models": 10,
-    "spaces": 1,
-    "top_datasets": [],
-    "top_models": [
-     "TokenRhythm/NeoHorse-1-4B",
-     "TokenRhythm/NeoHorse-1-9B",
-     "TokenRhythm/NeoHorse-1-9B-GGUF"
-    ]
-   },
-   "n_authors": 37,
-   "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
-   "upvotes": 377
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.07821",
@@ -426,6 +477,8 @@
     "top_models": []
    },
    "n_authors": 16,
+   "summary": "Chain-of-Thought (CoT) improves the reasoning ability of Large Language Models (LLMs) but incurs substantial computation and context costs. Existing methods either lose intermediate information through hard pruning or lack a principled criterion for…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.07821.png",
    "title": "A*-Thought-V2: Efficient Latent Reasoning via Geometric Dynamics of LLM",
    "upvotes": 10
   },
@@ -450,8 +503,10 @@
     "top_models": []
    },
    "n_authors": 4,
+   "summary": "Large language models (LLMs) are often post-trained on pre-collected reasoning trajectories to improve their reasoning capability. Such trajectories tend to be long due to complex, interwoven paths, which often include detours on the path toward the answer…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.07103.png",
    "title": "Revisiting Complete Reasoning Traces for Post-Training",
-   "upvotes": 0
+   "upvotes": 1
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.07398",
@@ -480,8 +535,10 @@
     ]
    },
    "n_authors": 24,
+   "summary": "World-Action Models inherit world knowledge from video-generative priors, and channel it into executable control signals through embodied experience. Existing systems, however, are monolithic: the generative backbone, visual representation, architecture…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.07398.png",
    "title": "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining",
-   "upvotes": 50
+   "upvotes": 51
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.07414",
@@ -506,6 +563,8 @@
     "top_models": []
    },
    "n_authors": 7,
+   "summary": "Image relighting is traditionally tackled via complex inverse rendering pipelines, which suffer from ill-posed optimization, or single-image generative models that ignore crucial multi-view cues necessary for understanding 3D geometry and material…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.07414.png",
    "title": "RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting",
    "upvotes": 8
   },
@@ -532,6 +591,8 @@
     "top_models": []
    },
    "n_authors": 7,
+   "summary": "The growing realism and accessibility of manipulated and generated faces threaten the trustworthiness of digital media. To detect such forgeries, deepfake detectors based on vision foundation models have shown promising performance, but they typically rely on…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.07670.png",
    "title": "Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection",
    "upvotes": 15
   },
@@ -554,6 +615,8 @@
     "top_models": []
    },
    "n_authors": 2,
+   "summary": "A transformer can make an attribute linearly decodable in its residual stream at a depth where that attribute does not yet influence the output. This gap between where information is readable and where it is used has been shown for attributes stated directly…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.07139.png",
    "title": "Encoded Early, Used Late: Where Transformers Begin to Act on an Inferred Partner's Expertise",
    "upvotes": 15
   },
@@ -579,6 +642,8 @@
     ]
    },
    "n_authors": 3,
+   "summary": "Robot foundation models are trained and evaluated predominantly in English, and robot demonstration corpora do not exist for most languages. We study the addition of Greek to an open vision-language-action stack using only machine-rephrased instructions and…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.07470.png",
    "title": "Measuring Language Transfer in Robot Policies: Adding Greek to a Cosmos3 Vision-Language-Action Policy",
    "upvotes": 17
   },
@@ -603,6 +668,8 @@
     "top_models": []
    },
    "n_authors": 4,
+   "summary": "Compressing large-scale neural networks is essential for deploying models on resource-constrained devices. Most existing methods adopt weight pruning or low-bit quantization individually, often resulting in suboptimal compression rates to preserve acceptable…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.08999.png",
    "title": "SQS: Bayesian DNN Compression through Sparse Quantized Sub-distributions",
    "upvotes": 15
   },
@@ -628,6 +695,8 @@
     "top_models": []
    },
    "n_authors": 5,
+   "summary": "In this paper, we propose ReactVAU, a Slow-Fast Decoupled Framework for real-time streaming Video Anomaly Understanding (VAU). Existing VAU methods rely on offline inference with global temporal sampling, which violates causality and prevents deployment in…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.07941.png",
    "title": "ReactVAU: A Slow-Fast Decoupled Framework for Streaming Video Anomaly Understanding",
    "upvotes": 15
   },
@@ -654,6 +723,8 @@
     "top_models": []
    },
    "n_authors": 6,
+   "summary": "Transferring human hand demonstrations to robotic grippers has recently emerged as a cost-effective solution for robot learning. However, existing methods are largely confined to simple, planar tasks and fail to handle complex spatial movements (e.g…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.07498.png",
    "title": "CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements",
    "upvotes": 25
   },
@@ -679,6 +750,8 @@
     "top_models": []
    },
    "n_authors": 5,
+   "summary": "Speculative decoding accelerates rollout generation, which dominates the cost of reinforcement learning (RL) post-training. Online co-training can further increase the draft's accuracy, yielding greater speedups. However, scaling this approach to co-training…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.07108.png",
    "title": "Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training",
    "upvotes": 25
   },
@@ -702,32 +775,10 @@
     "top_models": []
    },
    "n_authors": 3,
+   "summary": "Linear attention is increasingly used in frontier language models for efficient long-context inference and constant-memory decoding. Its fixed-size recurrent memory, however, requires an online decision at each token: what to write and how strongly to…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.07816.png",
    "title": "Kalman Delta Networks: Uncertainty-aware Associative Memory",
    "upvotes": 26
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.06966",
-   "authors": [
-    "Aashiq Muhamed",
-    "Virginia Smith"
-   ],
-   "comments": 2,
-   "date": "2026-09-06T20:00:00+00:00",
-   "github": "https://github.com/aashiqmuhamed/mole",
-   "id": "2609.06966",
-   "link": "https://huggingface.co/papers/2609.06966",
-   "linked": {
-    "datasets": 1,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [
-     "forgelab/mole"
-    ],
-    "top_models": []
-   },
-   "n_authors": 2,
-   "title": "MOLE: Detecting Insider Threats in AI Agents",
-   "upvotes": 15
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.06665",
@@ -751,6 +802,8 @@
     ]
    },
    "n_authors": 3,
+   "summary": "Diffusion-based models enable monocular geometry estimation, yet their pixel-space precision is limited by a shared, under-studied error source: VAE reconstruction degradation. The 8x spatial compression in the VAE encoder-decoder degrades surface normals at…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06665.png",
    "title": "TransNormal-2: Geometry-Grounded Rectified Flow with Edge-Aware Decoding for Precise Normal Estimation",
    "upvotes": 18
   },
@@ -778,6 +831,8 @@
     ]
    },
    "n_authors": 3,
+   "summary": "Latent visual reasoning aims to perform multimodal reasoning through hidden-state computation rather than explicit textual chains of thought. However, visual information being present in a latent state does not imply that the model actually relies on that…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06746.png",
    "title": "Reason Through the Latent! Making Latent Visual Reasoning Necessary",
    "upvotes": 30
   },
@@ -804,6 +859,8 @@
     "top_models": []
    },
    "n_authors": 11,
+   "summary": "Generating long-form multi-shot videos requires coherent within-shot motion and visually consistent narratives across shots. Existing video generators favor continuous motion and struggle to present complete shot sets when an entire narrative is packed along…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06373.png",
    "title": "Multi-Grid Post-Training for Long-Form Multi-Shot Video Generation",
    "upvotes": 16
   },
@@ -830,6 +887,8 @@
     "top_models": []
    },
    "n_authors": 10,
+   "summary": "Visual generation is evolving from generative models used through a single invocation into agentic control processes that can plan, select tools, inspect intermediate synthesized outputs, revise failures, and reuse prior experience. In most existing systems…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06758.png",
    "title": "Agentic Visual Generation: From Generative Models to Agentic Control",
    "upvotes": 24
   },
@@ -856,6 +915,8 @@
     "top_models": []
    },
    "n_authors": 7,
+   "summary": "Video foundation models increasingly rely on large-scale pretraining data, yet the end-to-end data pipelines behind them remain largely closed and difficult to inspect or reuse. Researchers seeking to understand how video data recipes affect model pretraining…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06652.png",
    "title": "VidaForge: Open Research Infrastructure for Video Pretraining Data Recipes",
    "upvotes": 18
   },
@@ -879,6 +940,8 @@
     "top_models": []
    },
    "n_authors": 3,
+   "summary": "Multimodal Large Language Models (MLLMs) perform strongly on general visual understanding tasks such as visual question answering, yet they often struggle with a basic comparative skill: identifying what has changed between two similar images. We introduce…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06245.png",
    "title": "VDiff-Bench: A Challenging Benchmark for Fine-Grained Image Difference Identification",
    "upvotes": 9
   },
@@ -900,6 +963,8 @@
     "top_models": []
    },
    "n_authors": 1,
+   "summary": "Agents can turn shared infrastructure into a channel for coordinated intrusion. The Hugging Face incident and a separate public-wiki investigation show why a security assessment may need evidence from several executions and the artifacts they leave behind. We…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06140.png",
    "title": "Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions",
    "upvotes": 2
   },
@@ -921,6 +986,8 @@
     "top_models": []
    },
    "n_authors": 1,
+   "summary": "We present Cadence, an error-bounded lossy compressor for numeric time series pairing a 330M-parameter time-series foundation model (Google TimesFM-3) with an adaptive arithmetic coder, guaranteeing |x_t-x_t|leτ on every sample. One negative result constrains…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06008.png",
    "title": "Cadence: Error-Bounded Lossy Compression of Demand Time Series with a Time-Series Foundation Model",
    "upvotes": 15
   },
@@ -949,34 +1016,10 @@
     "top_models": []
    },
    "n_authors": 8,
+   "summary": "As large language models (LLMs) are increasingly deployed in alignment-sensitive contexts, activation steering has emerged as a lightweight, inference-time alternative to fine-tuning methods (e.g., RLHF, DPO) for behavioral control. However, existing work…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06289.png",
    "title": "Steering Geometry: Validating Human Value Geometry in LLM Steering Space",
    "upvotes": 27
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.06055",
-   "authors": [
-    "Hao He",
-    "Chengcheng Hu",
-    "Zirun Su",
-    "Heng Zhang",
-    "Haisong Liu",
-    "Jinke Li"
-   ],
-   "comments": 3,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": "https://github.com/XiaomiAutoL3/DriveZero",
-   "id": "2609.06055",
-   "link": "https://huggingface.co/papers/2609.06055",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 20,
-   "title": "DriveZero: End-to-End Driving Beyond Human Demonstrations",
-   "upvotes": 50
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.05738",
@@ -1000,6 +1043,8 @@
     "top_models": []
    },
    "n_authors": 5,
+   "summary": "We present 'RenderFormer-V2', a unified learned transformer-based neural rendering model, complementary to modern physics-based rendering systems, that can handle diverse light-transport effects such as caustics, volumetric scattering, environment lighting…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05738.png",
    "title": "RenderFormer-V2: Neural Rendering with Heterogeneous Scene Primitives",
    "upvotes": 1
   },
@@ -1026,6 +1071,8 @@
     "top_models": []
    },
    "n_authors": 7,
+   "summary": "Instruction-guided 3D editing is essential for interactive content creation, yet it faces a significant bottleneck: the severe scarcity of high-quality paired training data. Existing approaches attempt to bypass this by either relying on slow test-time…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.04942.png",
    "title": "Learning 3D Editing without Paired Supervision via Generative Prior Distillation",
    "upvotes": 0
   },
@@ -1052,6 +1099,8 @@
     "top_models": []
    },
    "n_authors": 6,
+   "summary": "Full-duplex spoken language models can listen and speak simultaneously, enabling them to handle interruptions and backchannels in human conversation. However, text generation, speech synthesis, and audio playback proceed asynchronously. As a result, what a…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05592.png",
    "title": "What Did I Just Say? Self-Listening for Full-Duplex Speech Models",
    "upvotes": 16
   },
@@ -1078,6 +1127,8 @@
     "top_models": []
    },
    "n_authors": 12,
+   "summary": "Vision-Language-Action (VLA) models have shown promising progress in language-conditioned robotic manipulation. However, existing datasets and benchmarks mainly evaluate task completion under predefined settings, offering limited insight into model reasoning…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05324.png",
    "title": "RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?",
    "upvotes": 20
   },
@@ -1102,6 +1153,8 @@
     "top_models": []
    },
    "n_authors": 4,
+   "summary": "Large Reasoning Models (LRMs) achieve superior problem-solving through extended Chain-of-Thought (CoT) generation, but the resulting key-value (KV) cache grows linearly with sequence length and creates severe memory bottlenecks, often exceeding GPU capacity…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.04971.png",
    "title": "BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference",
    "upvotes": 32
   },
@@ -1128,6 +1181,8 @@
     "top_models": []
    },
    "n_authors": 45,
+   "summary": "World-action models (WAM) predict future states to guide robot actions, enabling learning from both action-free video and action-labeled interaction. Most inherit pretrained video generators, leaving WAM pretraining and scaling underexplored. We introduce…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05588.png",
    "title": "GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation",
    "upvotes": 46
   },
@@ -1154,34 +1209,10 @@
     "top_models": []
    },
    "n_authors": 6,
+   "summary": "Diverse and simulation-ready indoor scenes are essential for interactive entertainment and embodied AI, yet their scalable generation remains challenging. Recent agentic text-to-3D scene pipelines that rely on vision-language models (VLMs) can generate scenes…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05594.png",
    "title": "SceneMosaic: Efficient and Diverse Simulation-Ready Scene Generation via Hybrid Agentic Layout Evolution",
    "upvotes": 41
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.05663",
-   "authors": [
-    "T. J. Barton",
-    "Chris Constantakis",
-    "Patti Hauseman",
-    "Annie Mous",
-    "Alaska Hoffman",
-    "Brian Bergeron"
-   ],
-   "comments": 2,
-   "date": "2026-09-03T20:00:00+00:00",
-   "github": "https://github.com/ProjectDXAI/continuous-record-llm-trading-agents",
-   "id": "2609.05663",
-   "link": "https://huggingface.co/papers/2609.05663",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 7,
-   "title": "What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale Record from Two Fleets",
-   "upvotes": 18
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.04280",
@@ -1206,6 +1237,8 @@
     "top_models": []
    },
    "n_authors": 12,
+   "summary": "Modern LLM-based agents operate through a harness of tools, reusable skills, and specialist agents that shapes what they observe and what they can do. In practice, this harness continually evolves as new capabilities are added. We introduce EVOHARNESSBENCH, a…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.04280.png",
    "title": "EVOHARNESSBENCH: Can Your Agents Keep Pace with an Evolving Harness?",
    "upvotes": 2
   },
@@ -1229,6 +1262,8 @@
     ]
    },
    "n_authors": 1,
+   "summary": "We introduce the Graph Machine (GM), an architecture that maintains an O(n)-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static routing, GM preserves O(n) complexity in its sparse layers…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.02881.png",
    "title": "Graph Machine: Towards Better Pretraining via Edges",
    "upvotes": 1
   },
@@ -1250,6 +1285,8 @@
     "top_models": []
    },
    "n_authors": 1,
+   "summary": "We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results and evidence. We show that this restriction can remain…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.03209.png",
    "title": "MasterControl Seventeen Every Time",
    "upvotes": 1
   },
@@ -1276,8 +1313,38 @@
     "top_models": []
    },
    "n_authors": 10,
+   "summary": "Humans need to study only a handful of well-written textbooks to master a discipline and attempt its hardest problems. We argue that an ideal self-evolution method should share the same property, that is autonomously learning from raw training material for…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.00787.png",
    "title": "StudyBench: Can Self-Evolution Squeeze Textbooks for Olympiad Capability?",
-   "upvotes": 6
+   "upvotes": 7
+  },
+  {
+   "arxiv": "https://arxiv.org/abs/2609.09187",
+   "authors": [
+    "Xingyuan Bu",
+    "Chengru Song",
+    "Hao Zhou",
+    "Tao Zhou",
+    "Dong Li",
+    "Wei Li"
+   ],
+   "comments": 0,
+   "date": "2026-08-30T20:00:00+00:00",
+   "github": null,
+   "id": "2609.09187",
+   "link": "https://huggingface.co/papers/2609.09187",
+   "linked": {
+    "datasets": 0,
+    "models": 0,
+    "spaces": 0,
+    "top_datasets": [],
+    "top_models": []
+   },
+   "n_authors": 12,
+   "summary": "Advertising video generation is not only a video synthesis task, but also a product-conditioned reasoning problem whose success is measured by online business metrics. Recent video foundation models can generate realistic clips from multimodal conditions, yet…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.09187.png",
+   "title": "AgenticGen: Reward-Guided Agentic Video Generation for Advertising",
+   "upvotes": 0
   },
   {
    "arxiv": "https://arxiv.org/abs/2608.29109",
@@ -1298,6 +1365,8 @@
     "top_models": []
    },
    "n_authors": 2,
+   "summary": "Large language models often answer structurally unanswerable questions, such as computing cot(-540°) or evaluating (1).startswith(\"1\"), instead of abstaining. We ask whether this failure reflects missing recognition or failed routing from recognition to…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.29109.png",
    "title": "Recognition-Refusal Misalignment in LLMs: Why Models Answer Structurally Unanswerable Questions",
    "upvotes": 15
   }

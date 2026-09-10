@@ -1,105 +1,145 @@
 {
- "fetched_at": "2026-09-10T02:04:31.728683+00:00",
+ "fetched_at": "2026-09-10T02:20:16.827941+00:00",
  "group": "lab",
  "items": [
   {
    "date": "2026-09-09T16:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp",
    "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+   "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
    "title": "Get ready for the game with new football features in Search"
   },
   {
    "date": "2026-09-09T16:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp",
    "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+   "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
    "title": "Recreating a 70-year love story frame by frame"
   },
   {
    "date": "2026-09-02T15:40:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp",
    "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+   "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
    "title": "Proactive cyber defense for governments and enterprises"
   },
   {
    "date": "2026-09-01T20:45:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp",
    "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+   "summary": "Here are Google’s latest AI updates from August 2026",
    "title": "The latest AI news we announced in August 2026"
   },
   {
    "date": "2026-09-01T16:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp",
    "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+   "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
    "title": "Try Google Pics: Easy image creation and editing in Google Workspace"
   },
   {
    "date": "2026-08-27T16:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp",
    "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+   "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
    "title": "3 new ways to plan and book travel in Search"
   },
   {
    "date": "2026-08-25T16:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp",
    "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+   "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
    "title": "5 ways to upgrade your home decor with Google Search"
   },
   {
    "date": "2026-08-19T19:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
    "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+   "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
    "title": "5 new ways to level up your learning with Search"
   },
   {
    "date": "2026-08-17T08:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
    "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+   "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
    "title": "Get closer to the game with Gemini and Pixel"
   },
   {
    "date": "2026-08-13T16:45:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
    "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+   "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
    "title": "Bring your spreadsheet data to life with Sheets canvas"
   },
   {
    "date": "2026-08-11T17:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp",
    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+   "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study."
   },
   {
    "date": "2026-08-10T14:30:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp",
    "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+   "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
    "title": "Evolve your marketing with new AI tools"
   },
   {
    "date": "2026-08-04T13:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+   "summary": "Here are Google’s latest AI updates from July 2026",
    "title": "The latest AI news we announced in July 2026"
   },
   {
    "date": "2026-08-03T15:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp",
    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+   "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
    "title": "Inside our 353,000-person vibe coding course"
   },
   {
    "date": "2026-07-28T16:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+   "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more"
   },
   {
    "date": "2026-07-28T13:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+   "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
    "title": "5 ways AI Mode in Search helps you enjoy the real world"
   },
   {
    "date": "2026-07-28T13:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
    "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+   "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
    "title": "5 ways to host the ultimate dinner party with Google Search"
   },
   {
    "date": "2026-07-22T13:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
    "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+   "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
    "title": "3 Google updates from Galaxy Unpacked 2026"
   },
   {
    "date": "2026-07-16T16:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
    "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+   "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
    "title": "Connect more of your apps to Search"
   },
   {
    "date": "2026-07-16T16:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+   "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
    "title": "Create, edit and star in videos with two Google Vids updates"
   }
  ],
