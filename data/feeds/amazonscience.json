@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-10T11:24:09.585646+00:00",
+ "fetched_at": "2026-09-11T11:26:14.914753+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-10T15:03:39+00:00",
+   "image": "https://cdn.amazon.science/28/46/0121ba1e4b42be0c56e7560c9844/compressionmodels-03-16x9.png",
+   "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+   "summary": "New research indicates that AI agents learn compressible models of data, which don’t have enough space to enable memorization.Machine learning, at its core, is about generalization, not memorization. You hand your…",
+   "title": "Why don’t machine learning research agents overfit?"
+  },
   {
    "date": "2026-08-31T15:35:33+00:00",
    "image": null,

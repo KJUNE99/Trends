@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-09-10T11:24:09.585646+00:00",
+ "fetched_at": "2026-09-11T11:26:14.914753+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-10T16:30:35+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+   "summary": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot…",
+   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video"
+  },
+  {
+   "date": "2026-09-10T16:00:04+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/auto-robotaxi-hero-kv-blog-r7-1920x1080-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+   "summary": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
+   "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies"
+  },
+  {
+   "date": "2026-09-10T13:00:21+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1.png",
+   "link": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+   "summary": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of partners building on the NVIDIA…",
+   "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment"
+  },
+  {
+   "date": "2026-09-10T13:00:18+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/GFN_Thursday_September_10.jpg",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
+   "summary": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North update and Bus Simulator 27 — part of…",
+   "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch"
+  },
   {
    "date": "2026-09-09T16:00:42+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/me-ai-for-media-kv-1920x1080-5262591.jpeg",

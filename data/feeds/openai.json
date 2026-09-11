@@ -1,7 +1,49 @@
 {
- "fetched_at": "2026-09-10T11:24:09.585646+00:00",
+ "fetched_at": "2026-09-11T11:26:14.914753+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-10T16:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+   "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
+  },
+  {
+   "date": "2026-09-10T15:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/put-data-to-work",
+   "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+   "title": "Now everyone can put data to work"
+  },
+  {
+   "date": "2026-09-10T07:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+   "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+   "title": "Introducing ChatGPT for Financial Services"
+  },
+  {
+   "date": "2026-09-10T07:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/expanding-ai-access-us-government",
+   "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments"
+  },
+  {
+   "date": "2026-09-10T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+   "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+   "title": "Build more natural voice experiences with GPT‑Live‑1 in the API"
+  },
+  {
+   "date": "2026-09-10T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-the-agents-api",
+   "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+   "title": "Introducing the Agents API"
+  },
   {
    "date": "2026-09-09T17:00:00+00:00",
    "image": null,

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-10T11:24:09.585646+00:00",
+ "fetched_at": "2026-09-11T11:26:14.914753+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-09-10T15:28:52+00:00",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/dcb4417f-b766-4f5c-9ade-78f591cf0e71_3182x1790.png",
+   "link": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+   "summary": "Some quick notes on a truly weird week. As AI became more powerful, it was inevitable that a different, growing group would start to take AI safety more seriously – what we did not know ahead of time, is which set of…",
+   "title": "One resignation turned the embers of AI fear into a wildfire"
+  },
   {
    "date": "2026-09-09T11:01:23+00:00",
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/33531b35-1bdf-475d-b089-61fa6ed27580_3182x1790.png",
@@ -78,13 +85,6 @@
    "link": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
    "summary": "The global implications on the AI ecosystem. On Thursday July 16th, Moonshot AI released their latest flagship model Kimi K3 . K3 is a 2.8T parameter MoE model which will have its weights released on July 27th. Much of…",
    "title": "Kimi K3: The open-weights escalation"
-  },
-  {
-   "date": "2026-07-12T16:47:42+00:00",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/2e40ce14-a532-4db6-a855-caee778250f7_3182x1790.png",
-   "link": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
-   "summary": "The most serious test to date of open source AI’s viability is happening right now. The most serious test to date of open source AI’s viability is happening right now. I’ve seen many waves of anti open-source AI…",
-   "title": "6 months to live for open models"
   }
  ],
  "name": "Interconnects",

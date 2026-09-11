@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-09-10T11:24:09.585646+00:00",
+ "fetched_at": "2026-09-11T11:26:14.914753+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-10T16:55:32+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image4_1480x833-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
+   "summary": "Deploying a large language model is only the first step toward production-ready serving. Production teams also need to serve as many concurrent users as... Deploying a large language model is only the first step toward…",
+   "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra"
+  },
+  {
+   "date": "2026-09-10T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image4-1.webp",
+   "link": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/",
+   "summary": "Biomolecular structure prediction is now often run at proteome scale, where the goal is to move an entire worklist through the pipeline efficiently. NVIDIA... Biomolecular structure prediction is now often run at…",
+   "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime"
+  },
   {
    "date": "2026-09-10T09:00:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-4-768x432.jpg",
