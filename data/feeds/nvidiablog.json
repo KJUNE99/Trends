@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-11T11:26:14.914753+00:00",
+ "fetched_at": "2026-09-12T10:51:35.318513+00:00",
  "group": "lab",
  "items": [
   {
@@ -20,7 +20,7 @@
    "date": "2026-09-10T13:00:21+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1.png",
    "link": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
-   "summary": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of partners building on the NVIDIA…",
+   "summary": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting…",
    "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment"
   },
   {

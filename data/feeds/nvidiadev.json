@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-11T11:26:14.914753+00:00",
+ "fetched_at": "2026-09-12T10:51:35.318513+00:00",
  "group": "lab",
  "items": [
   {
@@ -547,20 +547,6 @@
    "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/",
    "summary": "What if autonomous coding AI agents could push your vision reasoning models above 90% accuracy with almost no manual effort? When adapting vision reasoning... What if autonomous coding AI agents could push your vision…",
    "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills"
-  },
-  {
-   "date": "2026-07-13T19:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image1-5-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/",
-   "summary": "Useful quantum computers will require fault tolerant logical operations. Researchers are actively exploring many different quantum error correction (QEC) codes... Useful quantum computers will require fault tolerant…",
-   "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300x"
-  },
-  {
-   "date": "2026-07-13T15:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image1.gif",
-   "link": "https://developer.nvidia.com/blog/extreme-event-likelihoods-with-guided-generative-models/",
-   "summary": "Across science, engineering, and finance, many of the most important risks come from low-likelihood, high-impact events. Estimating the probability of these... Across science, engineering, and finance, many of the most…",
-   "title": "Extreme Event Likelihoods with Guided Generative Models"
   }
  ],
  "name": "NVIDIA Developer",

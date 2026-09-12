@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-11T11:26:14.914753+00:00",
+ "fetched_at": "2026-09-12T10:51:35.318513+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-09-11T12:36:25+00:00",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
+   "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+   "summary": "How to get up to speed on open models and their implications. List last updated: 11 Sep. 2026 This is my list of the best writing on open models in the last few years. If someone decides they want to get up to speed on…",
+   "title": "Open-Source AI & Open Models Reading List"
+  },
   {
    "date": "2026-09-10T15:28:52+00:00",
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/dcb4417f-b766-4f5c-9ade-78f591cf0e71_3182x1790.png",

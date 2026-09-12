@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-09-11T11:26:14.914753+00:00",
+ "fetched_at": "2026-09-12T10:51:35.318513+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-11T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/discosign-gloss-translation",
+   "summary": "Sign language processing systems have traditionally operated at the sentence level, ignoring critical discourse phenomena fundamental to sign language comprehension. We introduce DiscoSign, a computational approach for…",
+   "title": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation"
+  },
+  {
+   "date": "2026-09-11T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/video-caption-quality",
+   "summary": "Evaluating video captioning remains a critical challenge for Visual Large Language Models (VLLMs). Existing metrics primarily rely on matching generated text against ground-truth references. This paradigm suffers from…",
+   "title": "Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering"
+  },
+  {
+   "date": "2026-09-11T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/simpledesign-protein-codesign",
+   "summary": "Proteins are fundamental to biological processes, with their function determined by the complex interplay between the amino acid sequence and the three-dimensional structure. Developing generative models capable of…",
+   "title": "SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign"
+  },
   {
    "date": "2026-09-02T00:00:00+00:00",
    "image": null,

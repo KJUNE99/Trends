@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-09-11T11:26:14.914753+00:00",
+ "fetched_at": "2026-09-12T10:51:35.318513+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-14T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+   "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems"
+  },
+  {
+   "date": "2026-09-11T16:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+   "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+   "title": "Cognition helps Devin test its own work with GPT‑6 Astra"
+  },
+  {
+   "date": "2026-09-11T10:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+   "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users"
+  },
   {
    "date": "2026-09-10T16:00:00+00:00",
    "image": null,
@@ -785,27 +806,6 @@
    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
    "title": "GPT-Red: Unlocking Self-Improvement for Robustness"
-  },
-  {
-   "date": "2026-07-14T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-   "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-   "title": "How to manage AI investments in the agentic era"
-  },
-  {
-   "date": "2026-07-14T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-   "summary": "Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and dashboard specifications.",
-   "title": "Data science workflows with ChatGPT Work"
-  },
-  {
-   "date": "2026-07-14T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
-   "summary": "Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans, forecast reviews, and deal diagnosis.",
-   "title": "Sales workflows with ChatGPT Work"
   }
  ],
  "name": "OpenAI",

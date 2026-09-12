@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-11T11:26:14.914753+00:00",
+ "fetched_at": "2026-09-12T10:51:35.318513+00:00",
  "group": "eng",
  "items": [
   {
@@ -57,13 +57,6 @@
    "link": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
    "summary": "Hierarchical Interest Representation is a research area for Meta Ads. We’re exploring an upstream representation layer over the universe of Ads entities – users, advertisers, products, services – learning unified…",
    "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization"
-  },
-  {
-   "date": "2026-07-13T16:00:50+00:00",
-   "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image1.webp",
-   "link": "https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/",
-   "summary": "TL; DR At Meta’s scale, a few milliseconds of latency degradation can have a significant negative impact on ads performance. When a Linux kernel upgrade risked regressing latency across Meta’s ad serving fleet, we…",
-   "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler"
   }
  ],
  "name": "Meta Engineering",

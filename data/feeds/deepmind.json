@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-11T11:26:14.914753+00:00",
+ "fetched_at": "2026-09-12T10:51:35.318513+00:00",
  "group": "lab",
  "items": [
   {
@@ -134,13 +134,6 @@
    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
    "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
    "title": "Our approach to bioresilience"
-  },
-  {
-   "date": "2026-07-13T12:37:28+00:00",
-   "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo",
-   "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-   "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-   "title": "Empowering India’s next generation of innovators with ATL Saathi"
   }
  ],
  "name": "Google DeepMind",
