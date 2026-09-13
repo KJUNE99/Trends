@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T10:51:35.318513+00:00",
+ "fetched_at": "2026-09-13T11:56:35.183598+00:00",
  "group": "lab",
  "items": [
   {
@@ -799,13 +799,6 @@
    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
    "title": "The US is advancing AI safety through state and federal action"
-  },
-  {
-   "date": "2026-07-15T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-   "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-   "title": "GPT-Red: Unlocking Self-Improvement for Robustness"
   }
  ],
  "name": "OpenAI",

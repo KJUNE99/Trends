@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T10:51:35.318513+00:00",
+ "fetched_at": "2026-09-13T11:56:35.183598+00:00",
  "group": "lab",
  "items": [
   {
@@ -260,20 +260,6 @@
    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
    "summary": null,
    "title": "Model Routing Is Simple. Until It Isn’t."
-  },
-  {
-   "date": "2026-07-15T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/thinkingmachines-inkling",
-   "summary": null,
-   "title": "Welcome Inkling by Thinking Machines"
-  },
-  {
-   "date": "2026-07-15T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/real-world-voiceeq",
-   "summary": null,
-   "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI"
   }
  ],
  "name": "Hugging Face",
