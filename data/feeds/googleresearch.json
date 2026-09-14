@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T11:56:35.183598+00:00",
+ "fetched_at": "2026-09-14T12:53:31.260047+00:00",
  "group": "lab",
  "items": [
   {
@@ -113,13 +113,6 @@
    "link": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
    "summary": null,
    "title": "Towards a quantum computer that learns from its errors"
-  },
-  {
-   "date": "2026-07-15T18:06:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Interpolation-effect-1.gif",
-   "link": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
-   "summary": null,
-   "title": "Towards demystifying the creativity of diffusion models"
   }
  ],
  "name": "Google Research",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T11:56:35.183598+00:00",
+ "fetched_at": "2026-09-14T12:53:31.260047+00:00",
  "group": "lab",
  "items": [
   {
@@ -8,6 +8,13 @@
    "link": "https://huggingface.co/blog/gradio-workflow-1111",
    "summary": null,
    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow"
+  },
+  {
+   "date": "2026-09-10T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+   "summary": null,
+   "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL"
   },
   {
    "date": "2026-09-09T15:36:24+00:00",
@@ -239,27 +246,6 @@
    "link": "https://huggingface.co/blog/grabette",
    "summary": null,
    "title": "Grabette: an open system to record robot-manipulation data"
-  },
-  {
-   "date": "2026-07-16T11:49:48+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-   "summary": null,
-   "title": "Newer Models, Same Advantage"
-  },
-  {
-   "date": "2026-07-16T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/security-incident-july-2026",
-   "summary": null,
-   "title": "Security incident disclosure — July 2026"
-  },
-  {
-   "date": "2026-07-15T17:27:01+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-   "summary": null,
-   "title": "Model Routing Is Simple. Until It Isn’t."
   }
  ],
  "name": "Hugging Face",

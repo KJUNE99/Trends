@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T11:56:35.183598+00:00",
+ "fetched_at": "2026-09-14T12:53:31.260047+00:00",
  "group": "lab",
  "items": [
   {
@@ -505,27 +505,6 @@
    "link": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/",
    "summary": "Agentic AI changes the infrastructure pattern for AI factories. One request can trigger many model calls, tool calls, memory lookups, policy checks, storage... Agentic AI changes the infrastructure pattern for AI…",
    "title": "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField"
-  },
-  {
-   "date": "2026-07-15T23:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/deepstream-featured.gif",
-   "link": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
-   "summary": "Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking... Developers building video analytics applications across…",
-   "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills"
-  },
-  {
-   "date": "2026-07-15T21:57:23+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nanousd.gif",
-   "link": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/",
-   "summary": "OpenUSD is an open, extensible framework that provides a common scene description language for physical AI. It enables teams to bring CAD data, simulation... OpenUSD is an open, extensible framework that provides a…",
-   "title": "Develop Lightweight USD Runtimes Faster with AI Agents"
-  },
-  {
-   "date": "2026-07-15T17:37:12+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/CUDA-Tile-Flash-Attention-768x431.png",
-   "link": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/",
-   "summary": "For over fifteen years, x86 CPUs have shipped with a dedicated hardware instruction for carryless multiplication. It’s a small but stubborn primitive that... For over fifteen years, x86 CPUs have shipped with a…",
-   "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3"
   }
  ],
  "name": "NVIDIA Developer",

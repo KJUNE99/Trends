@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T11:56:35.183598+00:00",
+ "fetched_at": "2026-09-14T12:53:31.260047+00:00",
  "group": "eng",
  "items": [
   {
@@ -50,13 +50,6 @@
    "link": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
    "summary": "Meta’s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes…",
    "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model"
-  },
-  {
-   "date": "2026-07-15T17:00:52+00:00",
-   "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image1.jpg",
-   "link": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
-   "summary": "Hierarchical Interest Representation is a research area for Meta Ads. We’re exploring an upstream representation layer over the universe of Ads entities – users, advertisers, products, services – learning unified…",
-   "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization"
   }
  ],
  "name": "Meta Engineering",

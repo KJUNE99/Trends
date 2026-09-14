@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T11:56:35.183598+00:00",
+ "fetched_at": "2026-09-14T12:53:31.260047+00:00",
  "group": "lab",
  "items": [
   {
@@ -437,6 +437,13 @@
    "title": "New policy ideas for the Intelligence Age"
   },
   {
+   "date": "2026-08-13T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/fyxer",
+   "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+   "title": "How Fyxer built an AI executive assistant people trust"
+  },
+  {
    "date": "2026-08-13T11:00:00+00:00",
    "image": null,
    "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
@@ -778,27 +785,6 @@
    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
    "title": "Why teens deserve access to safe AI"
-  },
-  {
-   "date": "2026-07-16T07:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/codex-collaborator-creative-team",
-   "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
-   "title": "How Codex became a collaborator for OpenAI’s creative team"
-  },
-  {
-   "date": "2026-07-16T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/cars24",
-   "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-   "title": "How Cars24 scales conversations and builds faster with OpenAI"
-  },
-  {
-   "date": "2026-07-15T12:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-   "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-   "title": "The US is advancing AI safety through state and federal action"
   }
  ],
  "name": "OpenAI",

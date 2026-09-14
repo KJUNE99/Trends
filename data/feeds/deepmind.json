@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T11:56:35.183598+00:00",
+ "fetched_at": "2026-09-14T12:53:31.260047+00:00",
  "group": "lab",
  "items": [
   {
@@ -127,13 +127,6 @@
    "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
    "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
    "title": "Introducing Gemini 3.5 Flash Cyber"
-  },
-  {
-   "date": "2026-07-16T09:30:42+00:00",
-   "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo",
-   "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-   "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-   "title": "Our approach to bioresilience"
   }
  ],
  "name": "Google DeepMind",
