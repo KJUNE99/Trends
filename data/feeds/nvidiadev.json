@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-14T12:53:31.260047+00:00",
+ "fetched_at": "2026-09-15T11:48:09.272092+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-14T16:39:15+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/green-cube-768x432.png",
+   "link": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/",
+   "summary": "Mixture of experts (MoE) has become one of the defining architectural trends in large-scale AI model training. DeepSeek, Qwen, and Mixtral are examples of MoE... Mixture of experts (MoE) has become one of the defining…",
+   "title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine"
+  },
   {
    "date": "2026-09-10T16:55:32+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image4_1480x833-768x432.jpg",
@@ -484,27 +491,6 @@
    "link": "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/",
    "summary": "Developers building 3D, design, simulation, robotics, and industrial digital twin applications need ways to bring physical AI capabilities into the tools and... Developers building 3D, design, simulation, robotics, and…",
    "title": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps"
-  },
-  {
-   "date": "2026-07-16T22:59:09+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image1-2.gif",
-   "link": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/",
-   "summary": "Capcom's RE ENGINE team set out to bring path tracing into two shipping titles at once, Resident Evil Requiem and PRAGMATA, each with a different visual... Source Capcom's RE ENGINE team set out to bring path tracing…",
-   "title": "Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem"
-  },
-  {
-   "date": "2026-07-16T16:03:35+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-metropolis-nemoclaw-768x432.png",
-   "link": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
-   "summary": "A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and... A video analytics AI agent that can perceive, reason, and act…",
-   "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows"
-  },
-  {
-   "date": "2026-07-16T16:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Bluefield-4-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/",
-   "summary": "Agentic AI changes the infrastructure pattern for AI factories. One request can trigger many model calls, tool calls, memory lookups, policy checks, storage... Agentic AI changes the infrastructure pattern for AI…",
-   "title": "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField"
   }
  ],
  "name": "NVIDIA Developer",

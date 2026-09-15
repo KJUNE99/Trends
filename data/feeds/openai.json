@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-14T12:53:31.260047+00:00",
+ "fetched_at": "2026-09-15T11:48:09.272092+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-14T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/fyxer",
+   "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+   "title": "How Fyxer built an AI executive assistant people trust"
+  },
   {
    "date": "2026-09-14T00:00:00+00:00",
    "image": null,
@@ -437,13 +444,6 @@
    "title": "New policy ideas for the Intelligence Age"
   },
   {
-   "date": "2026-08-13T12:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/fyxer",
-   "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-   "title": "How Fyxer built an AI executive assistant people trust"
-  },
-  {
    "date": "2026-08-13T11:00:00+00:00",
    "image": null,
    "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
@@ -771,20 +771,6 @@
    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
    "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
    "title": "Safety and alignment in an era of long-horizon models"
-  },
-  {
-   "date": "2026-07-17T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-   "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-   "title": "A scorecard for the AI age"
-  },
-  {
-   "date": "2026-07-16T16:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-   "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-   "title": "Why teens deserve access to safe AI"
   }
  ],
  "name": "OpenAI",
