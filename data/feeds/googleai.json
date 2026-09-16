@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-09-15T11:48:09.272092+00:00",
+ "fetched_at": "2026-09-16T11:40:14.943562+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-15T16:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+   "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+   "title": "AI for Societal Impact"
+  },
+  {
+   "date": "2026-09-15T16:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+   "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+   "title": "Building AI to accelerate science and improve lives"
+  },
+  {
+   "date": "2026-09-15T16:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+   "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+   "title": "AI for everyone in every language"
+  },
+  {
+   "date": "2026-09-15T13:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+   "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+   "title": "New insights from Google’s AI & Economy ATLAS"
+  },
   {
    "date": "2026-09-14T19:00:00+00:00",
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp",

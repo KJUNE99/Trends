@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-15T11:48:09.272092+00:00",
+ "fetched_at": "2026-09-16T11:40:14.943562+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -22,13 +22,6 @@
    "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
    "summary": "An End-to-End Project With Dataset Construction, Model Training, Local Deployment, and RLVR Substack recently launched its AI detector feature in the UI, which is super interesting. Separately, lots of people asked me…",
    "title": "Building an AI Text Detector From Scratch"
-  },
-  {
-   "date": "2026-07-18T11:16:09+00:00",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/286a0beb-32b2-41fc-8bcf-6bae189b53f2_1488x840.png",
-   "link": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
-   "summary": "How LLMs Learn Low-, Medium-, and High-Effort Reasoning Modes It has been almost two years since OpenAI released o1, a model that popularized the idea of LLM-based reasoning models. DeepSeek-R1 followed about four…",
-   "title": "Controlling Reasoning Effort in LLMs"
   }
  ],
  "name": "Ahead of AI",

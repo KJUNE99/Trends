@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-15T11:48:09.272092+00:00",
+ "fetched_at": "2026-09-16T11:40:14.943562+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-09-16T06:45:00+00:00",
+   "image": null,
+   "link": "https://techblog.lycorp.co.jp/en/a-large-scale-ios-configuration-system-implemented-with-an-attributedstring-structure",
+   "summary": "As environments change, decisions that were reasonable in the past often cease to be valid. This art...",
+   "title": "Building a large-scale iOS configuration system with the AttributedString architecture"
+  },
   {
    "date": "2026-08-25T07:00:00+00:00",
    "image": null,

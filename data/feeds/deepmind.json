@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-15T11:48:09.272092+00:00",
+ "fetched_at": "2026-09-16T11:40:14.943562+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-15T17:05:57+00:00",
+   "image": null,
+   "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+   "summary": null,
+   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
+  },
   {
    "date": "2026-09-08T14:00:15+00:00",
    "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo",
@@ -120,13 +127,6 @@
    "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
    "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
-  },
-  {
-   "date": "2026-07-17T15:00:11+00:00",
-   "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo",
-   "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-   "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-   "title": "Introducing Gemini 3.5 Flash Cyber"
   }
  ],
  "name": "Google DeepMind",

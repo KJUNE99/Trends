@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-15T11:48:09.272092+00:00",
+ "fetched_at": "2026-09-16T11:40:14.943562+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-15T16:00:44+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+   "summary": null,
+   "title": "Your Agent Aced the Task. Will It Do It Again?"
+  },
   {
    "date": "2026-09-10T00:00:00+00:00",
    "image": null,
