@@ -1,7 +1,42 @@
 {
- "fetched_at": "2026-09-16T11:40:14.943562+00:00",
+ "fetched_at": "2026-09-17T11:46:12.128139+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-16T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
+   "summary": "Agentic LLM systems that generate code through multi-turn tool use face a fundamental context problem: each session starts from zero, discarding the configuration choices, domain constraints, data schemas, and tool-use…",
+   "title": "Shared Selective Persistent Memory for Agentic LLM Systems"
+  },
+  {
+   "date": "2026-09-16T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/glyph-column-description-tagging",
+   "summary": "Enterprise data lakes accumulate tables faster than human stewards can document or classify them, leaving columns with missing descriptions and unassigned governance labels. This documentation debt undermines data…",
+   "title": "Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs"
+  },
+  {
+   "date": "2026-09-16T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
+   "summary": "Diffusion large language models are a compelling alternative to autoregressive models, yet existing RL methods for diffusion treat all denoising steps as equally important and rely on biased, high-variance likelihood…",
+   "title": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models"
+  },
+  {
+   "date": "2026-09-16T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/trajectory-teacher-flow-matching",
+   "summary": "Discrete flow matching generates text by iteratively transforming noise tokens into coherent language, but may require hundreds of forward passes. Distillation uses the multi-step trajectory to train a student to…",
+   "title": "Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation"
+  },
+  {
+   "date": "2026-09-16T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/value-induction-llm-behaviour",
+   "summary": "Conversational Large Language Models are post-trained on language that expresses specific behavioural traits, such as curiosity, open-mindedness, and empathy, and values, such as helpfulness, harmlessness, and honesty…",
+   "title": "How Value Induction Reshapes LLM Behaviour"
+  },
   {
    "date": "2026-09-11T00:00:00+00:00",
    "image": null,

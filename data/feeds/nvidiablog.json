@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-09-16T11:40:14.943562+00:00",
+ "fetched_at": "2026-09-17T11:46:12.128139+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-16T15:00:48+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/mlperf-inference-6-1.png",
+   "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+   "summary": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher…",
+   "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut"
+  },
+  {
+   "date": "2026-09-16T13:00:33+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/aema-main-feature.png",
+   "link": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+   "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the…",
+   "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers"
+  },
   {
    "date": "2026-09-16T05:00:42+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Is-AI-Poll-01_1920x1080.jpg",
@@ -25,7 +39,7 @@
   },
   {
    "date": "2026-09-15T16:55:40+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gpu-social-vera-rubin-pod-1920x1080-4983951-1.jpg",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/IanBuck-5-scaled.jpg",
    "link": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
    "summary": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella…",
    "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories"

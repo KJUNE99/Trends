@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-09-16T11:40:14.943562+00:00",
+ "fetched_at": "2026-09-17T11:46:12.128139+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-16T23:20:33+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/classroom-ovrtx-768x432.png",
+   "link": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+   "summary": "Agentic AI workflows can be used to prepare and validate digital twins for physical AI systems. Agents can inspect 3D scenes, author simulation-relevant data in... Agentic AI workflows can be used to prepare and…",
+   "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation"
+  },
+  {
+   "date": "2026-09-16T20:37:07+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image5-6-768x432.png",
+   "link": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
+   "summary": "AI agents are moving from cloud data centers to vehicles, robots, and other edge devices. Unlike a chatbot that answers a single prompt, an agent works through... AI agents are moving from cloud data centers to…",
+   "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor"
+  },
+  {
+   "date": "2026-09-16T16:28:59+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/07/neon-green-cube-768x432-png.webp",
+   "link": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
+   "summary": "cuTile Rust (cutile-rs) is a tile-based system for safe, idiomatic GPU kernel authoring in the Rust programming language. Extending the Rust ownership model to... cuTile Rust () is a tile-based system for safe…",
+   "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI"
+  },
   {
    "date": "2026-09-15T17:00:11+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image2-8-768x432.png",
