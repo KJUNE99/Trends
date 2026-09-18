@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-17T11:46:12.128139+00:00",
+ "fetched_at": "2026-09-18T11:20:08.647108+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-17T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
+   "summary": "A central goal of autonomous reinforcement learning is continuous policy training without external resets. However, existing paradigms largely depend on underlying environmental reversibility, a property absent in real…",
+   "title": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff"
+  },
   {
    "date": "2026-09-16T00:00:00+00:00",
    "image": null,

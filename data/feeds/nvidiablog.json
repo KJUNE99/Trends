@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-17T11:46:12.128139+00:00",
+ "fetched_at": "2026-09-18T11:20:08.647108+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-17T13:00:55+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gfn-thursday-9-17-blog-1920x1080-logo.jpg",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
+   "summary": "A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
+   "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW"
+  },
   {
    "date": "2026-09-16T15:00:48+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/mlperf-inference-6-1.png",

@@ -1,9 +1,16 @@
 {
- "fetched_at": "2026-09-17T11:46:12.128139+00:00",
+ "fetched_at": "2026-09-18T11:20:08.647108+00:00",
  "group": "lab",
  "items": [
   {
-   "date": "2026-09-15T20:00:35+00:00",
+   "date": "2026-09-17T20:45:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
+   "link": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+   "summary": null,
+   "title": "The future of practice: Enabling teachers to create learning interactives with generative UI"
+  },
+  {
+   "date": "2026-09-15T20:00:00+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Retrieve-for-Train_hero.png",
    "link": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
    "summary": null,

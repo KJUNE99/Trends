@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-09-17T11:46:12.128139+00:00",
+ "fetched_at": "2026-09-18T11:20:08.647108+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-17T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/cooley-gopublic",
+   "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+   "title": "How Cooley is accelerating IPO work with ChatGPT"
+  },
+  {
+   "date": "2026-09-17T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/astra-for-law",
+   "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+   "title": "Introducing Astra for Law"
+  },
   {
    "date": "2026-09-16T17:00:00+00:00",
    "image": null,
@@ -799,13 +813,6 @@
    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
    "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC"
-  },
-  {
-   "date": "2026-07-20T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-   "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-   "title": "Safety and alignment in an era of long-horizon models"
   }
  ],
  "name": "OpenAI",

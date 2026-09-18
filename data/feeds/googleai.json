@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-17T11:46:12.128139+00:00",
+ "fetched_at": "2026-09-18T11:20:08.647108+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-17T20:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+   "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+   "title": "Making global data easier to explore"
+  },
   {
    "date": "2026-09-15T16:00:00+00:00",
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
