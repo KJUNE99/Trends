@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-18T11:20:08.647108+00:00",
+ "fetched_at": "2026-09-19T11:04:04.930124+00:00",
  "group": "lab",
  "items": [
   {
@@ -246,13 +246,6 @@
    "link": "https://huggingface.co/blog/nunchaku-diffusers",
    "summary": null,
    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers"
-  },
-  {
-   "date": "2026-07-21T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/grabette",
-   "summary": null,
-   "title": "Grabette: an open system to record robot-manipulation data"
   }
  ],
  "name": "Hugging Face",

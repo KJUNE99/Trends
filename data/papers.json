@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-18T11:20:08.647108+00:00",
+ "fetched_at": "2026-09-19T11:04:04.930124+00:00",
  "items": [
   {
    "arxiv": "https://arxiv.org/abs/2609.20715",
@@ -10,7 +10,7 @@
     "Vinayshekhar Bannihatti Kumar",
     "Rashmi Gangadharaiah"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-16T20:00:00+00:00",
    "github": null,
    "id": "2609.20715",
@@ -26,7 +26,7 @@
    "summary": "Agent trajectories record what an agent does and what happens next. Yet standard supervised fine-tuning (SFT) applies loss only to agent-authored action tokens, using environment observations as context but not as prediction targets. We ask whether this…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20715.png",
    "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
-   "upvotes": 1
+   "upvotes": 15
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.20817",
@@ -38,7 +38,7 @@
     "Zhizhuo Zhou",
     "Sayan Deb Sarkar"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-16T20:00:00+00:00",
    "github": null,
    "id": "2609.20817",
@@ -54,7 +54,7 @@
    "summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20817.png",
    "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
-   "upvotes": 4
+   "upvotes": 17
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.20511",
@@ -66,7 +66,7 @@
     "Xuchao Zhang",
     "Chetan Bansal"
    ],
-   "comments": 1,
+   "comments": 5,
    "date": "2026-09-16T20:00:00+00:00",
    "github": "https://github.com/UNCSciML/opd-eos",
    "id": "2609.20511",
@@ -82,7 +82,7 @@
    "summary": "We study length inflation in on-policy distillation (OPD), where student responses can become excessively long and even exhaust the generation budget. We identify termination-token mismatch between base students and post-trained teachers as an important…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20511.png",
    "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
-   "upvotes": 31
+   "upvotes": 70
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.20423",
@@ -94,7 +94,7 @@
     "Chong Sun",
     "Chen Li"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-16T20:00:00+00:00",
    "github": "https://github.com/Tencent/WeVisDoc",
    "id": "2609.20423",
@@ -113,7 +113,7 @@
    "summary": "Document parsing converts document images into structured content and requires reliable performance across diverse layouts and acquisition conditions. Yet training corpora are biased toward common document types and clean digital pages, while expanding…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20423.png",
    "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
-   "upvotes": 9
+   "upvotes": 22
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.20784",
@@ -125,7 +125,7 @@
     "Aozhe Wang",
     "Qipeng Chen"
    ],
-   "comments": 2,
+   "comments": 3,
    "date": "2026-09-16T20:00:00+00:00",
    "github": null,
    "id": "2609.20784",
@@ -141,7 +141,7 @@
    "summary": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from a self-teacher with privileged task skills, letting a…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20784.png",
    "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
-   "upvotes": 11
+   "upvotes": 26
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.19671",
@@ -151,23 +151,25 @@
     "Young Jin Kim",
     "JinYeong Bak"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-16T20:00:00+00:00",
    "github": null,
    "id": "2609.19671",
    "link": "https://huggingface.co/papers/2609.19671",
    "linked": {
     "datasets": 0,
-    "models": 0,
+    "models": 1,
     "spaces": 0,
     "top_datasets": [],
-    "top_models": []
+    "top_models": [
+     "junshim/When2Think-1.5B"
+    ]
    },
    "n_authors": 4,
    "summary": "Large Reasoning Models (LRMs) achieve strong performance on complex tasks but exhibit systematic inefficiency: they often overthink easy problems and underthink hard ones. Existing approaches based on uniform length penalties or rigid routing incur an…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.19671.png",
    "title": "When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models",
-   "upvotes": 3
+   "upvotes": 16
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.20612",
@@ -178,7 +180,7 @@
     "Zhenkai Liang",
     "Tat-Seng Chua"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-16T20:00:00+00:00",
    "github": "https://github.com/xiuyuz/opsd-reference-study",
    "id": "2609.20612",
@@ -196,7 +198,7 @@
    "summary": "On-policy self-distillation (OPSD) lets a language model learn from a frozen copy of itself that sees an answer or a worked solution. Giving the teacher this extra information seems to offer the student more to learn, but how much does it add beyond…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20612.png",
    "title": "What Does Privileged Information Add to On-Policy Self-Distillation?",
-   "upvotes": 3
+   "upvotes": 16
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.19969",
@@ -208,7 +210,7 @@
     "Bing Xue",
     "BingCheng Xian"
    ],
-   "comments": 1,
+   "comments": 3,
    "date": "2026-09-16T20:00:00+00:00",
    "github": null,
    "id": "2609.19969",
@@ -224,7 +226,7 @@
    "summary": "The widespread adoption of long-horizon agents has made model workloads increasingly input-heavy. Although prior work has substantially reduced the cost of long-context computation, prefill remains computationally expensive, and large KV caches continue to…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.19969.png",
    "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
-   "upvotes": 42
+   "upvotes": 82
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.12397",
@@ -236,7 +238,7 @@
     "Shaojin Wu",
     "Shancheng Fang"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-16T20:00:00+00:00",
    "github": null,
    "id": "2609.12397",
@@ -252,7 +254,7 @@
    "summary": "Multi-modal image generation, particularly subject-driven customization, has garnered growing attention in recent years. Despite the rapid advancement of generative models, their evaluation remains largely lagging. Existing methods, whether embedding-based or…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.12397.png",
    "title": "UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation",
-   "upvotes": 4
+   "upvotes": 16
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.20744",
@@ -264,7 +266,7 @@
     "Michael Liu",
     "Thomas Creavin"
    ],
-   "comments": 0,
+   "comments": 2,
    "date": "2026-09-16T20:00:00+00:00",
    "github": null,
    "id": "2609.20744",
@@ -280,7 +282,7 @@
    "summary": "Video diffusion models repeatedly process long spatiotemporal token sequences during denoising, making attention a major computational bottleneck. Linear attention offers an appealing alternative and has been widely adopted in recent large language models…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20744.png",
    "title": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation",
-   "upvotes": 5
+   "upvotes": 21
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.20800",
@@ -292,7 +294,7 @@
     "Zhaochen Yu",
     "Yuying Zhang"
    ],
-   "comments": 2,
+   "comments": 4,
    "date": "2026-09-16T20:00:00+00:00",
    "github": "https://github.com/Gen-Verse/JEPA-Anything",
    "id": "2609.20800",
@@ -308,7 +310,7 @@
    "summary": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling across radically different systems? We…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20800.png",
    "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
-   "upvotes": 22
+   "upvotes": 36
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.19554",
@@ -320,23 +322,25 @@
     "Haiwen Diao",
     "Lijun Wang"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-16T20:00:00+00:00",
    "github": "https://github.com/zhangzhongbo2213/VABench",
    "id": "2609.19554",
    "link": "https://huggingface.co/papers/2609.19554",
    "linked": {
-    "datasets": 0,
+    "datasets": 1,
     "models": 0,
     "spaces": 0,
-    "top_datasets": [],
+    "top_datasets": [
+     "zhangzhongbo2213/VA-Bench"
+    ],
     "top_models": []
    },
    "n_authors": 7,
    "summary": "Spatial intelligence requires more than describing object locations. Under incomplete observation, models must identify and acquire missing evidence, interpret it in a common spatial frame, and act on it. We introduce VA-Bench to evaluate the complete…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.19554.png",
    "title": "VABench: Measuring Embodied Spatial Intelligence through Visual Demonstrations, Active Perception, and Metric Control",
-   "upvotes": 7
+   "upvotes": 19
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.19745",
@@ -346,7 +350,7 @@
     "Minjing Dong",
     "Chang Xu"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-16T20:00:00+00:00",
    "github": "https://github.com/YuHengsss/VisionRL2",
    "id": "2609.19745",
@@ -368,7 +372,7 @@
    "summary": "Fine-grained visual perception in MLLMs is commonly improved by raising the resolution, but the added visual tokens inflate vision-encoding and language-model prefilling costs. We show that the two operations underlying fine-grained perception, localizing the…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.19745.png",
    "title": "Region-Level Policy Optimization for Fine-grained MLLM Perception",
-   "upvotes": 3
+   "upvotes": 15
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.20519",
@@ -380,7 +384,7 @@
     "Yitong Li",
     "Mingchen Zhuge"
    ],
-   "comments": 2,
+   "comments": 3,
    "date": "2026-09-16T20:00:00+00:00",
    "github": "https://github.com/NVlabs/SoL-Pi",
    "id": "2609.20519",
@@ -396,7 +400,7 @@
    "summary": "As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedback. Token efficiency therefore becomes important for…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20519.png",
    "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
-   "upvotes": 37
+   "upvotes": 65
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.20804",
@@ -408,7 +412,7 @@
     "Shouju Wang",
     "Kaiqiang Song"
    ],
-   "comments": 2,
+   "comments": 3,
    "date": "2026-09-16T20:00:00+00:00",
    "github": null,
    "id": "2609.20804",
@@ -424,7 +428,65 @@
    "summary": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20804.png",
    "title": "An Empirical Study of Harness Design for Coding Agents",
-   "upvotes": 31
+   "upvotes": 52
+  },
+  {
+   "arxiv": "https://arxiv.org/abs/2609.19656",
+   "authors": [
+    "Sangam Lee",
+    "Wonjae Lee",
+    "Sunghwan Kim",
+    "Deogyong Kim",
+    "Jaehoon Kim",
+    "Daye Nam"
+   ],
+   "comments": 2,
+   "date": "2026-09-16T20:00:00+00:00",
+   "github": null,
+   "id": "2609.19656",
+   "link": "https://huggingface.co/papers/2609.19656",
+   "linked": {
+    "datasets": 0,
+    "models": 0,
+    "spaces": 0,
+    "top_datasets": [],
+    "top_models": []
+   },
+   "n_authors": 8,
+   "summary": "Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs. Because retrieval relies on an index that represents each document through index keys, retrieval quality depends heavily on how effectively…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.19656.png",
+   "title": "Self-Evolving Search Index",
+   "upvotes": 19
+  },
+  {
+   "arxiv": "https://arxiv.org/abs/2609.19879",
+   "authors": [
+    "Bhavana Akkiraju",
+    "Ravi Sastry Kolluru",
+    "Sri Charan D",
+    "Srihari Bandarupalli",
+    "Santosh Kesiraju",
+    "Anil Vuppala"
+   ],
+   "comments": 2,
+   "date": "2026-09-16T20:00:00+00:00",
+   "github": null,
+   "id": "2609.19879",
+   "link": "https://huggingface.co/papers/2609.19879",
+   "linked": {
+    "datasets": 1,
+    "models": 0,
+    "spaces": 1,
+    "top_datasets": [
+     "Bhavanaakkiraju/VakQA"
+    ],
+    "top_models": []
+   },
+   "n_authors": 6,
+   "summary": "Question answering has advanced rapidly with large language models, but predominantly for high-resource languages, in both text and spoken settings. Spoken question answering (SQA) benchmark for Telugu remains unexplored, and the reliability of automatic…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.19879.png",
+   "title": "VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering",
+   "upvotes": 12
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.18779",
@@ -451,7 +513,7 @@
    "summary": "Current Mixture-of-Agents (MoA) paradigms generally treat query routing and agent fine-tuning as separate processes, limiting their ability to respond to evolving agent capabilities. This disconnect prevents routing strategies from adapting to evolving agent…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18779.png",
    "title": "CERA-MoA: Co-Evolving Routing Mechanisms with Continually Learning LLM Agents",
-   "upvotes": 4
+   "upvotes": 5
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.19138",
@@ -479,7 +541,7 @@
    "summary": "Enabling robots to adapt to unfamiliar environments as readily as humans remains a moonshot goal of embodied AI. No finite collection of demonstrations can cover every task and situation a robot will encounter, making the ability to learn from context at…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.19138.png",
    "title": "In-Context Robot Learning with VLM Agents",
-   "upvotes": 15
+   "upvotes": 16
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.18063",
@@ -597,7 +659,7 @@
    "summary": "Action tokenizers play a central role in autoregressive vision-language-action (VLA) models, determining both the targets for policy training and the executable commands recovered from predicted tokens. Their fidelity is commonly evaluated using pointwise…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18487.png",
    "title": "ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models",
-   "upvotes": 38
+   "upvotes": 40
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.19144",
@@ -635,7 +697,7 @@
     "Hao Zhang",
     "Binfeng Xu"
    ],
-   "comments": 2,
+   "comments": 3,
    "date": "2026-09-15T20:00:00+00:00",
    "github": "https://github.com/yifanzhang-pro/Agora",
    "id": "2609.18094",
@@ -651,7 +713,7 @@
    "summary": "Autonomous research loops such as AutoResearch show that one coding agent can improve a training setup unattended. Run several of them and each session starts from scratch, so more agents tend to mean more duplicated search rather than more discovery. Agora…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18094.png",
    "title": "Agora: Git as Shared Memory for Collective AutoResearch",
-   "upvotes": 40
+   "upvotes": 41
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.19134",
@@ -679,7 +741,7 @@
    "summary": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to convert into reliable…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.19134.png",
    "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
-   "upvotes": 72
+   "upvotes": 73
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.18011",
@@ -734,7 +796,7 @@
    "summary": "Coding agents are typically evaluated with desired behavior specified through issues or instructions. In practical web development, however, agents may need to infer behavior from working software and implement it in an incomplete application. We introduce…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18805.png",
    "title": "ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks",
-   "upvotes": 45
+   "upvotes": 46
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.18323",
@@ -746,7 +808,7 @@
     "Zihao Zhang",
     "Xudong Wang"
    ],
-   "comments": 1,
+   "comments": 4,
    "date": "2026-09-15T20:00:00+00:00",
    "github": "https://github.com/gulucaptain/MiniMax-H3-Reason",
    "id": "2609.18323",
@@ -762,7 +824,7 @@
    "summary": "Recent Omni-Modal Generative Models (Omni-Models) have advanced content generation toward unified modeling of text, images, video, and audio. MiniMax-H3 exemplifies this transition by combining multimodal context understanding with joint audio-visual…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18323.png",
    "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
-   "upvotes": 20
+   "upvotes": 90
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.18605",
@@ -770,7 +832,7 @@
     "Mika Okamoto",
     "Ansel Kaplan Erol"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-15T20:00:00+00:00",
    "github": "https://github.com/trace-ai-labs/pact",
    "id": "2609.18605",
@@ -786,7 +848,31 @@
    "summary": "As corporate AI adoption continues to grow, enterprise-grade LLM agents are being deployed into sensitive contexts such as hiring, healthcare, and finance. In these contexts, compliance with rules specified in an agent's system context is a first-order legal…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18605.png",
    "title": "PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?",
-   "upvotes": 2
+   "upvotes": 14
+  },
+  {
+   "arxiv": "https://arxiv.org/abs/2609.19499",
+   "authors": [
+    "Mobina Kashaniyan",
+    "Ali Jannesari"
+   ],
+   "comments": 2,
+   "date": "2026-09-15T20:00:00+00:00",
+   "github": null,
+   "id": "2609.19499",
+   "link": "https://huggingface.co/papers/2609.19499",
+   "linked": {
+    "datasets": 0,
+    "models": 0,
+    "spaces": 0,
+    "top_datasets": [],
+    "top_models": []
+   },
+   "n_authors": 2,
+   "summary": "Test-time scaling can improve large language model reasoning by generating and combining multiple candidate responses. In sampling-based methods, the inference budget is often described by the number of generated candidates, N. However, N tells us how many…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.19499.png",
+   "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
+   "upvotes": 14
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.17320",
@@ -977,7 +1063,7 @@
    "summary": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is pretrained with Context-Conditional…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.17488.png",
    "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
-   "upvotes": 188
+   "upvotes": 277
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.17708",
@@ -1005,7 +1091,7 @@
    "summary": "Reliable confidence estimation is increasingly central to the trustworthy deployment of language models: a calibrated estimate of the probability that an output is correct decides what to ship, what to escalate, and what to retry. Existing confidence…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.17708.png",
    "title": "Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents",
-   "upvotes": 51
+   "upvotes": 54
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.17909",
@@ -1035,7 +1121,7 @@
    "summary": "We introduce Zing-0.5, a 5B autoregressive world model designed for playability: users can explore generated worlds, influence unfolding events, and respond to the resulting feedback through joint keyboard and online text control. Our approach brings together…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.17909.png",
    "title": "Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control",
-   "upvotes": 27
+   "upvotes": 29
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.17632",
@@ -1045,7 +1131,7 @@
     "Minki Kang",
     "Sung Ju Hwang"
    ],
-   "comments": 2,
+   "comments": 3,
    "date": "2026-09-14T20:00:00+00:00",
    "github": null,
    "id": "2609.17632",
@@ -1061,7 +1147,7 @@
    "summary": "Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before deployment. This limits their ability to adapt how they…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.17632.png",
    "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-   "upvotes": 30
+   "upvotes": 31
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.17189",
@@ -1153,7 +1239,7 @@
     "Yong Du",
     "Tongbo Chen"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-14T20:00:00+00:00",
    "github": "https://github.com/ZJU-REAL/EvoSkill-GUI",
    "id": "2609.17653",
@@ -1169,7 +1255,7 @@
    "summary": "GUI agents execute long-horizon tasks on dynamic graphical user interfaces, where pop-ups, delayed loads, and relocated widgets routinely invalidate plans fixed before execution. Recent agent-skill frameworks encapsulate reusable procedural knowledge to…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.17653.png",
    "title": "Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents",
-   "upvotes": 7
+   "upvotes": 24
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.16900",
@@ -1181,7 +1267,7 @@
     "Yifan Wang",
     "Zhengqi Huang"
    ],
-   "comments": 2,
+   "comments": 3,
    "date": "2026-09-14T20:00:00+00:00",
    "github": "https://github.com/mattheliu/riskchainbench-task1",
    "id": "2609.16900",
@@ -1197,7 +1283,7 @@
    "summary": "Platform abuse campaigns conceal redirection instructions with emojis, homophones, character decomposition, and redundant symbols, then route users through disguised links to services associated with pornography, fraud, gambling, or illicit transactions…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.16900.png",
    "title": "RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation",
-   "upvotes": 16
+   "upvotes": 29
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.17172",
@@ -1223,6 +1309,34 @@
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.17172.png",
    "title": "Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand",
    "upvotes": 1
+  },
+  {
+   "arxiv": "https://arxiv.org/abs/2609.17496",
+   "authors": [
+    "Amir Taubenfeld",
+    "Zorik Gekhman",
+    "Avigail Grinstein-Dabush",
+    "Itay Laish",
+    "Ariel Goldstein",
+    "Marian Croak"
+   ],
+   "comments": 2,
+   "date": "2026-09-14T20:00:00+00:00",
+   "github": null,
+   "id": "2609.17496",
+   "link": "https://huggingface.co/papers/2609.17496",
+   "linked": {
+    "datasets": 0,
+    "models": 0,
+    "spaces": 0,
+    "top_datasets": [],
+    "top_models": []
+   },
+   "n_authors": 9,
+   "summary": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns about social situations from subjective user narratives…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.17496.png",
+   "title": "Verifiable Social Reasoning for LLM Assistants",
+   "upvotes": 27
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.15504",
@@ -1941,8 +2055,8 @@
     ],
     "top_models": [
      "albertge/llada-8b-dllm-registers-mix60k-t4",
-     "albertge/dream-7b-dllm-registers-mix60k-t4",
-     "albertge/dream-7b-dllm-registers-mix60k-r4"
+     "albertge/dream-7b-dllm-registers-mix60k-r4",
+     "albertge/dream-7b-dllm-registers-mix60k-t4"
     ]
    },
    "n_authors": 6,
@@ -2658,15 +2772,15 @@
     ],
     "top_models": [
      "maelic/relsgg-vits16plus",
-     "maelic/relsgg-vitb16",
-     "maelic/relsgg-vits16"
+     "maelic/relsgg-vits16",
+     "maelic/relsgg-vitb16"
     ]
    },
    "n_authors": 1,
    "summary": "Open-vocabulary detection accepts any class list at inference, and promptable segmentation returns regions without class names: the taxonomy has left the model and become an input. Relation prediction has not. Scene-graph models are still trained and…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.12552.png",
    "title": "RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs",
-   "upvotes": 3
+   "upvotes": 4
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.13406",
@@ -5894,23 +6008,25 @@
    "authors": [
     "Anil Pai"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-03T20:00:00+00:00",
    "github": null,
    "id": "2609.05661",
    "link": "https://huggingface.co/papers/2609.05661",
    "linked": {
     "datasets": 0,
-    "models": 0,
-    "spaces": 0,
+    "models": 1,
+    "spaces": 2,
     "top_datasets": [],
-    "top_models": []
+    "top_models": [
+     "loopdesk-ai/lipika-fontclip"
+    ]
    },
    "n_authors": 1,
    "summary": "We present Srijika, a system for producing installable OpenType fonts for nine Brahmic scripts: Devanagari, Tamil, Bengali, Telugu, Kannada, Malayalam, Gujarati, Gurmukhi, and Odia. Rather than generating fonts from scratch, Srijika restyles glyph outlines…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05661.png",
    "title": "Srijika: OpenType-Layout-Reusing Font Restyling for Nine Indic Scripts",
-   "upvotes": 1
+   "upvotes": 13
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.04280",
@@ -6238,58 +6354,6 @@
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.30597.png",
    "title": "PLC-DPO: Posterior Label Correction in Noisy and Ambiguous Preference Optimization",
    "upvotes": 22
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2608.29109",
-   "authors": [
-    "Yucheng Du",
-    "Xiyang Hu"
-   ],
-   "comments": 2,
-   "date": "2026-08-28T20:00:00+00:00",
-   "github": "https://github.com/yucheng-du/recognition-refusal-misalignment",
-   "id": "2608.29109",
-   "link": "https://huggingface.co/papers/2608.29109",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 2,
-   "summary": "Large language models often answer structurally unanswerable questions, such as computing cot(-540°) or evaluating (1).startswith(\"1\"), instead of abstaining. We ask whether this failure reflects missing recognition or failed routing from recognition to…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.29109.png",
-   "title": "Recognition-Refusal Misalignment in LLMs: Why Models Answer Structurally Unanswerable Questions",
-   "upvotes": 15
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2608.12564",
-   "authors": [
-    "Xiyuan Yang",
-    "Sheikh Sarwar",
-    "Jingru Cheng",
-    "Zhan Shi",
-    "Duanshun Li",
-    "Huiyuan Chen"
-   ],
-   "comments": 2,
-   "date": "2026-08-28T20:00:00+00:00",
-   "github": "https://github.com/xiyuanyang45/WMRL",
-   "id": "2608.12564",
-   "link": "https://huggingface.co/papers/2608.12564",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 11,
-   "summary": "Automating empirical research is a long-standing direction of AI. Recent automatic research (AutoResearch) agents bring this goal within reach, as modern LLMs show the capability to independently implement solutions and learn from the execution outcomes…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.12564.png",
-   "title": "Scaling Automatic Research Agents via World Models",
-   "upvotes": 451
   }
  ],
  "source": "Hugging Face Daily Papers",

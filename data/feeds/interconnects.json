@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-18T11:20:08.647108+00:00",
+ "fetched_at": "2026-09-19T11:04:04.930124+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -85,13 +85,6 @@
    "link": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
    "summary": "A podcast with Florian Brand. Exciting news! My book trying to share post-training knowledge with the world is done and shipping soon. Order on Manning or Amazon . Thanks for the support. It’s currently the #1 AI book…",
    "title": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next"
-  },
-  {
-   "date": "2026-07-20T15:48:28+00:00",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/b7967fef-8d08-4180-a3fd-8c2239bc9619_3182x1790.png",
-   "link": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
-   "summary": "The global implications on the AI ecosystem. On Thursday July 16th, Moonshot AI released their latest flagship model Kimi K3 . K3 is a 2.8T parameter MoE model which will have its weights released on July 27th. Much of…",
-   "title": "Kimi K3: The open-weights escalation"
   }
  ],
  "name": "Interconnects",

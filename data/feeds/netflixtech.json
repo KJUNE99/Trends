@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-18T11:20:08.647108+00:00",
+ "fetched_at": "2026-09-19T11:04:04.930124+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-09-18T16:01:02+00:00",
+   "image": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png",
+   "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+   "summary": "Introducing composable, module system native and agent friendly command line tools for modern Java development By Danny Thomas, JVM Ecosystem Team Recent work on the Java language to pave the on-ramp has made it easier…",
+   "title": "Leave the Class Path in the Rearview Mirror"
+  },
   {
    "date": "2026-08-28T16:01:02+00:00",
    "image": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png",

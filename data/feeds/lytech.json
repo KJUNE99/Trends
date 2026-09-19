@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-18T11:20:08.647108+00:00",
+ "fetched_at": "2026-09-19T11:04:04.930124+00:00",
  "group": "eng",
  "items": [
   {
@@ -22,13 +22,6 @@
    "link": "https://techblog.lycorp.co.jp/en/applying-e2ee-to-apache-kafka-in-line-app",
    "summary": "Introduction: Why end-to-end encryption for Kafka?On the LINE app, billions of messages are exchange...",
    "title": "1M messages per second: Applying E2EE to Apache Kafka in the LINE app"
-  },
-  {
-   "date": "2026-07-21T07:00:00+00:00",
-   "image": null,
-   "link": "https://techblog.lycorp.co.jp/en/building-group-video-calls-inside-line-app-with-ai-and-line-planet",
-   "summary": "LINE Developers and LINE front-end framework (LIFF) let you open a service space for LINE app users....",
-   "title": "Using AI to build a group video call service inside the LINE app without a web engineer"
   }
  ],
  "name": "LY Tech",

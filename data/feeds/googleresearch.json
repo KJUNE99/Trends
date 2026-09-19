@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-18T11:20:08.647108+00:00",
+ "fetched_at": "2026-09-19T11:04:04.930124+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-18T17:46:09+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/middle-mile_logistics2-LifeOfShipment.png",
+   "link": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+   "summary": null,
+   "title": "MilleMiglia: A realistic instance generator for middle-mile logistics"
+  },
   {
    "date": "2026-09-17T20:45:00+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
