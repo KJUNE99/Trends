@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-19T11:04:04.930124+00:00",
+ "fetched_at": "2026-09-20T11:29:13.811592+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-09-19T15:42:20+00:00",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/db8863aa-02d1-4312-af95-965ef0d7ca9b_3182x1790.png",
+   "link": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+   "summary": "An “AI moderate’s” view on recent events and the trajectory of frontier models. We’re in an era where a few organizations are using thousands of concurrent agents to improve their processes and output. These…",
+   "title": "Why I still haven’t bought into true RSI"
+  },
   {
    "date": "2026-09-11T12:36:25+00:00",
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",

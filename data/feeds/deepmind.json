@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-19T11:04:04.930124+00:00",
+ "fetched_at": "2026-09-20T11:29:13.811592+00:00",
  "group": "lab",
  "items": [
   {
@@ -120,13 +120,6 @@
    "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
    "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission"
-  },
-  {
-   "date": "2026-07-21T15:16:30+00:00",
-   "image": null,
-   "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-   "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-   "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
   }
  ],
  "name": "Google DeepMind",
