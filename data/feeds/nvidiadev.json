@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-20T11:29:13.811592+00:00",
+ "fetched_at": "2026-09-21T12:53:38.805509+00:00",
  "group": "lab",
  "items": [
   {
@@ -505,13 +505,6 @@
    "link": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
    "summary": "Customization is what enables developers to take a general model and tailor it to use cases, domains, languages, and more. However, customization comes with a... Customization is what enables developers to take a…",
    "title": "Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes"
-  },
-  {
-   "date": "2026-07-22T16:35:04+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/NVIDIA-NCCL-Inspector-Real-Time-Performance-Monitoring-768x432.png",
-   "link": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
-   "summary": "A TensorRT engine build can take seconds to many minutes. Large strongly typed models, deep tactic search, and a cold timing cache on a brand-new GPU SKU can... A TensorRT engine build can take seconds to many minutes…",
-   "title": "Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++"
   }
  ],
  "name": "NVIDIA Developer",

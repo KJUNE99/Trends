@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-20T11:29:13.811592+00:00",
+ "fetched_at": "2026-09-21T12:53:38.805509+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-21T10:00:35+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/clean-energy-key-visual-1920x1080-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+   "summary": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
+   "title": "5 Companies Using NVIDIA AI for Clean Energy"
+  },
   {
    "date": "2026-09-17T13:00:55+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gfn-thursday-9-17-blog-1920x1080-logo.jpg",

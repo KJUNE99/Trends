@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-20T11:29:13.811592+00:00",
+ "fetched_at": "2026-09-21T12:53:38.805509+00:00",
  "group": "lab",
  "items": [
   {
@@ -239,13 +239,6 @@
    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
    "summary": null,
    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident"
-  },
-  {
-   "date": "2026-07-23T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/nunchaku-diffusers",
-   "summary": null,
-   "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers"
   }
  ],
  "name": "Hugging Face",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-20T11:29:13.811592+00:00",
+ "fetched_at": "2026-09-21T12:53:38.805509+00:00",
  "group": "lab",
  "items": [
   {
@@ -764,34 +764,6 @@
    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
    "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
    "title": "How AI is expanding what people do at work"
-  },
-  {
-   "date": "2026-07-23T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/health-in-chatgpt",
-   "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-   "title": "Launching Health in ChatGPT"
-  },
-  {
-   "date": "2026-07-22T13:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-   "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-   "title": "Building AI infrastructure with the Effingham County community"
-  },
-  {
-   "date": "2026-07-22T13:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/how-news-organizations-are-using-ai",
-   "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-   "title": "How news organizations are using AI to advance their vital missions"
-  },
-  {
-   "date": "2026-07-22T12:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-   "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-   "title": "Advancing the next era of national science"
   }
  ],
  "name": "OpenAI",

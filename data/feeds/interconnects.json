@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-20T11:29:13.811592+00:00",
+ "fetched_at": "2026-09-21T12:53:38.805509+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-09-21T11:56:56+00:00",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/da6bb5fd-56d4-49ec-a19b-dafc917414e1_3182x1790.png",
+   "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+   "summary": "The expanded form of a testimony I prepared for Congress. I was recently invited to brief a group of Congressional members and staff on the state of open-weight models in the lens of U.S.-China competition. I’m sharing…",
+   "title": "The current balance of power in open models"
+  },
   {
    "date": "2026-09-19T15:42:20+00:00",
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/db8863aa-02d1-4312-af95-965ef0d7ca9b_3182x1790.png",
@@ -85,13 +92,6 @@
    "link": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
    "summary": "Capacity to train strong models is proliferating. Consolidation has been one of the paths that many astute observers predicted for the near-future of labs training models. It was labelled as inevitable, as training…",
    "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier"
-  },
-  {
-   "date": "2026-07-22T14:09:04+00:00",
-   "image": null,
-   "link": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
-   "summary": "A podcast with Florian Brand. Exciting news! My book trying to share post-training knowledge with the world is done and shipping soon. Order on Manning or Amazon . Thanks for the support. It’s currently the #1 AI book…",
-   "title": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next"
   }
  ],
  "name": "Interconnects",

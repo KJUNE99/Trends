@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-20T11:29:13.811592+00:00",
+ "fetched_at": "2026-09-21T12:53:38.805509+00:00",
  "group": "lab",
  "items": [
   {
@@ -120,20 +120,6 @@
    "link": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
    "summary": null,
    "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence"
-  },
-  {
-   "date": "2026-07-22T21:32:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/SymptomAI1_Overview.png",
-   "link": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
-   "summary": null,
-   "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment"
-  },
-  {
-   "date": "2026-07-22T18:40:21+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/RL_for__QEC-2.png",
-   "link": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
-   "summary": null,
-   "title": "Towards a quantum computer that learns from its errors"
   }
  ],
  "name": "Google Research",
