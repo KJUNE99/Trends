@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-09-21T12:53:38.805509+00:00",
+ "fetched_at": "2026-09-22T11:43:29.789190+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-21T21:51:06+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/grid-robot-arm-cleaning-plate-1-768x432.png",
+   "link": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/",
+   "summary": "The compute and memory demands of generative AI increasingly exceed what a single GPU can provide. NVIDIA TensorRT multi-device inference is a new capability... The compute and memory demands of generative AI…",
+   "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton"
+  },
+  {
+   "date": "2026-09-21T21:05:28+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image4-10-768x432.png",
+   "link": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
+   "summary": "When you ship an AI agent, the key question is whether it can execute a chain of work across dozens of sequential tool calls against a live environment, and... When you ship an AI agent, the key question is whether it…",
+   "title": "How to Evaluate AI Agents From Tool Calls to Task Completion"
+  },
+  {
+   "date": "2026-09-21T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image7-1-768x432.png",
+   "link": "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2/",
+   "summary": "Weather-sensitive industries increasingly have access to observations that offer an earlier, more local view of changing conditions. Energy companies collect... Weather-sensitive industries increasingly have access to…",
+   "title": "Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2"
+  },
   {
    "date": "2026-09-18T19:04:41+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image3-10-768x432.png",
@@ -491,20 +512,6 @@
    "link": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
    "summary": "Every byte moved has a cost. As model checkpoints grow to hundreds of gigabytes or even a terabyte, that cost adds up quickly. To make things even worse, moving... Every byte moved has a cost. As model checkpoints grow…",
    "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light"
-  },
-  {
-   "date": "2026-07-23T16:07:03+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/walking-machine-game-rtx-768x432.png",
-   "link": "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/",
-   "summary": "NVIDIA OptiX ray tracing engine is an application framework for achieving optimal ray tracing performance on the GPU. Applications using OptiX can fail in ways... NVIDIA OptiX ray tracing engine is an application…",
-   "title": "Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit"
-  },
-  {
-   "date": "2026-07-23T16:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Start-Customizing-768x432.png",
-   "link": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
-   "summary": "Customization is what enables developers to take a general model and tailor it to use cases, domains, languages, and more. However, customization comes with a... Customization is what enables developers to take a…",
-   "title": "Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes"
   }
  ],
  "name": "NVIDIA Developer",

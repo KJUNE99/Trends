@@ -1,7 +1,42 @@
 {
- "fetched_at": "2026-09-21T12:53:38.805509+00:00",
+ "fetched_at": "2026-09-22T11:43:29.789190+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-21T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+   "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+   "title": "Advisory Group on Mathematics and Artificial Intelligence"
+  },
+  {
+   "date": "2026-09-21T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+   "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra"
+  },
+  {
+   "date": "2026-09-21T10:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/building-standards-next-phase-ai",
+   "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+   "title": "Building standards for the next phase of AI"
+  },
+  {
+   "date": "2026-09-21T07:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+   "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+   "title": "Expanding OpenAI Academy with new learning paths"
+  },
+  {
+   "date": "2026-09-21T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/v7",
+   "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+   "title": "How V7 gives AI agents institutional memory"
+  },
   {
    "date": "2026-09-18T12:00:00+00:00",
    "image": null,

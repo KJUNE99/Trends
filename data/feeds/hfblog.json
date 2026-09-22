@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-09-21T12:53:38.805509+00:00",
+ "fetched_at": "2026-09-22T11:43:29.789190+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-22T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+   "summary": null,
+   "title": "Transformers now runs llama.cpp quants"
+  },
+  {
+   "date": "2026-09-22T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/omlx",
+   "summary": null,
+   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
+  },
+  {
+   "date": "2026-09-21T13:44:34+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+   "summary": null,
+   "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem"
+  },
+  {
+   "date": "2026-09-21T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/tokenizers-v1",
+   "summary": null,
+   "title": "tokenizers v1: encode, decode and scaling, measured"
+  },
   {
    "date": "2026-09-15T16:00:44+00:00",
    "image": null,

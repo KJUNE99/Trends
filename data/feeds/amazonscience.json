@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-09-21T12:53:38.805509+00:00",
+ "fetched_at": "2026-09-22T11:43:29.789190+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-21T19:31:59+00:00",
+   "image": "https://cdn.amazon.science/57/26/b1f0162a4fcfaa048d7089cb7c17/20231114-big-game-week-n6a2693-2.jpeg",
+   "link": "https://www.amazon.science/news/amazon-launches-research-initiative-with-stanford-university-to-advance-ai-and-science",
+   "summary": "The collaboration aims to advance research while broadening participation and translating discovery into real-world solutions.Amazon has launched the Stanford and Amazon Research Initiative with Stanford University, a…",
+   "title": "Amazon launches research initiative with Stanford University to advance AI and science"
+  },
+  {
+   "date": "2026-09-21T17:51:00+00:00",
+   "image": null,
+   "link": "https://www.amazon.science/blog/advancing-ai-for-biology-teaching-models-to-design-and-characterize-antibodies",
+   "summary": "Three new papers from Amazon Bio Discovery address bottlenecks in AI-driven antibody engineering, from benchmarking binding predictors to experimentally validating de novo design.Monoclonal antibodies are one of the…",
+   "title": "Advancing AI for biology: Teaching models to design and characterize antibodies"
+  },
   {
    "date": "2026-09-10T15:03:39+00:00",
    "image": "https://cdn.amazon.science/28/46/0121ba1e4b42be0c56e7560c9844/compressionmodels-03-16x9.png",
