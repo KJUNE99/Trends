@@ -1,7 +1,42 @@
 {
- "fetched_at": "2026-09-22T11:43:29.789190+00:00",
+ "fetched_at": "2026-09-23T11:42:15.842877+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-23T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+   "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia"
+  },
+  {
+   "date": "2026-09-22T21:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+   "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+   "title": "Better prompt caching for GPT-6"
+  },
+  {
+   "date": "2026-09-22T18:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+   "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+   "title": "Introducing GPT-6 Sol and Luna"
+  },
+  {
+   "date": "2026-09-22T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+   "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+   "title": "Parallel cut research time and cost in half with GPT‑6 Astra"
+  },
+  {
+   "date": "2026-09-22T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+   "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+   "title": "Priorities and principles for effective third party assessments"
+  },
   {
    "date": "2026-09-21T12:00:00+00:00",
    "image": null,

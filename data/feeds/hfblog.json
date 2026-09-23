@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-22T11:43:29.789190+00:00",
+ "fetched_at": "2026-09-23T11:42:15.842877+00:00",
  "group": "lab",
  "items": [
   {
@@ -15,6 +15,13 @@
    "link": "https://huggingface.co/blog/omlx",
    "summary": null,
    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
+  },
+  {
+   "date": "2026-09-22T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/evaleval-aisi",
+   "summary": null,
+   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible"
   },
   {
    "date": "2026-09-21T13:44:34+00:00",

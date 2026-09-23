@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-09-22T11:43:29.789190+00:00",
+ "fetched_at": "2026-09-23T11:42:15.842877+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-22T17:27:41+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/12/cybersecurity-graphic-1-768x432.png",
+   "link": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/",
+   "summary": "As large language model (LLM) inference increasingly processes sensitive information and proprietary model context across personal, enterprise, and regulated... As large language model (LLM) inference increasingly…",
+   "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing"
+  },
+  {
+   "date": "2026-09-22T17:16:28+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/inference-nvidia-dynamo-blog-1280x680-1-e1758728822171-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/",
+   "summary": "AI factories are power-limited systems that deliver maximum value when fully optimized. GPU workload placement is a key optimization. Poor workload placement... AI factories are power-limited systems that deliver…",
+   "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph"
+  },
+  {
+   "date": "2026-09-22T13:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/1_16x9-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
+   "summary": "NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and granular controls that help game developers add lifelike lighting and material detail while... NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and…",
+   "title": "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities"
+  },
+  {
+   "date": "2026-09-22T12:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robot-arm-ros-2-node-768x432.png",
+   "link": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/",
+   "summary": "GPU acceleration can speed up compute-intensive robotics workloads, but a fast CUDA kernel alone does not guarantee a fast ROS 2 graph. As messages move between... GPU acceleration can speed up compute-intensive…",
+   "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS"
+  },
   {
    "date": "2026-09-21T21:51:06+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/grid-robot-arm-cleaning-plate-1-768x432.png",
@@ -46,7 +74,7 @@
   },
   {
    "date": "2026-09-16T16:28:59+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/07/neon-green-cube-768x432-png.webp",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/07/neon-green-cube-768x432.png",
    "link": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
    "summary": "cuTile Rust (cutile-rs) is a tile-based system for safe, idiomatic GPU kernel authoring in the Rust programming language. Extending the Rust ownership model to... cuTile Rust () is a tile-based system for safe…",
    "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI"
@@ -445,7 +473,7 @@
   },
   {
    "date": "2026-07-30T22:43:04+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-768x432-jpg.webp",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
    "summary": "NVIDIA nvmath-python is a library designed to bridge the gap between the Python scientific community and NVIDIA CUDA-X math libraries. It gives Python users... NVIDIA nvmath-python is a library designed to bridge the…",
    "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python"
@@ -505,13 +533,6 @@
    "link": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
    "summary": "As AI workloads increase, explosive compute demand is pushing the semiconductor industry to meet unprecedented performance targets. Even small delays can have... As AI workloads increase, explosive compute demand is…",
    "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing"
-  },
-  {
-   "date": "2026-07-24T16:45:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image5-11-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
-   "summary": "Every byte moved has a cost. As model checkpoints grow to hundreds of gigabytes or even a terabyte, that cost adds up quickly. To make things even worse, moving... Every byte moved has a cost. As model checkpoints grow…",
-   "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light"
   }
  ],
  "name": "NVIDIA Developer",

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-22T11:43:29.789190+00:00",
+ "fetched_at": "2026-09-23T11:42:15.842877+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-09-22T13:37:45+00:00",
+   "image": null,
+   "link": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+   "summary": "Podcast #19 This episode is with Jean-Stanislas “JS” Denain of Epoch AI, who leads their Insights Team and is one of the people I find myself debating the state and trajectory of AI with more and more. We’ve had…",
+   "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI"
+  },
   {
    "date": "2026-09-21T11:56:56+00:00",
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/da6bb5fd-56d4-49ec-a19b-dafc917414e1_3182x1790.png",
