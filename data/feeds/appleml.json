@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-23T11:42:15.842877+00:00",
+ "fetched_at": "2026-09-24T11:50:38.908479+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-23T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/guide-language-flow",
+   "summary": "We introduce a new method to guide flow matching models. Our approach, which we call probe guidance, uses the frozen internal states of an existing diffusion model to construct a guidance signal. This works using a…",
+   "title": "How to Guide Your Language Flow"
+  },
   {
    "date": "2026-09-18T00:00:00+00:00",
    "image": null,

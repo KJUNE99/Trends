@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-23T11:42:15.842877+00:00",
+ "fetched_at": "2026-09-24T11:50:38.908479+00:00",
  "group": "lab",
  "items": [
   {
@@ -78,13 +78,6 @@
    "link": "https://www.amazon.science/blog/a-new-benchmark-for-evaluating-patient-facing-health-ai-agents",
    "summary": "PatientAgentBench generates a synthetic patient health record, a realistic clinical vignette, and a patient agent that converses with the AI system under evaluation, to capture what a patient-facing agent actually has…",
    "title": "A new benchmark for evaluating patient-facing health AI agents"
-  },
-  {
-   "date": "2026-07-26T08:00:00+00:00",
-   "image": null,
-   "link": "https://www.amazon.science/news/amazon-is-investing-in-the-lean-focused-research-organization",
-   "summary": "As AI agents take on higher-stakes decisions, Lean programming language makes it possible to mathematically prove they will behave safely.We want to tell you about an investment we're making and why we're excited about…",
-   "title": "Amazon is investing in the Lean Focused Research Organization"
   }
  ],
  "name": "Amazon Science",

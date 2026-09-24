@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-23T11:42:15.842877+00:00",
+ "fetched_at": "2026-09-24T11:50:38.908479+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-09-24T00:00:00+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/09/Private-Processing-for-AI-Glasses.png",
+   "link": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
+   "summary": "We believe glasses are the best form factor for having AI help throughout your day. They can understand your personal context better than other kinds of devices and keep you present without picking up a mobile phone…",
+   "title": "Bringing Private Processing to Meta AI Glasses"
+  },
   {
    "date": "2026-09-21T16:00:37+00:00",
    "image": "https://engineering.fb.com/wp-content/uploads/2026/09/Rebalancer-Meta-Image-1.png",
