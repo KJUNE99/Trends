@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-24T11:50:38.908479+00:00",
+ "fetched_at": "2026-09-25T11:54:26.583641+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-24T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/DNA-Helix-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/",
+   "summary": "As language models grow, scaling dense architectures becomes increasingly expensive. In a dense transformer, every token passes through every layer, so adding... As language models grow, scaling dense architectures…",
+   "title": "Efficient MoE Training for Biological Foundation Models"
+  },
   {
    "date": "2026-09-23T22:54:56+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/ct-scan-image-768x432.jpg",
@@ -540,27 +547,6 @@
    "link": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
    "summary": "NVIDIA Ising Calibration is an open source vision language model (VLM) designed to interpret diagnostic outputs from quantum processors and determine how they... NVIDIA Ising Calibration is an open source vision…",
    "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning"
-  },
-  {
-   "date": "2026-07-27T09:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Agentic-AI-NOOA-768x432.png",
-   "link": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/",
-   "summary": "Building a great AI agent isn’t just about choosing the right models. The harness is the architecture surrounding the model. How it renders context, executes... Building a great AI agent isn’t just about choosing the…",
-   "title": "Six Agent Harness Capabilities for Higher Model Performance"
-  },
-  {
-   "date": "2026-07-27T00:45:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image4-11-768x432.png",
-   "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
-   "summary": "Modern chip design is increasingly limited by engineering time. Register transfer level (RTL) development and verification require specialized hardware... Modern chip design is increasingly limited by engineering time…",
-   "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding"
-  },
-  {
-   "date": "2026-07-27T00:45:00+00:00",
-   "image": null,
-   "link": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
-   "summary": "As AI workloads increase, explosive compute demand is pushing the semiconductor industry to meet unprecedented performance targets. Even small delays can have... As AI workloads increase, explosive compute demand is…",
-   "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing"
   }
  ],
  "name": "NVIDIA Developer",

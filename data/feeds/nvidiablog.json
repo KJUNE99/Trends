@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-09-24T11:50:38.908479+00:00",
+ "fetched_at": "2026-09-25T11:54:26.583641+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-24T14:00:50+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/AF-0000000212056767-master-black-background-scaled.png",
+   "link": "https://blogs.nvidia.com/blog/open-protein-dataset/",
+   "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time. The next pandemic may…",
+   "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic"
+  },
+  {
+   "date": "2026-09-24T13:00:36+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/GFN_Thursday-Sept_24.jpg",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
+   "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the…",
+   "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW"
+  },
   {
    "date": "2026-09-23T15:00:32+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141.png",

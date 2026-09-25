@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-24T11:50:38.908479+00:00",
+ "fetched_at": "2026-09-25T11:54:26.583641+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-24T19:40:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
+   "link": "https://research.google/blog/coherent-long-form-video-generation/",
+   "summary": null,
+   "title": "Automating coherent long-form video generation"
+  },
   {
    "date": "2026-09-18T17:46:09+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/middle-mile_logistics2-LifeOfShipment.png",

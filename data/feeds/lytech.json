@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-24T11:50:38.908479+00:00",
+ "fetched_at": "2026-09-25T11:54:26.583641+00:00",
  "group": "eng",
  "items": [
   {
@@ -15,13 +15,6 @@
    "link": "https://techblog.lycorp.co.jp/en/developing-harmfulness-detection-model-for-open-chat-metadata",
    "summary": "Hello. I am Yeoun Yi, an ML engineer on the AI Services Lab team. Our team develops models to preven...",
    "title": "Developing a model to detect harmful content from OpenChat titles and descriptions"
-  },
-  {
-   "date": "2026-07-27T08:30:00+00:00",
-   "image": null,
-   "link": "https://techblog.lycorp.co.jp/en/applying-e2ee-to-apache-kafka-in-line-app",
-   "summary": "Introduction: Why end-to-end encryption for Kafka?On the LINE app, billions of messages are exchange...",
-   "title": "1M messages per second: Applying E2EE to Apache Kafka in the LINE app"
   }
  ],
  "name": "LY Tech",
