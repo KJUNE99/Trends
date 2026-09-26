@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-25T11:54:26.583641+00:00",
+ "fetched_at": "2026-09-26T11:29:03.820695+00:00",
  "group": "eng",
  "items": [
   {
@@ -78,13 +78,6 @@
    "link": "https://tech.kakao.com/posts/827",
    "summary": "Intro 안녕하세요, 카카오의 AI 모델 개발을 담당하는 카나나(Kanana) 조직의 Martin(조대진), Abigail(박혜영), Edwin(강우영)입니다. 저희 팀에서는 사람처럼 보고, 듣고, 말하는 통합 멀티모달(Multimodal) 언어모델을 중점적으로 개발하고 있습니다. 지난 5월, 국내 최초로 공개한 통합 멀티모달 언어모델 공개 이후, 저희는 실제 서비스 환경에서 더 나은…",
    "title": "잘 말하는 AI를 넘어, 원하는 대로 말하는 AI로: Kanana-o 음성 생성 고도화 과정"
-  },
-  {
-   "date": "2026-07-27T15:00:00+00:00",
-   "image": null,
-   "link": "https://tech.kakao.com/posts/826",
-   "summary": "안녕하세요. 카카오의 AI 모델 개발을 담당하는 카나나 LLM 조직에서 언어모델을 개발하고 있는 Kaya, Ryan, Wavy 입니다. 지난 “작지만 강한 Kanana Nano 효율적으로 개발하기”에서 비용 효율적으로 SLM(Small Language Model)을 개발하는 방법에 대해서 소개드렸었는데요, 이번 글에서는 더 강력해져서 돌아온 카카오의 두 번째 SLM 시리즈를 소개드리고자…",
-   "title": "더 작고 강해진 Kanana SLM 개발"
   }
  ],
  "name": "Kakao Tech",

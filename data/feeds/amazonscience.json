@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-25T11:54:26.583641+00:00",
+ "fetched_at": "2026-09-26T11:29:03.820695+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-25T14:55:00+00:00",
+   "image": "https://cdn.amazon.science/64/06/65de2b8949c5ad6788d04e1cd813/trainium-cover.png",
+   "link": "https://www.amazon.science/blog/a-kernel-centric-path-to-real-time-video-generation-on-trainium",
+   "summary": "Using the Neuron Kernel Interface, a Reactor–AWS collaboration tackled the dynamic shapes, memory access patterns, and cache management that make real-time autoregressive diffusion hard—building techniques that…",
+   "title": "A kernel-centric path to real-time video generation on Trainium"
+  },
   {
    "date": "2026-09-21T19:31:59+00:00",
    "image": "https://cdn.amazon.science/57/26/b1f0162a4fcfaa048d7089cb7c17/20231114-big-game-week-n6a2693-2.jpeg",

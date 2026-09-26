@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-25T11:54:26.583641+00:00",
+ "fetched_at": "2026-09-26T11:29:03.820695+00:00",
  "items": [
   {
    "arxiv": "https://arxiv.org/abs/2609.29429",
@@ -11,7 +11,7 @@
     "Lida Zhao",
     "Yutao Wu"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-23T20:00:00+00:00",
    "github": "https://github.com/sumleo/RLCDAlignBench",
    "id": "2609.29429",
@@ -29,7 +29,7 @@
    "summary": "Detectors of alignment failures screen deployed language models and score alignment benchmarks. Most are generative judges that spend a decoding pass on every criterion, and classifiers that read token probabilities, such as Llama Guard, still score one fixed…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.29429.png",
    "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
-   "upvotes": 1
+   "upvotes": 2
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.29362",
@@ -39,7 +39,7 @@
     "Serena Auriemma",
     "Alessandro Lenci"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-23T20:00:00+00:00",
    "github": "https://github.com/colinglab/pos-sae-latents",
    "id": "2609.29362",
@@ -55,7 +55,7 @@
    "summary": "Sparse AutoEncoders (SAEs) offer a promising way to inspect language model representations, but it is still unclear what kind of linguistic structure their latents expose. We use part-of-speech (PoS) categories as a controlled test case to study whether…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.29362.png",
    "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
-   "upvotes": 9
+   "upvotes": 10
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.30233",
@@ -67,7 +67,7 @@
     "Qianwei Wang",
     "Yixuan Huang"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-23T20:00:00+00:00",
    "github": "https://github.com/tomsilver/robocode",
    "id": "2609.30233",
@@ -83,7 +83,7 @@
    "summary": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints. Generalized TAMP addresses this difficulty by…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.30233.png",
    "title": "Coding Agents for Generalized Task and Motion Planning Problems",
-   "upvotes": 4
+   "upvotes": 7
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.29421",
@@ -95,7 +95,7 @@
     "Yuan He",
     "Hongye Jin"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-23T20:00:00+00:00",
    "github": null,
    "id": "2609.29421",
@@ -111,7 +111,7 @@
    "summary": "Rufus-Air is an open and reproducible post-training recipe on GLM-4.5-Air-Base (106B-A12B), organized as a serial pipeline of eight stages: SFT, Reasoning RL, Coding RL, Instruction-Following RL, General Agent, Coding Agent, Search Agent, and RLHF. We…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.29421.png",
    "title": "Rufus-Air: An Open LLM Post-Training Recipe",
-   "upvotes": 1
+   "upvotes": 9
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.29444",
@@ -123,7 +123,7 @@
     "Xin ZHANG",
     "Aiting Liu"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-23T20:00:00+00:00",
    "github": "https://github.com/Tencent/IterSynth",
    "id": "2609.29444",
@@ -139,7 +139,7 @@
    "summary": "Deep search requires LLM agents to decompose complex queries, search for evidence, and synthesize grounded answers, yet existing ReAct-style agents suffer from two limitations: role coupling, where one policy must handle planning, evidence use, and synthesis…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.29444.png",
    "title": "IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis",
-   "upvotes": 5
+   "upvotes": 9
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.28923",
@@ -150,7 +150,7 @@
     "Yang Zhou",
     "Huaizu Jiang"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-23T20:00:00+00:00",
    "github": "https://github.com/neu-vi/ViRDM",
    "id": "2609.28923",
@@ -168,7 +168,7 @@
    "summary": "Few-step autoregressive (AR) video diffusion enables low-latency streaming generation, but existing post-training methods predominantly rely on Distribution Matching Distillation (DMD), requiring both a large pretrained teacher and an online critic to…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.28923.png",
    "title": "ViRDM: Taming Representation Distribution Matching for Few-Step Causal Video Generation",
-   "upvotes": 1
+   "upvotes": 2
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.29837",
@@ -180,7 +180,7 @@
     "Eunchong Kim",
     "Hongmin Kim"
    ],
-   "comments": 0,
+   "comments": 1,
    "date": "2026-09-23T20:00:00+00:00",
    "github": null,
    "id": "2609.29837",
@@ -196,7 +196,7 @@
    "summary": "We introduce PUBG Ally, an embodied agent for PUBG: BATTLEGROUNDS that can reason, act autonomously, and play alongside players as a voice-enabled teammate. Building such a teammate requires combining two difficult capabilities: it must perceive and respond…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.29837.png",
    "title": "PUBG Ally: A Conversational Embodied Agent as an AI Teammate",
-   "upvotes": 3
+   "upvotes": 4
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.29964",
@@ -208,7 +208,7 @@
     "Bohan Zhou",
     "Yingjie Xu"
    ],
-   "comments": 0,
+   "comments": 1,
    "date": "2026-09-23T20:00:00+00:00",
    "github": null,
    "id": "2609.29964",
@@ -224,7 +224,7 @@
    "summary": "General-purpose vision-language models (VLMs) bring broad knowledge and spatial reasoning to robot manipulation, yet existing systems either use them indirectly, to predict constraints or write programs, or give them a view of the scene rather than a world in…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.29964.png",
    "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
-   "upvotes": 3
+   "upvotes": 4
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.30221",
@@ -236,7 +236,7 @@
     "Kai Zhu",
     "Siyang Sun"
    ],
-   "comments": 0,
+   "comments": 1,
    "date": "2026-09-23T20:00:00+00:00",
    "github": null,
    "id": "2609.30221",
@@ -252,7 +252,7 @@
    "summary": "Video generation begins in text space by authoring a cinematic screenplay, then materializes into pixels. As contemporary video generators scale to 30 seconds and faithfully follow complex conditions, the textual prompt largely directs the production…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.30221.png",
    "title": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
-   "upvotes": 5
+   "upvotes": 31
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.30199",
@@ -264,7 +264,7 @@
     "Yuhui Wang",
     "Zhonghan Yue"
    ],
-   "comments": 0,
+   "comments": 1,
    "date": "2026-09-23T20:00:00+00:00",
    "github": null,
    "id": "2609.30199",
@@ -280,7 +280,7 @@
    "summary": "Scientific discovery begins where known problems end. There, AI systems must engage in exploration: framing hypotheses, designing experiments, and iterating on the results. However, evaluating this ability is difficult: (1) how to verify whether a genuinely…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.30199.png",
    "title": "ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds",
-   "upvotes": 3
+   "upvotes": 4
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.30077",
@@ -289,7 +289,7 @@
     "Eduardo Pavez",
     "Antonio Ortega"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-23T20:00:00+00:00",
    "github": "https://github.com/sf219/RDO_IQA_FR",
    "id": "2609.30077",
@@ -305,7 +305,7 @@
    "summary": "Block-based video codecs select coding parameters based on the input by optimizing a rate-distortion trade-off. The conventional distortion choice, the sum of squared errors (SSE), simplifies parameter selection: the SSE is the sum of block-wise SSEs, so…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.30077.png",
    "title": "Rate-distortion optimization for full-reference image quality metrics via stochastic Hessian estimates",
-   "upvotes": 1
+   "upvotes": 2
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.29892",
@@ -317,7 +317,7 @@
     "Yi Zhu",
     "Yifeng Ding"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-23T20:00:00+00:00",
    "github": null,
    "id": "2609.29892",
@@ -333,7 +333,93 @@
    "summary": "The rapid progression of large language models is extending AI from passive content generation into the active workflows of engineering and scientific discovery. This shift raises a compelling question: can AI be both the object of development and an active…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.29892.png",
    "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+   "upvotes": 9
+  },
+  {
+   "arxiv": "https://arxiv.org/abs/2609.29028",
+   "authors": [
+    "Shaohua Dong",
+    "Zexuan Meng",
+    "Haiyan Sun",
+    "Bing Fan",
+    "Cuicui Zhang",
+    "Dylan Joseph"
+   ],
+   "comments": 2,
+   "date": "2026-09-23T20:00:00+00:00",
+   "github": "https://github.com/ShaohuaDong2021/RGBD20K",
+   "id": "2609.29028",
+   "link": "https://huggingface.co/papers/2609.29028",
+   "linked": {
+    "datasets": 0,
+    "models": 0,
+    "spaces": 0,
+    "top_datasets": [],
+    "top_models": []
+   },
+   "n_authors": 9,
+   "summary": "In this paper, we propose RGBD20K, a novel dataset for facilitating the development of more robust and general RGB-D semantic segmentation by encompassing abundant categories and high-quality annotations. RGBD20K possesses several attractive properties: (1)…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.29028.png",
+   "title": "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation",
    "upvotes": 7
+  },
+  {
+   "arxiv": "https://arxiv.org/abs/2609.29816",
+   "authors": [
+    "Zhiyu Xu",
+    "Weilong Yan",
+    "Yufei Shi",
+    "Shiyang Li",
+    "Yihao Liu",
+    "Kin-Man Lam"
+   ],
+   "comments": 2,
+   "date": "2026-09-23T20:00:00+00:00",
+   "github": "https://github.com/zhiyuxu03/AV-GRPO",
+   "id": "2609.29816",
+   "link": "https://huggingface.co/papers/2609.29816",
+   "linked": {
+    "datasets": 0,
+    "models": 1,
+    "spaces": 1,
+    "top_datasets": [],
+    "top_models": [
+     "Dr-Loser/AV-GRPO"
+    ]
+   },
+   "n_authors": 7,
+   "summary": "Recent years have witnessed major progress in joint audio-video generation. Existing models still suffer from limited per-modality fidelity, insufficient text-modality alignment and weak cross-modal synchronization. While reinforcement-learning post-training…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.29816.png",
+   "title": "AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation",
+   "upvotes": 3
+  },
+  {
+   "arxiv": "https://arxiv.org/abs/2609.29845",
+   "authors": [
+    "Pavel Tikhonov",
+    "Anton Korznikov",
+    "Matvey Mikhalchuk",
+    "Nikita Dragunov",
+    "Temurbek Rahmatullaev",
+    "Polina Druzhinina"
+   ],
+   "comments": 2,
+   "date": "2026-09-23T20:00:00+00:00",
+   "github": null,
+   "id": "2609.29845",
+   "link": "https://huggingface.co/papers/2609.29845",
+   "linked": {
+    "datasets": 0,
+    "models": 0,
+    "spaces": 0,
+    "top_datasets": [],
+    "top_models": []
+   },
+   "n_authors": 9,
+   "summary": "While Large Language Models (LLMs) rely on highly non-linear components, in this work we demonstrate that they exhibit fundamental linearity: when inputs from distinct text streams are linearly combined, the model outputs a superposition of the individual…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.29845.png",
+   "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+   "upvotes": 59
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.27657",
@@ -357,7 +443,7 @@
    "summary": "Solutions based on large language models (LLMs) often rely on temperature sampling to improve accuracy and stability by aggregating multiple samples from the completion distribution. However, this memoryless approach is inherently suboptimal: because it lacks…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.27657.png",
    "title": "FLEET: From Logits Entropy to Enhanced Trajectories in Text Generation",
-   "upvotes": 2
+   "upvotes": 4
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.27980",
@@ -383,7 +469,7 @@
    "summary": "Pruning large pre-trained transformer-based ASR models such as OpenAI's Whisper has seen great adoption, as pruning the decoder led to significant end-to-end transcription speedups. For instance, the {\\tt whisper-large-v3-turbo} variant reduced the decoder…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.27980.png",
    "title": "Six Layers Less: Encoder Pruning for Whisper with Label-Free Recovery",
-   "upvotes": 3
+   "upvotes": 4
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.24815",
@@ -414,7 +500,7 @@
    "summary": "Scalable simulation is essential for robot data generation, policy training, evaluation, and safe iteration, yet real-world interaction is costly and conventional simulators require labor-intensive construction. We present Uranus, a data-driven robot…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24815.png",
    "title": "Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI",
-   "upvotes": 1
+   "upvotes": 3
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.28473",
@@ -442,7 +528,7 @@
    "summary": "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstruction, discarding fine-grained visual details. As expected…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.28473.png",
    "title": "On the Diffusibility of High-Dimensional Latents",
-   "upvotes": 4
+   "upvotes": 6
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.27901",
@@ -468,7 +554,7 @@
    "summary": "Video is a rich representation of a physical event, capturing appearance, geometry, motion, and temporal evolution. Other modalities, such as 3D body motion or audio, encode narrower aspects of the same event. We find that joint multimodal diffusion…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.27901.png",
    "title": "All modalities are equal, but video is more equal: Closing the Cross-Attention Gap in Joint Video Generation",
-   "upvotes": 5
+   "upvotes": 8
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.27334",
@@ -515,7 +601,7 @@
    "linked": {
     "datasets": 1,
     "models": 0,
-    "spaces": 0,
+    "spaces": 1,
     "top_datasets": [
      "EmbodiedSWE/robobench-assets"
     ],
@@ -525,7 +611,7 @@
    "summary": "We study coding agents for long-horizon, dexterous robotics and ask whether their solutions can provide scalable supervision for learning general robot policies. To test this, we develop EMBODIEDSWE-BENCH, a simulation benchmark for coding agents spanning…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.27308.png",
    "title": "EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics",
-   "upvotes": 2
+   "upvotes": 3
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.28470",
@@ -583,7 +669,7 @@
    "summary": "Vision-Language-Action models provide a strong foundation for general-purpose robot control, yet a vast majority of policies do not preserve and leverage episode-level information beyond the current observation. This limitation is consequential in…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.28256.png",
    "title": "MemBodied: Recurrent Associative Memory for Vision-Language-Action Models",
-   "upvotes": 10
+   "upvotes": 11
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.27284",
@@ -611,7 +697,7 @@
    "summary": "We present Hunyuan-A13B, an open-source large language model based on a Mixture-of-Experts architecture. It contains 80 billion total parameters but activates only 13 billion during inference, balancing model capability, computational efficiency, and…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.27284.png",
    "title": "Hunyuan-A13B Technical Report",
-   "upvotes": 9
+   "upvotes": 10
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.27321",
@@ -639,7 +725,7 @@
    "summary": "Language-model agents increasingly face long-horizon tasks with evolving state, interdependent decisions, and delayed outcomes. Scaling their training requires diverse agentic environments, dependable outcome signals, and low extension cost. Existing…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.27321.png",
    "title": "Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms",
-   "upvotes": 8
+   "upvotes": 10
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.27490",
@@ -665,7 +751,7 @@
    "summary": "AI research agents need reliable knowledge of how their experiments change outcomes. We introduce WhatWorkedBench to measure experimental understanding, the accuracy of predictions about component changes after budgeted experimentation. Agents inspect code…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.27490.png",
    "title": "WhatWorkedBench: Benchmarking Experimental Understanding in AI Agents",
-   "upvotes": 8
+   "upvotes": 9
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.27656",
@@ -693,7 +779,7 @@
    "summary": "Physical intelligence requires more than predicting how the world may evolve: predictions must remain actionable as the world continues to change. We introduce InternW0, the first instantiation of the InternW physical world model series from Shanghai AI…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.27656.png",
    "title": "InternW0: A Foundational Physical World Model for Efficient Real-World Interactions",
-   "upvotes": 5
+   "upvotes": 6
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.28466",
@@ -721,7 +807,7 @@
    "summary": "Advances in generative models have improved video fidelity, enabling long-horizon generation, interactive world modeling, and evolving visual environments. Autoregressive (AR) video generation extends visual sequences through causal rollouts. However, a…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.28466.png",
    "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
-   "upvotes": 36
+   "upvotes": 39
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.28811",
@@ -733,7 +819,7 @@
     "Qilin Wang",
     "Weiyu Guo"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-22T20:00:00+00:00",
    "github": "https://github.com/AIGeeksGroup/DeltaWAM",
    "id": "2609.28811",
@@ -749,7 +835,7 @@
    "summary": "World-action models (WAMs) transfer visual and motion priors from pretrained video generators to robot control by jointly modeling visual dynamics and actions. Existing WAMs, however, predict dense future frames during training, repeatedly modeling largely…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.28811.png",
    "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
-   "upvotes": 1
+   "upvotes": 2
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.28654",
@@ -761,23 +847,28 @@
     "Zehong Zhao",
     "Qingying Gao"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-22T20:00:00+00:00",
    "github": "https://github.com/hokindeng/object-permanence",
    "id": "2609.28654",
    "link": "https://huggingface.co/papers/2609.28654",
    "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
+    "datasets": 2,
+    "models": 1,
+    "spaces": 1,
+    "top_datasets": [
+     "Hokin/object-permanence",
+     "Hokin/object-permanence-benchmark"
+    ],
+    "top_models": [
+     "Hokin/PWM-WROP"
+    ]
    },
    "n_authors": 31,
    "summary": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reasoning abilities, making them ideal candidates for building…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.28654.png",
    "title": "Training Object Permanence in World Models",
-   "upvotes": 116
+   "upvotes": 192
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.28416",
@@ -789,7 +880,7 @@
     "Huatong Song",
     "Jinhao Jiang"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-22T20:00:00+00:00",
    "github": "https://github.com/RUCAIBox/Agent-Editing-World-Model",
    "id": "2609.28416",
@@ -806,6 +897,33 @@
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.28416.png",
    "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
    "upvotes": 13
+  },
+  {
+   "arxiv": "https://arxiv.org/abs/2609.28603",
+   "authors": [
+    "Niket Patel",
+    "Ahmad Rammal",
+    "Amaury Hayat",
+    "Remi Munos",
+    "Julia Kempe"
+   ],
+   "comments": 2,
+   "date": "2026-09-22T20:00:00+00:00",
+   "github": null,
+   "id": "2609.28603",
+   "link": "https://huggingface.co/papers/2609.28603",
+   "linked": {
+    "datasets": 0,
+    "models": 0,
+    "spaces": 0,
+    "top_datasets": [],
+    "top_models": []
+   },
+   "n_authors": 5,
+   "summary": "Recently, Large Language Models (LLMs) have been increasingly able to solve advanced mathematical problems, including many that have been open for decades. This opens the door to expansion of mathematical knowledge at unprecedented scale. Yet, while LLMs may…",
+   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.28603.png",
+   "title": "Learning to Discover Interesting Mathematics",
+   "upvotes": 6
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.25636",
@@ -1024,7 +1142,7 @@
    "summary": "Transformer architectures exhibit cross-layer redundancies, yet post-training compression pipelines typically optimize layers in isolation or rely on heuristic grouping strategies that disregard layer-specific activation geometries. We introduce a principled…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.25963.png",
    "title": "GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression",
-   "upvotes": 12
+   "upvotes": 13
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.25853",
@@ -1054,7 +1172,7 @@
    "summary": "Learned-memory methods store information in an explicit table and consume it through a separate reader, allowing addressing, storage, and reading to be modified independently. We study whether useful memory can also be generated rather than only retrieved…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.25853.png",
    "title": "MemoryAthena: Adaptive Routing over Latent and Generated Memories",
-   "upvotes": 4
+   "upvotes": 5
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.26780",
@@ -1081,7 +1199,7 @@
    "summary": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, how individuals perceive one another, what information is…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.26780.png",
    "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
-   "upvotes": 81
+   "upvotes": 83
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.26355",
@@ -1215,7 +1333,7 @@
    "summary": "To make claims about representations that generalize beyond a particular trained model, we need to specify when two representations should count as equivalent. The Linear Representation Hypothesis is often discussed without making this equivalence explicit…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.27158.png",
    "title": "The Linear Representation Hypothesis Needs a Group Action",
-   "upvotes": 2
+   "upvotes": 3
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.26634",
@@ -1267,7 +1385,7 @@
    "summary": "The rapid capability gains of frontier language models are widely attributed to improved reasoning abilities, yet this cannot be verified as raw CoT traces in closed-source systems are hidden. By registering a simple custom tool through a standard API…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.26637.png",
    "title": "Capable yet Parsimonious: Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models",
-   "upvotes": 13
+   "upvotes": 15
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.24788",
@@ -1986,7 +2104,7 @@
    "summary": "Evaluating world models requires assessing both the quality of the worlds they generate and their consistency and responsiveness under exploration, interaction, and modification. We introduce HappyWorld-Bench, a comprehensive benchmark that evaluates whether…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24308.png",
    "title": "HappyWorld-Bench",
-   "upvotes": 40
+   "upvotes": 41
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.25187",
@@ -2018,7 +2136,7 @@
    "summary": "Task planning bridges high-level instructions and executable behavior in long-horizon manipulation, yet modern Vision-Language-Action (VLA) systems often leave this intermediate structure implicit. Existing chain-of-thought (CoT) planners also tend to rely on…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.25187.png",
    "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
-   "upvotes": 1
+   "upvotes": 2
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.23796",
@@ -2160,7 +2278,7 @@
    "summary": "Robotic bin packing requires long-horizon sequential decision-making, as each object placement affects the available space for subsequent packing. Existing methods primarily rely on hand-crafted geometric heuristics that optimize predefined objectives or…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.23784.png",
    "title": "PackLab: A Comprehensive Framework for Developing, Training, and Evaluating MLLMs in Robotic Bin Packing",
-   "upvotes": 10
+   "upvotes": 11
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.23407",
@@ -2172,7 +2290,7 @@
     "Donghua Cai",
     "Junming Lin"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-19T20:00:00+00:00",
    "github": "https://github.com/PKU-VaLuE-Lab/OmniEcho",
    "id": "2609.23407",
@@ -2188,7 +2306,7 @@
    "summary": "Humans can effortlessly localize the direction of a sound source and integrate it with visual cues for reasoning, yet this remains challenging for embodied agents. In particular, it is still unclear how to effectively evaluate and model spatial audio…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.23407.png",
    "title": "OmniEcho: Spatial Audio Understanding for Embodied Agents",
-   "upvotes": 19
+   "upvotes": 20
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.23088",
@@ -2332,7 +2450,7 @@
    "summary": "Spatial reasoning is essential for vision-language models (VLMs) to understand and act in the physical world. Reasoning in dynamic environments requires VLMs to perceive local state transitions caused by object motion and viewpoint changes and integrate them…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.23038.png",
    "title": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World",
-   "upvotes": 45
+   "upvotes": 47
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.22947",
@@ -2360,7 +2478,7 @@
    "summary": "Reinforcement learning (RL) is vital for optimizing video generation models, with a robust reward model (RM) serving as the cornerstone. However, existing video reward models often produce unstable scalar scores because they directly map complex, subjective…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.22947.png",
    "title": "RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling",
-   "upvotes": 21
+   "upvotes": 24
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.23087",
@@ -2369,7 +2487,7 @@
     "Ruoyu Zhao",
     "Zhichao Lu"
    ],
-   "comments": 1,
+   "comments": 2,
    "date": "2026-09-18T20:00:00+00:00",
    "github": "https://github.com/Optima-CityU/neural-spectral-capacity",
    "id": "2609.23087",
@@ -2385,7 +2503,7 @@
    "summary": "Modern Transformer design and compression both reduce to allocating capacity under a budget. The standard scalars for these decisions, #Params and #FLOPs, capture size and compute but not architectural structure: two architectures with identical parameter…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.23087.png",
    "title": "Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone",
-   "upvotes": 2
+   "upvotes": 6
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.22682",
@@ -2413,7 +2531,7 @@
    "summary": "Collective intelligence depends not only on what team members know, but also on how they organize their work. When the structure of a solution is unknown, useful roles and divisions of labor cannot be specified in advance; teams must learn from experience how…",
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.22682.png",
    "title": "Self-Organizing Agent Teams Learn to Reason Together",
-   "upvotes": 4
+   "upvotes": 5
   },
   {
    "arxiv": "https://arxiv.org/abs/2609.22076",
@@ -9000,362 +9118,6 @@
    "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.22255.png",
    "title": "Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations",
    "upvotes": 13
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.06245",
-   "authors": [
-    "Yixin Wan",
-    "Tianle Zheng",
-    "Kai-Wei Chang"
-   ],
-   "comments": 2,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": null,
-   "id": "2609.06245",
-   "link": "https://huggingface.co/papers/2609.06245",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 1,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 3,
-   "summary": "Multimodal Large Language Models (MLLMs) perform strongly on general visual understanding tasks such as visual question answering, yet they often struggle with a basic comparative skill: identifying what has changed between two similar images. We introduce…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06245.png",
-   "title": "VDiff-Bench: A Challenging Benchmark for Fine-Grained Image Difference Identification",
-   "upvotes": 30
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.06140",
-   "authors": [
-    "Gregory N Frank"
-   ],
-   "comments": 2,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": null,
-   "id": "2609.06140",
-   "link": "https://huggingface.co/papers/2609.06140",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 1,
-   "summary": "Agents can turn shared infrastructure into a channel for coordinated intrusion. The Hugging Face incident and a separate public-wiki investigation show why a security assessment may need evidence from several executions and the artifacts they leave behind. We…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06140.png",
-   "title": "Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions",
-   "upvotes": 3
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.06008",
-   "authors": [
-    "Roberto Tacconelli"
-   ],
-   "comments": 4,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": "https://github.com/robtacconelli/Cadence",
-   "id": "2609.06008",
-   "link": "https://huggingface.co/papers/2609.06008",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 1,
-   "summary": "We present Cadence, an error-bounded lossy compressor for numeric time series pairing a 330M-parameter time-series foundation model (Google TimesFM-3) with an adaptive arithmetic coder, guaranteeing |x_t-x_t|leτ on every sample. One negative result constrains…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06008.png",
-   "title": "Cadence: Error-Bounded Lossy Compression of Demand Time Series with a Time-Series Foundation Model",
-   "upvotes": 16
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.06289",
-   "authors": [
-    "Mohammad Mahdi Abootorabi",
-    "Armin Saghafian",
-    "Ali Bazshoushtari",
-    "Hamid Rezaei",
-    "EunJeong Hwang",
-    "Vered Shwartz"
-   ],
-   "comments": 3,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": "https://github.com/DeepRCL/Steering_Geometry",
-   "id": "2609.06289",
-   "link": "https://huggingface.co/papers/2609.06289",
-   "linked": {
-    "datasets": 1,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [
-     "DeepRCL/SteeringGeometry"
-    ],
-    "top_models": []
-   },
-   "n_authors": 8,
-   "summary": "As large language models (LLMs) are increasingly deployed in alignment-sensitive contexts, activation steering has emerged as a lightweight, inference-time alternative to fine-tuning methods (e.g., RLHF, DPO) for behavioral control. However, existing work…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06289.png",
-   "title": "Steering Geometry: Validating Human Value Geometry in LLM Steering Space",
-   "upvotes": 27
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.05779",
-   "authors": [
-    "Andrej Andrejev"
-   ],
-   "comments": 2,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": "https://github.com/bbidpa/rainbow-pony",
-   "id": "2609.05779",
-   "link": "https://huggingface.co/papers/2609.05779",
-   "linked": {
-    "datasets": 6,
-    "models": 5,
-    "spaces": 1,
-    "top_datasets": [
-     "bbidpa/flutter-diff-steps-v1",
-     "bbidpa/Qwen2.5-Coder-0.5B-Flutter-steps-eval",
-     "bbidpa/Rainbow-Pony-100m-Flutter-steps-eval"
-    ],
-    "top_models": [
-     "bbidpa/Rainbow-Pony-100m-Flutter-direct",
-     "bbidpa/Rainbow-Pony-100m-Flutter-steps",
-     "bbidpa/Qwen2.5-Coder-0.5B-Flutter-steps"
-    ]
-   },
-   "n_authors": 1,
-   "summary": "Large language models used for code editing can be trained and deployed in at least two output regimes: direct generation, where the model emits the entire modified file in one shot, and iterative diff-based generation (\"steps\"), where the model emits a…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05779.png",
-   "title": "Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models",
-   "upvotes": 8
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.05903",
-   "authors": [
-    "Nanxi Li",
-    "Yingzi Ma",
-    "Yulong Cao",
-    "Edward Suh",
-    "Bo Li",
-    "Dawn Song"
-   ],
-   "comments": 2,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": "https://github.com/SaFo-Lab/EvoSafeHarness",
-   "id": "2609.05903",
-   "link": "https://huggingface.co/papers/2609.05903",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 7,
-   "summary": "Large Language Model (LLM) agents are turning language into real-world effects, making safety necessary against both indirect prompt injections and direct harmful requests. System-level safety harnesses add an enforcement layer beyond model-level defenses…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05903.png",
-   "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
-   "upvotes": 59
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.06107",
-   "authors": [
-    "Hao Liang",
-    "Mingrui Chen",
-    "Hengyi Feng",
-    "Meiyi Qiang",
-    "Wentao Zhang"
-   ],
-   "comments": 2,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": null,
-   "id": "2609.06107",
-   "link": "https://huggingface.co/papers/2609.06107",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 5,
-   "summary": "Data policies for reinforcement learning with verifiable rewards (RLVR) determine which rollouts are used, how strongly they are weighted, and which domains contribute to subsequent training batches. We introduce DataFlex-RL, an evaluation platform for…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06107.png",
-   "title": "DataFlex-RL: An Evaluation Platform for RLVR Data Policies",
-   "upvotes": 109
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.05824",
-   "authors": [
-    "Wang Wei",
-    "Tiankai Yang",
-    "Samyadeep Basu",
-    "Hongjie Chen",
-    "Yue Zhao",
-    "Zhengzhong Tu"
-   ],
-   "comments": 3,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": null,
-   "id": "2609.05824",
-   "link": "https://huggingface.co/papers/2609.05824",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 10,
-   "summary": "Large language model (LLM) agents increasingly rely on external skills, but routing user requests over large skill registries is difficult because many skills are functionally redundant while complex tasks often require complementary skill sets. Existing…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05824.png",
-   "title": "Beyond Top-k Skill Retrieval: Diversity-Aware Skill Routing for LLM Agents",
-   "upvotes": 5
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.05820",
-   "authors": [
-    "Wang Wei",
-    "Soumyabrata Pal",
-    "Koyel Mukherjee",
-    "Franck Dernoncourt",
-    "Ryan A. Rossi",
-    "Branislav Kveton"
-   ],
-   "comments": 2,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": null,
-   "id": "2609.05820",
-   "link": "https://huggingface.co/papers/2609.05820",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 7,
-   "summary": "We study adaptive routing of prompts to large language model (LLM) experts to maximize response quality in an online setting with limited feedback. We formulate it as a bandit problem with K actions that represent experts and d features that encode prompts…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05820.png",
-   "title": "Online Learning with LLM Experts from Limited Feedback",
-   "upvotes": 5
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.06251",
-   "authors": [
-    "Ting Huang",
-    "Yue Huang",
-    "Zeyu Zhang",
-    "Shuicheng Yan",
-    "Hao Tang"
-   ],
-   "comments": 2,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": "https://github.com/AIGeeksGroup/MobileVLA-R1-2.0",
-   "id": "2609.06251",
-   "link": "https://huggingface.co/papers/2609.06251",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 5,
-   "summary": "Grounding natural-language instructions into reliable and executable actions remains a fundamental challenge for vision-language-action (VLA) systems on mobile robots, due to the persistent gap between high-level semantic reasoning and low-level locomotion…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06251.png",
-   "title": "MobileVLA-R1 2.0: RL-Enhanced Reasoning for Mobile Robot Control",
-   "upvotes": 1
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.09206",
-   "authors": [
-    "Meng&#39;en Qin",
-    "Junye Chen",
-    "Jucheng Liu",
-    "Youlu Xing",
-    "Song Wang",
-    "Ruize Han"
-   ],
-   "comments": 2,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": "https://github.com/mason-ching/HEAL",
-   "id": "2609.09206",
-   "link": "https://huggingface.co/papers/2609.09206",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 6,
-   "summary": "Multimodal Large Language Models (MLLMs) often struggle with hallucinations, thus hindering their reliable practical applications. Existing attention-based mitigation methods mainly rely on indirect signals (e.g., attention weights) that fail to accurately…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.09206.png",
-   "title": "MLLMs Hallucinate when Information Distribution Drifts in Synergy Heads",
-   "upvotes": 5
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.06052",
-   "authors": [
-    "Yizhuo Zhang",
-    "Bo Kang",
-    "Yi Yang",
-    "Zhiyu Duan",
-    "Zhouteng Ye",
-    "Shunkun Yang"
-   ],
-   "comments": 2,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": "https://github.com/IainZhang/SkillSpec",
-   "id": "2609.06052",
-   "link": "https://huggingface.co/papers/2609.06052",
-   "linked": {
-    "datasets": 1,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [
-     "iainzhang/SkillSpec"
-    ],
-    "top_models": []
-   },
-   "n_authors": 6,
-   "summary": "Autonomous agent systems increasingly depend on reusable skill abstractions for consolidating experiential knowledge and domain expertise. These artifacts typically bundle free-form instructions with heterogeneous resources. However, ensuring their…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06052.png",
-   "title": "SkillSpec: Intent-Masked Specification Reasoning for Agent Skill Correctness",
-   "upvotes": 6
-  },
-  {
-   "arxiv": "https://arxiv.org/abs/2609.06011",
-   "authors": [
-    "Yen-Ting Piao",
-    "Shu-Yun Chen",
-    "Chin-Hui Chu",
-    "Chun-Wei Chen",
-    "Shih-Yun Shan Kuan",
-    "Hung-yi Lee"
-   ],
-   "comments": 2,
-   "date": "2026-09-04T20:00:00+00:00",
-   "github": "https://github.com/MiuLab/Tri-PvP",
-   "id": "2609.06011",
-   "link": "https://huggingface.co/papers/2609.06011",
-   "linked": {
-    "datasets": 0,
-    "models": 0,
-    "spaces": 0,
-    "top_datasets": [],
-    "top_models": []
-   },
-   "n_authors": 7,
-   "summary": "Omni-modal large language models (OLLMs) jointly process vision, audio, and text, yet their modality bias under cross-modal conflict remains underexplored. Existing benchmarks conflate two distinct forms of evidence within a single modality: perceptual…",
-   "thumb": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.06011.png",
-   "title": "Tri-PvP: Exposing Modality Bias in Omni-Modal Large Language Models through Perceptual-Propositional Evidence Conflicts",
-   "upvotes": 5
   }
  ],
  "source": "Hugging Face Daily Papers",

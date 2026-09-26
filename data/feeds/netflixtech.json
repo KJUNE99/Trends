@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-25T11:54:26.583641+00:00",
+ "fetched_at": "2026-09-26T11:29:03.820695+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-09-25T16:01:03+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*eIWpHw7J_6qZCuaffD0lQQ.png",
+   "link": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
+   "summary": "By Dhruv Pratap Introduction Organizations that have been around for a while usually run two identity systems side by side. One belongs to the cloud provider: IAM roles, instance profiles, execution roles. The other is…",
+   "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute"
+  },
   {
    "date": "2026-09-18T16:01:02+00:00",
    "image": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png",
