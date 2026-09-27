@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-26T11:29:03.820695+00:00",
+ "fetched_at": "2026-09-27T12:06:54.819835+00:00",
  "group": "lab",
  "items": [
   {
@@ -176,27 +176,6 @@
    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
    "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
    "title": "Inside our 353,000-person vibe coding course"
-  },
-  {
-   "date": "2026-07-28T16:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-   "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-   "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more"
-  },
-  {
-   "date": "2026-07-28T13:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
-   "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-   "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
-   "title": "5 ways AI Mode in Search helps you enjoy the real world"
-  },
-  {
-   "date": "2026-07-28T13:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
-   "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-   "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-   "title": "5 ways to host the ultimate dinner party with Google Search"
   }
  ],
  "name": "Google AI",
