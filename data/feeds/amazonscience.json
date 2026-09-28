@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-27T12:06:54.819835+00:00",
+ "fetched_at": "2026-09-28T14:01:11.935919+00:00",
  "group": "lab",
  "items": [
   {
@@ -78,13 +78,6 @@
    "link": "https://www.amazon.science/blog/how-controllers-from-industrial-machinery-can-coordinate-multitask-machine-learning",
    "summary": "Instead of compromising among parameter updates dictated by different training objectives, ControlG allocates computational capacity to objectives sequentially and dynamically.Training a machine learning model to handle…",
    "title": "How controllers from industrial machinery can coordinate multitask machine learning"
-  },
-  {
-   "date": "2026-07-29T15:16:52+00:00",
-   "image": null,
-   "link": "https://www.amazon.science/blog/a-new-benchmark-for-evaluating-patient-facing-health-ai-agents",
-   "summary": "PatientAgentBench generates a synthetic patient health record, a realistic clinical vignette, and a patient agent that converses with the AI system under evaluation, to capture what a patient-facing agent actually has…",
-   "title": "A new benchmark for evaluating patient-facing health AI agents"
   }
  ],
  "name": "Amazon Science",

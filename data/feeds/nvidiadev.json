@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-09-27T12:06:54.819835+00:00",
+ "fetched_at": "2026-09-28T14:01:11.935919+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-28T08:56:55+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/asp-logos-768x432.png",
+   "link": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
+   "summary": "To understand where agentic AI stands today, consider the last seismic shift in technology: the rise of the internet in the 90s. It was new and full of... To understand where agentic AI stands today, consider the last…",
+   "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring"
+  },
+  {
+   "date": "2026-09-28T08:55:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/OpenShell-Controls-768x432.png",
+   "link": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
+   "summary": "AI agents can be given a goal, write code, use tools, and keep working as new information becomes available. This opens the door to applications that... AI agents can be given a goal, write code, use tools, and keep…",
+   "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell"
+  },
+  {
+   "date": "2026-09-28T01:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/MaxLPS-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/",
+   "summary": "Every unused watt is capacity left on the table. AI factories are typically provisioned for the unlikely moment when every GPU reaches peak power, creating a... Every unused watt is capacity left on the table. AI…",
+   "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency"
+  },
   {
    "date": "2026-09-24T15:00:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/DNA-Helix-768x432.jpg",
@@ -526,13 +547,6 @@
    "link": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
    "summary": "Two AI computing clusters built from identical NVIDIA H100, GB200 NVL72, or GB300 NVL72 systems can deliver materially different training throughput. We... Two AI computing clusters built from identical NVIDIA H100…",
    "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure"
-  },
-  {
-   "date": "2026-07-29T16:46:45+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/synthetic-gen-rep-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/",
-   "summary": "Deploying an AI coding assistant in a regulated, sovereign, or source-sensitive environment, often comes with challenges. Three common issues are: the source... Deploying an AI coding assistant in a regulated…",
-   "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails"
   }
  ],
  "name": "NVIDIA Developer",
