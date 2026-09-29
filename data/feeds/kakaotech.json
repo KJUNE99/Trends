@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-28T14:01:11.935919+00:00",
+ "fetched_at": "2026-09-29T12:57:47.391654+00:00",
  "group": "eng",
  "items": [
   {
@@ -27,7 +27,7 @@
    "date": "2026-09-07T15:00:00+00:00",
    "image": null,
    "link": "https://tech.kakao.com/posts/833",
-   "summary": "if(kakao)26 첫째 날은 AI 방향성, 신뢰와 안전, Model & Agent, 상생과 성장에 대해 이야기합니다. 키노트를 제외한 총 23개의 기술 세션들이 아래와 같이 진행됩니다. [AI 방향성] 1. You Only Train Once: 더 효율적으로 Kanana SLM 개발하기 (류민호, 한규빈) 단 한 번의 학습으로, 4개의 Small Dense Model Family를…",
+   "summary": "if(kakao)26 첫째 날은 신뢰와 안전, AI 방향성, 상생과 성장, Model & Agent에 대해 이야기합니다. 키노트를 제외한 총 22개의 기술 세션들이 아래와 같이 진행됩니다. [AI 방향성] 1. You Only Train Once: 더 효율적으로 Kanana SLM 개발하기 (류민호, 한규빈) 단 한 번의 학습으로, 4개의 Small Dense Model Family를…",
    "title": "if(kakao)26 첫째 날, 기술 세션 소개"
   },
   {

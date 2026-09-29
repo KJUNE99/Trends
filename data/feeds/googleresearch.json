@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-28T14:01:11.935919+00:00",
+ "fetched_at": "2026-09-29T12:57:47.391654+00:00",
  "group": "lab",
  "items": [
   {
@@ -120,13 +120,6 @@
    "link": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
    "summary": null,
    "title": "Advancing AMIE towards expert-level audio-visual clinical consultations"
-  },
-  {
-   "date": "2026-07-30T20:36:36+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png",
-   "link": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
-   "summary": null,
-   "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence"
   }
  ],
  "name": "Google Research",

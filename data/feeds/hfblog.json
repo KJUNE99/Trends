@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-28T14:01:11.935919+00:00",
+ "fetched_at": "2026-09-29T12:57:47.391654+00:00",
  "group": "lab",
  "items": [
   {
@@ -274,13 +274,6 @@
    "link": "https://huggingface.co/blog/baseten",
    "summary": null,
    "title": "Baseten on Hugging Face Inference Providers 🔥"
-  },
-  {
-   "date": "2026-07-30T15:09:09+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-   "summary": null,
-   "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft"
   }
  ],
  "name": "Hugging Face",

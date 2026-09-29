@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-28T14:01:11.935919+00:00",
+ "fetched_at": "2026-09-29T12:57:47.391654+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-09-29T08:39:50+00:00",
+   "image": null,
+   "link": "https://d2.naver.com/helloworld/7314597",
+   "summary": "TApplicationException · UNKNOWN_METHOD Invalid method name: 'get_table' 이 글은 네이버의 Hadoop 플랫폼인 C3의 Metastore를 Apache Hive 4.2로 올리는 과정에서 Spark 잡(job)이 실패한 현상과 그 원인을 추적해, Metastore Thrift 인터페이스에서 조용히 사라졌던 RPC 하나를 복원하기까지의…",
+   "title": "Hive는 잊으려 했지만, Spark는 기억하고 있었다: 사라진 get_table RPC 복원기"
+  },
   {
    "date": "2026-09-03T05:29:14+00:00",
    "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2/SMART_EDITOR/2026/09/03/0d187a1c-d990-413f-b4aa-591a628548b5.png/",

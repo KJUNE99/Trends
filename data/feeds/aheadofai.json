@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-28T14:01:11.935919+00:00",
+ "fetched_at": "2026-09-29T12:57:47.391654+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-09-29T10:50:25+00:00",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/0015e77a-5140-4139-b361-78e28d18df17_2494x1304.png",
+   "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+   "summary": "A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency The recently released Jev AI model has been quite a cultural phenomenon in technical communities in the…",
+   "title": "Language Models for Text Classification: From Bag-of-Words to Jev"
+  },
   {
    "date": "2026-09-09T11:14:25+00:00",
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png",

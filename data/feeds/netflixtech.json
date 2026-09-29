@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-28T14:01:11.935919+00:00",
+ "fetched_at": "2026-09-29T12:57:47.391654+00:00",
  "group": "eng",
  "items": [
   {
@@ -43,13 +43,6 @@
    "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
    "summary": "by Aarti Laddha , Richard Diaz-Cool , Rishika Idnani , Venkatesh Selveraj Netflix supports a vast and evolving set of features and content types, ranging from 4K streaming and immersive audio to live streaming and cloud…",
    "title": "Modeling Device Capabilities for Analytics"
-  },
-  {
-   "date": "2026-07-30T20:10:15+00:00",
-   "image": "https://cdn-images-1.medium.com/max/1024/1*7Jb6-3knD_VCB_wWN5M3Mw.png",
-   "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
-   "summary": "Authors: Ying Li , Arjun Rao , Shradha Sehgal Introduction Recommendations sit at the heart of the Netflix experience. Our current production models rely on thousands of hand‑crafted features over users, items, and…",
-   "title": "GenRec: Towards LLM-Native Recommendation at Netflix"
   }
  ],
  "name": "Netflix Tech",

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-28T14:01:11.935919+00:00",
+ "fetched_at": "2026-09-29T12:57:47.391654+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-28T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/federated-variational-inequalities",
+   "summary": "In this paper, we study federated optimization for solving stochastic variational inequalities (VIs), a problem that has attracted growing attention in recent years. Despite substantial progress, a significant gap…",
+   "title": "Faster Rates for Federated Variational Inequalities"
+  },
   {
    "date": "2026-09-24T00:00:00+00:00",
    "image": null,

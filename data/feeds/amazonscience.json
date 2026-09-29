@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-28T14:01:11.935919+00:00",
+ "fetched_at": "2026-09-29T12:57:47.391654+00:00",
  "group": "lab",
  "items": [
   {
@@ -71,13 +71,6 @@
    "link": "https://www.amazon.science/research-awards/latest-news/34-amazon-research-awards-build-on-trainium-recipients-announced",
    "summary": "Amazon announces 34 recipients of the Build on Trainium program, a $110 million credit initiative supporting AI research at 30 universities including Stanford, UC Berkeley, UIUC, UCLA, CMU, and MIT, with a focus on…",
    "title": "34 Amazon Research Awards Build on Trainium recipients announced"
-  },
-  {
-   "date": "2026-07-30T17:26:47+00:00",
-   "image": null,
-   "link": "https://www.amazon.science/blog/how-controllers-from-industrial-machinery-can-coordinate-multitask-machine-learning",
-   "summary": "Instead of compromising among parameter updates dictated by different training objectives, ControlG allocates computational capacity to objectives sequentially and dynamically.Training a machine learning model to handle…",
-   "title": "How controllers from industrial machinery can coordinate multitask machine learning"
   }
  ],
  "name": "Amazon Science",

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-28T14:01:11.935919+00:00",
+ "fetched_at": "2026-09-29T12:57:47.391654+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-28T21:00:00+00:00",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/1YSingapore-BlogHeroFeature-1400x788-1-1024x576.jpg",
+   "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+   "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can…",
+   "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact"
+  },
   {
    "date": "2026-09-23T16:01:36+00:00",
    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/PhysicalAI-BlogHeroFeature-1400x788-1.jpg",
@@ -50,20 +57,6 @@
    "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
    "summary": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to…",
    "title": "Orchard: An open framework for scalable agentic AI"
-  },
-  {
-   "date": "2026-07-30T17:00:00+00:00",
-   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/PraxisWorld-BlogHeroFeature-1400x788-1.jpg",
-   "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
-   "summary": "Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the…",
-   "title": "Echoverse: Deep, evolving environments for computer-use agents"
-  },
-  {
-   "date": "2026-07-30T16:00:00+00:00",
-   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/EvoLib-BlogHeroFeature-1400x788-1-scaled.jpg",
-   "link": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
-   "summary": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. The post…",
-   "title": "EvoLib: Turning experience into evolving knowledge"
   }
  ],
  "name": "Microsoft Research",

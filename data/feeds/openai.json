@@ -1,7 +1,42 @@
 {
- "fetched_at": "2026-09-28T14:01:11.935919+00:00",
+ "fetched_at": "2026-09-29T12:57:47.391654+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-28T19:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+   "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+   "title": "How we will do better for Australia"
+  },
+  {
+   "date": "2026-09-28T19:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+   "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+   "title": "Towards safety cases for frontier AI training"
+  },
+  {
+   "date": "2026-09-28T07:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support"
+  },
+  {
+   "date": "2026-09-28T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/form/codex-originals",
+   "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more…",
+   "title": "Are you a Codex Original?"
+  },
+  {
+   "date": "2026-09-28T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+   "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra"
+  },
   {
    "date": "2026-09-25T19:00:00+00:00",
    "image": null,
@@ -318,6 +353,13 @@
    "title": "Introducing ChatGPT Images 2.5"
   },
   {
+   "date": "2026-09-08T11:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+   "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+   "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms"
+  },
+  {
    "date": "2026-09-08T10:00:00+00:00",
    "image": null,
    "link": "https://openai.com/index/navier-stokes-solution",
@@ -330,13 +372,6 @@
    "link": "https://openai.com/index/teen-development-research-grants",
    "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
    "title": "Funding grants for new research into AI and teen development"
-  },
-  {
-   "date": "2026-09-08T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-   "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-   "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms"
   },
   {
    "date": "2026-09-08T00:00:00+00:00",
@@ -841,20 +876,6 @@
    "link": "https://openai.com/index/building-abundant-intelligence",
    "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
    "title": "Building abundant intelligence"
-  },
-  {
-   "date": "2026-07-31T07:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/unive",
-   "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-   "title": "Univé builds an AI-ready workforce"
-  },
-  {
-   "date": "2026-07-31T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-   "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-   "title": "Disrupting a Cambodia-based criminal scam operation"
   }
  ],
  "name": "OpenAI",
