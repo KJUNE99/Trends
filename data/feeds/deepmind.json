@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-28T14:01:11.935919+00:00",
+ "fetched_at": "2026-09-30T12:39:26.385467+00:00",
  "group": "lab",
  "items": [
   {
@@ -113,13 +113,6 @@
    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
    "summary": null,
    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones"
-  },
-  {
-   "date": "2026-07-30T15:00:59+00:00",
-   "image": null,
-   "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-   "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-   "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration"
   }
  ],
  "name": "Google DeepMind",

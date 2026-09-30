@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-09-29T12:57:47.391654+00:00",
+ "fetched_at": "2026-09-30T12:39:26.385467+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-29T19:10:51+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/llm-optimize-deploy-768x432.png",
+   "link": "https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect/",
+   "summary": "Parallel work, model-family isolation, reversible changes, and GPU-backed validation shaped an open source project designed around coding agents NVIDIA TensorRT... Parallel work, model-family isolation, reversible…",
+   "title": "AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect"
+  },
+  {
+   "date": "2026-09-29T18:35:09+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-768x432.png",
+   "link": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/",
+   "summary": "Vision-language models have made it possible to build visual AI agents that understand video at production scale. The harder problem is turning that capability... Vision-language models have made it possible to build…",
+   "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3"
+  },
   {
    "date": "2026-09-28T08:56:55+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/agentic-ai-openshell-logo-ver-a-5746677-1920x1080-3-768x432.png",
@@ -512,20 +526,6 @@
    "link": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/",
    "summary": "Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,... Storage is an active part of every agentic AI workflow. As…",
    "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage"
-  },
-  {
-   "date": "2026-07-31T22:16:17+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/llm-optimize-deploy-768x432.png",
-   "link": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference/",
-   "summary": "As agentic and long-context workloads become common, the context lengths increase and attention consumes a larger share of inference time (Figure 1). Because... As agentic and long-context workloads become common, the…",
-   "title": "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference"
-  },
-  {
-   "date": "2026-07-31T15:13:02+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image9-2-768x432.png",
-   "link": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
-   "summary": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,... The demand for high-quality video continues to accelerate…",
-   "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek"
   }
  ],
  "name": "NVIDIA Developer",

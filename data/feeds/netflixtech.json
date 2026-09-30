@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-29T12:57:47.391654+00:00",
+ "fetched_at": "2026-09-30T12:39:26.385467+00:00",
  "group": "eng",
  "items": [
   {
@@ -36,13 +36,6 @@
    "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
    "summary": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC execution API Authors: Nilesh Mishra and Ajit Koti This is the third entry of a multi-part blog series describing how we…",
    "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…"
-  },
-  {
-   "date": "2026-07-31T16:01:02+00:00",
-   "image": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e7607acebde8",
-   "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
-   "summary": "by Aarti Laddha , Richard Diaz-Cool , Rishika Idnani , Venkatesh Selveraj Netflix supports a vast and evolving set of features and content types, ranging from 4K streaming and immersive audio to live streaming and cloud…",
-   "title": "Modeling Device Capabilities for Analytics"
   }
  ],
  "name": "Netflix Tech",

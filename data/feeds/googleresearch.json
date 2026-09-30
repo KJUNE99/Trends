@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-29T12:57:47.391654+00:00",
+ "fetched_at": "2026-09-30T12:39:26.385467+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-29T18:38:27+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
+   "link": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+   "summary": null,
+   "title": "How Diffusion Controller unifies and simplifies AI image generation"
+  },
   {
    "date": "2026-09-24T19:40:00+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-29T12:57:47.391654+00:00",
+ "fetched_at": "2026-09-30T12:39:26.385467+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-29T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/communication-bottleneck-serialization",
+   "summary": "When language models reason in chain-of-thought or exchange free-text intermediates, they serialize structured information into natural language. How much tree-structured compositional content survives this bottleneck?…",
+   "title": "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models"
+  },
   {
    "date": "2026-09-28T00:00:00+00:00",
    "image": null,

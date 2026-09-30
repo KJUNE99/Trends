@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-09-29T12:57:47.391654+00:00",
+ "fetched_at": "2026-09-30T12:39:26.385467+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-29T10:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+   "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+   "title": "Introducing GPT-6.1 Sol"
+  },
+  {
+   "date": "2026-09-29T10:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/devday-2026-recap",
+   "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+   "title": "DevDay 2026 Recap"
+  },
+  {
+   "date": "2026-09-29T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-dots",
+   "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+   "title": "Introducing dots"
+  },
   {
    "date": "2026-09-28T19:00:00+00:00",
    "image": null,
@@ -855,27 +876,6 @@
    "link": "https://openai.com/index/circles",
    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
    "title": "Circles powers telco personalization with OpenAI technology"
-  },
-  {
-   "date": "2026-08-01T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/ten-advances-in-mathematics",
-   "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-   "title": "Ten advances in mathematics and theoretical computer science"
-  },
-  {
-   "date": "2026-07-31T15:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-   "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-   "title": "Advancing responsible AI across Europe"
-  },
-  {
-   "date": "2026-07-31T15:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/building-abundant-intelligence",
-   "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-   "title": "Building abundant intelligence"
   }
  ],
  "name": "OpenAI",
