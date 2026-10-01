@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-09-30T12:39:26.385467+00:00",
+ "fetched_at": "2026-10-01T13:22:11.122761+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-30T20:01:45+00:00",
+   "image": null,
+   "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+   "summary": null,
+   "title": "Gemini 4 Argon: our next era of frontier intelligence"
+  },
+  {
+   "date": "2026-09-30T15:03:07+00:00",
+   "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo",
+   "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+   "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+   "title": "Introducing SynthID Bio"
+  },
   {
    "date": "2026-09-24T16:20:39+00:00",
    "image": null,

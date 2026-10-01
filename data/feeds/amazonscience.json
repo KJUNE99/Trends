@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-09-30T12:39:26.385467+00:00",
+ "fetched_at": "2026-10-01T13:22:11.122761+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-01T12:54:31+00:00",
+   "image": null,
+   "link": "https://www.amazon.science/blog/graph-centric-agentic-intelligence",
+   "summary": "Augmenting a network graph with agentic AI produces a “digital twin” that can help isolate network failures.Graphs encode relationships. In a world where AI agents need to reason about complex systems, not just retrieve…",
+   "title": "Graph-centric agentic intelligence"
+  },
   {
    "date": "2026-09-25T14:55:00+00:00",
    "image": "https://cdn.amazon.science/64/06/65de2b8949c5ad6788d04e1cd813/trainium-cover.png",

@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-09-30T12:39:26.385467+00:00",
+ "fetched_at": "2026-10-01T13:22:11.122761+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-01T13:00:54+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/GFN_Thursday-Oct_1.jpg",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
+   "summary": "Spooky season is streaming in. Alongside falling leaves, pumpkin spice and everything nice, 25 new games are joining GeForce NOW throughout October, including six ready to play this week. From a new CONTROL Resonant…",
+   "title": "Fall Into 25 New Games on GeForce NOW This October"
+  },
+  {
+   "date": "2026-10-01T13:00:49+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/fungibility-blog-1280x680-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+   "summary": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on…",
+   "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment"
+  },
+  {
+   "date": "2026-09-30T17:00:21+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/graduate-fellowship-2026-updated.png",
+   "link": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+   "summary": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA…",
+   "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000"
+  },
+  {
+   "date": "2026-09-30T15:00:00+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/48AA46C8-A24C-44DA-8C2B-C48E21A510FE_1_201_a-scaled.jpeg",
+   "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+   "summary": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of…",
+   "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI"
+  },
   {
    "date": "2026-09-24T14:00:50+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/AF-0000000212056767-master-black-background-scaled.png",

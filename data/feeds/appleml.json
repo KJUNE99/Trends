@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-09-30T12:39:26.385467+00:00",
+ "fetched_at": "2026-10-01T13:22:11.122761+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-09-30T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning",
+   "summary": "Controlling the output of Large Language Models (LLMs) is a central challenge for their reliable deployment, yet a clear understanding of the involved trade-offs remains elusive. Current approaches to conditioning are…",
+   "title": "On the Effectiveness-Fluency Trade-Off in LLM Conditioning: A Systematic Study"
+  },
+  {
+   "date": "2026-09-30T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/sclate-agent-training-evaluation",
+   "summary": "Continual-learning agents are systems of models, harnesses, and memory operating over long multi-session horizons. Evaluating and training them requires interleaving tasks with agent-side events such as session stop and…",
+   "title": "SCLATE: A Substrate for Continual-Learning Agent Training and Evaluation"
+  },
   {
    "date": "2026-09-29T00:00:00+00:00",
    "image": null,

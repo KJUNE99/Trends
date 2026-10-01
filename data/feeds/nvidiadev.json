@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-09-30T12:39:26.385467+00:00",
+ "fetched_at": "2026-10-01T13:22:11.122761+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-01T05:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image3-18-768x432.png",
+   "link": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/",
+   "summary": "Automatic speech recognition must handle how people actually speak, not only the languages and styles that dominate pretraining data. Regional dialects and... Automatic speech recognition must handle how people actually…",
+   "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages"
+  },
+  {
+   "date": "2026-09-30T20:54:59+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/recsys-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/",
+   "summary": "Generative recommender (GR) systems are emerging as a powerful new approach for large-scale personalization. Instead of treating recommendation as a set of... Generative recommender (GR) systems are emerging as a…",
+   "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton"
+  },
+  {
+   "date": "2026-09-30T19:13:02+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/AI-Storage-768x432.png",
+   "link": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk/",
+   "summary": "AI infrastructure engineers, storage developers, and cloud service providers need fast and secure access to high-capacity file and object storage to support AI... AI infrastructure engineers, storage developers, and…",
+   "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK"
+  },
+  {
+   "date": "2026-09-30T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/Tracing-Agent-Harness-768x432.png",
+   "link": "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay/",
+   "summary": "An agent can finish a task and still take an inefficient path. A failed search can trigger another search. A truncated file read can lead to a command fetching... An agent can finish a task and still take an inefficient…",
+   "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay"
+  },
   {
    "date": "2026-09-29T19:10:51+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/llm-optimize-deploy-768x432.png",

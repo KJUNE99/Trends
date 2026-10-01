@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-30T12:39:26.385467+00:00",
+ "fetched_at": "2026-10-01T13:22:11.122761+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -92,13 +92,6 @@
    "link": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
    "summary": "Scaling our curation and measurement of the open ecosystem. No voiceover for this quick post, but a quick video version is here . We’re expanding our open models coverage into standalone projects that let you go deeper…",
    "title": "Introducing our Artifacts Hub and Adoption Dashboard"
-  },
-  {
-   "date": "2026-08-02T13:01:40+00:00",
-   "image": "https://substackcdn.com/image/fetch/$s_!RSM6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a71a4f9-5ac5-447e-82ff-899915627512_2048x1152.jpeg",
-   "link": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
-   "summary": "Capacity to train strong models is proliferating. Consolidation has been one of the paths that many astute observers predicted for the near-future of labs training models. It was labelled as inevitable, as training…",
-   "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier"
   }
  ],
  "name": "Interconnects",
