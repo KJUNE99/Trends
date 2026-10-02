@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-01T13:22:11.122761+00:00",
+ "fetched_at": "2026-10-02T12:40:51.147946+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-01T23:44:13+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/twitter-gif-2104993966043320759-v5.png",
+   "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+   "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the…",
+   "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast"
+  },
   {
    "date": "2026-10-01T13:00:54+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/GFN_Thursday-Oct_1.jpg",

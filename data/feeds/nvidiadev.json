@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-01T13:22:11.122761+00:00",
+ "fetched_at": "2026-10-02T12:40:51.147946+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-01T18:13:29+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/agentic-ai-768x432.png",
+   "link": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills/",
+   "summary": "AI agents are becoming a standard part of development workflows, but general-purpose agents weren't built with specialized infrastructure software such as... AI agents are becoming a standard part of development…",
+   "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills"
+  },
+  {
+   "date": "2026-10-01T17:59:27+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/din-deploy-featured-768x432.png",
+   "link": "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples/",
+   "summary": "Adding AI models to local applications requires a portable model format, a reliable runtime, and acceleration that works across target systems. Do Inference Now... Adding AI models to local applications requires a…",
+   "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples"
+  },
   {
    "date": "2026-10-01T05:00:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image3-18-768x432.png",

@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-01T13:22:11.122761+00:00",
+ "fetched_at": "2026-10-02T12:40:51.147946+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-01T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/harness-autonomous-ml-engineering",
+   "summary": "Recent autonomous machine learning engineering (MLE) agents have made significant progress on public leaderboards. Often motivated by progress stagnation over long-horizon cycles and limited Large Language Model (LLM)…",
+   "title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?"
+  },
+  {
+   "date": "2026-10-01T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/rltl-dr-self-improvement",
+   "summary": "The common paradigm of reinforcement learning with verifiable rewards (RLVR) is to let agents make multiple attempts at a task, and optimize towards the successful ones. This becomes problematic in the realms of…",
+   "title": "RLTL;DR: Self-Improvement by Internalizing Self-Generated Feedback"
+  },
   {
    "date": "2026-09-30T00:00:00+00:00",
    "image": null,

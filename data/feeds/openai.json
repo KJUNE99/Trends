@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-10-01T13:22:11.122761+00:00",
+ "fetched_at": "2026-10-02T12:40:51.147946+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-01T17:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/the-eternal-complement",
+   "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+   "title": "The eternal complement"
+  },
+  {
+   "date": "2026-10-01T16:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/albertsons-reimagining-retail",
+   "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+   "title": "How Albertsons Companies is reimagining retail from the inside out"
+  },
+  {
+   "date": "2026-10-01T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/the-den-family-social",
+   "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work"
+  },
   {
    "date": "2026-09-30T10:30:00+00:00",
    "image": null,
@@ -876,20 +897,6 @@
    "link": "https://openai.com/index/apple-is-getting-this-wrong",
    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
    "title": "Apple is getting this wrong"
-  },
-  {
-   "date": "2026-08-03T07:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-   "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-   "title": "How we built a realtime system for responsive voice AI in six months"
-  },
-  {
-   "date": "2026-08-03T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/circles",
-   "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-   "title": "Circles powers telco personalization with OpenAI technology"
   }
  ],
  "name": "OpenAI",
