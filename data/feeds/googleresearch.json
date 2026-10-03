@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-02T12:40:51.147946+00:00",
+ "fetched_at": "2026-10-03T11:43:01.640678+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-02T14:57:41+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
+   "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+   "summary": null,
+   "title": "Toward provably private learning from federated data"
+  },
   {
    "date": "2026-09-29T18:38:27+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",

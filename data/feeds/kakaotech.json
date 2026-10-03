@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-02T12:40:51.147946+00:00",
+ "fetched_at": "2026-10-03T11:43:01.640678+00:00",
  "group": "eng",
  "items": [
   {
@@ -71,20 +71,6 @@
    "link": "https://tech.kakao.com/posts/829",
    "summary": "안녕하세요! 데이터서비스 조직의 비오, 소나, 테라입니다. 데이터서비스 조직은 다양한 기술로 데이터 생태계를 만들어 가며 모든 크루가 데이터로 문제를 해결할 수 있도록 돕고 있습니다. 그 과정에서 수많은 데이터 파이프라인을 다루고 있으며 이를 위해 수천 개의 Airflow DAG를 여러 하둡별 에어플로우 클러스터 위에서 운영하고 있습니다. 이렇게 여러 파이프라인을 다루다 보니 새로운…",
    "title": "개인화된 Airflow 테스트 환경 구축 및 운영 경험"
-  },
-  {
-   "date": "2026-08-03T15:00:00+00:00",
-   "image": null,
-   "link": "https://tech.kakao.com/posts/828",
-   "summary": "Hello, we are Martin (Daejin Jo), Abigail (Heayoung Park), and Edwin (Wooyoung Kang) from Kanana, the team responsible for developing AI models at Kakao. Our team focuses on building unified multimodal language models…",
-   "title": "Beyond AI That Speaks Well: Making Kanana-o Speak the Way Users Want"
-  },
-  {
-   "date": "2026-08-03T15:00:00+00:00",
-   "image": null,
-   "link": "https://tech.kakao.com/posts/827",
-   "summary": "Intro 안녕하세요, 카카오의 AI 모델 개발을 담당하는 카나나(Kanana) 조직의 Martin(조대진), Abigail(박혜영), Edwin(강우영)입니다. 저희 팀에서는 사람처럼 보고, 듣고, 말하는 통합 멀티모달(Multimodal) 언어모델을 중점적으로 개발하고 있습니다. 지난 5월, 국내 최초로 공개한 통합 멀티모달 언어모델 공개 이후, 저희는 실제 서비스 환경에서 더 나은…",
-   "title": "잘 말하는 AI를 넘어, 원하는 대로 말하는 AI로: Kanana-o 음성 생성 고도화 과정"
   }
  ],
  "name": "Kakao Tech",

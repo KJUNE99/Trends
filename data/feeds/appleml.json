@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-02T12:40:51.147946+00:00",
+ "fetched_at": "2026-10-03T11:43:01.640678+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-02T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/language-discrimination-multilingual-learning",
+   "summary": "Multilingual self-supervised speech models can benefit from sharing information across languages, but under a matched total pretraining data budget they still fall short of monolingual models. We show that strengthening…",
+   "title": "Language Discrimination Improves Linguistic Learning in Multilingual Speech Models"
+  },
+  {
+   "date": "2026-10-02T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/limits-confidence-diffusion",
+   "summary": "Discrete diffusion, including remasking and uniform-state samplers, generate a sequence by writing multiple token positions per step, drawing each from a per-position distribution and choosing which positions to write…",
+   "title": "Limits of Confidence in Diffusion"
+  },
   {
    "date": "2026-10-01T00:00:00+00:00",
    "image": null,

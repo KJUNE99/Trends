@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-02T12:40:51.147946+00:00",
+ "fetched_at": "2026-10-03T11:43:01.640678+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-02T15:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+   "summary": "Here are Google’s latest AI updates from September 2026",
+   "title": "The latest AI news we announced in September 2026"
+  },
   {
    "date": "2026-09-28T19:00:00+00:00",
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
@@ -176,13 +183,6 @@
    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
    "summary": "Here are Google’s latest AI updates from July 2026",
    "title": "The latest AI news we announced in July 2026"
-  },
-  {
-   "date": "2026-08-03T15:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-   "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
-   "title": "Inside our 353,000-person vibe coding course"
   }
  ],
  "name": "Google AI",

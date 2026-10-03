@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-02T12:40:51.147946+00:00",
+ "fetched_at": "2026-10-03T11:43:01.640678+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-02T16:15:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/practical-guide-building-gpt-6",
+   "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+   "title": "A model guide for the GPT-6 family"
+  },
+  {
+   "date": "2026-10-02T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/chatham-financial",
+   "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+   "title": "Chatham scales its capital markets expertise with OpenAI"
+  },
   {
    "date": "2026-10-01T17:00:00+00:00",
    "image": null,
@@ -883,20 +897,6 @@
    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
    "title": "Third-party cyber evaluations involving OpenAI models"
-  },
-  {
-   "date": "2026-08-04T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-   "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-   "title": "New ways to learn and teach with ChatGPT Work and Codex"
-  },
-  {
-   "date": "2026-08-03T22:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/apple-is-getting-this-wrong",
-   "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-   "title": "Apple is getting this wrong"
   }
  ],
  "name": "OpenAI",

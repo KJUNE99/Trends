@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-02T12:40:51.147946+00:00",
+ "fetched_at": "2026-10-03T11:43:01.640678+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-02T15:19:50+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/allenai/astabrief",
+   "summary": null,
+   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta"
+  },
   {
    "date": "2026-10-02T04:01:31+00:00",
    "image": null,

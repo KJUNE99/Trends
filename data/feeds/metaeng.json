@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-02T12:40:51.147946+00:00",
+ "fetched_at": "2026-10-03T11:43:01.640678+00:00",
  "group": "eng",
  "items": [
   {
@@ -64,13 +64,6 @@
    "link": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
    "summary": "Every day, Meta’s recommendation platforms handle billions of user interactions, generating rich temporal signals that capture individual preferences and intent across products, ads, and content. In our 2024 post on…",
    "title": "From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking"
-  },
-  {
-   "date": "2026-08-03T18:00:17+00:00",
-   "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image13.png",
-   "link": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
-   "summary": "Meta’s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes…",
-   "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model"
   }
  ],
  "name": "Meta Engineering",

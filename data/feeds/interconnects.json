@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-02T12:40:51.147946+00:00",
+ "fetched_at": "2026-10-03T11:43:01.640678+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -85,13 +85,6 @@
    "link": "https://www.interconnects.ai/p/lessons-from-the-hacks",
    "summary": "Musings on model alignment, what determines safety, and where we go from here. The recent run of cyberattacks by in-development frontier models has got me thinking a lot about how our current incentive systems are not…",
    "title": "Lessons from the hacks"
-  },
-  {
-   "date": "2026-08-03T14:03:08+00:00",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/dff5e29d-7c81-4f81-a64b-10d9b9bbecbc_2856x1577.png",
-   "link": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
-   "summary": "Scaling our curation and measurement of the open ecosystem. No voiceover for this quick post, but a quick video version is here . We’re expanding our open models coverage into standalone projects that let you go deeper…",
-   "title": "Introducing our Artifacts Hub and Adoption Dashboard"
   }
  ],
  "name": "Interconnects",

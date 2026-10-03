@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-02T12:40:51.147946+00:00",
+ "fetched_at": "2026-10-03T11:43:01.640678+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-02T13:00:39+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+   "summary": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally…",
+   "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI"
+  },
   {
    "date": "2026-10-01T23:44:13+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/twitter-gif-2104993966043320759-v5.png",
