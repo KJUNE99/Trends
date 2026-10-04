@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-03T11:43:01.640678+00:00",
+ "fetched_at": "2026-10-04T12:26:37.313109+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-03T22:56:48+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+   "summary": null,
+   "title": "The Agent Said It Was Done. The Database Disagreed."
+  },
   {
    "date": "2026-10-02T15:19:50+00:00",
    "image": null,

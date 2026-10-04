@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-03T11:43:01.640678+00:00",
+ "fetched_at": "2026-10-04T12:26:37.313109+00:00",
  "group": "lab",
  "items": [
   {
@@ -540,20 +540,6 @@
    "link": "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/",
    "summary": "Meta returns to the open source ecosystem with the release of Muse Glimmer, a 30B open-weight dense model with a 120K+ context window built for local AI... Meta returns to the open source ecosystem with the release of…",
    "title": "Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA"
-  },
-  {
-   "date": "2026-08-04T16:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Cosmos-World-Models-Robot.gif",
-   "link": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
-   "summary": "A central challenge in robotics is building policies that generalize beyond the demonstrations they’re trained on. A policy that succeeds in a training scene... A central challenge in robotics is building policies that…",
-   "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation"
-  },
-  {
-   "date": "2026-08-04T15:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Alpamayo-2-Super-Traffic.gif",
-   "link": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
-   "summary": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data... Autonomous vehicle (AV) development often relies on separate…",
-   "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super"
   }
  ],
  "name": "NVIDIA Developer",

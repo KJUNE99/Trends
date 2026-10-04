@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-03T11:43:01.640678+00:00",
+ "fetched_at": "2026-10-04T12:26:37.313109+00:00",
  "group": "lab",
  "items": [
   {
@@ -890,13 +890,6 @@
    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
    "title": "From asking to doing: How the world is putting ChatGPT to work"
-  },
-  {
-   "date": "2026-08-04T19:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-   "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-   "title": "Third-party cyber evaluations involving OpenAI models"
   }
  ],
  "name": "OpenAI",
