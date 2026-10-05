@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-04T12:26:37.313109+00:00",
+ "fetched_at": "2026-10-05T14:46:27.257104+00:00",
  "group": "lab",
  "items": [
   {
@@ -57,6 +57,13 @@
    "link": "https://huggingface.co/blog/Hcompany/holo4",
    "summary": null,
    "title": "Holo4: powering generalist computer-use agents"
+  },
+  {
+   "date": "2026-09-28T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/rl-environments",
+   "summary": null,
+   "title": "Welcome RL Environments to the hub"
   },
   {
    "date": "2026-09-24T14:08:57+00:00",
@@ -316,13 +323,6 @@
    "link": "https://huggingface.co/blog/muse-glimmer",
    "summary": null,
    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source"
-  },
-  {
-   "date": "2026-08-06T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/baseten",
-   "summary": null,
-   "title": "Baseten on Hugging Face Inference Providers 🔥"
   }
  ],
  "name": "Hugging Face",

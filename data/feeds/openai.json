@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-04T12:26:37.313109+00:00",
+ "fetched_at": "2026-10-05T14:46:27.257104+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-05T10:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+   "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+   "title": "Building advertising for the way people use AI"
+  },
   {
    "date": "2026-10-02T16:15:00+00:00",
    "image": null,
@@ -869,27 +876,6 @@
    "link": "https://openai.com/index/hsp-gruppe",
    "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
    "title": "How HSP GRUPPE builds AI capabilities for tax advisory"
-  },
-  {
-   "date": "2026-08-06T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-   "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-   "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users"
-  },
-  {
-   "date": "2026-08-06T06:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-   "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-   "title": "Working with the American Psychological Association on youth mental health and AI"
-  },
-  {
-   "date": "2026-08-06T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-   "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-   "title": "From asking to doing: How the world is putting ChatGPT to work"
   }
  ],
  "name": "OpenAI",

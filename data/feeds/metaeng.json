@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-04T12:26:37.313109+00:00",
+ "fetched_at": "2026-10-05T14:46:27.257104+00:00",
  "group": "eng",
  "items": [
   {
@@ -57,13 +57,6 @@
    "link": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
    "summary": "WhatsApp is committed to helping people stay safe while protecting the privacy of their messages. As scam tactics evolve — from impersonation to social engineering to AI-generated lures — we’re always evolving as well…",
    "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees"
-  },
-  {
-   "date": "2026-08-05T19:20:20+00:00",
-   "image": "https://engineering.fb.com/wp-content/uploads/2026/05/Multi-stage-Model-Overview.png",
-   "link": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
-   "summary": "Every day, Meta’s recommendation platforms handle billions of user interactions, generating rich temporal signals that capture individual preferences and intent across products, ads, and content. In our 2024 post on…",
-   "title": "From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking"
   }
  ],
  "name": "Meta Engineering",
