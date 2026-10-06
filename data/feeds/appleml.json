@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-05T14:46:27.257104+00:00",
+ "fetched_at": "2026-10-06T13:21:55.567060+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-05T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/ontological-boundary-negotiation",
+   "summary": "Designed artifacts are ontological, shaping, and at times limiting, what becomes possible or imaginable. One path toward mitigating such foreclosures is giving people power over how systems are designed and built…",
+   "title": "Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems"
+  },
   {
    "date": "2026-10-02T00:00:00+00:00",
    "image": null,

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-05T14:46:27.257104+00:00",
+ "fetched_at": "2026-10-06T13:21:55.567060+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-06T13:00:19+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/image1.png",
+   "link": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+   "summary": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical…",
+   "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models"
+  },
   {
    "date": "2026-10-05T13:00:57+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/AdobeStock_422714256_BCAMheader.jpeg",

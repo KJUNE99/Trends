@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-05T14:46:27.257104+00:00",
+ "fetched_at": "2026-10-06T13:21:55.567060+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-06T06:44:39+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+   "summary": null,
+   "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance"
+  },
   {
    "date": "2026-10-03T22:56:48+00:00",
    "image": null,
