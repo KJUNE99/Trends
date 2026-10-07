@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-06T13:21:55.567060+00:00",
+ "fetched_at": "2026-10-07T13:29:27.765905+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-07T08:47:28+00:00",
+   "image": null,
+   "link": "https://d2.naver.com/news/7193556",
+   "summary": "D2 Coding 은 한글과 영문, 숫자, 기호가 함께 있는 코드에서도 일정한 간격과 높은 가독성을 유지하도록 만든 코딩 전용 글꼴입니다. ​ 이번 1.4.0에서는 기존의 빗금이 들어간 숫자 0 대신 점이 들어간 0을 선택해서 사용할 수 있는 기능을 추가했습니다. 일부 크기에서 글자가 기준선보다 한 픽셀 위에 표시되던 문제도 수정했으며, 마침표의 의미를 다르게 보이게 할 수 있었던 리거처…",
+   "title": "D2Coding 폰트 1.4.0 릴리즈 소식을 전합니다."
+  },
+  {
+   "date": "2026-10-07T08:43:28+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2/SMART_EDITOR/2026/10/07/1d2e5d9a-6599-4ed7-b286-f537bf5b44e6.gif/",
+   "link": "https://d2.naver.com/news/8711937",
+   "summary": "주요소식 ​ The Story of VS Code Visual Studio Code 공식 채널이 공개한 약 1시간 38분 분량의 다큐멘터리로, Erich Gamma가 이끈 취리히 팀이 브라우저용 편집기 컴포넌트 Monaco Editor를 만들던 시기부터 데스크톱 VS Code 발표와 오픈 소스 전환까지의 과정을 30여 명의 관계자 인터뷰로 보여 준다. 확장을 별도 프로세스에서 실행하고 한번…",
+   "title": "FE News 26년 10월 소식을 전해드립니다."
+  },
   {
    "date": "2026-10-01T02:40:01+00:00",
    "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fs.pstatic.net%2Fdthumb.phinf%2F%3Fsrc%3Dhttps%3A%2F%2Fvideo-phinf.pstatic.net%2F20260930_162%2F1790734471257eCu0R_JPEG%2FlcpcaRHabR_01.jpg%26service%3Dnavermain%26type%3Dclip_500_300_blurfill%402x%22&type=ff500_300",

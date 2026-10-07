@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-06T13:21:55.567060+00:00",
+ "fetched_at": "2026-10-07T13:29:27.765905+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-10-06T14:22:41+00:00",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ea1add-1879-4004-a05c-017c3091dd6a_3182x1790.png",
+   "link": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+   "summary": "Open-weights, ideology, and acknowledging trade-offs. I’ve had one too many discussions on the cyber risks of open models — where someone assumes that either banning open models happens in a silo (and bad actors will…",
+   "title": "The Cyber Risk Discourse is Broken"
+  },
   {
    "date": "2026-09-22T13:37:45+00:00",
    "image": null,

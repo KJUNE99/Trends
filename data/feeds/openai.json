@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-10-06T13:21:55.567060+00:00",
+ "fetched_at": "2026-10-07T13:29:27.765905+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-06T16:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/atlassian-partnership",
+   "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action"
+  },
+  {
+   "date": "2026-10-06T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/jump-trading",
+   "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+   "title": "How Jump Trading is scaling quant research with ChatGPT"
+  },
+  {
+   "date": "2026-10-06T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+   "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+   "title": "Sharing AI progress in mathematics"
+  },
+  {
+   "date": "2026-10-06T10:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+   "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+   "title": "Advancing computer use with Ironclad"
+  },
   {
    "date": "2026-10-05T15:00:00+00:00",
    "image": null,
@@ -876,13 +904,6 @@
    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
    "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work"
-  },
-  {
-   "date": "2026-08-07T15:20:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-   "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-   "title": "Responding to the next frontier of critical cyber capabilities"
   }
  ],
  "name": "OpenAI",

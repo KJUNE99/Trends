@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-06T13:21:55.567060+00:00",
+ "fetched_at": "2026-10-07T13:29:27.765905+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-06T16:19:06+00:00",
+   "image": null,
+   "link": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+   "summary": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising…",
+   "title": "What AI gets wrong and what failure teaches us"
+  },
   {
    "date": "2026-09-30T16:00:00+00:00",
    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg",

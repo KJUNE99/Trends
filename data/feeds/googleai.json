@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-06T13:21:55.567060+00:00",
+ "fetched_at": "2026-10-07T13:29:27.765905+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-07T12:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+   "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+   "title": "Introducing Playground: Create and play custom games"
+  },
   {
    "date": "2026-10-02T15:00:00+00:00",
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
