@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-10-07T13:29:27.765905+00:00",
+ "fetched_at": "2026-10-08T13:35:27.873348+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-07T18:21:03+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image-1790985193398-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/the-machines-that-make-the-machines/",
+   "summary": "How we taught robots to assemble GB300 tester trays and what it taught us about robot learning, mechanical intelligence, and good old-fashioned engineering The... How we taught robots to assemble GB300 tester trays and…",
+   "title": "The Machines that Make the Machines"
+  },
+  {
+   "date": "2026-10-07T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Networking-Software-e1790963723399-768x432.webp",
+   "link": "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents/",
+   "summary": "AI factories are some of the most complex operations in the world, combining GPUs, CPUs, switches, DPUs, and SuperNICs alongside schedulers, orchestration... AI factories are some of the most complex operations in the…",
+   "title": "Validate AI Factory Changes with Digital Twins and AI Agents"
+  },
+  {
+   "date": "2026-10-07T15:45:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/geometric-structure-1-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt/",
+   "summary": "Supply chain problems are expanding across more SKUs, lanes, and constraints than ever before, while energy grids are balancing more distributed sources in real... Supply chain problems are expanding across more SKUs…",
+   "title": "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt"
+  },
+  {
+   "date": "2026-10-07T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Satellite-Stars-e1791320112446-768x431.webp",
+   "link": "https://developer.nvidia.com/blog/faster-scientific-image-analysis-with-nvidia-cuphoton/",
+   "summary": "Observatories and telescopes, lasers and X-ray light sources, and other high-throughput instruments generate image data faster than CPU-bound pipelines can... Observatories and telescopes, lasers and X-ray light…",
+   "title": "Faster Scientific Image Analysis with NVIDIA cuPhoton"
+  },
   {
    "date": "2026-10-06T19:07:02+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image9-768x432.png",
@@ -151,7 +179,7 @@
   },
   {
    "date": "2026-09-22T13:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/1_16x9-768x432.jpg",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/24_resized-768x432.jpg",
    "link": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
    "summary": "NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and granular controls that help game developers add lifelike lighting and material detail while... NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and…",
    "title": "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities"

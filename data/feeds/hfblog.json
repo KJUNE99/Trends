@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-07T13:29:27.765905+00:00",
+ "fetched_at": "2026-10-08T13:35:27.873348+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-07T16:54:33+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+   "summary": null,
+   "title": "Multimodal open d1 decision models for the edge"
+  },
   {
    "date": "2026-10-07T13:21:03+00:00",
    "image": null,

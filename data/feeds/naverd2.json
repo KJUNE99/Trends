@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-07T13:29:27.765905+00:00",
+ "fetched_at": "2026-10-08T13:35:27.873348+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-08T06:44:57+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202609-%EB%8F%84%EC%A0%95%EC%9A%B0%2Ffiles%2Ffig-01-memray-flamegraph.png",
+   "link": "https://d2.naver.com/helloworld/4149925",
+   "summary": "Python의 멀티프로세싱과 Airflow의 task 동작 방식 - Python과 Airflow, 그리고 관련된 문제 해결기 1편 에서는 Airflow가 task를 실행할 때 요구되는 병렬성과 격리성을 살펴보고, 이를 만족하기 위해 Airflow가 task마다 만들었다 버리는 단기 프로세스와 만들어 두고 재사용하는 장기 프로세스를 모두 fork 방식으로 생성한다는 점을 확인했습니다…",
+   "title": "Python의 GC가 멀티프로세싱과 만나면 생기는 일 - Python과 Airflow, 그리고 관련된 문제 해결기 2편"
+  },
+  {
+   "date": "2026-10-08T06:43:18+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202608-%EB%8F%84%EC%A0%95%EC%9A%B0%2Ffiles%2Fimage-2026-8-10_10-5-52.png",
+   "link": "https://d2.naver.com/helloworld/4452165",
+   "summary": "저희 팀은 데이터 입수 플랫폼의 배치 워크플로를 Airflow 2.10.2로 운영하고 있습니다. 2025년 4월 Airflow 3.0이 릴리스되었고, UI 개선과 다양한 신규 기능이 포함되었습니다. 이 변화가 저희 운영 환경에 필요하다고 판단했고 도입을 위한 PoC(Proof of Concept)를 진행했습니다. 이 글은 그 PoC 과정에서 Python의 멀티프로세싱 방식 중 하나인…",
+   "title": "Python의 멀티프로세싱과 Airflow의 task 동작 방식 - Python과 Airflow, 그리고 관련된 문제 해결기 1편"
+  },
   {
    "date": "2026-10-07T08:47:28+00:00",
    "image": null,
@@ -43,13 +57,6 @@
    "link": "https://d2.naver.com/news/3092933",
    "summary": "네이버의 기술과 개발 경험을 개발자들과 나누는 Developer Experience 팀의 인터뷰가 네이버피셜 에 공개됐습니다. ​ Developer Experience 팀은 D2를 비롯한 기술 콘텐츠를 만들고, 네이버 개발자의 성장 단계에 맞는 교육과 기술 공유 프로그램을 통해 개발자의 경험과 노하우를 연결하고 있습니다. ​ 이번 인터뷰에서는 사람과 사람, 사람과 도구를 잇는…",
    "title": "[네이버피셜] 네이버 개발자라면 꼭 만나게 됩니다"
-  },
-  {
-   "date": "2026-09-01T06:52:03+00:00",
-   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202608-%EB%8F%84%EC%A0%95%EC%9A%B0%2Ffiles%2Fimage-2026-8-10_10-5-52.png",
-   "link": "https://d2.naver.com/helloworld/4452165",
-   "summary": "저희 팀은 데이터 입수 플랫폼의 배치 워크플로를 Airflow 2.10.2로 운영하고 있습니다. 2025년 4월 Airflow 3.0이 릴리스되었고, UI 개선과 다양한 신규 기능이 포함되었습니다. 이 변화가 저희 운영 환경에 필요하다고 판단했고 도입을 위한 PoC(Proof of Concept)를 진행했습니다. 이 글은 그 PoC 과정에서 Python의 멀티프로세싱 방식 중 하나인…",
-   "title": "Python의 멀티프로세싱과 Airflow, 그리고 관련된 문제 해결기 1편"
   },
   {
    "date": "2026-08-10T16:39:52+00:00",
