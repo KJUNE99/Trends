@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-08T13:35:27.873348+00:00",
+ "fetched_at": "2026-10-09T13:21:58.014358+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-08T21:06:35+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
+   "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA…",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
+  },
   {
    "date": "2026-10-08T13:00:46+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gfn-thursday-10-8-blog-1920x1080-logo.jpg",

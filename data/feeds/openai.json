@@ -1,7 +1,42 @@
 {
- "fetched_at": "2026-10-08T13:35:27.873348+00:00",
+ "fetched_at": "2026-10-09T13:21:58.014358+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-09T07:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/sophos",
+   "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
+  },
+  {
+   "date": "2026-10-08T16:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/oracle",
+   "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex"
+  },
+  {
+   "date": "2026-10-08T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/pollo-ai",
+   "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+   "title": "Pollo AI turns creative ideas into campaigns with OpenAI"
+  },
+  {
+   "date": "2026-10-08T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/legalon-halves-codex-costs",
+   "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+   "title": "LegalOn halves Codex costs while maintaining development speed"
+  },
+  {
+   "date": "2026-10-08T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+   "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+   "title": "Disrupting AI-enabled “false front” operations"
+  },
   {
    "date": "2026-10-07T12:00:00+00:00",
    "image": null,
@@ -883,48 +918,6 @@
    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
    "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas"
-  },
-  {
-   "date": "2026-08-10T12:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/model-ml",
-   "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-   "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol"
-  },
-  {
-   "date": "2026-08-10T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-   "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-   "title": "Putting frontier cyber models in more trusted hands"
-  },
-  {
-   "date": "2026-08-10T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-   "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-   "title": "Expanding Daybreak as the Cyber Defense Window Narrows"
-  },
-  {
-   "date": "2026-08-10T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/zapier",
-   "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-   "title": "How Zapier transformed core marketing processes with ChatGPT Work"
-  },
-  {
-   "date": "2026-08-10T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/premium-seats-chatgpt-business",
-   "summary": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
-   "title": "Premium seats are coming to ChatGPT Business"
-  },
-  {
-   "date": "2026-08-10T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-   "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-   "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work"
   }
  ],
  "name": "OpenAI",
