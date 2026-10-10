@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T13:21:58.014358+00:00",
+ "fetched_at": "2026-10-10T12:36:34.997115+00:00",
  "group": "lab",
  "items": [
   {
@@ -64,13 +64,6 @@
    "link": "https://www.amazon.science/blog/a-decade-of-mathematical-certainty-reflections-on-the-automated-reasoning-group",
    "summary": "Ten years after we founded the Automated Reasoning Group, mathematical logic has moved from academic research into production services that secure millions of customer workloads — demonstrating that systems can be…",
    "title": "A decade of mathematical certainty: Reflections on the Automated Reasoning Group"
-  },
-  {
-   "date": "2026-08-10T20:23:04+00:00",
-   "image": null,
-   "link": "https://www.amazon.science/news/aws-trainium-frontier-competition-co-design-models-and-kernels-on-purpose-built-ai-chips",
-   "summary": "A competition with a finalist ceremony during NeurIPS 2026, challenging researchers to train language models from scratch on Trainium, exploring what optimal architectures look like when the hardware changes.Modern LLM…",
-   "title": "AWS Trainium Frontier competition: Co-design models and kernels on purpose-built AI chips"
   }
  ],
  "name": "Amazon Science",

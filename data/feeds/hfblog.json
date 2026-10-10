@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-09T13:21:58.014358+00:00",
+ "fetched_at": "2026-10-10T12:36:34.997115+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-09T15:20:29+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+   "summary": null,
+   "title": "Impactful scheduling for GPU clusters"
+  },
   {
    "date": "2026-10-08T00:00:00+00:00",
    "image": null,
@@ -337,13 +344,6 @@
    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
    "summary": null,
    "title": "Thinking of ACE? We Can Do It with Fewer Tokens"
-  },
-  {
-   "date": "2026-08-10T16:25:36+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-   "summary": null,
-   "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS"
   }
  ],
  "name": "Hugging Face",

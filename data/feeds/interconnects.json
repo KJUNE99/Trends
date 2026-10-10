@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-09T13:21:58.014358+00:00",
+ "fetched_at": "2026-10-10T12:36:34.997115+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-10-09T21:33:47+00:00",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/fe890df0-8dfe-4dfb-9fb9-659d721e2d76_3182x1790.png",
+   "link": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+   "summary": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it. I’ve often been surprised when I…",
+   "title": "I expect rapid progress but not towards general superintelligence"
+  },
   {
    "date": "2026-10-06T14:22:41+00:00",
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/12ea1add-1879-4004-a05c-017c3091dd6a_3182x1790.png",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T13:21:58.014358+00:00",
+ "fetched_at": "2026-10-10T12:36:34.997115+00:00",
  "group": "lab",
  "items": [
   {
@@ -8,6 +8,13 @@
    "link": "https://openai.com/index/sophos",
    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
+  },
+  {
+   "date": "2026-10-09T07:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/asana-browser-agent",
+   "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
   },
   {
    "date": "2026-10-08T16:00:00+00:00",
@@ -211,6 +218,13 @@
    "link": "https://openai.com/index/proaction",
    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex"
+  },
+  {
+   "date": "2026-09-25T07:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/lowes",
+   "summary": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward.",
+   "title": "Lowe’s answers millions of home improvement questions with OpenAI"
   },
   {
    "date": "2026-09-25T00:00:00+00:00",
@@ -890,34 +904,6 @@
    "link": "https://openai.com/index/ringcentral",
    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
    "title": "How RingCentral builds AI-native work from engineering to ops"
-  },
-  {
-   "date": "2026-08-11T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/testing-ads-in-chatgpt",
-   "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-   "title": "Testing ads in ChatGPT"
-  },
-  {
-   "date": "2026-08-11T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-   "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-   "title": "Daybreak models are now available on AWS"
-  },
-  {
-   "date": "2026-08-10T17:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/building-an-ai-native-finance-function",
-   "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-   "title": "What building an AI-native finance function taught me"
-  },
-  {
-   "date": "2026-08-10T14:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-   "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-   "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas"
   }
  ],
  "name": "OpenAI",

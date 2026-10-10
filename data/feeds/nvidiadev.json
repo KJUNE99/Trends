@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T13:21:58.014358+00:00",
+ "fetched_at": "2026-10-10T12:36:34.997115+00:00",
  "group": "lab",
  "items": [
   {
@@ -603,13 +603,6 @@
    "link": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
    "summary": "Building an AI agent does not end with choosing a single model. Each model has its own strengths, weaknesses, and cost profile, which can shift from one... Building an AI agent does not end with choosing a single model…",
    "title": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard"
-  },
-  {
-   "date": "2026-08-10T13:27:19+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Open-Model-768x432.png",
-   "link": "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/",
-   "summary": "Meta returns to the open source ecosystem with the release of Muse Glimmer, a 30B open-weight dense model with a 120K+ context window built for local AI... Meta returns to the open source ecosystem with the release of…",
-   "title": "Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA"
   }
  ],
  "name": "NVIDIA Developer",
