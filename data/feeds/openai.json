@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:36:34.997115+00:00",
+ "fetched_at": "2026-10-11T12:55:29.056542+00:00",
  "group": "lab",
  "items": [
   {
@@ -890,20 +890,6 @@
    "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer"
-  },
-  {
-   "date": "2026-08-12T06:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-   "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-   "title": "From assistance to execution: How enterprises put AI to work"
-  },
-  {
-   "date": "2026-08-12T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/ringcentral",
-   "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-   "title": "How RingCentral builds AI-native work from engineering to ops"
   }
  ],
  "name": "OpenAI",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:36:34.997115+00:00",
+ "fetched_at": "2026-10-11T12:55:29.056542+00:00",
  "group": "lab",
  "items": [
   {
@@ -337,13 +337,6 @@
    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
    "summary": null,
    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis"
-  },
-  {
-   "date": "2026-08-11T13:37:10+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-   "summary": null,
-   "title": "Thinking of ACE? We Can Do It with Fewer Tokens"
   }
  ],
  "name": "Hugging Face",
