@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-08T13:35:27.873348+00:00",
+ "fetched_at": "2026-10-12T15:32:46.183847+00:00",
  "group": "lab",
  "items": [
   {
@@ -120,13 +120,6 @@
    "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
    "summary": null,
    "title": "Introducing Gemini 3.7 Flash"
-  },
-  {
-   "date": "2026-08-12T14:01:59+00:00",
-   "image": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo",
-   "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-   "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-   "title": "Putting sign language AI into users’ hands"
   }
  ],
  "name": "Google DeepMind",

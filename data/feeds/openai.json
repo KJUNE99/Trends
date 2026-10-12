@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T12:55:29.056542+00:00",
+ "fetched_at": "2026-10-12T15:32:46.183847+00:00",
  "group": "lab",
  "items": [
   {
@@ -869,27 +869,6 @@
    "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
    "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
    "title": "New policy ideas for the Intelligence Age"
-  },
-  {
-   "date": "2026-08-13T11:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-   "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-   "title": "The builder’s guide to GPT‑5.6"
-  },
-  {
-   "date": "2026-08-13T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/previewing-ultrafast",
-   "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-   "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed"
-  },
-  {
-   "date": "2026-08-13T09:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-   "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-   "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer"
   }
  ],
  "name": "OpenAI",
