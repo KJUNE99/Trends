@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-12T15:32:46.183847+00:00",
+ "fetched_at": "2026-10-13T14:16:23.710800+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-13T12:00:49+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+   "summary": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and…",
+   "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark"
+  },
+  {
+   "date": "2026-10-13T05:00:31+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/france-ai-ecosystem-gtc-berlin-updated.jpeg",
+   "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+   "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to…",
+   "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA"
+  },
   {
    "date": "2026-10-12T15:00:25+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310.jpg",

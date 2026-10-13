@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-12T15:32:46.183847+00:00",
+ "fetched_at": "2026-10-13T14:16:23.710800+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-12T17:36:18+00:00",
+   "image": null,
+   "link": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+   "summary": "“Priming” reuses pretrained Transformer weights to build models with more efficient architectures at less than 1% of the original training cost and with throughputs up to twice as high.AI agents are rapidly scaling…",
+   "title": "Can we change an AI model’s architecture without retraining it from scratch?"
+  },
   {
    "date": "2026-10-01T12:54:31+00:00",
    "image": null,

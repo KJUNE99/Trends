@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-10-12T15:32:46.183847+00:00",
+ "fetched_at": "2026-10-13T14:16:23.710800+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-12T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/llm-translation-quality-annotation",
+   "summary": "Large Language Models (LLMs) are considered to be a more efficient and cost-effective alternative to human judgment for Machine Translation (MT) evaluation. With MT evaluation spanning a large number of language pairs…",
+   "title": "Large Language Models for Machine Translation Quality Annotation: Humans and Models Are Both Challenged"
+  },
+  {
+   "date": "2026-10-12T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+   "summary": "The increasing demand for GPU-accelerated machine learning inference has exposed limitations in centralized GPU infrastructures, including high cost, limited elasticity, and long wait times under resource constraints…",
+   "title": "Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices"
+  },
+  {
+   "date": "2026-10-12T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/self-compacting-language-agents",
+   "summary": "Long agent traces composed of chains of thought and tool calls accumulate stale content that anchor subsequent generations, and eventually outgrow the context window. Existing scaffolds mitigate it with fixed-interval…",
+   "title": "Self-Compacting Language Model Agents"
+  },
   {
    "date": "2026-10-08T00:00:00+00:00",
    "image": null,

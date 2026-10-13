@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:32:46.183847+00:00",
+ "fetched_at": "2026-10-13T14:16:23.710800+00:00",
  "group": "lab",
  "items": [
   {
@@ -162,13 +162,6 @@
    "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
    "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
    "title": "Get closer to the game with Gemini and Pixel"
-  },
-  {
-   "date": "2026-08-13T16:45:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
-   "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-   "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
-   "title": "Bring your spreadsheet data to life with Sheets canvas"
   }
  ],
  "name": "Google AI",
