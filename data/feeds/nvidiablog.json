@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-13T14:16:23.710800+00:00",
+ "fetched_at": "2026-10-14T11:57:49.983109+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-14T06:04:15+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/uk-ecosystem-industries.png",
+   "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+   "summary": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems…",
+   "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA"
+  },
+  {
+   "date": "2026-10-14T06:00:28+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gtc-berlin-smart-cities-blog.jpg",
+   "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+   "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and…",
+   "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations"
+  },
   {
    "date": "2026-10-13T12:00:49+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg",
@@ -14,7 +28,7 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/france-ai-ecosystem-gtc-berlin-updated.jpeg",
    "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
    "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to…",
-   "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA"
+   "title": "NVIDIA Announces New Investments in France’s Startups"
   },
   {
    "date": "2026-10-12T15:00:25+00:00",
@@ -358,13 +372,6 @@
    "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
    "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI…",
    "title": "Securing the Infrastructure of Intelligence"
-  },
-  {
-   "date": "2026-08-14T17:13:05+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/telco-tech-blog-header-indosat-ai-technology-center-1920x1080-1.png",
-   "link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-   "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM…",
-   "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent"
   }
  ],
  "name": "NVIDIA Blog",

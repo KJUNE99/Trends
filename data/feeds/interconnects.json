@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:16:23.710800+00:00",
+ "fetched_at": "2026-10-14T11:57:49.983109+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -71,13 +71,6 @@
    "link": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
    "summary": "Nvidia wants you building your own model, not buying from Anthropic/OpenAI. Housekeeping: No voiceover for this post as I’m traveling. The oldest comparison people try to make is how what’s happening with open models…",
    "title": "Teaching Everyone to Fish for Tokens"
-  },
-  {
-   "date": "2026-08-14T21:23:35+00:00",
-   "image": "https://substackcdn.com/image/fetch/$s_!_6Y2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49ade27f-0d84-40f3-840a-3c919e0bb8af_4239x2504.webp",
-   "link": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
-   "summary": "Hint: It’s really not a distillation story. Housekeeping: I’m traveling so cannot make a voiceover for this post. EDIT — I added a bullet point 5 on the Chinese data industry after sending the email out. Today, Z.ai…",
-   "title": "GLM-5.3: How Chinese labs keep stride with the frontier"
   }
  ],
  "name": "Interconnects",

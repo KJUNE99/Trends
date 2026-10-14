@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-13T14:16:23.710800+00:00",
+ "fetched_at": "2026-10-14T11:57:49.983109+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-13T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/mix-dont-tune",
+   "summary": "For most languages of the world, language model pre-training operates in a data-constrained regime where models must repeat their training data many times, degrading generalization. Two remedies exist: aggressive…",
+   "title": "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings"
+  },
   {
    "date": "2026-10-12T00:00:00+00:00",
    "image": null,

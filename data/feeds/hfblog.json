@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-13T14:16:23.710800+00:00",
+ "fetched_at": "2026-10-14T11:57:49.983109+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-13T17:05:48+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+   "summary": null,
+   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B"
+  },
   {
    "date": "2026-10-09T15:20:29+00:00",
    "image": null,

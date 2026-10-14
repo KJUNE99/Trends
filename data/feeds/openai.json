@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-13T14:16:23.710800+00:00",
+ "fetched_at": "2026-10-14T11:57:49.983109+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-14T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+   "title": "The EU’s next chapter in AI is agentic"
+  },
+  {
+   "date": "2026-10-13T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+   "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+   "title": "Higgsfield takes AI video from 1 minute to over 10"
+  },
   {
    "date": "2026-10-09T07:00:00+00:00",
    "image": null,

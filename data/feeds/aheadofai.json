@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:16:23.710800+00:00",
+ "fetched_at": "2026-10-14T11:57:49.983109+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -22,13 +22,6 @@
    "link": "https://magazine.sebastianraschka.com/p/claude-watermarking",
    "summary": "A 48-minute video walkthrough of token sampling, watermark detection, and removal I recently posted a Substack note about Claude’s new watermarking process and implementation. Since it’s such a popular topic and sparked…",
    "title": "How Claude Watermarks AI-Generated Text"
-  },
-  {
-   "date": "2026-08-15T11:54:24+00:00",
-   "image": "https://substackcdn.com/image/fetch/$s_!Om23!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F875b5076-19a9-4ffe-91d4-cafa156f650a_5343x5696.png",
-   "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
-   "summary": "An End-to-End Project With Dataset Construction, Model Training, Local Deployment, and RLVR Substack recently launched its AI detector feature in the UI, which is super interesting. Separately, lots of people asked me…",
-   "title": "Building an AI Text Detector From Scratch"
   }
  ],
  "name": "Ahead of AI",

@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-13T14:16:23.710800+00:00",
+ "fetched_at": "2026-10-14T11:57:49.983109+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-13T21:33:21+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-5-768x432.png",
+   "link": "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/",
+   "summary": "Enterprise applications have become increasingly demanding. Agentic AI has compounded the need for vast amounts of enterprise data with frequent, complex... Enterprise applications have become increasingly demanding…",
+   "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents"
+  },
+  {
+   "date": "2026-10-13T14:19:40+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/01/run-ai-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
+   "summary": "NVIDIA is making the full NVIDIA Run:ai platform available as open source software, giving customers, developers, and ecosystem partners access to... NVIDIA is making the full NVIDIA Run:ai platform available as open…",
+   "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform"
+  },
   {
    "date": "2026-10-12T16:00:54+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/cube-black-background-768x432.png",

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-13T14:16:23.710800+00:00",
+ "fetched_at": "2026-10-14T11:57:49.983109+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-13T16:01:00+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/10/GEM-Scaling-Frontier-Ads-Image-1.png",
+   "link": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
+   "summary": "Last year, we introduced GEM, the industry’s largest recommendation system (RecSys) foundation model. GEM established Meta’s first LLM-inspired paradigm for ads recommendation, driving major performance gains. Building…",
+   "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI"
+  },
   {
    "date": "2026-10-12T21:19:18+00:00",
    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-OCP-2026-IcePack-Rack-e1791838724959.png",
