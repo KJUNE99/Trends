@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-14T11:57:49.983109+00:00",
+ "fetched_at": "2026-10-15T11:34:35.685289+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-14T16:10:45+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/agentic-workflow-768x432.png",
+   "link": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/",
+   "summary": "AI agents offer remarkable productivity gains in complex chip design workflows, but their tendency to generate plausible yet incorrect artifacts makes... AI agents offer remarkable productivity gains in complex chip…",
+   "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym"
+  },
   {
    "date": "2026-10-13T21:33:21+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-5-768x432.png",

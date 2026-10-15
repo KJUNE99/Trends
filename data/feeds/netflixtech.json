@@ -1,7 +1,77 @@
 {
- "fetched_at": "2026-10-14T11:57:49.983109+00:00",
+ "fetched_at": "2026-10-15T11:34:35.685289+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-14T20:02:22+00:00",
+   "image": "https://cdn-images-1.medium.com/max/960/1*9xBaz1zkvALNwB3iT3xK8g.png",
+   "link": "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
+   "summary": "Authors: Divya Gadde , Ko-Jen Hsiao , Dhaval Patel and Moumita Bhattacharya The motivation for building the Netflix Foundation Model for personalization was laid out in this previous blog post. The Netflix homepage is…",
+   "title": "Integrating Netflix’s Foundation Model into Personalization applications"
+  },
+  {
+   "date": "2026-10-14T19:59:08+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*dcANBgrIzPINy2sZeZNXMQ.png",
+   "link": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4",
+   "summary": "by Olek Gorajek , Samuel Redai , Yian Shang Intro Our Netflix journey from data to dashboards, particularly within the space of the experimentation platform, always presented a unique set of challenges. This blog post…",
+   "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack"
+  },
+  {
+   "date": "2026-10-14T19:57:43+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*lWLZiuDQ7WWaPsdEHZoNnw.png",
+   "link": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
+   "summary": "By Kevin Zielnicki, Guy Aridor, Aurélien Bibaut, Allen Tran, Winston Chou, and Nathan Kallus Introduction Personalization is everywhere on the internet. It shapes the products we discover, the stories we read, the music…",
+   "title": "Measuring the Impact of Personalized Recommendations"
+  },
+  {
+   "date": "2026-10-14T19:56:08+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*ZL0rDP0Un-DxepYPmFo4aQ.png",
+   "link": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
+   "summary": "By Oleksii Tkachuk , Rajiv Shringi , Chris Lohfink , Abe Ratnofsky , Kartik Sathyanarayanan Introduction In an earlier post , we introduced the TimeSeries Abstraction, our high-throughput, low-latency platform designed…",
+   "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads"
+  },
+  {
+   "date": "2026-10-14T19:51:35+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*LkXsONCex0Q1KvttewSZ1w.png",
+   "link": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
+   "summary": "By Yogesh Nagarur Introduction In Part 1 of this series , we shared how Netflix built the Ads Event pipeline and approached it as a system design problem: replacing fragmented pipelines with a centralized collection…",
+   "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II"
+  },
+  {
+   "date": "2026-10-14T19:50:17+00:00",
+   "image": "https://cdn-images-1.medium.com/max/940/1*cPgTnfCY3ngVsK8hTPyZrw.png",
+   "link": "https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
+   "summary": "Netflix Conductor : The Next Chapter by Aravindan Ramkumar on behalf of the Conductor team Conductor is the workflow orchestration engine Netflix uses to stitch micro-services into reliable, observable business…",
+   "title": "Netflix Conductor: The Next Chapter"
+  },
+  {
+   "date": "2026-10-14T19:49:11+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1020/1*XXIKbAHpGvPtFzHcDL8Kcg.png",
+   "link": "https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4",
+   "summary": "By Prashanth Gedde Narayanaswamy As one of Netflix’s largest and critical data pipelines, member-sessionizer consolidates tens of billions of hourly client events, encompassing user taps, playbacks, and engagement…",
+   "title": "Running Apache Spark experiments in my sleep (and on a plane)"
+  },
+  {
+   "date": "2026-10-14T19:48:49+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*hJdG1aeP8E3Hil6mJwcp1Q.png",
+   "link": "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
+   "summary": "By Emma Yanyang Kong , JJ Tan , Ishan Gupta , Lars Olds , Claire Campbell , David Fagnan , Ratna Kavuri , Rohan Gosain , Veli Balin , Minsu Jang , Louis Garcia Introduction Any team generating text with an LLM at scale…",
+   "title": "The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale"
+  },
+  {
+   "date": "2026-10-14T19:48:20+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*_8R96y0lKNJmgSs1qZ0qTw.png",
+   "link": "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
+   "summary": "By Violetta Pidvolotska and Naveen Mareddy Stratum is Netflix’s internal serverless media processing platform, shaped by over a decade of experience developing large-scale distributed systems. It powers a wide range of…",
+   "title": "Netflix Stratum Media Processing: Automated Container Right-Sizing"
+  },
+  {
+   "date": "2026-10-14T19:47:42+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*d15z8m06XjWnYeauK7iXfQ.png",
+   "link": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
+   "summary": "How we detect failing GPUs and network fabric, remediate machines automatically, and let long-running jobs survive hardware loss. Authors: Nick Rutigliano , Argha C , Samartha Chandrashekar Open Netflix, and the home…",
+   "title": "Reliable GPU compute for large training & inference jobs"
+  },
   {
    "date": "2026-09-25T16:01:03+00:00",
    "image": "https://cdn-images-1.medium.com/max/1024/1*eIWpHw7J_6qZCuaffD0lQQ.png",

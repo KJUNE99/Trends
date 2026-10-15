@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-14T11:57:49.983109+00:00",
+ "fetched_at": "2026-10-15T11:34:35.685289+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-14T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/tri-modal-masked-diffusion",
+   "summary": "Discrete diffusion models have emerged as strong alternatives to autoregressive language models, with recent work initializing and finetuning a base unimodal model for bi-modal generation. Diverging from previous…",
+   "title": "The Design Space of Tri-Modal Masked Diffusion Models"
+  },
+  {
+   "date": "2026-10-14T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/code-switching-detection",
+   "summary": "Code-switching (CS), the alternation between languages within an utterance, is common in multilingual speech but underrepresented in pretraining corpora. Increasing CS coverage requires finding relevant utterances in…",
+   "title": "Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models"
+  },
   {
    "date": "2026-10-13T00:00:00+00:00",
    "image": null,

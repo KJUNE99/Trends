@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-10-14T11:57:49.983109+00:00",
+ "fetched_at": "2026-10-15T11:34:35.685289+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-14T16:14:34+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/USS0291-Google_Research_Anthem_Film_Thumbnail4_1.jpg",
+   "link": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+   "summary": null,
+   "title": "Research@ 2026: 10 ways we're amplifying human ingenuity"
+  },
+  {
+   "date": "2026-10-14T16:14:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/EarthAITechReport1_Overview.gif",
+   "link": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+   "summary": null,
+   "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges"
+  },
+  {
+   "date": "2026-10-14T16:14:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepReview2.jpg",
+   "link": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+   "summary": null,
+   "title": "Analyzing technical documents with Deep Review"
+  },
   {
    "date": "2026-10-07T20:19:57+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",

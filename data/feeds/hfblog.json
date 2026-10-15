@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-14T11:57:49.983109+00:00",
+ "fetched_at": "2026-10-15T11:34:35.685289+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-14T16:12:42+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+   "summary": null,
+   "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost"
+  },
   {
    "date": "2026-10-13T17:05:48+00:00",
    "image": null,
