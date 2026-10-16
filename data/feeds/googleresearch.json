@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-15T11:34:35.685289+00:00",
+ "fetched_at": "2026-10-16T11:28:53.605522+00:00",
  "group": "lab",
  "items": [
   {
-   "date": "2026-10-14T16:14:34+00:00",
+   "date": "2026-10-14T16:14:00+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/USS0291-Google_Research_Anthem_Film_Thumbnail4_1.jpg",
    "link": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
    "summary": null,
@@ -155,13 +155,6 @@
    "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
    "summary": null,
    "title": "How mobility gives language models a deeper understanding of place"
-  },
-  {
-   "date": "2026-08-17T10:34:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PhotoScanIR_Overview.png",
-   "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-   "summary": null,
-   "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery"
   }
  ],
  "name": "Google Research",

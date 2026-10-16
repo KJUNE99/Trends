@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:34:35.685289+00:00",
+ "fetched_at": "2026-10-16T11:28:53.605522+00:00",
  "group": "lab",
  "items": [
   {
@@ -162,13 +162,6 @@
    "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
    "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
    "title": "5 new ways to level up your learning with Search"
-  },
-  {
-   "date": "2026-08-17T08:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
-   "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-   "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
-   "title": "Get closer to the game with Gemini and Pixel"
   }
  ],
  "name": "Google AI",

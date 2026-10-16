@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-10-15T11:34:35.685289+00:00",
+ "fetched_at": "2026-10-16T11:28:53.605522+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-15T19:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+   "title": "Bringing GPT-Rosalind to academic research labs"
+  },
+  {
+   "date": "2026-10-15T13:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+   "title": "Teaching students to think and learn through questions"
+  },
+  {
+   "date": "2026-10-15T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/sullivan-cromwell",
+   "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+   "title": "Sullivan & Cromwell brings legal expertise into agreement review"
+  },
   {
    "date": "2026-10-14T12:00:00+00:00",
    "image": null,
@@ -890,27 +911,6 @@
    "link": "https://openai.com/index/nvidia/chatgpt-work",
    "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
    "title": "How NVIDIA scales expertise with ChatGPT Work"
-  },
-  {
-   "date": "2026-08-17T05:30:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/the-defenders-window",
-   "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-   "title": "The Defender’s Window"
-  },
-  {
-   "date": "2026-08-17T05:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/openai-joins-ports-pike-project",
-   "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-   "title": "OpenAI joins PORTS-Pike project"
-  },
-  {
-   "date": "2026-08-17T03:15:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-   "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-   "title": "New policy ideas for the Intelligence Age"
   }
  ],
  "name": "OpenAI",

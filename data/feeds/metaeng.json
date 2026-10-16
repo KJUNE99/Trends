@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-10-15T11:34:35.685289+00:00",
+ "fetched_at": "2026-10-16T11:28:53.605522+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-15T19:00:03+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-Forum-UI.jpg",
+   "link": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+   "summary": "Meta’s newest app, Forum, is for anyone who wants to go deeper into the conversations in their Facebook groups. To build Forum, Meta engineers adopted a whole new way of working by bringing an AI agent into the…",
+   "title": "How Meta Built Forum With AI-Native Engineering"
+  },
+  {
+   "date": "2026-10-15T18:30:29+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-2026-World-Cup-total-egress.png",
+   "link": "https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
+   "summary": "Every four years, the World Cup becomes the largest planned stress test of our infrastructure. This year it also set an all-time record! There are a few moments throughout the year, like New Years Eve, that really let…",
+   "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale"
+  },
+  {
+   "date": "2026-10-15T16:00:59+00:00",
+   "image": null,
+   "link": "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
+   "summary": "Ke Mao, Mark Harman, and Yue Jia have been recognized with the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2026 Most Influential Paper Award for their 2016 research, “Sapienz…",
+   "title": "Sapienz Receives ISSTA 2026 Impact Paper Award"
+  },
   {
    "date": "2026-10-13T16:01:00+00:00",
    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/GEM-Scaling-Frontier-Ads-Image-1.png",

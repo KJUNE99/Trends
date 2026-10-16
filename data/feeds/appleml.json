@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-10-15T11:34:35.685289+00:00",
+ "fetched_at": "2026-10-16T11:28:53.605522+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-15T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+   "summary": null,
+   "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio"
+  },
+  {
+   "date": "2026-10-15T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/selection-structured-reasoning",
+   "summary": "Multimodal agents commonly generate freeform reasoning before each action. For small models, limited model capacity can result in lengthy reasoning that provides little useful guidance for action generation while…",
+   "title": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents"
+  },
+  {
+   "date": "2026-10-15T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/plan-retrieve-tool-discovery",
+   "summary": "Tool-augmented LLM agents discover relevant APIs from large registries before planning execution, yet finite context windows prohibit injecting all tool definitions into a single prompt. The dominant approach, which we…",
+   "title": "Plan or Retrieve First? A Scale Study of Tool Discovery Architectures"
+  },
   {
    "date": "2026-10-14T00:00:00+00:00",
    "image": null,

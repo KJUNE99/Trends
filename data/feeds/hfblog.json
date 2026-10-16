@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-10-15T11:34:35.685289+00:00",
+ "fetched_at": "2026-10-16T11:28:53.605522+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-16T01:44:47+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+   "summary": null,
+   "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
+  },
+  {
+   "date": "2026-10-15T20:34:01+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+   "summary": null,
+   "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint"
+  },
+  {
+   "date": "2026-10-15T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/meta-muse-spark-open",
+   "summary": null,
+   "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta"
+  },
+  {
+   "date": "2026-10-15T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/flux-3",
+   "summary": null,
+   "title": "Welcome FLUX.3 Image Klein in Diffusers"
+  },
   {
    "date": "2026-10-14T16:12:42+00:00",
    "image": null,
