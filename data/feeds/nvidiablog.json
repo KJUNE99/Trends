@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:28:53.605522+00:00",
+ "fetched_at": "2026-10-17T10:48:58.921741+00:00",
  "group": "lab",
  "items": [
   {
@@ -400,13 +400,6 @@
    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
    "summary": "It’s a new way into the cloud. GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or…",
    "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support"
-  },
-  {
-   "date": "2026-08-17T12:34:51+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png",
-   "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
-   "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI…",
-   "title": "Securing the Infrastructure of Intelligence"
   }
  ],
  "name": "NVIDIA Blog",

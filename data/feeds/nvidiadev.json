@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-16T11:28:53.605522+00:00",
+ "fetched_at": "2026-10-17T10:48:58.921741+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-16T17:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png",
+   "link": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/",
+   "summary": "AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As... AI agents are changing how software gets built…",
+   "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark"
+  },
   {
    "date": "2026-10-15T18:01:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Nemotron-3-5-Super-VL-e1792075881894-768x432.webp",
@@ -603,13 +610,6 @@
    "link": "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy/",
    "summary": "Uniform Manifold Approximation and Projection (UMAP) is a dimensionality reduction technique widely used for visualization and feature extraction. Applications... Uniform Manifold Approximation and Projection (UMAP) is…",
    "title": "Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy"
-  },
-  {
-   "date": "2026-08-17T18:12:48+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/qad-nvfp4-model-optimization-768x432.png",
-   "link": "https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer/",
-   "summary": "Teams customize their models to hit their targets for latency, speed, memory, and compute. With the open NVIDIA Nemotron family of models, developers can find... Teams customize their models to hit their targets for…",
-   "title": "Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer"
   }
  ],
  "name": "NVIDIA Developer",

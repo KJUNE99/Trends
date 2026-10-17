@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-16T11:28:53.605522+00:00",
+ "fetched_at": "2026-10-17T10:48:58.921741+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-16T16:01:02+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*oFq_6JphuwR2l1zG6i8J5A.png",
+   "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+   "summary": "Prasanna Vijayanathan , Renzo Sanchez-Silva When Jake Paul and Mike Tyson stepped into the ring in November 2024, we delivered the fight to roughly 65 million concurrent streams. On an ordinary day our infrastructure…",
+   "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale"
+  },
   {
    "date": "2026-10-14T20:02:22+00:00",
    "image": "https://cdn-images-1.medium.com/max/960/1*9xBaz1zkvALNwB3iT3xK8g.png",

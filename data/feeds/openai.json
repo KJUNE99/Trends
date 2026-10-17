@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-10-16T11:28:53.605522+00:00",
+ "fetched_at": "2026-10-17T10:48:58.921741+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-16T19:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/itau-generative-ai",
+   "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+   "title": "How Itaú is building generative AI for its entire customer base"
+  },
+  {
+   "date": "2026-10-16T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin"
+  },
+  {
+   "date": "2026-10-16T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/benefit-street-partners",
+   "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+   "title": "Benefit Street Partners answers questions faster with Codex"
+  },
   {
    "date": "2026-10-15T19:00:00+00:00",
    "image": null,
@@ -897,20 +918,6 @@
    "link": "https://openai.com/index/chatgpt-for-teens",
    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections"
-  },
-  {
-   "date": "2026-08-18T07:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/asana",
-   "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, with about $12K in model and infrastructure costs.",
-   "title": "Asana completed a years-long code migration in 2 weeks with Codex"
-  },
-  {
-   "date": "2026-08-18T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/nvidia/chatgpt-work",
-   "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-   "title": "How NVIDIA scales expertise with ChatGPT Work"
   }
  ],
  "name": "OpenAI",

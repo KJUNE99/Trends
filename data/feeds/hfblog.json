@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:28:53.605522+00:00",
+ "fetched_at": "2026-10-17T10:48:58.921741+00:00",
  "group": "lab",
  "items": [
   {
@@ -8,6 +8,13 @@
    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
    "summary": null,
    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
+  },
+  {
+   "date": "2026-10-16T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/reflection-beam",
+   "summary": null,
+   "title": "Welcome Beam: a 501B open model you can own, customize, and scale"
   },
   {
    "date": "2026-10-15T20:34:01+00:00",
@@ -337,20 +344,6 @@
    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
    "summary": null,
    "title": "How Much Memory Does Your Agent Actually Need?"
-  },
-  {
-   "date": "2026-08-18T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/multi-vector-encoder",
-   "summary": null,
-   "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers"
-  },
-  {
-   "date": "2026-08-17T19:46:21+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-   "summary": null,
-   "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order"
   }
  ],
  "name": "Hugging Face",

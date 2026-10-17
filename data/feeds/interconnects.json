@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:28:53.605522+00:00",
+ "fetched_at": "2026-10-17T10:48:58.921741+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -64,13 +64,6 @@
    "link": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
    "summary": "The open model ecosystem continues to expand in its breadth Avid Artifacts readers know that we have been covering not only models but also their licenses for quite some time. There was a period when custom licenses…",
    "title": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses"
-  },
-  {
-   "date": "2026-08-17T15:07:49+00:00",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/b8608bb9-bf33-46e6-8ffe-dcf75a851f9b_3182x1790.png",
-   "link": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
-   "summary": "Nvidia wants you building your own model, not buying from Anthropic/OpenAI. Housekeeping: No voiceover for this post as I’m traveling. The oldest comparison people try to make is how what’s happening with open models…",
-   "title": "Teaching Everyone to Fish for Tokens"
   }
  ],
  "name": "Interconnects",

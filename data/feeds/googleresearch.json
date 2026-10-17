@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-16T11:28:53.605522+00:00",
+ "fetched_at": "2026-10-17T10:48:58.921741+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-16T18:11:34+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs_Cover.gif",
+   "link": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+   "summary": null,
+   "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs"
+  },
   {
    "date": "2026-10-14T16:14:00+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/USS0291-Google_Research_Anthem_Film_Thumbnail4_1.jpg",
