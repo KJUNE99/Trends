@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:48:58.921741+00:00",
+ "fetched_at": "2026-10-18T11:12:01.985729+00:00",
  "group": "lab",
  "items": [
   {
@@ -596,20 +596,6 @@
    "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
    "summary": "Robots need policies that can adapt to their sensors, environments, and tasks while running on onboard computing hardware. World models offer a foundation for... Robots need policies that can adapt to their sensors…",
    "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control"
-  },
-  {
-   "date": "2026-08-18T18:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image5-768x432.png",
-   "link": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/",
-   "summary": "Atomistic simulation requires three things: knowledge of the science, compute-efficient implementation of simulations, and accessible interfaces to the... Atomistic simulation requires three things: knowledge of the…",
-   "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit"
-  },
-  {
-   "date": "2026-08-18T16:48:08+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/agentic-ai-visual-data-processing-768x432.png",
-   "link": "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy/",
-   "summary": "Uniform Manifold Approximation and Projection (UMAP) is a dimensionality reduction technique widely used for visualization and feature extraction. Applications... Uniform Manifold Approximation and Projection (UMAP) is…",
-   "title": "Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy"
   }
  ],
  "name": "NVIDIA Developer",

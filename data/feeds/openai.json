@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:48:58.921741+00:00",
+ "fetched_at": "2026-10-18T11:12:01.985729+00:00",
  "group": "lab",
  "items": [
   {
@@ -876,48 +876,6 @@
    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
    "title": "Offering Zero Data Retention for frontier models"
-  },
-  {
-   "date": "2026-08-19T07:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/replit",
-   "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-   "title": "Replit expands access to software creation with GPT-5.6 Luna"
-  },
-  {
-   "date": "2026-08-18T22:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-   "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-   "title": "ChatGPT Ads expands across Europe"
-  },
-  {
-   "date": "2026-08-18T19:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-   "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-   "title": "Strengthening democratic oversight in national security"
-  },
-  {
-   "date": "2026-08-18T11:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/partnering-with-codeai",
-   "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-   "title": "Partnering with CodeAI to prepare the first AI generation"
-  },
-  {
-   "date": "2026-08-18T11:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-   "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-   "title": "Pacing model development in an era of cyber-critical capabilities"
-  },
-  {
-   "date": "2026-08-18T11:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/chatgpt-for-teens",
-   "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-   "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections"
   }
  ],
  "name": "OpenAI",

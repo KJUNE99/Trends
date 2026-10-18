@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-17T10:48:58.921741+00:00",
+ "fetched_at": "2026-10-18T11:12:01.985729+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-10-17T14:06:54+00:00",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/95f73e17-9e3c-49ea-8d4c-e0ae87c89257_3182x1790.png",
+   "link": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+   "summary": "US open weights are back! This has been a week where the balance of American open-weight models took a step change back toward the frontier. Meta took the lead of this charge with Muse Spark Open , which is now the…",
+   "title": "Meta shakes up the frontiers, open and closed"
+  },
   {
    "date": "2026-10-09T21:33:47+00:00",
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/fe890df0-8dfe-4dfb-9fb9-659d721e2d76_3182x1790.png",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:48:58.921741+00:00",
+ "fetched_at": "2026-10-18T11:12:01.985729+00:00",
  "group": "lab",
  "items": [
   {
@@ -337,13 +337,6 @@
    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
    "summary": null,
    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark"
-  },
-  {
-   "date": "2026-08-18T18:09:38+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-   "summary": null,
-   "title": "How Much Memory Does Your Agent Actually Need?"
   }
  ],
  "name": "Hugging Face",
