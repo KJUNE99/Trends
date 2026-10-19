@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:12:01.985729+00:00",
+ "fetched_at": "2026-10-19T13:23:33.867326+00:00",
  "group": "lab",
  "items": [
   {
@@ -568,34 +568,6 @@
    "link": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/",
    "summary": "Recommender systems (RecSys) are one of the most ubiquitous machine learning problems in the consumer internet industry yet notoriously difficult to train and... Recommender systems (RecSys) are one of the most…",
    "title": "How Generative Recommenders Are Redefining RecSys at Scale"
-  },
-  {
-   "date": "2026-08-19T22:22:37+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image6-2-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
-   "summary": "NVIDIA Holoscan is a platform for building real-time AI applications at the edge, from medical imaging to robotics. HoloHub is its companion repository: a... NVIDIA Holoscan is a platform for building real-time AI…",
-   "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents"
-  },
-  {
-   "date": "2026-08-19T17:50:47+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2023/09/nvflare-featured-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/",
-   "summary": "Modern vision-language models (VLMs) can support tasks such as visual question answering, captioning, and image-text reasoning. In practice, however, the data... Modern vision-language models (VLMs) can support tasks…",
-   "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE"
-  },
-  {
-   "date": "2026-08-19T16:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/AI-Agent-Skills-768x432.png",
-   "link": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/",
-   "summary": "AI agents are only as effective as the context they receive. Even with capable models and well-documented NVIDIA libraries, agents can spend extra steps finding... AI agents are only as effective as the context they…",
-   "title": "Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator"
-  },
-  {
-   "date": "2026-08-19T16:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Cosmos.gif",
-   "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
-   "summary": "Robots need policies that can adapt to their sensors, environments, and tasks while running on onboard computing hardware. World models offer a foundation for... Robots need policies that can adapt to their sensors…",
-   "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control"
   }
  ],
  "name": "NVIDIA Developer",

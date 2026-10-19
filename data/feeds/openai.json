@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:12:01.985729+00:00",
+ "fetched_at": "2026-10-19T13:23:33.867326+00:00",
  "group": "lab",
  "items": [
   {
@@ -855,27 +855,6 @@
    "link": "https://openai.com/index/gpt-5-6-in-kiro",
    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro"
-  },
-  {
-   "date": "2026-08-20T07:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/introducing-intelligence-age",
-   "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-   "title": "Introducing Intelligence Age"
-  },
-  {
-   "date": "2026-08-20T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/stampli",
-   "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-   "title": "Stampli cuts launch hours by 68% using ChatGPT Work"
-  },
-  {
-   "date": "2026-08-19T19:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-   "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-   "title": "Offering Zero Data Retention for frontier models"
   }
  ],
  "name": "OpenAI",

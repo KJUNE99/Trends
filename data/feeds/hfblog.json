@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:12:01.985729+00:00",
+ "fetched_at": "2026-10-19T13:23:33.867326+00:00",
  "group": "lab",
  "items": [
   {
@@ -22,6 +22,13 @@
    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
    "summary": null,
    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint"
+  },
+  {
+   "date": "2026-10-15T09:08:45+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+   "summary": null,
+   "title": "Apertus 1.5 Release Notes"
   },
   {
    "date": "2026-10-15T00:00:00+00:00",

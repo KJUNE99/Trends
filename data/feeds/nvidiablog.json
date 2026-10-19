@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:12:01.985729+00:00",
+ "fetched_at": "2026-10-19T13:23:33.867326+00:00",
  "group": "lab",
  "items": [
   {
@@ -400,13 +400,6 @@
    "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
    "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries…",
    "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents"
-  },
-  {
-   "date": "2026-08-20T13:00:24+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GFN_Thursday-Firefox.jpg",
-   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
-   "summary": "It’s a new way into the cloud. GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or…",
-   "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support"
   }
  ],
  "name": "NVIDIA Blog",

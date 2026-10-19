@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-18T11:12:01.985729+00:00",
+ "fetched_at": "2026-10-19T13:23:33.867326+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-19T13:00:10+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-Prometheus-BAG-3.png",
+   "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+   "summary": "With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale supercluster, is already…",
+   "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster"
+  },
   {
    "date": "2026-10-15T19:00:03+00:00",
    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-Forum-UI.jpg",
