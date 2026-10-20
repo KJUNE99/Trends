@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-19T13:23:33.867326+00:00",
+ "fetched_at": "2026-10-20T11:43:12.127721+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-20T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/mps-pytorch-2-15",
+   "summary": null,
+   "title": "MPS in PyTorch 2.15"
+  },
+  {
+   "date": "2026-10-19T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/hf-torchneuron",
+   "summary": null,
+   "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever"
+  },
   {
    "date": "2026-10-16T01:44:47+00:00",
    "image": null,
@@ -323,27 +337,6 @@
    "link": "https://huggingface.co/blog/gradio-workflow-guide",
    "summary": null,
    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio"
-  },
-  {
-   "date": "2026-08-21T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/pwc-search",
-   "summary": null,
-   "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code"
-  },
-  {
-   "date": "2026-08-21T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-   "summary": null,
-   "title": "Measuring benchmark optimization in speech recognition"
-  },
-  {
-   "date": "2026-08-20T16:52:57+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-   "summary": null,
-   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark"
   }
  ],
  "name": "Hugging Face",

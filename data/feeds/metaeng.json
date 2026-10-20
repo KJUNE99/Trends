@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-19T13:23:33.867326+00:00",
+ "fetched_at": "2026-10-20T11:43:12.127721+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-19T16:00:47+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+   "link": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
+   "summary": "Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers. Leveraging the world…",
+   "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary"
+  },
+  {
+   "date": "2026-10-19T15:30:37+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-Thin-Orchestrator-workflow.jpg",
+   "link": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+   "summary": "Sometimes, giving an AI agent all of the knowledge it needs is the wrong approach. At Meta, we’ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our data pipeline agents…",
+   "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do"
+  },
   {
    "date": "2026-10-19T13:00:10+00:00",
    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-Prometheus-BAG-3.png",

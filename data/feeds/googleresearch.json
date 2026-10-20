@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:23:33.867326+00:00",
+ "fetched_at": "2026-10-20T11:43:12.127721+00:00",
  "group": "lab",
  "items": [
   {
@@ -155,13 +155,6 @@
    "link": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
    "summary": null,
    "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data"
-  },
-  {
-   "date": "2026-08-21T10:54:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/MobilityPOIs_Hero.png",
-   "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
-   "summary": null,
-   "title": "How mobility gives language models a deeper understanding of place"
   }
  ],
  "name": "Google Research",

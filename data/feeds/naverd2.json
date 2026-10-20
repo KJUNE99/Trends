@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-19T13:23:33.867326+00:00",
+ "fetched_at": "2026-10-20T11:43:12.127721+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-20T05:51:56+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202610-%EB%B0%95%EC%9E%AC%EC%84%B1%2Ffiles%2F1-00.gif",
+   "link": "https://d2.naver.com/helloworld/2675915",
+   "summary": "2016년부터 매년 이어 오던 \"JavaScript의 동향\" 연재는 2020년을 마지막으로 한동안 쉬었습니다. 그사이 6년이 지났고, 그 6년 동안 ECMAScript 명세는 여섯 번 개정되었습니다. 2020년 글을 쓸 때 Stage 2였던 Temporal은 9년에 걸친 논의 끝에 Stage 4에 올랐고, 이제 Chrome과 Firefox, Node.js에서 플래그 없이 쓸 수 있습니다…",
+   "title": "2026년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)"
+  },
   {
    "date": "2026-10-08T06:44:57+00:00",
    "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202609-%EB%8F%84%EC%A0%95%EC%9A%B0%2Ffiles%2Ffig-01-memray-flamegraph.png",

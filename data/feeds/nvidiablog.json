@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-10-19T13:23:33.867326+00:00",
+ "fetched_at": "2026-10-20T11:43:12.127721+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-20T05:00:00+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/spain-startups-bsc-1920x1080-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+   "summary": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support…",
+   "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center"
+  },
+  {
+   "date": "2026-10-19T19:27:08+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-scaled.jpg",
+   "link": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+   "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial…",
+   "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help"
+  },
+  {
+   "date": "2026-10-19T15:00:31+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/media-and-entertainment-1920x1080-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+   "summary": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the…",
+   "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production"
+  },
   {
    "date": "2026-10-17T21:00:13+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1.jpg",

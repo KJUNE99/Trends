@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-19T13:23:33.867326+00:00",
+ "fetched_at": "2026-10-20T11:43:12.127721+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-19T17:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
+   "summary": "NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to... NVIDIA CUDA Tile (cuTile) is a Python-based DSL and…",
+   "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile"
+  },
   {
    "date": "2026-10-16T17:00:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-7-768x432.png",
@@ -561,13 +568,6 @@
    "link": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/",
    "summary": "As AI agents become more capable and operate over longer horizons, building security and trust into the applications they power becomes increasingly important.... As AI agents become more capable and operate over longer…",
    "title": "Where Security Fits in an AI Agent Stack"
-  },
-  {
-   "date": "2026-08-20T16:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image2-3-768x432.png",
-   "link": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/",
-   "summary": "Recommender systems (RecSys) are one of the most ubiquitous machine learning problems in the consumer internet industry yet notoriously difficult to train and... Recommender systems (RecSys) are one of the most…",
-   "title": "How Generative Recommenders Are Redefining RecSys at Scale"
   }
  ],
  "name": "NVIDIA Developer",
