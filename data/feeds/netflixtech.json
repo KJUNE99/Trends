@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:43:12.127721+00:00",
+ "fetched_at": "2026-10-21T11:55:05.401503+00:00",
  "group": "eng",
  "items": [
   {
@@ -99,13 +99,6 @@
    "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
    "summary": "By Emma Yanyang Kong , Aditya Deshpande , Asad Abbasi , Bowei Yan , David Fagnan , Ashish Rastogi , Dhaval Patel , Ray Zhang Introduction The Netflix experience is a journey of discovery. Every visual cue, from the…",
    "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale"
-  },
-  {
-   "date": "2026-08-21T16:01:01+00:00",
-   "image": "https://cdn-images-1.medium.com/max/1024/1*Rn81hdaUHY94Sf8S-GOHZA.png",
-   "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
-   "summary": "Samuel Yeboah , Francesco Di Chiara and Mingliang Liu Today, Netflix runs two Flink autoscalers. That is exactly one more than we want. We built the first one in-house years ago, when there was no mature option suited…",
-   "title": "A Tale of Two Flink Autoscalers"
   }
  ],
  "name": "Netflix Tech",

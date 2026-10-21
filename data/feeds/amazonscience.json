@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-20T11:43:12.127721+00:00",
+ "fetched_at": "2026-10-21T11:55:05.401503+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-20T17:57:55+00:00",
+   "image": null,
+   "link": "https://www.amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
+   "summary": "How Amazon partnered with AVERI to independently assess — and improve — our internal safety testing of Amazon models.As frontier AI models grow in capability, so does the importance of ensuring that safety evaluations…",
+   "title": "Strengthening AI safety evaluation through independent third-party review"
+  },
   {
    "date": "2026-10-12T17:36:18+00:00",
    "image": null,
@@ -57,13 +64,6 @@
    "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
    "summary": "Discounting the opinions of LLM judges with highly correlated outputs ensures that panels of judges reflect a true diversity of perspectives.Imagine evaluating a retrieval-augmented-generation system. A user asks a…",
    "title": "When LLM judges agree, should we believe them?"
-  },
-  {
-   "date": "2026-08-21T15:57:17+00:00",
-   "image": null,
-   "link": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
-   "summary": "Extendable framework enables testing agents on the full set of capabilities required to successfully complete a procedure, not isolated proxy tasks.A standard operating procedure, or SOP, is the written set of steps an…",
-   "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures"
   }
  ],
  "name": "Amazon Science",

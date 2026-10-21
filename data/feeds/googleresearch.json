@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:43:12.127721+00:00",
+ "fetched_at": "2026-10-21T11:55:05.401503+00:00",
  "group": "lab",
  "items": [
   {
@@ -148,13 +148,6 @@
    "link": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
    "summary": "Human-Computer Interaction and Visualization",
    "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR"
-  },
-  {
-   "date": "2026-08-21T17:02:24+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Biomarker-Discovery-Framework-1.png",
-   "link": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
-   "summary": null,
-   "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data"
   }
  ],
  "name": "Google Research",

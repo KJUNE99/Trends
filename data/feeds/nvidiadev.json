@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-10-20T11:43:12.127721+00:00",
+ "fetched_at": "2026-10-21T11:55:05.401503+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-21T09:52:16+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/bluefield-nvidia-sentry-featured-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
+   "summary": "An AI agent can complete its assignment and still cross a security boundary. Recent incidents show that agents can circumvent security controls while using... An AI agent can complete its assignment and still cross a…",
+   "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime"
+  },
+  {
+   "date": "2026-10-21T09:50:14+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/OpenShellKVcroppped-768x432.png",
+   "link": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/",
+   "summary": "Autonomous agents can work for hours on complex tasks, accessing files, tools, the internet, and spawning other agents to collaborate with. Executing complex... Autonomous agents can work for hours on complex tasks…",
+   "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale"
+  },
+  {
+   "date": "2026-10-21T09:38:49+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/omniverse-overall-dsx-sim-gtc-berlin-26-5796136-600x338-r2.gif",
+   "link": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow/",
+   "summary": "Building an AI factory digital twin requires developers to bring site plans, equipment assets, and engineering requirements into a consistent model that teams... Building an AI factory digital twin requires developers…",
+   "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow"
+  },
+  {
+   "date": "2026-10-21T09:35:32+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/ai-infrastructure-modual-aif-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
+   "summary": "AI factories turn energy into intelligence. But before an AI workload can produce its first token, operators must bring an interconnected system of compute,... AI factories turn energy into intelligence. But before an…",
+   "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD"
+  },
   {
    "date": "2026-10-19T17:00:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Solving-Math-768x432.jpg",
@@ -547,27 +575,6 @@
    "link": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin/",
    "summary": "NVIDIA Groq 3 LPX is the interactive AI inference accelerator for the NVIDIA Vera Rubin platform. At the core of the platform is NVIDIA Vera Rubin NVL72, the... NVIDIA Groq 3 LPX is the interactive AI inference…",
    "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin"
-  },
-  {
-   "date": "2026-08-21T16:21:04+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image10_1920x1080-768x432.jpeg",
-   "link": "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale/",
-   "summary": "Use AdaptGrow, a GPU-accelerated matrix factorization algorithm, to turn rolling correlation and tail-dependence matrices into hard clusters, soft factor... Use AdaptGrow, a GPU-accelerated matrix factorization…",
-   "title": "GPU-Accelerated Clustering for Financial Instruments at Scale"
-  },
-  {
-   "date": "2026-08-21T13:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/agentic-ai-visual-cybersecurity-avo-1-768x432.png",
-   "link": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
-   "summary": "A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives... A frontier language model is only one component of an AI agent…",
-   "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents"
-  },
-  {
-   "date": "2026-08-21T13:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Security-Stack-768x432.png",
-   "link": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/",
-   "summary": "As AI agents become more capable and operate over longer horizons, building security and trust into the applications they power becomes increasingly important.... As AI agents become more capable and operate over longer…",
-   "title": "Where Security Fits in an AI Agent Stack"
   }
  ],
  "name": "NVIDIA Developer",

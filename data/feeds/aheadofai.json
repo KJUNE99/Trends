@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:43:12.127721+00:00",
+ "fetched_at": "2026-10-21T11:55:05.401503+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -15,13 +15,6 @@
    "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
    "summary": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks A lot has happened in the last few weeks. I am sure that OpenAI’s GPT-6 Astra is top of mind for everyone right now…",
    "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning"
-  },
-  {
-   "date": "2026-08-22T11:11:39+00:00",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/fb73bfb5-0291-4e5e-b425-6c3be054276e_1914x1076.png",
-   "link": "https://magazine.sebastianraschka.com/p/claude-watermarking",
-   "summary": "A 48-minute video walkthrough of token sampling, watermark detection, and removal I recently posted a Substack note about Claude’s new watermarking process and implementation. Since it’s such a popular topic and sparked…",
-   "title": "How Claude Watermarks AI-Generated Text"
   }
  ],
  "name": "Ahead of AI",

@@ -1,13 +1,48 @@
 {
- "fetched_at": "2026-10-20T11:43:12.127721+00:00",
+ "fetched_at": "2026-10-21T11:55:05.401503+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-21T10:59:42+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+   "summary": null,
+   "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories"
+  },
+  {
+   "date": "2026-10-20T16:09:19+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/allenai/fairstress",
+   "summary": null,
+   "title": "FairStress: A deeper evaluation of fairness in LLM decision-making"
+  },
+  {
+   "date": "2026-10-20T15:19:48+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+   "summary": null,
+   "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model"
+  },
   {
    "date": "2026-10-20T00:00:00+00:00",
    "image": null,
    "link": "https://huggingface.co/blog/mps-pytorch-2-15",
    "summary": null,
    "title": "MPS in PyTorch 2.15"
+  },
+  {
+   "date": "2026-10-20T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/hf-torchtpu",
+   "summary": null,
+   "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively"
+  },
+  {
+   "date": "2026-10-20T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+   "summary": null,
+   "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms"
   },
   {
    "date": "2026-10-19T00:00:00+00:00",

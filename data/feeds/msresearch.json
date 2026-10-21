@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-20T11:43:12.127721+00:00",
+ "fetched_at": "2026-10-21T11:55:05.401503+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-20T16:00:00+00:00",
+   "image": null,
+   "link": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+   "summary": "Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu…",
+   "title": "Called to serve: Tech, research, and positive impact"
+  },
   {
    "date": "2026-10-15T16:00:00+00:00",
    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/Magnetar-BlogHeroFeature-1400x788-1-1024x576.jpg",
