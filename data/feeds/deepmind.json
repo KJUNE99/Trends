@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:23:33.867326+00:00",
+ "fetched_at": "2026-10-22T11:57:49.476255+00:00",
  "group": "lab",
  "items": [
   {
@@ -141,13 +141,6 @@
    "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
    "title": "Intelligent transcription with Gemini 3.5 Transcribe"
-  },
-  {
-   "date": "2026-08-21T11:59:48+00:00",
-   "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo",
-   "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-   "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-   "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
   }
  ],
  "name": "Google DeepMind",

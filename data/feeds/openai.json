@@ -1,7 +1,70 @@
 {
- "fetched_at": "2026-10-21T11:55:05.401503+00:00",
+ "fetched_at": "2026-10-22T11:57:49.476255+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-21T21:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/broad-access-through-consistent-standards",
+   "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+   "title": "Broad access through consistent standards"
+  },
+  {
+   "date": "2026-10-21T17:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/att-legal",
+   "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+   "title": "How AT&T is rethinking in-house legal work with OpenAI"
+  },
+  {
+   "date": "2026-10-21T13:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform"
+  },
+  {
+   "date": "2026-10-21T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/openai-models-google-cloud",
+   "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+   "title": "OpenAI models are coming to Google Cloud"
+  },
+  {
+   "date": "2026-10-21T07:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+   "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities"
+  },
+  {
+   "date": "2026-10-21T07:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/building-chatgpt-ad-stack",
+   "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance"
+  },
+  {
+   "date": "2026-10-21T04:50:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+   "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+   "title": "Using thousands of AI agents to uncover new leads in biological data"
+  },
+  {
+   "date": "2026-10-21T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/cloudflare-cyber",
+   "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+   "title": "Cloudflare links vulnerability discovery to defense with OpenAI"
+  },
+  {
+   "date": "2026-10-21T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/empowering-cyber-defenders",
+   "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+   "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders"
+  },
   {
    "date": "2026-10-20T10:00:00+00:00",
    "image": null,

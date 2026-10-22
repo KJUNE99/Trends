@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-21T11:55:05.401503+00:00",
+ "fetched_at": "2026-10-22T11:57:49.476255+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-21T12:30:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image4-2-768x432.png",
+   "link": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/",
+   "summary": "Protein design is a search problem. Choose amino acids for an eight-residue protein sequence and more than 25 billion combinations are possible. Choose amino... Protein design is a search problem. Choose amino acids for…",
+   "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search"
+  },
   {
    "date": "2026-10-21T09:52:16+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/bluefield-nvidia-sentry-featured-768x432.jpg",

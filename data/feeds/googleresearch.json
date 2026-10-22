@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-21T11:55:05.401503+00:00",
+ "fetched_at": "2026-10-22T11:57:49.476255+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-21T16:23:53+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/FrontlineMaternalCarewithAI2_ModelOverview.png",
+   "link": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+   "summary": null,
+   "title": "Empowering frontline maternal care with AI-assisted ultrasound"
+  },
   {
    "date": "2026-10-16T18:11:34+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs_Cover.gif",

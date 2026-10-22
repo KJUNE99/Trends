@@ -1,7 +1,42 @@
 {
- "fetched_at": "2026-10-21T11:55:05.401503+00:00",
+ "fetched_at": "2026-10-22T11:57:49.476255+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-22T07:51:31+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+   "summary": null,
+   "title": "Ensemble forecasting with IBM Granite time-series models"
+  },
+  {
+   "date": "2026-10-21T18:26:30+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+   "summary": null,
+   "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
+  },
+  {
+   "date": "2026-10-21T17:35:36+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+   "summary": null,
+   "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications"
+  },
+  {
+   "date": "2026-10-21T16:04:43+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+   "summary": null,
+   "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium."
+  },
+  {
+   "date": "2026-10-21T14:58:18+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+   "summary": null,
+   "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster"
+  },
   {
    "date": "2026-10-21T10:59:42+00:00",
    "image": null,
