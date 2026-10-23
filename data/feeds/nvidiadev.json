@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-22T11:57:49.476255+00:00",
+ "fetched_at": "2026-10-23T11:43:36.220400+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-22T16:39:09+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/ai-data-768x432.png",
+   "link": "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/",
+   "summary": "GPU applications are processing ever-growing datasets with increasingly powerful accelerators. According to the 2025 Stanford AI Index, compute for notable AI... GPU applications are processing ever-growing datasets…",
+   "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage"
+  },
+  {
+   "date": "2026-10-22T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/workstation-3d-render-dgx-spark-key-visual-single-gtc26-4655400-768x432.png",
+   "link": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/",
+   "summary": "AI developers aren’t just running a single model anymore—they’re orchestrating multiple models in parallel, chaining inference calls, and experimenting... AI developers aren’t just running a single model anymore—they’re…",
+   "title": "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes"
+  },
   {
    "date": "2026-10-21T12:30:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image4-2-768x432.png",

@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-10-22T11:57:49.476255+00:00",
+ "fetched_at": "2026-10-23T11:43:36.220400+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-23T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security"
+  },
+  {
+   "date": "2026-10-22T19:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/decisions-api",
+   "summary": "Fast, focused, low-cost decisions for any application.",
+   "title": "Build more responsive apps with the Decisions API"
+  },
+  {
+   "date": "2026-10-22T06:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/forward-deployed-engineering-means",
+   "summary": "What forward deployed engineering means at OpenAI",
+   "title": "What FDE means at OpenAI"
+  },
+  {
+   "date": "2026-10-22T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+   "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+   "title": "Uber brings ChatGPT Work to all employees with OpenAI"
+  },
   {
    "date": "2026-10-21T21:00:00+00:00",
    "image": null,
@@ -332,7 +360,7 @@
    "title": "Helping small businesses put AI to work"
   },
   {
-   "date": "2026-09-29T10:00:00+00:00",
+   "date": "2026-09-29T17:00:00+00:00",
    "image": null,
    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",

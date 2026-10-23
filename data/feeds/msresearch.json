@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-22T11:57:49.476255+00:00",
+ "fetched_at": "2026-10-23T11:43:36.220400+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-22T16:00:00+00:00",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/FlintInteractive-BlogHeroFeature-1400x788-1.jpg",
+   "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+   "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post…",
+   "title": "Flint-interactive: A language for creating interactive data visualizations"
+  },
   {
    "date": "2026-10-21T16:00:00+00:00",
    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg",

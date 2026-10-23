@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-22T11:57:49.476255+00:00",
+ "fetched_at": "2026-10-23T11:43:36.220400+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-23T04:30:00+00:00",
+   "image": null,
+   "link": "https://techblog.lycorp.co.jp/en/ai-agent-platform-sage-dev-log-part-1",
+   "summary": "Hello. We are the Security Development Division (LINE Plus Security R&D) team, working to integrate ...",
+   "title": "Building \"SAGE\" - an AI agent platform for security work - Part 1: Human-in-the-loop design"
+  },
   {
    "date": "2026-09-16T06:45:00+00:00",
    "image": null,

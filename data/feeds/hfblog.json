@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-22T11:57:49.476255+00:00",
+ "fetched_at": "2026-10-23T11:43:36.220400+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-22T22:24:34+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "summary": null,
+   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
+  },
+  {
+   "date": "2026-10-22T16:11:31+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+   "summary": null,
+   "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet"
+  },
   {
    "date": "2026-10-22T07:51:31+00:00",
    "image": null,
