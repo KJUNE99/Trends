@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:43:36.220400+00:00",
+ "fetched_at": "2026-10-24T11:06:52.594433+00:00",
  "group": "lab",
  "items": [
   {
@@ -533,27 +533,6 @@
    "link": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
    "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark…",
    "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark"
-  },
-  {
-   "date": "2026-08-24T15:00:54+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nvidia-dsx-maxlps-fg-i4of6-d-scaled.jpg",
-   "link": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
-   "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI…",
-   "title": "How XPUs Meet a World-Class AI Factory"
-  },
-  {
-   "date": "2026-08-24T15:00:41+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-scaled.png",
-   "link": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
-   "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with…",
-   "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents"
-  },
-  {
-   "date": "2026-08-24T15:00:19+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700.jpg",
-   "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
-   "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries…",
-   "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents"
   }
  ],
  "name": "NVIDIA Blog",

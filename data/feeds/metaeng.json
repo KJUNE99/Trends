@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:43:36.220400+00:00",
+ "fetched_at": "2026-10-24T11:06:52.594433+00:00",
  "group": "eng",
  "items": [
   {
@@ -113,20 +113,6 @@
    "link": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
    "summary": "We’ve built an AI agent that acts as a secondary expert for a given domain, making deep specialist knowledge readily available and preserved for anyone in an organization to access, share, and build upon. This is not a…",
    "title": "An Organizational Second Brain: Building an AI That Learns From Experts"
-  },
-  {
-   "date": "2026-08-24T18:02:29+00:00",
-   "image": "https://engineering.fb.com/wp-content/uploads/2026/08/MetaRoCE-image-1.png",
-   "link": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
-   "summary": "Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles. To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA…",
-   "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet"
-  },
-  {
-   "date": "2026-08-24T17:45:52+00:00",
-   "image": "https://engineering.fb.com/wp-content/uploads/2026/08/Meta-MTIA-300-Figure-1.png",
-   "link": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
-   "summary": "MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models. We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the…",
-   "title": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines"
   }
  ],
  "name": "Meta Engineering",

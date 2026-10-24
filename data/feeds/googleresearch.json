@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-23T11:43:36.220400+00:00",
+ "fetched_at": "2026-10-24T11:06:52.594433+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-23T18:51:33+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AIforTBScreening2_Xray.png",
+   "link": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+   "summary": null,
+   "title": "Bringing foundational models to the front lines of TB screening"
+  },
   {
    "date": "2026-10-21T16:23:53+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/FrontlineMaternalCarewithAI2_ModelOverview.png",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:43:36.220400+00:00",
+ "fetched_at": "2026-10-24T11:06:52.594433+00:00",
  "group": "eng",
  "items": [
   {
@@ -15,13 +15,6 @@
    "link": "https://techblog.lycorp.co.jp/en/a-large-scale-ios-configuration-system-implemented-with-an-attributedstring-structure",
    "summary": "As environments change, decisions that were reasonable in the past often cease to be valid. This art...",
    "title": "Building a large-scale iOS configuration system with the AttributedString architecture"
-  },
-  {
-   "date": "2026-08-25T07:00:00+00:00",
-   "image": null,
-   "link": "https://techblog.lycorp.co.jp/en/developing-harmfulness-detection-model-for-open-chat-metadata",
-   "summary": "Hello. I am Yeoun Yi, an ML engineer on the AI Services Lab team. Our team develops models to preven...",
-   "title": "Developing a model to detect harmful content from OpenChat titles and descriptions"
   }
  ],
  "name": "LY Tech",

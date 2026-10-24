@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:43:36.220400+00:00",
+ "fetched_at": "2026-10-24T11:06:52.594433+00:00",
  "group": "lab",
  "items": [
   {
@@ -281,13 +281,6 @@
    "link": "https://machinelearning.apple.com/research/relightable-gaussians-3d-generation",
    "summary": "High-fidelity image-to-3D generation requires a 3D representation that captures both geometry and appearance. To support relighting and integration into standard rendering pipelines, the representation should include…",
    "title": "Luce: Relightable Gaussians for 3D Asset Generation"
-  },
-  {
-   "date": "2026-08-25T00:00:00+00:00",
-   "image": null,
-   "link": "https://machinelearning.apple.com/research/starflow2-multimodal-generation",
-   "summary": "Unified multimodal models that understand, reason over, and generate interleaved text–image sequences remain structurally fragmented: existing approaches either sacrifice visual fidelity through discrete tokenization…",
-   "title": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation"
   }
  ],
  "name": "Apple ML",

@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-23T11:43:36.220400+00:00",
+ "fetched_at": "2026-10-24T11:06:52.594433+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-23T17:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
+  },
+  {
+   "date": "2026-10-23T10:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+   "title": "Securing our frontier model training environment"
+  },
   {
    "date": "2026-10-23T00:00:00+00:00",
    "image": null,
@@ -939,41 +953,6 @@
    "link": "https://openai.com/index/loveholidays",
    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
    "title": "How loveholidays is making everyone a builder with Codex"
-  },
-  {
-   "date": "2026-08-25T07:05:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-   "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-   "title": "The full stack behind abundant intelligence"
-  },
-  {
-   "date": "2026-08-25T07:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/jalapeno-first-results",
-   "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-   "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference"
-  },
-  {
-   "date": "2026-08-25T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-   "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-   "title": "Disrupting a new covert influence campaign from Russia"
-  },
-  {
-   "date": "2026-08-25T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/introducing-admin-plugin",
-   "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-   "title": "Introducing the Admin plugin for ChatGPT Work and Codex"
-  },
-  {
-   "date": "2026-08-24T12:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/gpt-5-6-in-kiro",
-   "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-   "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro"
   }
  ],
  "name": "OpenAI",

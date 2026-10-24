@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-23T11:43:36.220400+00:00",
+ "fetched_at": "2026-10-24T11:06:52.594433+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-23T18:32:51+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*K06WZmnRhhXBboIskWb8qg.png",
+   "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
+   "summary": "By Roberto Perez Alcolea , Java Platform Team Quasar connects a proposed API change with observed references in consumer repositories, giving the producer evidence for a release decision At Netflix, shared Java…",
+   "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes"
+  },
   {
    "date": "2026-10-22T22:19:12+00:00",
    "image": "https://cdn-images-1.medium.com/max/1024/0*4IREcZPdQdbU43hA.png",
