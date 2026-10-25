@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:06:52.594433+00:00",
+ "fetched_at": "2026-10-25T11:36:50.061232+00:00",
  "group": "lab",
  "items": [
   {
@@ -925,34 +925,6 @@
    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
    "title": "Expanding OpenAI’s presence in Brazil"
-  },
-  {
-   "date": "2026-08-26T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/learning-never-stops",
-   "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-   "title": "Learning never stops: How AI makes learning continuous"
-  },
-  {
-   "date": "2026-08-26T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-   "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-   "title": "Bringing ChatGPT for Teachers to more U.S. school districts"
-  },
-  {
-   "date": "2026-08-26T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-   "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-   "title": "The Hugging Face incident and the road ahead"
-  },
-  {
-   "date": "2026-08-26T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/loveholidays",
-   "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-   "title": "How loveholidays is making everyone a builder with Codex"
   }
  ],
  "name": "OpenAI",

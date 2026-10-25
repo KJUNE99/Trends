@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:06:52.594433+00:00",
+ "fetched_at": "2026-10-25T11:36:50.061232+00:00",
  "group": "lab",
  "items": [
   {
@@ -155,13 +155,6 @@
    "link": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
    "summary": null,
    "title": "GlucoFM: Foundation model for continuous glucose monitoring"
-  },
-  {
-   "date": "2026-08-25T19:10:59+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AgentHands5_Workflow.png",
-   "link": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
-   "summary": "Human-Computer Interaction and Visualization",
-   "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR"
   }
  ],
  "name": "Google Research",

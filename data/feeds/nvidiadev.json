@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:06:52.594433+00:00",
+ "fetched_at": "2026-10-25T11:36:50.061232+00:00",
  "group": "lab",
  "items": [
   {
@@ -561,20 +561,6 @@
    "link": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding/",
    "summary": "Alibaba released the model weights for Qwen3.8-Flash-Next as a preview of the upcoming Qwen4 architecture for developers to experiment with and evaluate. It’s... Alibaba released the model weights for Qwen3.8-Flash-Next…",
    "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding"
-  },
-  {
-   "date": "2026-08-25T20:57:54+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/unnamed-17-768x432.png",
-   "link": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/",
-   "summary": "When an LLM engine process fails, the standard recovery path involves a cold restart. This requires loading weights into HBM from storage, compiling kernels,... When an LLM engine process fails, the standard recovery…",
-   "title": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo"
-  },
-  {
-   "date": "2026-08-25T15:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image3-5-768x432.png",
-   "link": "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/",
-   "summary": "For years, a Python developer who needed a GPU had two realistic choices: Learn NVIDIA CUDA C++ well enough to write an extension, set up a build toolchain, and... For years, a Python developer who needed a GPU had two…",
-   "title": "CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access"
   }
  ],
  "name": "NVIDIA Developer",

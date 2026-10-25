@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:06:52.594433+00:00",
+ "fetched_at": "2026-10-25T11:36:50.061232+00:00",
  "group": "lab",
  "items": [
   {
@@ -526,13 +526,6 @@
    "link": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
    "summary": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute…",
    "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
-  },
-  {
-   "date": "2026-08-25T15:30:48+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg",
-   "link": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
-   "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark…",
-   "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark"
   }
  ],
  "name": "NVIDIA Blog",
