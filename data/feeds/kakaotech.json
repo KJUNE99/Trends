@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:36:50.061232+00:00",
+ "fetched_at": "2026-10-26T13:09:20.687847+00:00",
  "group": "eng",
  "items": [
   {
@@ -8,6 +8,13 @@
    "link": "https://tech.kakao.com/posts/842",
    "summary": "지난 9월 29일 부산에서 약 800명의 참가자와 함께한 ‘카카오 AI 돛 Summit 26’의 주요 세션 VOD를 공개합니다. 👉 카카오 AI 돛 Summit 26 세션 VOD 보러 가기 AI와 함께 개발하는 방식부터 실제 서비스에 AI를 적용하는 과정, 연구를 창업으로 연결하는 경험까지. 현장에 참석하지 못했거나 동시에 진행되어 놓쳤던 발표를 이제 온라인에서 만나보세요. 어떤 세션부터…",
    "title": "카카오 AI 돛 Summit 26 다시보기 공개 — AI 인프라부터 서비스 적용, 개발과 창업까지"
+  },
+  {
+   "date": "2026-10-21T15:00:00+00:00",
+   "image": null,
+   "link": "https://tech.kakao.com/posts/843",
+   "summary": "안녕하세요. 카카오 사내 SMS 전송 시스템(KIMS, Kakao Integrated Messaging Service)을 개발하고 있는 커넥티비티 플랫폼의 ravae.c(최지원) 입니다. 국내와 달리 해외 MO(Message Originated) 메시지 인증은 메시지가 어디에서 길을 잃었는지 파악하기조차 어려운 ‘깜깜이’ 영역이었어요. 이번 글에서는 KIMS가 어떻게 이 난제를 극복하고…",
+   "title": "문자를 보냈다는데 왜 안 오죠? 길 잃은 국제 MO 메시지 구출 작전"
   },
   {
    "date": "2026-10-20T15:00:00+00:00",
@@ -78,13 +85,6 @@
    "link": "https://tech.kakao.com/posts/831",
    "summary": "들어가며 지난 글 LLM as a Judge를 활용한 CodeBuddy 성능 평가에서는 사내 AI 코드 리뷰 서비스 코드버디(CodeBuddy)의 응답 품질을 어떻게 측정할 것인지를 다뤘습니다. 평가 체계를 세우고 나니 다음 질문이 따라왔습니다. \"그래서 이 리뷰가 실제로 무엇을 막아주고 있는가?\" 코드버디는 PR을 요약하고(describe), 리뷰하고(review), 개선안을…",
    "title": "같은 장애를 두 번 겪지 않기 위해, 배포 전에 리뷰합니다 — KRIS 개발기"
-  },
-  {
-   "date": "2026-08-26T15:00:00+00:00",
-   "image": null,
-   "link": "https://tech.kakao.com/posts/830",
-   "summary": "대한민국 AI 생태계의 새로운 바람이 시작됩니다! ⛵ 카카오가 부산광역시, 카카오임팩트와 함께 지역 AI 생태계 조성과 기술 교류를 위한 '카카오 AI 돛 Summit 26’을 개최합니다! 이번 서밋은 카카오가 4대 과학기술원(KAIST, GIST, DGIST, UNIST)과 협력하여 비수도권의 인재 양성 및 창업을 지원하는 ‘카카오 AI 돛’ 프로젝트의 핵심 행사입니다. '미래를 향해…",
-   "title": "지역 AI 생태계의 새로운 가능성, 카카오 AI 돛 Summit 26을 개최합니다!"
   }
  ],
  "name": "Kakao Tech",

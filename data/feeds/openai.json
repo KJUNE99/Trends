@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:36:50.061232+00:00",
+ "fetched_at": "2026-10-26T13:09:20.687847+00:00",
  "group": "lab",
  "items": [
   {
@@ -911,20 +911,6 @@
    "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
    "title": "Supporting Thailand’s next generation of AI startups"
-  },
-  {
-   "date": "2026-08-27T09:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-   "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-   "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
-  },
-  {
-   "date": "2026-08-27T03:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-   "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-   "title": "Expanding OpenAI’s presence in Brazil"
   }
  ],
  "name": "OpenAI",

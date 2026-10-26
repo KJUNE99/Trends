@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-25T11:36:50.061232+00:00",
+ "fetched_at": "2026-10-26T13:09:20.687847+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-10-25T11:49:00+00:00",
+   "image": null,
+   "link": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+   "summary": "#20 We — Nathan and Florian — wanted to discuss all the messy trade-offs of a busy week in AI and ask all the pressing questions like: Why did Kimi K3.1 Pro have a mixed reaction with such incredible benchmarks? Will it…",
+   "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings"
+  },
   {
    "date": "2026-10-20T17:04:21+00:00",
    "image": "https://substackcdn.com/image/fetch/$s_!ptGw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd500e8ff-94e8-4cf5-b99d-5d9aac7f0a8a_1024x768.png",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:36:50.061232+00:00",
+ "fetched_at": "2026-10-26T13:09:20.687847+00:00",
  "group": "lab",
  "items": [
   {
@@ -505,27 +505,6 @@
    "link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
    "summary": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO…",
    "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
-  },
-  {
-   "date": "2026-08-27T13:00:33+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-27-nv-blog-1280x680-logo.jpg",
-   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
-   "summary": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology…",
-   "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026"
-  },
-  {
-   "date": "2026-08-27T13:00:17+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/vera-key-visual-1920x1080-1.jpg",
-   "link": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-   "summary": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
-   "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now"
-  },
-  {
-   "date": "2026-08-26T21:05:30+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gpu-architecture-corp-blog-nvhbm-1280x680-5547600.jpg",
-   "link": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-   "summary": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute…",
-   "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
   }
  ],
  "name": "NVIDIA Blog",

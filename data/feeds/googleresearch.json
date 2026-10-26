@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:36:50.061232+00:00",
+ "fetched_at": "2026-10-26T13:09:20.687847+00:00",
  "group": "lab",
  "items": [
   {
@@ -148,13 +148,6 @@
    "link": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
    "summary": null,
    "title": "Planetary prediction engine: Automating global models via Earth AI"
-  },
-  {
-   "date": "2026-08-26T18:42:43+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/GlucoFM1_Overview.png",
-   "link": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
-   "summary": null,
-   "title": "GlucoFM: Foundation model for continuous glucose monitoring"
   }
  ],
  "name": "Google Research",

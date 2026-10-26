@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:36:50.061232+00:00",
+ "fetched_at": "2026-10-26T13:09:20.687847+00:00",
  "group": "lab",
  "items": [
   {
@@ -540,27 +540,6 @@
    "link": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/",
    "summary": "Open AI models are evolving faster than ever, but bringing them into native applications can still require model-specific conversion, preprocessing,... Open AI models are evolving faster than ever, but bringing them…",
    "title": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect"
-  },
-  {
-   "date": "2026-08-26T21:06:58+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/NVHBM-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/",
-   "summary": "AI factories must support increasingly large models and more complex reasoning workloads. To keep up with the insatiable compute demands of AI workloads,... AI factories must support increasingly large models and more…",
-   "title": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure"
-  },
-  {
-   "date": "2026-08-26T20:05:06+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/robot-quad-composite-1-1.gif",
-   "link": "https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/",
-   "summary": "Navigation enables a robot to turn perception and motion into purposeful autonomy. Unlike locomotion, which produces stable movement, navigation must be used to... Navigation enables a robot to turn perception and…",
-   "title": "How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents"
-  },
-  {
-   "date": "2026-08-26T17:07:12+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/Agentic-AI-Qwen-768x432.png",
-   "link": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding/",
-   "summary": "Alibaba released the model weights for Qwen3.8-Flash-Next as a preview of the upcoming Qwen4 architecture for developers to experiment with and evaluate. It’s... Alibaba released the model weights for Qwen3.8-Flash-Next…",
-   "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding"
   }
  ],
  "name": "NVIDIA Developer",
