@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-26T13:09:20.687847+00:00",
+ "fetched_at": "2026-10-27T12:17:37.930943+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-26T16:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
+   "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+   "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+   "title": "Our newest AI Quest: Mapping the human brain"
+  },
   {
    "date": "2026-10-21T04:00:00+00:00",
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp",
@@ -148,13 +155,6 @@
    "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
    "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
    "title": "Try Google Pics: Easy image creation and editing in Google Workspace"
-  },
-  {
-   "date": "2026-08-27T16:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp",
-   "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-   "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
-   "title": "3 new ways to plan and book travel in Search"
   }
  ],
  "name": "Google AI",

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-26T13:09:20.687847+00:00",
+ "fetched_at": "2026-10-27T12:17:37.930943+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-26T16:00:07+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/10/OCP-2026-Omar-Meta.jpg",
+   "link": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
+   "summary": "At the 2026 Open Compute Project (OCP) Global Summit, Meta shared the networking innovations that are directly supporting our latest AI models, including Muse Wonder and Muse Spark, and our gigawatt-scale Prometheus…",
+   "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks"
+  },
   {
    "date": "2026-10-19T16:00:47+00:00",
    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",

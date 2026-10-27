@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-26T13:09:20.687847+00:00",
+ "fetched_at": "2026-10-27T12:17:37.930943+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-27T05:30:00+00:00",
+   "image": null,
+   "link": "https://techblog.lycorp.co.jp/en/ai-agent-ad-report-automation",
+   "summary": "Hello. We are Jongwoo Lee and Woonyeol Lee, and we develop data analytics platforms for LINE Ads.Adv...",
+   "title": "How much should we delegate to an LLM? Automating advertising analytics reports with an AI agent"
+  },
   {
    "date": "2026-10-23T04:30:00+00:00",
    "image": null,

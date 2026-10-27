@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:09:20.687847+00:00",
+ "fetched_at": "2026-10-27T12:17:37.930943+00:00",
  "group": "lab",
  "items": [
   {
@@ -400,13 +400,6 @@
    "link": "https://huggingface.co/blog/webgpu-kernels",
    "summary": null,
    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI"
-  },
-  {
-   "date": "2026-08-28T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-   "summary": null,
-   "title": "The Open ASR Leaderboard Adds Its First Global South Language"
   }
  ],
  "name": "Hugging Face",

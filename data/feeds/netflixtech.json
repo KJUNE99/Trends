@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-26T13:09:20.687847+00:00",
+ "fetched_at": "2026-10-27T12:17:37.930943+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-26T17:04:57+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*2TSVpCdPYj4fMMlFPuheCg.png",
+   "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
+   "summary": "By Praneeth Yenugutala , Victor Dusa , Anastasia Samoilova , Megan Ren , Justin Wei , Marcelo Mayworm At Netflix, data and machine learning practitioners run millions of workloads each day across orchestration systems…",
+   "title": "Making Failure Diagnosis Reliable with Pensive AI"
+  },
+  {
+   "date": "2026-10-26T16:01:02+00:00",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*4BdXCRIW5WXopLnt2qOBmg.jpeg",
+   "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
+   "summary": "Serdar Cellat , Yuchen Xie , Bernadette Marcu , Blaid Burgess , Cody Jarrett , Carlos Pereira , Qing Shi , Samuel Carvajal , Manuel Pamplona , Dorothy Jung , Feiko Ritsema , Benjamin Klein , Alex Woo , Eugene Lok , Anna…",
+   "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing"
+  },
   {
    "date": "2026-10-23T18:32:51+00:00",
    "image": "https://cdn-images-1.medium.com/max/1024/1*K06WZmnRhhXBboIskWb8qg.png",

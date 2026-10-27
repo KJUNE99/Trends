@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-26T13:09:20.687847+00:00",
+ "fetched_at": "2026-10-27T12:17:37.930943+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-26T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/gharp-head-animation",
+   "summary": "We present GHARP (Real-time Gaussian Head Animation from Large-scale Reconstruction Prior), a method that animates 3D human heads in real time from a few input images of a subject and a driving expression signal. We…",
+   "title": "GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior"
+  },
   {
    "date": "2026-10-15T00:00:00+00:00",
    "image": null,
@@ -239,20 +246,6 @@
    "link": "https://machinelearning.apple.com/research/refactor-vla-motor-programs",
    "summary": "Most current vision-language-action (VLA) models—such as OpenVLA, π0, RT-2, and RDT-1B—are “monolithic.” This means they generate raw motor commands or very short sequences of actions, without organizing behaviors into…",
    "title": "REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs"
-  },
-  {
-   "date": "2026-08-28T00:00:00+00:00",
-   "image": null,
-   "link": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
-   "summary": "Modern AI systems are being deployed in complex domains such as medicine, science, and law, where there is often not a single correct answer given the observed evidence. Such systems must be able to represent and update…",
-   "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs"
-  },
-  {
-   "date": "2026-08-28T00:00:00+00:00",
-   "image": null,
-   "link": "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
-   "summary": "Evaluating AI agents that use external tools requires realistic test scenarios that capture how practitioners compose tools and iterate across conversation turns. Constructing such scenarios by hand demands deep domain…",
-   "title": "Agent Seer: Synthesizing Scenarios from Specification Understanding"
   }
  ],
  "name": "Apple ML",

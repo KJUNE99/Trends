@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-26T13:09:20.687847+00:00",
+ "fetched_at": "2026-10-27T12:17:37.930943+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-26T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/MinervaKV-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/",
+   "summary": "AI Factories are some of the most technologically complex operational environments ever created. Hundreds of thousands of GPUs, NVIDIA Spectrum-X Ethernet... AI Factories are some of the most technologically complex…",
+   "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield"
+  },
+  {
+   "date": "2026-10-26T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/7_resized-768x431.jpg",
+   "link": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/",
+   "summary": "Training large-scale AI models on thousands of GPUs is a high-stakes operation where monitoring and automation must be built-in to optimize cluster resiliency... Training large-scale AI models on thousands of GPUs is a…",
+   "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes"
+  },
   {
    "date": "2026-10-23T17:27:52+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/desktop-computer-overlay-light-768x432.jpg",
