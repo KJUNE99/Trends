@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-27T12:17:37.930943+00:00",
+ "fetched_at": "2026-10-28T12:59:44.535219+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-27T15:00:20+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/cbrain-nvidia-1.png",
+   "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+   "summary": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of…",
+   "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia"
+  },
   {
    "date": "2026-10-23T02:00:13+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/kz-post-note-gtc-berliin-2026-1920x1080-1.jpg",

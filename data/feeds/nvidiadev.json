@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-10-27T12:17:37.930943+00:00",
+ "fetched_at": "2026-10-28T12:59:44.535219+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-27T20:50:39+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/CUDAMemoryKV-768x432.webp",
+   "link": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/",
+   "summary": "Many AI workloads need only a fraction of a GPU. Giving each one an entire device can leave capacity idle; sharing GPUs lets platform teams serve more workloads... Many AI workloads need only a fraction of a GPU. Giving…",
+   "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4"
+  },
+  {
+   "date": "2026-10-27T17:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-768x432.png",
+   "link": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
+   "summary": "NVIDIA RTX Spark is a new Windows PC platform for AI development, creation, and gaming in slim laptops and compact desktops. Powered by an NVIDIA Blackwell RTX... NVIDIA RTX Spark is a new Windows PC platform for AI…",
+   "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games"
+  },
+  {
+   "date": "2026-10-27T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/agentic-promo-nemotron-models-eu-gtc-berlin-press-1600x900-5811620-768x432.png",
+   "link": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages/",
+   "summary": "As AI adoption expands globally, people across languages and cultures are using it in more aspects of their daily lives. General-purpose language models serve... As AI adoption expands globally, people across languages…",
+   "title": "Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages"
+  },
+  {
+   "date": "2026-10-27T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/dgx-spark-inference-featured-768x432.png",
+   "link": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/",
+   "summary": "Generating tokens faster starts with identifying what limits inference performance. In the batch-size-1 evaluation of Ling-3.0-flash from Inclusion AI on NVIDIA... Generating tokens faster starts with identifying what…",
+   "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark"
+  },
   {
    "date": "2026-10-26T16:00:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/MinervaKV-768x432.jpg",
@@ -547,13 +575,6 @@
    "link": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
    "summary": "A perception stack is shaped by the vehicle that carries it. Move the same software to a new carline—for example, from an SUV to a sedan or another vehicle... A perception stack is shaped by the vehicle that carries it…",
    "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec"
-  },
-  {
-   "date": "2026-08-28T17:06:28+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/ai-use-cases-1-768x432.png",
-   "link": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/",
-   "summary": "Open AI models are evolving faster than ever, but bringing them into native applications can still require model-specific conversion, preprocessing,... Open AI models are evolving faster than ever, but bringing them…",
-   "title": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect"
   }
  ],
  "name": "NVIDIA Developer",

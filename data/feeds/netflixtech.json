@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:17:37.930943+00:00",
+ "fetched_at": "2026-10-28T12:59:44.535219+00:00",
  "group": "eng",
  "items": [
   {
@@ -120,13 +120,6 @@
    "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
    "summary": "Introducing composable, module system native and agent friendly command line tools for modern Java development By Danny Thomas, JVM Ecosystem Team Recent work on the Java language to pave the on-ramp has made it easier…",
    "title": "Leave the Class Path in the Rearview Mirror"
-  },
-  {
-   "date": "2026-08-28T16:01:02+00:00",
-   "image": "https://cdn-images-1.medium.com/max/332/1*Tm2AJHCkMfTwtedhfmIAwA.png",
-   "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
-   "summary": "By Emma Yanyang Kong , Aditya Deshpande , Asad Abbasi , Bowei Yan , David Fagnan , Ashish Rastogi , Dhaval Patel , Ray Zhang Introduction The Netflix experience is a journey of discovery. Every visual cue, from the…",
-   "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale"
   }
  ],
  "name": "Netflix Tech",

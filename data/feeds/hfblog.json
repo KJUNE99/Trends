@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-27T12:17:37.930943+00:00",
+ "fetched_at": "2026-10-28T12:59:44.535219+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-27T17:16:52+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+   "summary": null,
+   "title": "Build specialized multimodal models with LFM3"
+  },
+  {
+   "date": "2026-10-27T16:12:42+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/allenai/novelty-bench",
+   "summary": null,
+   "title": "Can we trust LLMs to judge whether a research idea is novel?"
+  },
   {
    "date": "2026-10-23T16:15:50+00:00",
    "image": null,

@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-27T12:17:37.930943+00:00",
+ "fetched_at": "2026-10-28T12:59:44.535219+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-27T16:00:12+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/10/PrivacyLib-Figure-1.png",
+   "link": "https://engineering.fb.com/2026/10/27/security/privacylib/",
+   "summary": "This latest deep dive into Meta’s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta’s diverse data and processing systems. Historically, supporting…",
+   "title": "PrivacyLib: Privacy Controls at the Data Access Boundary"
+  },
+  {
+   "date": "2026-10-27T15:59:24+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/10/most_frustrates_title_case_fixed.png",
+   "link": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
+   "summary": "The 2026 Python Typing Survey received 1,794 responses. Type hint use changed little across three years, but checker selection changed sharply. Among respondents who reported which checkers they use, half selected more…",
+   "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape"
+  },
   {
    "date": "2026-10-26T16:00:07+00:00",
    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/OCP-2026-Omar-Meta.jpg",
