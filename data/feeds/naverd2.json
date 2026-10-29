@@ -1,9 +1,16 @@
 {
- "fetched_at": "2026-10-28T12:59:44.535219+00:00",
+ "fetched_at": "2026-10-29T13:07:38.522993+00:00",
  "group": "eng",
  "items": [
   {
-   "date": "2026-10-27T04:20:00+00:00",
+   "date": "2026-10-29T08:22:22+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202610-%EC%9D%B4%EC%9D%80%EC%84%B1%2Ffiles%2Ffig2-drift.png",
+   "link": "https://d2.naver.com/helloworld/2983631",
+   "summary": "Kubernetes에서 서비스를 운영하다 보면 메인 컨테이너 옆에 사이드카(sidecar) 컨테이너를 붙이는 일이 흔합니다. 사이드카에는 로그와 메트릭 수집, 프록시처럼 주 기능은 아니지만 같은 Pod 안에서 함께 실행되어야 하는 기능이 포함됩니다. 저희 팀이 운영하는 관리형 데이터베이스 서비스도 DB 인스턴스를 Pod 단위로 실행하고, 그 Pod에 DB 컨테이너 외에 헬스 체크, 메트릭과…",
+   "title": "사이드카의 선언적 관리: OpenKruise SidecarSet 도입과 운영"
+  },
+  {
+   "date": "2026-10-29T01:24:17+00:00",
    "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2/SMART_EDITOR/2026/10/27/dc268352-7510-41d7-a487-878a1035bb7c.jpg/",
    "link": "https://d2.naver.com/helloworld/1975819",
    "summary": "시작하며: 2018년과 2026년 사이의 간격과 격변기의 고민 ​ 2018년에 저는 ' 백엔드 개발자를 꿈꾸는 학생개발자에게 '라는 글을 이곳 D2 블로그에 공유했습니다. 당시 학생 개발자들과의 미트업 행사에서 나왔던 질문과 답변을 정리한 글이었습니다. 그 후 8년의 시간이 흘렀기에 그 글만 노출된다면 학생들에게 현시점에 적절한 정보를 주지 못할까 봐 걱정되었습니다. 그래서 2025년 말…",

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-28T12:59:44.535219+00:00",
+ "fetched_at": "2026-10-29T13:07:38.522993+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-10-28T12:58:39+00:00",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/6a847075-78be-45e9-b554-ae9abc6f9296_3182x1790.png",
+   "link": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+   "summary": "A sort of review of the benchmarking industry and what's missing. Housekeeping: I’m on the road so the voiceover will be late. Hill-climbing is easy, knowing what to hill-climb is hard. Making scores go up is expensive…",
+   "title": "Artificial Analysis v5 and the benchmarker's dilemma"
+  },
   {
    "date": "2026-10-25T11:49:00+00:00",
    "image": null,

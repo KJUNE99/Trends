@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-28T12:59:44.535219+00:00",
+ "fetched_at": "2026-10-29T13:07:38.522993+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-28T15:00:46+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+   "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems…",
+   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games"
+  },
   {
    "date": "2026-10-27T15:00:20+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/cbrain-nvidia-1.png",

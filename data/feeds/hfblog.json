@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-28T12:59:44.535219+00:00",
+ "fetched_at": "2026-10-29T13:07:38.522993+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-29T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/anydecisionmodel",
+   "summary": null,
+   "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
+  },
+  {
+   "date": "2026-10-28T14:58:17+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "summary": null,
+   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt"
+  },
   {
    "date": "2026-10-27T17:16:52+00:00",
    "image": null,
