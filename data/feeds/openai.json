@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-10-29T13:07:38.522993+00:00",
+ "fetched_at": "2026-10-30T13:00:03.859724+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-29T17:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/updated-model-spec",
+   "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+   "title": "An updated Model Spec for more capable and beneficial AI"
+  },
+  {
+   "date": "2026-10-29T09:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+   "title": "How we detect frontier model misalignment"
+  },
+  {
+   "date": "2026-10-29T07:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/ropes-gray-ai-diligence",
+   "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+   "title": "How Ropes & Gray is developing AI for transactional diligence"
+  },
   {
    "date": "2026-10-28T13:15:00+00:00",
    "image": null,
@@ -988,27 +1009,6 @@
    "link": "https://openai.com/index/gilbert-tobin",
    "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI"
-  },
-  {
-   "date": "2026-08-31T07:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-   "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-   "title": "OpenAI supports California’s bill to advance youth AI safety"
-  },
-  {
-   "date": "2026-08-31T07:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/polimill",
-   "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-   "title": "Polimill builds Japan's next-generation public AI infrastructure"
-  },
-  {
-   "date": "2026-08-31T04:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-   "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-   "title": "A milestone in expanding access to AI"
   }
  ],
  "name": "OpenAI",

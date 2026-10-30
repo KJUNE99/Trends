@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-29T13:07:38.522993+00:00",
+ "fetched_at": "2026-10-30T13:00:03.859724+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-29T16:51:26+00:00",
+   "image": null,
+   "link": "https://www.amazon.science/blog/speeding-up-language-models-for-travel-applications",
+   "summary": "Two optimization techniques, when combined, can significantly improve a model’s speed and cost effectiveness without sacrificing quality.Travel platforms serve millions of daily users by answering questions about…",
+   "title": "Speeding up language models for travel applications"
+  },
   {
    "date": "2026-10-23T15:20:02+00:00",
    "image": null,

@@ -1,13 +1,34 @@
 {
- "fetched_at": "2026-10-29T13:07:38.522993+00:00",
+ "fetched_at": "2026-10-30T13:00:03.859724+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-29T13:37:07+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+   "summary": null,
+   "title": "Granite Switch 4.1.1 — Update models like you update software"
+  },
   {
    "date": "2026-10-29T00:00:00+00:00",
    "image": null,
    "link": "https://huggingface.co/blog/anydecisionmodel",
    "summary": null,
    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
+  },
+  {
+   "date": "2026-10-29T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/announcing-project-protostar",
+   "summary": null,
+   "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready"
+  },
+  {
+   "date": "2026-10-29T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/mistral-large4",
+   "summary": null,
+   "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face"
   },
   {
    "date": "2026-10-28T14:58:17+00:00",

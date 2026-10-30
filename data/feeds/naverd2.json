@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-29T13:07:38.522993+00:00",
+ "fetched_at": "2026-10-30T13:00:03.859724+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-10-30T04:26:27+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2/SMART_EDITOR/2026/10/30/5d8fa019-da9a-44d8-a8cc-52d003806fe8.png/",
+   "link": "https://d2.naver.com/news/0907869",
+   "summary": "기술은 혼자 완성되지 않습니다. ​ 한 사람이 발견한 문제와 해결 과정이 동료에게 전해지고, 그 경험이 또 다른 시도와 개선으로 이어질 때 조직의 기술은 앞으로 나아갑니다. ​ NAVER Engineering Day는 이런 믿음에서 출발했습니다. 2016년, 실무에서 얻은 개발 경험과 새로운 기술 및 플랫폼을 도입하며 배운 점을 나누는 사내 개발자 행사로 시작해 올해 10주년을 맞았습니다…",
+   "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정"
+  },
   {
    "date": "2026-10-29T08:22:22+00:00",
    "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202610-%EC%9D%B4%EC%9D%80%EC%84%B1%2Ffiles%2Ffig2-drift.png",

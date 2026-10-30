@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-29T13:07:38.522993+00:00",
+ "fetched_at": "2026-10-30T13:00:03.859724+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-29T16:00:35+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
+   "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA…",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
+  },
+  {
+   "date": "2026-10-29T13:00:16+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gfn-thursday-10-29-blog-1920x1080-logo.jpg",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+   "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts…",
+   "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW"
+  },
   {
    "date": "2026-10-28T15:00:46+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2-1.jpg",
@@ -246,13 +260,6 @@
    "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
    "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open…",
    "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide"
-  },
-  {
-   "date": "2026-10-09T16:00:35+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
-   "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA…",
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
   },
   {
    "date": "2026-10-08T13:00:46+00:00",
