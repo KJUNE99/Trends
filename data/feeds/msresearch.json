@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-30T13:00:03.859724+00:00",
+ "fetched_at": "2026-10-31T12:38:13.421411+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-30T13:05:28+00:00",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/FromSyntheticEnterprise-BlogHeroFeature-1400x788-1-1024x576.jpg",
+   "link": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+   "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation…",
+   "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence"
+  },
   {
    "date": "2026-10-29T19:19:16+00:00",
    "image": null,
@@ -92,13 +99,6 @@
    "link": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
    "summary": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical…",
    "title": "Improving synthesis prediction of small molecules at scale with RetroChimera"
-  },
-  {
-   "date": "2026-08-31T16:00:00+00:00",
-   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/GigaPathFlash-BlogHeroFeature-1400x788_NEW.jpg",
-   "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
-   "summary": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration…",
-   "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models"
   }
  ],
  "name": "Microsoft Research",

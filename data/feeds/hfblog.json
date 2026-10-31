@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-30T13:00:03.859724+00:00",
+ "fetched_at": "2026-10-31T12:38:13.421411+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-30T17:57:24+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+   "summary": null,
+   "title": "nemotron-halloween"
+  },
   {
    "date": "2026-10-29T13:37:07+00:00",
    "image": null,
@@ -442,13 +449,6 @@
    "link": "https://huggingface.co/blog/allenai/benchmirt",
    "summary": null,
    "title": "BenchMIRT: What are LLM benchmarks actually measuring?"
-  },
-  {
-   "date": "2026-09-01T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/webgpu-kernels",
-   "summary": null,
-   "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI"
   }
  ],
  "name": "Hugging Face",

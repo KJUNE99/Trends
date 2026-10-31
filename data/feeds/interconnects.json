@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-10-30T13:00:03.859724+00:00",
+ "fetched_at": "2026-10-31T12:38:13.421411+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-10-30T17:36:56+00:00",
+   "image": "https://substackcdn.com/image/fetch/$s_!NQ70!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff51bb5d0-4390-4676-af4a-6bc8199412d5_2006x1362.png",
+   "link": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+   "summary": "Last week coined the term “Black October“ after an onslaught of critical vulnerability disclosures, including PHP2Shell and GitLab, signified the moment when the cyber risks of AI models started to materialize. Last…",
+   "title": "Was I wrong about open models & cyber risks?"
+  },
   {
    "date": "2026-10-28T12:58:39+00:00",
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/6a847075-78be-45e9-b554-ae9abc6f9296_3182x1790.png",

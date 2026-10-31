@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:00:03.859724+00:00",
+ "fetched_at": "2026-10-31T12:38:13.421411+00:00",
  "group": "lab",
  "items": [
   {
@@ -71,13 +71,6 @@
    "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
    "summary": "New research indicates that AI agents learn compressible models of data, which don’t have enough space to enable memorization.Machine learning, at its core, is about generalization, not memorization. You hand your…",
    "title": "Why don’t machine learning research agents overfit?"
-  },
-  {
-   "date": "2026-08-31T15:35:33+00:00",
-   "image": null,
-   "link": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-   "summary": "How the Verus \"program verifier\", which automatically checks code against a mathematical specification of its functionality, helps increase security assurance in software projects.Many open-source and industry software…",
-   "title": "Developing provably correct Rust code with Verus"
   }
  ],
  "name": "Amazon Science",

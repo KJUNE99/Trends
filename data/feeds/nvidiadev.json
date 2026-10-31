@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-10-30T13:00:03.859724+00:00",
+ "fetched_at": "2026-10-31T12:38:13.421411+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-10-30T21:35:31+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/inline-image-1-1-768x432.png",
+   "link": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
+   "summary": "Teams building AI applications need a repeatable path from a model configuration to a working inference endpoint. NVIDIA Dynamo is a distributed inference... Teams building AI applications need a repeatable path from a…",
+   "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo"
+  },
+  {
+   "date": "2026-10-30T20:33:18+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-trtedge-chat-terminal-1920x1080-1-768x432.png",
+   "link": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/",
+   "summary": "AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin conditions,... AI is expanding beyond the data center as developers build a…",
+   "title": "Run AI Models for Edge Application Development with Just a Few Commands"
+  },
+  {
+   "date": "2026-10-30T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/nemoclaw-featured-768x432.png",
+   "link": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/",
+   "summary": "Building an autonomous agent requires a model, a harness, and domain-specific tools. To deploy an agent more securely, developers need a runtime that enforces... Building an autonomous agent requires a model, a harness…",
+   "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw"
+  },
+  {
+   "date": "2026-10-30T15:01:36+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/inline-image-1-e1793140900880-768x432.webp",
+   "link": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/",
+   "summary": "NVIDIA GPUDirect Storage (GDS) accelerates GPU storage access in on-premises and cloud environments. It provides a robust, portable, and efficient data path... NVIDIA GPUDirect Storage (GDS) accelerates GPU storage…",
+   "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform"
+  },
   {
    "date": "2026-10-29T15:00:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/mlip-tensor-core-featured-768x432.jpg",
@@ -568,20 +596,6 @@
    "link": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending/",
    "summary": "The surge in AI adoption is transforming everything from chatbots to content generation. Still, a common pain point remains: How can organizations confidently... The surge in AI adoption is transforming everything from…",
    "title": "How to Size GPUs for AI Inference and TCO Without Overspending"
-  },
-  {
-   "date": "2026-08-31T16:30:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/AdobeStock_842772489-e1787092703768-768x431.webp",
-   "link": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
-   "summary": "Agentic AI is changing how research is done. AI scientists can read papers, propose hypotheses, call models, and determine which experiments to prioritize next.... Agentic AI is changing how research is done. AI…",
-   "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science"
-  },
-  {
-   "date": "2026-08-31T16:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/NuRec-AV.gif",
-   "link": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
-   "summary": "A perception stack is shaped by the vehicle that carries it. Move the same software to a new carline—for example, from an SUV to a sedan or another vehicle... A perception stack is shaped by the vehicle that carries it…",
-   "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec"
   }
  ],
  "name": "NVIDIA Developer",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:00:03.859724+00:00",
+ "fetched_at": "2026-10-31T12:38:13.421411+00:00",
  "group": "lab",
  "items": [
   {
@@ -141,13 +141,6 @@
    "link": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
    "summary": null,
    "title": "Mapping global methane emissions from space with deep learning"
-  },
-  {
-   "date": "2026-08-31T17:19:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/TimesFM31_Architecture.png",
-   "link": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
-   "summary": null,
-   "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting"
   }
  ],
  "name": "Google Research",
