@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:38:13.421411+00:00",
+ "fetched_at": "2026-11-01T13:29:45.671247+00:00",
  "group": "lab",
  "items": [
   {
@@ -442,13 +442,6 @@
    "link": "https://huggingface.co/blog/train-to-paint-with-code",
    "summary": null,
    "title": "Training a coding model to paint watercolours with TRL and OpenEnv"
-  },
-  {
-   "date": "2026-09-01T21:39:07+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/allenai/benchmirt",
-   "summary": null,
-   "title": "BenchMIRT: What are LLM benchmarks actually measuring?"
   }
  ],
  "name": "Hugging Face",

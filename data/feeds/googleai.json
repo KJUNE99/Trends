@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:38:13.421411+00:00",
+ "fetched_at": "2026-11-01T13:29:45.671247+00:00",
  "group": "lab",
  "items": [
   {
@@ -141,20 +141,6 @@
    "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
    "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
    "title": "Proactive cyber defense for governments and enterprises"
-  },
-  {
-   "date": "2026-09-01T20:45:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp",
-   "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-   "summary": "Here are Google’s latest AI updates from August 2026",
-   "title": "The latest AI news we announced in August 2026"
-  },
-  {
-   "date": "2026-09-01T16:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp",
-   "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-   "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-   "title": "Try Google Pics: Easy image creation and editing in Google Workspace"
   }
  ],
  "name": "Google AI",

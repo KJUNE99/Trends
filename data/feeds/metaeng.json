@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:38:13.421411+00:00",
+ "fetched_at": "2026-11-01T13:29:45.671247+00:00",
  "group": "eng",
  "items": [
   {
@@ -141,13 +141,6 @@
    "link": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
    "summary": "We’re introducing ZGateway, the proxy we are using to unify traffic through ZippyDB, Meta’s most widely-used key value store. As a bonus, it also enables admission control, load balancing, cross-region resilience, and…",
    "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB"
-  },
-  {
-   "date": "2026-09-02T09:00:29+00:00",
-   "image": "https://engineering.fb.com/wp-content/uploads/2026/08/Domain-Expert-AI-Table.png",
-   "link": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
-   "summary": "We’ve built an AI agent that acts as a secondary expert for a given domain, making deep specialist knowledge readily available and preserved for anyone in an organization to access, share, and build upon. This is not a…",
-   "title": "An Organizational Second Brain: Building an AI That Learns From Experts"
   }
  ],
  "name": "Meta Engineering",

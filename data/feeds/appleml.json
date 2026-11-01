@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:38:13.421411+00:00",
+ "fetched_at": "2026-11-01T13:29:45.671247+00:00",
  "group": "lab",
  "items": [
   {
@@ -239,13 +239,6 @@
    "link": "https://machinelearning.apple.com/research/simpledesign-protein-codesign",
    "summary": "Proteins are fundamental to biological processes, with their function determined by the complex interplay between the amino acid sequence and the three-dimensional structure. Developing generative models capable of…",
    "title": "SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign"
-  },
-  {
-   "date": "2026-09-02T00:00:00+00:00",
-   "image": null,
-   "link": "https://machinelearning.apple.com/research/refactor-vla-motor-programs",
-   "summary": "Most current vision-language-action (VLA) models—such as OpenVLA, π0, RT-2, and RDT-1B—are “monolithic.” This means they generate raw motor commands or very short sequences of actions, without organizing behaviors into…",
-   "title": "REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs"
   }
  ],
  "name": "Apple ML",

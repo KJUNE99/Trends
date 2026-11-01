@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:38:13.421411+00:00",
+ "fetched_at": "2026-11-01T13:29:45.671247+00:00",
  "group": "lab",
  "items": [
   {
@@ -526,13 +526,6 @@
    "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
    "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and…",
    "title": "NVIDIA to Acquire Hugging Face"
-  },
-  {
-   "date": "2026-09-01T21:19:20+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/crowdstrike-nvidia-stage-scaled.jpg",
-   "link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
-   "summary": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO…",
-   "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
   }
  ],
  "name": "NVIDIA Blog",
