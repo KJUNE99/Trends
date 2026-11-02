@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:29:45.671247+00:00",
+ "fetched_at": "2026-11-02T16:01:52.938565+00:00",
  "group": "eng",
  "items": [
   {
@@ -134,13 +134,6 @@
    "link": "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
    "summary": "Petal, the next step in Meta’s subsea innovation, will be the first subsea cable to deliver petabit capacity at transoceanic distances, connecting France and the United States over approximately 7,000 km (4,300 mi)…",
    "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable"
-  },
-  {
-   "date": "2026-09-03T16:00:20+00:00",
-   "image": "https://engineering.fb.com/wp-content/uploads/2026/09/ZGateway-Figure-1.png",
-   "link": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
-   "summary": "We’re introducing ZGateway, the proxy we are using to unify traffic through ZippyDB, Meta’s most widely-used key value store. As a bonus, it also enables admission control, load balancing, cross-region resilience, and…",
-   "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB"
   }
  ],
  "name": "Meta Engineering",

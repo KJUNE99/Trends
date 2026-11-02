@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:29:45.671247+00:00",
+ "fetched_at": "2026-11-02T16:01:52.938565+00:00",
  "group": "lab",
  "items": [
   {
@@ -414,34 +414,6 @@
    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
    "summary": null,
    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic"
-  },
-  {
-   "date": "2026-09-03T13:13:48+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/Hcompany/neomme",
-   "summary": null,
-   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder"
-  },
-  {
-   "date": "2026-09-03T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-   "summary": null,
-   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps"
-  },
-  {
-   "date": "2026-09-03T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/funes",
-   "summary": null,
-   "title": "Give Your Coding Agents a Memory You Own"
-  },
-  {
-   "date": "2026-09-03T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/train-to-paint-with-code",
-   "summary": null,
-   "title": "Training a coding model to paint watercolours with TRL and OpenEnv"
   }
  ],
  "name": "Hugging Face",
