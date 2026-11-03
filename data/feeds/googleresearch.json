@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:01:52.938565+00:00",
+ "fetched_at": "2026-11-03T14:21:18.839051+00:00",
  "group": "lab",
  "items": [
   {
@@ -120,13 +120,6 @@
    "link": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
    "summary": null,
    "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\""
-  },
-  {
-   "date": "2026-09-03T18:20:31+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BBJ_GenomicPrediction5-UniqueGeneticTraits.png",
-   "link": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
-   "summary": null,
-   "title": "Transfer learning for genomic prediction in underrepresented populations"
   }
  ],
  "name": "Google Research",

@@ -1,13 +1,62 @@
 {
- "fetched_at": "2026-11-02T16:01:52.938565+00:00",
+ "fetched_at": "2026-11-03T14:21:18.839051+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-03T08:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/heimstaden",
+   "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+   "title": "Heimstaden is changing residential real estate management with AI"
+  },
+  {
+   "date": "2026-11-02T18:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+   "title": "Preparing our next security sprint to harden OpenAI"
+  },
+  {
+   "date": "2026-11-02T18:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "title": "Rewarding defenders with bigger bug bounties"
+  },
+  {
+   "date": "2026-11-02T15:30:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/scaling-git-at-openai",
+   "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+   "title": "Scaling Git at OpenAI"
+  },
   {
    "date": "2026-11-02T15:00:00+00:00",
    "image": null,
    "link": "https://openai.com/index/grid-protectors-program",
    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
    "title": "Introducing the Grid Protectors Program"
+  },
+  {
+   "date": "2026-11-02T09:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/lifeval",
+   "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+   "title": "LifeVal"
+  },
+  {
+   "date": "2026-11-02T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/dan-driscoll-joins-openai",
+   "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization"
+  },
+  {
+   "date": "2026-11-02T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/qodo-codex-plugin",
+   "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+   "title": "Qodo builds context into AI code review with Codex"
   },
   {
    "date": "2026-10-30T09:30:00+00:00",
@@ -293,7 +342,7 @@
    "date": "2026-10-16T19:00:00+00:00",
    "image": null,
    "link": "https://openai.com/index/itau-generative-ai",
-   "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+   "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees—in one of Brazil’s most regulated sectors.",
    "title": "How Itaú is building generative AI for its entire customer base"
   },
   {

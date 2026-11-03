@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-02T16:01:52.938565+00:00",
+ "fetched_at": "2026-11-03T14:21:18.839051+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-03T07:00:12+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/smart-city-blog-1920x1080-1.jpeg",
+   "link": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+   "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI…",
+   "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI"
+  },
   {
    "date": "2026-10-30T15:00:10+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-scaled.jpg",
