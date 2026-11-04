@@ -1,13 +1,34 @@
 {
- "fetched_at": "2026-11-03T14:21:18.839051+00:00",
+ "fetched_at": "2026-11-04T14:37:51.419083+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-03T17:15:21+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/allenai/statebench",
+   "summary": null,
+   "title": "StateBench: Testing how language models track state changes over long documents"
+  },
+  {
+   "date": "2026-11-03T16:35:36+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+   "summary": null,
+   "title": "Palette: teaching a small model to build decks in your design language"
+  },
   {
    "date": "2026-11-03T00:00:00+00:00",
    "image": null,
    "link": "https://huggingface.co/blog/transformers-mic",
    "summary": null,
    "title": "Transformers Model Integration Contracts"
+  },
+  {
+   "date": "2026-11-03T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/cwe-bench",
+   "summary": null,
+   "title": "CWE-bench v2: More coverage, quality, and transparency"
   },
   {
    "date": "2026-10-30T17:57:24+00:00",

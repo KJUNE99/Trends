@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-10-31T12:38:13.421411+00:00",
+ "fetched_at": "2026-11-04T14:37:51.419083+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-03T17:01:49+00:00",
+   "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo",
+   "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+   "title": "Agentic cheminformatics with Google Antigravity"
+  },
+  {
+   "date": "2026-10-30T14:18:30+00:00",
+   "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
+   "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+   "title": "Speeding up planning decisions with AI"
+  },
   {
    "date": "2026-10-28T17:00:58+00:00",
    "image": null,
@@ -113,34 +127,6 @@
    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
-  },
-  {
-   "date": "2026-09-03T15:02:08+00:00",
-   "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo",
-   "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-   "summary": null,
-   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
-  },
-  {
-   "date": "2026-09-02T16:24:24+00:00",
-   "image": null,
-   "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-   "summary": null,
-   "title": "Proactive cyber defense for governments and enterprises"
-  },
-  {
-   "date": "2026-09-02T16:18:31+00:00",
-   "image": null,
-   "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-   "summary": null,
-   "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"
-  },
-  {
-   "date": "2026-09-01T17:08:51+00:00",
-   "image": null,
-   "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-   "summary": null,
-   "title": "Introducing agentic video understanding with Gemini"
   }
  ],
  "name": "Google DeepMind",

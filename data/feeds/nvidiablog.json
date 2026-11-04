@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-03T14:21:18.839051+00:00",
+ "fetched_at": "2026-11-04T14:37:51.419083+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-03T16:00:45+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/applied-materials-simulation-1-1680x945.jpg",
+   "link": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+   "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will…",
+   "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It"
+  },
   {
    "date": "2026-11-03T07:00:12+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/smart-city-blog-1920x1080-1.jpeg",

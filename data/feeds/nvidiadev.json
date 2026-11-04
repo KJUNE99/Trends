@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:21:18.839051+00:00",
+ "fetched_at": "2026-11-04T14:37:51.419083+00:00",
  "group": "lab",
  "items": [
   {
@@ -46,7 +46,7 @@
   },
   {
    "date": "2026-10-30T20:33:18+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-trtedge-chat-terminal-1920x1080-1-768x432.png",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/IMG_8351-768x432.png",
    "link": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/",
    "summary": "AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin conditions,... AI is expanding beyond the data center as developers build a…",
    "title": "Run AI Models for Edge Application Development with Just a Few Commands"
@@ -575,20 +575,6 @@
    "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
    "summary": "In September 2026, NVIDIA announced it is leaning into native GPU programming in Rust. CUDA C++ and CUDA Python are mature, enterprise-grade toolchains, and... In September 2026, NVIDIA announced it is leaning into…",
    "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels"
-  },
-  {
-   "date": "2026-09-04T18:04:55+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/ai-agent-skills-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/",
-   "summary": "Enterprise work spans messages, decisions, projects, and obligations that change over time. An AI agent that starts without this context must reconstruct it... Enterprise work spans messages, decisions, projects, and…",
-   "title": "Building a Memory-Driven Agent with NVIDIA NemoClaw"
-  },
-  {
-   "date": "2026-09-04T16:21:04+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image2-3-768x432.png",
-   "link": "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson/",
-   "summary": "Running reasoning and agentic AI at the edge has been harder than it needs to be. Until recently, models capable of multi-step reasoning were too large to run... Running reasoning and agentic AI at the edge has been…",
-   "title": "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson"
   }
  ],
  "name": "NVIDIA Developer",

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-03T14:21:18.839051+00:00",
+ "fetched_at": "2026-11-04T14:37:51.419083+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-11-04T10:00:00+00:00",
+   "image": null,
+   "link": "https://techblog.lycorp.co.jp/en/20260930b",
+   "summary": "Hello. I'm Shimizu, and I develop network-related services for the private cloud at LY Corporation.M...",
+   "title": "Service-to-service connectivity in a private cloud today and the future of the \"service-oriented cloud\""
+  },
   {
    "date": "2026-10-27T05:30:00+00:00",
    "image": null,

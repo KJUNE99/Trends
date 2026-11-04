@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-11-03T14:21:18.839051+00:00",
+ "fetched_at": "2026-11-04T14:37:51.419083+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-11-04T04:54:08+00:00",
+   "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fs.pstatic.net%2Fdthumb.phinf%2F%3Fsrc%3Dhttps%253A%252F%252Fclip-service-phinf.pstatic.net%252FMjAyNjExMDRfMjM3%252FMDAxNzkzNzY3NTU5Njc2.HO1g-_YJUtW431Z4_7KDV0HfxofVYYQeXa82ZCjmjZ8g.5-1-yznmE1LVcgp2617ebUsgf6cL7ZN0Y8PATI7_ehYg.PNG%252Fimage.png%26service%3Dnavermain%26type%3Dclip_500_300_blurfill%402x%22&type=ff500_300",
+   "link": "https://d2.naver.com/helloworld/7134499",
+   "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까? NAVER D2 | 크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까? naver.me ​ 발표 내용 여러 엔티티를 한 공간에 담은 통합 임베딩과 범용 리트리벌이 크림 추천…",
+   "title": "크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까?"
+  },
+  {
+   "date": "2026-11-04T01:25:20+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2/SMART_EDITOR/2026/10/07/1d2e5d9a-6599-4ed7-b286-f537bf5b44e6.gif/",
+   "link": "https://d2.naver.com/news/8711937",
+   "summary": "주요소식 ​ The Story of VS Code Visual Studio Code 공식 채널이 공개한 약 1시간 38분 분량의 다큐멘터리로, Erich Gamma가 이끈 취리히 팀이 브라우저용 편집기 컴포넌트 Monaco Editor를 만들던 시기부터 데스크톱 VS Code 발표와 오픈 소스 전환까지의 과정을 30여 명의 관계자 인터뷰로 보여 준다. 확장을 별도 프로세스에서 실행하고 한번…",
+   "title": "FE News 26년 10월 소식을 전해드립니다."
+  },
+  {
+   "date": "2026-11-04T01:24:58+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2/SMART_EDITOR/2026/11/04/4fcbc6ea-728f-4b18-8965-49c5b06a7630.gif/",
+   "link": "https://d2.naver.com/news/1095957",
+   "summary": "주요소식 26년 11월 소식에서는 다음과 같은 유용한 정보들을 만나보실 수 있습니다. ​ Tailwind Labs is joining Shopify Tailwind CSS를 만든 Adam Wathan이 Tailwind Labs의 Shopify 합류를 발표했다. Tailwind CSS를 비롯한 오픈소스 프로젝트는 계속 MIT 라이선스로 남고 Tailwind 팀이 Shopify의 지원을 받아…",
+   "title": "FE News 26년 11월 소식을 전해드립니다."
+  },
   {
    "date": "2026-11-03T04:45:30+00:00",
    "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fs.pstatic.net%2Fdthumb.phinf%2F%3Fsrc%3Dhttps%253A%252F%252Fclip-service-phinf.pstatic.net%252FMjAyNjExMDNfMjgx%252FMDAxNzkzNjY5MDAwMjU0.HNdINQwMzmNzqdwGOBoXhtMcxEe-fBbzNSQ_1ykKrXsg.o988aHIPKJs3F45Fu2Qn3SMo_AwiXTKh1W7iU0Ydgpog.PNG%252Fimage.png%26service%3Dnavermain%26type%3Dclip_500_300_blurfill%402x%22&type=ff500_300",
@@ -71,13 +92,6 @@
    "link": "https://d2.naver.com/news/7193556",
    "summary": "D2 Coding 은 한글과 영문, 숫자, 기호가 함께 있는 코드에서도 일정한 간격과 높은 가독성을 유지하도록 만든 코딩 전용 글꼴입니다. ​ 이번 1.4.0에서는 기존의 빗금이 들어간 숫자 0 대신 점이 들어간 0을 선택해서 사용할 수 있는 기능을 추가했습니다. 일부 크기에서 글자가 기준선보다 한 픽셀 위에 표시되던 문제도 수정했으며, 마침표의 의미를 다르게 보이게 할 수 있었던 리거처…",
    "title": "D2Coding 폰트 1.4.0 릴리즈 소식을 전합니다."
-  },
-  {
-   "date": "2026-10-07T08:43:28+00:00",
-   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2/SMART_EDITOR/2026/10/07/1d2e5d9a-6599-4ed7-b286-f537bf5b44e6.gif/",
-   "link": "https://d2.naver.com/news/8711937",
-   "summary": "주요소식 ​ The Story of VS Code Visual Studio Code 공식 채널이 공개한 약 1시간 38분 분량의 다큐멘터리로, Erich Gamma가 이끈 취리히 팀이 브라우저용 편집기 컴포넌트 Monaco Editor를 만들던 시기부터 데스크톱 VS Code 발표와 오픈 소스 전환까지의 과정을 30여 명의 관계자 인터뷰로 보여 준다. 확장을 별도 프로세스에서 실행하고 한번…",
-   "title": "FE News 26년 10월 소식을 전해드립니다."
   },
   {
    "date": "2026-10-01T02:40:01+00:00",
