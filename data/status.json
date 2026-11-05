@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-04T14:37:51.419083+00:00",
+ "generated_at": "2026-11-05T14:42:41.159786+00:00",
  "sources": [
   {
    "error": null,
    "group": "papers",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 50,
-   "n_items": 563,
-   "n_linked": 7,
+   "n_items": 537,
+   "n_linked": 8,
    "name": "HF Daily Papers",
    "ok": true,
    "slug": "hf_papers",
@@ -16,9 +16,9 @@
   {
    "error": null,
    "group": "newsletter",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 20,
-   "n_items": 14,
+   "n_items": 15,
    "name": "Interconnects",
    "ok": true,
    "slug": "interconnects",
@@ -27,7 +27,7 @@
   {
    "error": null,
    "group": "newsletter",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 20,
    "n_items": 3,
    "name": "Ahead of AI",
@@ -44,14 +44,14 @@
    "name": "Import AI",
    "ok": false,
    "slug": "importai",
-   "stale_days": 55
+   "stale_days": 56
   },
   {
    "error": null,
    "group": "lab",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
-   "n_fetched": 1354,
-   "n_items": 150,
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
+   "n_fetched": 1360,
+   "n_items": 154,
    "name": "OpenAI",
    "ok": true,
    "slug": "openai",
@@ -60,7 +60,7 @@
   {
    "error": null,
    "group": "lab",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 100,
    "n_items": 18,
    "name": "Google DeepMind",
@@ -71,9 +71,9 @@
   {
    "error": null,
    "group": "lab",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 100,
-   "n_items": 17,
+   "n_items": 18,
    "name": "Google Research",
    "ok": true,
    "slug": "googleresearch",
@@ -82,7 +82,7 @@
   {
    "error": null,
    "group": "lab",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 20,
    "n_items": 20,
    "name": "Google AI",
@@ -93,7 +93,7 @@
   {
    "error": null,
    "group": "lab",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 10,
    "n_items": 35,
    "name": "Apple ML",
@@ -104,7 +104,7 @@
   {
    "error": null,
    "group": "lab",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 10,
    "n_items": 15,
    "name": "Microsoft Research",
@@ -115,7 +115,7 @@
   {
    "error": null,
    "group": "lab",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 25,
    "n_items": 10,
    "name": "Amazon Science",
@@ -126,9 +126,9 @@
   {
    "error": null,
    "group": "lab",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 100,
-   "n_items": 82,
+   "n_items": 86,
    "name": "NVIDIA Developer",
    "ok": true,
    "slug": "nvidiadev",
@@ -137,9 +137,9 @@
   {
    "error": null,
    "group": "lab",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 18,
-   "n_items": 74,
+   "n_items": 75,
    "name": "NVIDIA Blog",
    "ok": true,
    "slug": "nvidiablog",
@@ -148,9 +148,9 @@
   {
    "error": null,
    "group": "lab",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
-   "n_fetched": 896,
-   "n_items": 63,
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
+   "n_fetched": 898,
+   "n_items": 65,
    "name": "Hugging Face",
    "ok": true,
    "slug": "hfblog",
@@ -159,7 +159,7 @@
   {
    "error": null,
    "group": "eng",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 9,
    "n_items": 20,
    "name": "Meta Engineering",
@@ -170,7 +170,7 @@
   {
    "error": null,
    "group": "eng",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 10,
    "n_items": 17,
    "name": "Netflix Tech",
@@ -181,7 +181,7 @@
   {
    "error": null,
    "group": "eng",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 10,
    "n_items": 12,
    "name": "Kakao Tech",
@@ -192,9 +192,9 @@
   {
    "error": null,
    "group": "eng",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 20,
-   "n_items": 15,
+   "n_items": 17,
    "name": "NAVER D2",
    "ok": true,
    "slug": "naverd2",
@@ -203,7 +203,7 @@
   {
    "error": null,
    "group": "eng",
-   "last_success": "2026-11-04T14:37:51.419083+00:00",
+   "last_success": "2026-11-05T14:42:41.159786+00:00",
    "n_fetched": 50,
    "n_items": 4,
    "name": "LY Tech",
@@ -212,5 +212,5 @@
    "stale_days": 0
   }
  ],
- "took_seconds": 3.1
+ "took_seconds": 3.5
 }

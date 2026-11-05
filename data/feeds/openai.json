@@ -1,7 +1,49 @@
 {
- "fetched_at": "2026-11-04T14:37:51.419083+00:00",
+ "fetched_at": "2026-11-05T14:42:41.159786+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-05T02:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+   "title": "Setting a new standard for responsible AI infrastructure"
+  },
+  {
+   "date": "2026-11-04T14:30:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/openai-to-acquire-pierre",
+   "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc."
+  },
+  {
+   "date": "2026-11-04T08:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+   "title": "A thousand fewer paths to root"
+  },
+  {
+   "date": "2026-11-04T07:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)"
+  },
+  {
+   "date": "2026-11-04T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-images-2-6",
+   "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+   "title": "Introducing Images 2.6"
+  },
+  {
+   "date": "2026-11-04T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/devrev-enterprise-self-service",
+   "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol"
+  },
   {
    "date": "2026-11-03T12:00:00+00:00",
    "image": null,
@@ -1037,20 +1079,6 @@
    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
    "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
    "title": "Supporting independent journalism in Ukraine"
-  },
-  {
-   "date": "2026-09-06T09:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/an-alien-mind",
-   "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-   "title": "An Alien Mind"
-  },
-  {
-   "date": "2026-09-06T08:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-   "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-   "title": "Research acceleration: The view inside OpenAI"
   }
  ],
  "name": "OpenAI",

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-04T14:37:51.419083+00:00",
+ "fetched_at": "2026-11-05T14:42:41.159786+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-05T14:00:34+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-5-blog-1920x1080-no-copy.jpg",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+   "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft…",
+   "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW"
+  },
   {
    "date": "2026-11-03T16:00:45+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/applied-materials-simulation-1-1680x945.jpg",

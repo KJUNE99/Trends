@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-04T14:37:51.419083+00:00",
+ "fetched_at": "2026-11-05T14:42:41.159786+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-11-04T16:35:44+00:00",
+   "image": "https://substackcdn.com/image/fetch/$s_!hFZ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5f2798-10bc-487a-8932-5f851ad61b24_1600x840.svg",
+   "link": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+   "summary": "Our first open model economy research note for paid subscribers. My longest running agent testbed has been building the Interconnects Dashboard — an aggregator of all of the best data on open model adoption and…",
+   "title": "How big is the open model economy today?"
+  },
   {
    "date": "2026-10-30T17:36:56+00:00",
    "image": "https://substackcdn.com/image/fetch/$s_!NQ70!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff51bb5d0-4390-4676-af4a-6bc8199412d5_2006x1362.png",

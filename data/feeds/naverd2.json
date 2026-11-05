@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-11-04T14:37:51.419083+00:00",
+ "fetched_at": "2026-11-05T14:42:41.159786+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-11-05T04:50:54+00:00",
+   "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fs.pstatic.net%2Fdthumb.phinf%2F%3Fsrc%3Dhttps%253A%252F%252Fclip-service-phinf.pstatic.net%252FMjAyNjExMDVfMTgx%252FMDAxNzkzODQxMTM4NjI1.x7rbB71Y_dteFPzZKwVAT2sX3JBMRvWFW67WhkcxV3sg.th1_rIk6szxaM32AhzEaUhrisRVdFZcAyZcyQLT56PAg.PNG%252Fimage.png%26service%3Dnavermain%26type%3Dclip_500_300_blurfill%402x%22&type=ff500_300",
+   "link": "https://d2.naver.com/helloworld/5037598",
+   "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ worklog-system 주간보고 자동화 구축 경험기 NAVER D2 | worklog-system 주간보고 자동화 구축 경험기 naver.me 발표 내용 대 AI 시대에 본인의 업무 기록을 수집하고 TODO 및 회의록을 기록하는 시스템을 소개합니다. ​ 이 도구를 만들며…",
+   "title": "worklog-system 주간보고 자동화 구축 경험기"
+  },
+  {
+   "date": "2026-11-05T02:17:06+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202610-%EB%B0%95%EC%9E%AC%EC%84%B1-2%2Ffiles%2F2-00.gif",
+   "link": "https://d2.naver.com/helloworld/1443473",
+   "summary": "브라우저 밖의 JavaScript 동향을 마지막으로 다루었던 2019년 시점( 1부 , 2부 )에서는 Node.js 12와 막 1년을 넘긴 Deno를 소개하며 \"Node.js와 같은 성공을 거둘 수 있을지는 아직 미지수\"라고 썼습니다. 패키지 관리자 영역은 \"npm의 독주 체제\"라고 표현했고 npm 회사의 불확실한 상황에 맞서 Entropic, Open-Registry, GitHub…",
+   "title": "2026년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript"
+  },
+  {
+   "date": "2026-11-05T02:15:08+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202610-%EB%B0%95%EC%9E%AC%EC%84%B1-1%2Ffiles%2F1-00.gif",
+   "link": "https://d2.naver.com/helloworld/2675915",
+   "summary": "2016년부터 매년 이어 오던 \"JavaScript의 동향\" 연재는 2020년을 마지막으로 한동안 쉬었습니다. 그사이 6년이 지났고, 그 6년 동안 ECMAScript 명세는 여섯 번 개정되었습니다. 2020년 글을 쓸 때 Stage 2였던 Temporal은 9년에 걸친 논의 끝에 Stage 4에 올랐고, 이제 Chrome과 Firefox, Node.js에서 플래그 없이 쓸 수 있습니다…",
+   "title": "2026년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)"
+  },
+  {
+   "date": "2026-11-05T01:42:15+00:00",
+   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202610-%EB%B0%95%EC%9E%AC%EC%84%B1-3%2Ffiles%2F3-00.gif",
+   "link": "https://d2.naver.com/helloworld/7770448",
+   "summary": "2020년 글 은 W3C 권고(1.0) 직후의 WebAssembly(이하 'wasm')를 다뤘습니다. '미래 버전에 포함될 작업'으로 스레드, SIMD(single instruction, multiple data), 참조 타입, 꼬리 호출, ESM(ECMAScript modules) 통합을 소개했고, Bytecode Alliance와 WASI(WebAssembly System…",
+   "title": "2026년과 이후 JavaScript의 동향 - WebAssembly"
+  },
   {
    "date": "2026-11-04T04:54:08+00:00",
    "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fs.pstatic.net%2Fdthumb.phinf%2F%3Fsrc%3Dhttps%253A%252F%252Fclip-service-phinf.pstatic.net%252FMjAyNjExMDRfMjM3%252FMDAxNzkzNzY3NTU5Njc2.HO1g-_YJUtW431Z4_7KDV0HfxofVYYQeXa82ZCjmjZ8g.5-1-yznmE1LVcgp2617ebUsgf6cL7ZN0Y8PATI7_ehYg.PNG%252Fimage.png%26service%3Dnavermain%26type%3Dclip_500_300_blurfill%402x%22&type=ff500_300",
@@ -57,20 +85,6 @@
    "link": "https://d2.naver.com/helloworld/1975819",
    "summary": "시작하며: 2018년과 2026년 사이의 간격과 격변기의 고민 ​ 2018년에 저는 ' 백엔드 개발자를 꿈꾸는 학생개발자에게 '라는 글을 이곳 D2 블로그에 공유했습니다. 당시 학생 개발자들과의 미트업 행사에서 나왔던 질문과 답변을 정리한 글이었습니다. 그 후 8년의 시간이 흘렀기에 그 글만 노출된다면 학생들에게 현시점에 적절한 정보를 주지 못할까 봐 걱정되었습니다. 그래서 2025년 말…",
    "title": "AI 시대의 개발자를 꿈꾸는 학생 개발자에게"
-  },
-  {
-   "date": "2026-10-21T03:38:48+00:00",
-   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202610-%EB%B0%95%EC%9E%AC%EC%84%B1%2Ffiles%2F2-00.gif",
-   "link": "https://d2.naver.com/helloworld/1443473",
-   "summary": "브라우저 밖의 JavaScript 동향을 마지막으로 다루었던 2019년 시점( 1부 , 2부 )에서는 Node.js 12와 막 1년을 넘긴 Deno를 소개하며 \"Node.js와 같은 성공을 거둘 수 있을지는 아직 미지수\"라고 썼습니다. 패키지 관리자 영역은 \"npm의 독주 체제\"라고 표현했고 npm 회사의 불확실한 상황에 맞서 Entropic, Open-Registry, GitHub…",
-   "title": "2026년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript"
-  },
-  {
-   "date": "2026-10-20T05:51:56+00:00",
-   "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202610-%EB%B0%95%EC%9E%AC%EC%84%B1%2Ffiles%2F1-00.gif",
-   "link": "https://d2.naver.com/helloworld/2675915",
-   "summary": "2016년부터 매년 이어 오던 \"JavaScript의 동향\" 연재는 2020년을 마지막으로 한동안 쉬었습니다. 그사이 6년이 지났고, 그 6년 동안 ECMAScript 명세는 여섯 번 개정되었습니다. 2020년 글을 쓸 때 Stage 2였던 Temporal은 9년에 걸친 논의 끝에 Stage 4에 올랐고, 이제 Chrome과 Firefox, Node.js에서 플래그 없이 쓸 수 있습니다…",
-   "title": "2026년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)"
   },
   {
    "date": "2026-10-08T06:44:57+00:00",
