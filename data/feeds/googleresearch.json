@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-05T14:42:41.159786+00:00",
+ "fetched_at": "2026-11-06T14:20:43.737664+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-05T16:01:08+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Hypertension1_Overview.png",
+   "link": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+   "summary": null,
+   "title": "Detecting signs of hypertension using wearable sensors"
+  },
   {
    "date": "2026-11-04T18:07:05+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AgileDeliberation1_Thumbnail.png",

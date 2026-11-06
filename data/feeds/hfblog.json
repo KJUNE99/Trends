@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-11-05T14:42:41.159786+00:00",
+ "fetched_at": "2026-11-06T14:20:43.737664+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-06T14:00:48+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/allenai/toyblocks",
+   "summary": null,
+   "title": "ToyBlocks: A controlled world for robot learning and evaluation"
+  },
+  {
+   "date": "2026-11-06T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "summary": null,
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard"
+  },
+  {
+   "date": "2026-11-05T19:35:16+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+   "summary": null,
+   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation"
+  },
   {
    "date": "2026-11-05T00:00:00+00:00",
    "image": null,

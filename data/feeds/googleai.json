@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-05T14:42:41.159786+00:00",
+ "fetched_at": "2026-11-06T14:20:43.737664+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-05T17:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
+   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+  },
   {
    "date": "2026-11-02T17:45:00+00:00",
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp",

@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-11-05T14:42:41.159786+00:00",
+ "fetched_at": "2026-11-06T14:20:43.737664+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-05T20:00:41+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1.png",
+   "link": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+   "summary": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution…",
+   "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents"
+  },
+  {
+   "date": "2026-11-05T17:00:35+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
+   "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA…",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
+  },
+  {
+   "date": "2026-11-05T16:00:05+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Chris-Alexiuk_portrait-1280-720.png",
+   "link": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+   "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research…",
+   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models"
+  },
+  {
+   "date": "2026-11-05T16:00:00+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/memory-codesign-1920x1080-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+   "summary": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory…",
+   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge"
+  },
   {
    "date": "2026-11-05T14:00:34+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-5-blog-1920x1080-no-copy.jpg",
@@ -29,13 +57,6 @@
    "link": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
    "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence…",
    "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
-  },
-  {
-   "date": "2026-10-29T16:00:35+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
-   "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA…",
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
   },
   {
    "date": "2026-10-29T13:00:16+00:00",

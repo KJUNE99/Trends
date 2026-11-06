@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-05T14:42:41.159786+00:00",
+ "fetched_at": "2026-11-06T14:20:43.737664+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-05T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/faster-retrieval",
+   "summary": "Maximum inner product search (MIPS) sits at the core of recommendation systems, search, and retrieval-augmented generation (RAG). Given a query vector, MIPS systems search within a database of millions of candidate key…",
+   "title": "Faster Retrieval for Better, More Efficient RAG"
+  },
   {
    "date": "2026-11-02T00:00:00+00:00",
    "image": null,

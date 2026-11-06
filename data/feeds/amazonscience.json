@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-05T14:42:41.159786+00:00",
+ "fetched_at": "2026-11-06T14:20:43.737664+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-05T14:57:23+00:00",
+   "image": null,
+   "link": "https://www.amazon.science/blog/hamed-karimi-wins-ecml-pkdd-test-of-time-award",
+   "summary": "Amazon senior applied scientist and coauthors showed that an overlooked mathematical condition from 1963 proves why frequently used machine-learning optimization methods work well.In Naples last month, at the European…",
+   "title": "Hamed Karimi wins ECML PKDD Test-of-Time Award"
+  },
   {
    "date": "2026-10-29T16:51:26+00:00",
    "image": null,

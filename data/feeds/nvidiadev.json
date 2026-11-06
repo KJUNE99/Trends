@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-05T14:42:41.159786+00:00",
+ "fetched_at": "2026-11-06T14:20:43.737664+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-05T17:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/dsx-os-cluster-readiness-featured-768x432.png",
+   "link": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/",
+   "summary": "One underperforming GPU can slow an entire distributed training job. The node may pass basic health checks and show normal utilization, leaving operators to... One underperforming GPU can slow an entire distributed…",
+   "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS"
+  },
+  {
+   "date": "2026-11-05T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image5-1-768x432.png",
+   "link": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/",
+   "summary": "In an AI factory, high bandwidth memory (HBM)is the fastest, most expensive, and most contested memory tier. Every byte spent on a redundant weight copy, an... In an AI factory, high bandwidth memory (HBM)is the…",
+   "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory"
+  },
   {
    "date": "2026-11-04T22:00:17+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image2-3-768x432.jpg",

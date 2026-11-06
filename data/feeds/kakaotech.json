@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-05T14:42:41.159786+00:00",
+ "fetched_at": "2026-11-06T14:20:43.737664+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-11-05T15:00:00+00:00",
+   "image": null,
+   "link": "https://tech.kakao.com/posts/846",
+   "summary": "안녕하세요, 카카오 Applied AI Model팀의 Shawn(정성효), Michael(이주영)입니다. 고객 문의를 분류하고, 상품 사진을 확인하고, 에이전트가 다음 작업에 사용할 도구를 고르는 일. 서비스에는 긴 답변보다 명확한 판단이 필요한 순간이 많습니다. 특히 AI 에이전트는 하나의 요청을 처리하는 동안 이러한 판단을 여러 차례 반복합니다. Agentic AI 시대에 각 단계에서…",
+   "title": "AI 에이전트를 위한 멀티모달 의사결정 모델 ‘Kanana-2-v-decide’ 오픈소스 공개"
+  },
   {
    "date": "2026-11-02T15:00:00+00:00",
    "image": null,
@@ -78,13 +85,6 @@
    "link": "https://tech.kakao.com/posts/833",
    "summary": "if(kakao)26 첫째 날은 신뢰와 안전, AI 방향성, 상생과 성장, Model & Agent에 대해 이야기합니다. 키노트를 제외한 총 22개의 기술 세션들이 아래와 같이 진행됩니다. [AI 방향성] 1. You Only Train Once: 더 효율적으로 Kanana SLM 개발하기 (류민호, 한규빈) 단 한 번의 학습으로, 4개의 Small Dense Model Family를…",
    "title": "if(kakao)26 첫째 날, 기술 세션 소개"
-  },
-  {
-   "date": "2026-09-06T15:00:00+00:00",
-   "image": null,
-   "link": "https://tech.kakao.com/posts/834",
-   "summary": "🔗 if(kakao)26 바로가기 - 10월 13일부터 14일까지 이틀간 카카오 AI 캠퍼스에서 온·오프라인 진행 -올해 슬로건 ‘모든 연결에 지능을’… AI가 확장할 연결의 경험과 신뢰할 수 있는 기술 기준 제시 - 50여개 기술 세션서 AI 적용 성과와 개발 경험 공유…파이어사이드 챗·네트워킹 프로그램도 운영 [2026-09-07] 카카오(대표이사 정신아)가 오는 10월 13일부터…",
-   "title": "카카오, if(kakao)26 컨퍼런스 개최... 모든 연결에 지능을"
   }
  ],
  "name": "Kakao Tech",

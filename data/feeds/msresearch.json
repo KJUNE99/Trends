@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-05T14:42:41.159786+00:00",
+ "fetched_at": "2026-11-06T14:20:43.737664+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-05T16:00:00+00:00",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/PDDKitRecap-BlogHeroFeature-1400x788-1.jpg",
+   "link": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+   "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them. It…",
+   "title": "Formally verifying agent-written full-stack web apps with PDD Kit"
+  },
   {
    "date": "2026-11-03T17:14:38+00:00",
    "image": null,
