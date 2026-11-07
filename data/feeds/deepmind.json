@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-05T14:42:41.159786+00:00",
+ "fetched_at": "2026-11-07T13:08:16.416225+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-05T17:05:16+00:00",
+   "image": null,
+   "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "summary": null,
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+  },
   {
    "date": "2026-11-03T17:01:49+00:00",
    "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo",

@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-06T14:20:43.737664+00:00",
+ "fetched_at": "2026-11-07T13:08:16.416225+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-06T22:20:20+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/techblog-5893-article-kix-ulkeecvizi09-768x432.png",
+   "link": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+   "summary": "When deploying diffusion models in design tools, image editors, and visual production workflows, developers must account for inference latency. Generating an... When deploying diffusion models in design tools, image…",
+   "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs"
+  },
+  {
+   "date": "2026-11-06T18:03:26+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/green-cube.webp",
+   "link": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/",
+   "summary": "During reinforcement learning (RL) post-training, training trajectories are generated on the fly by running inference with the current policy model. For... During reinforcement learning (RL) post-training, training…",
+   "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective"
+  },
   {
    "date": "2026-11-05T17:00:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/dsx-os-cluster-readiness-featured-768x432.png",
@@ -610,13 +624,6 @@
    "link": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
    "summary": "Every NVIDIA CUDA Toolkit release adds functionality and performance improvements that help developers get more from NVIDIA GPUs and the broader NVIDIA software... Every NVIDIA CUDA Toolkit release adds functionality…",
    "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs"
-  },
-  {
-   "date": "2026-09-08T12:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-1-768x432.png",
-   "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-   "summary": "In September 2026, NVIDIA announced it is leaning into native GPU programming in Rust. CUDA C++ and CUDA Python are mature, enterprise-grade toolchains, and... In September 2026, NVIDIA announced it is leaning into…",
-   "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels"
   }
  ],
  "name": "NVIDIA Developer",
