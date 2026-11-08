@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:08:16.416225+00:00",
+ "fetched_at": "2026-11-08T13:29:33.742510+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -92,20 +92,6 @@
    "link": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
    "summary": "Some quick notes on a truly weird week. As AI became more powerful, it was inevitable that a different, growing group would start to take AI safety more seriously – what we did not know ahead of time, is which set of…",
    "title": "One resignation turned the embers of AI fear into a wildfire"
-  },
-  {
-   "date": "2026-09-09T11:01:23+00:00",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/33531b35-1bdf-475d-b089-61fa6ed27580_3182x1790.png",
-   "link": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
-   "summary": "We’re Housekeeping: Paid subscribers to Interconnects now get a permanent 40% discount on my book when purchasing at Manning.com. Access the code at the Interconnects perks page . Many AI optimists tend to compare what…",
-   "title": "When will average people feel AI’s impact?"
-  },
-  {
-   "date": "2026-09-08T14:15:25+00:00",
-   "image": "https://substackcdn.com/image/fetch/$s_!J8Bn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2908b12f-8586-49cf-b34b-e1d5bc61bf19_1196x798.png",
-   "link": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
-   "summary": "The open model ecosystem continues to expand in its breadth Avid Artifacts readers know that we have been covering not only models but also their licenses for quite some time. There was a period when custom licenses…",
-   "title": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses"
   }
  ],
  "name": "Interconnects",

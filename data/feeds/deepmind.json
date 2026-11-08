@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:08:16.416225+00:00",
+ "fetched_at": "2026-11-08T13:29:33.742510+00:00",
  "group": "lab",
  "items": [
   {
@@ -127,13 +127,6 @@
    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
    "summary": null,
    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
-  },
-  {
-   "date": "2026-09-08T14:00:15+00:00",
-   "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo",
-   "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-   "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
   }
  ],
  "name": "Google DeepMind",

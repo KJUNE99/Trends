@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:08:16.416225+00:00",
+ "fetched_at": "2026-11-08T13:29:33.742510+00:00",
  "group": "lab",
  "items": [
   {
@@ -470,13 +470,6 @@
    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
    "summary": null,
    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license"
-  },
-  {
-   "date": "2026-09-08T14:23:07+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-   "summary": null,
-   "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic"
   }
  ],
  "name": "Hugging Face",

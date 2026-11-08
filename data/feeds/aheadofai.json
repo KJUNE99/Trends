@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:08:16.416225+00:00",
+ "fetched_at": "2026-11-08T13:29:33.742510+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -15,13 +15,6 @@
    "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
    "summary": "A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency The recently released Jev AI model has been quite a cultural phenomenon in technical communities in the…",
    "title": "Language Models for Text Classification: From Bag-of-Words to Jev"
-  },
-  {
-   "date": "2026-09-09T11:14:25+00:00",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png",
-   "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-   "summary": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks A lot has happened in the last few weeks. I am sure that OpenAI’s GPT-6 Astra is top of mind for everyone right now…",
-   "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning"
   }
  ],
  "name": "Ahead of AI",

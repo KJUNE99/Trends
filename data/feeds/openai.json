@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:08:16.416225+00:00",
+ "fetched_at": "2026-11-08T13:29:33.742510+00:00",
  "group": "lab",
  "items": [
   {
@@ -1065,27 +1065,6 @@
    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
    "title": "Paul Christiano joins OpenAI Foundation Board"
-  },
-  {
-   "date": "2026-09-09T13:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/ai-policy-window",
-   "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-   "title": "The AI policy window is open. We need to act."
-  },
-  {
-   "date": "2026-09-09T11:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-   "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-   "title": "GPT-6 Astra: The next generation in intelligence for work"
-  },
-  {
-   "date": "2026-09-08T17:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/codex-quantum-computing-experiments",
-   "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-   "title": "How GPT-5.6 Sol helps run quantum computing experiments"
   }
  ],
  "name": "OpenAI",
