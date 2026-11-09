@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:29:33.742510+00:00",
+ "fetched_at": "2026-11-09T16:27:31.155562+00:00",
  "group": "lab",
  "items": [
   {
@@ -127,27 +127,6 @@
    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
    "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
    "title": "DevFest is back"
-  },
-  {
-   "date": "2026-09-10T16:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp",
-   "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-   "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-   "title": "3 ways to prep for your next big race with Search"
-  },
-  {
-   "date": "2026-09-09T16:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp",
-   "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-   "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-   "title": "Get ready for the game with new football features in Search"
-  },
-  {
-   "date": "2026-09-09T16:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-   "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-   "title": "Recreating a 70-year love story frame by frame"
   }
  ],
  "name": "Google AI",

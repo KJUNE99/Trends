@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-08T13:29:33.742510+00:00",
+ "fetched_at": "2026-11-09T16:27:31.155562+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-09T15:05:57+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+   "summary": null,
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context"
+  },
+  {
+   "date": "2026-11-09T12:34:29+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+   "summary": null,
+   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together"
+  },
   {
    "date": "2026-11-06T14:00:48+00:00",
    "image": null,
@@ -449,27 +463,6 @@
    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
    "summary": null,
    "title": "Your Agent Aced the Task. Will It Do It Again?"
-  },
-  {
-   "date": "2026-09-10T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/gradio-workflow-1111",
-   "summary": null,
-   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow"
-  },
-  {
-   "date": "2026-09-10T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-   "summary": null,
-   "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL"
-  },
-  {
-   "date": "2026-09-09T15:36:24+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-   "summary": null,
-   "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license"
   }
  ],
  "name": "Hugging Face",

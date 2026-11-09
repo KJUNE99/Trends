@@ -1,7 +1,49 @@
 {
- "fetched_at": "2026-11-08T13:29:33.742510+00:00",
+ "fetched_at": "2026-11-09T16:27:31.155562+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-09T14:00:01+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1.png",
+   "link": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+   "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling…",
+   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation"
+  },
+  {
+   "date": "2026-11-09T08:00:53+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-startups-msit-1920x1080-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+   "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups…",
+   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum"
+  },
+  {
+   "date": "2026-11-09T05:00:40+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg",
+   "link": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+   "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to…",
+   "title": "Korea Advances Physical AI Across Industries With NVIDIA"
+  },
+  {
+   "date": "2026-11-09T05:00:39+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+   "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM…",
+   "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA"
+  },
+  {
+   "date": "2026-11-09T05:00:04+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-sovereign-ai-nvlink-fusion.jpg",
+   "link": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+   "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models…",
+   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration"
+  },
+  {
+   "date": "2026-11-09T05:00:00+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/dynamo-korea-ai-day.jpg",
+   "link": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+   "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models…",
+   "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production"
+  },
   {
    "date": "2026-11-06T16:00:35+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-8.30.25-PM-scaled.png",
@@ -526,34 +568,6 @@
    "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
    "summary": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot…",
    "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video"
-  },
-  {
-   "date": "2026-09-10T16:00:04+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/auto-robotaxi-hero-kv-blog-r7-1920x1080-1.jpg",
-   "link": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
-   "summary": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people…",
-   "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies"
-  },
-  {
-   "date": "2026-09-10T13:00:21+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1.png",
-   "link": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
-   "summary": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting…",
-   "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment"
-  },
-  {
-   "date": "2026-09-10T13:00:18+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/GFN_Thursday_September_10.jpg",
-   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
-   "summary": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North update and Bus Simulator 27 — part of…",
-   "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch"
-  },
-  {
-   "date": "2026-09-09T16:00:42+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/me-ai-for-media-kv-1920x1080-5262591.jpeg",
-   "link": "https://blogs.nvidia.com/blog/ibc-news-2026/",
-   "summary": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment…",
-   "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC"
   }
  ],
  "name": "NVIDIA Blog",

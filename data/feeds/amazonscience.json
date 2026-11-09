@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:29:33.742510+00:00",
+ "fetched_at": "2026-11-09T16:27:31.155562+00:00",
  "group": "lab",
  "items": [
   {
@@ -71,13 +71,6 @@
    "link": "https://www.amazon.science/blog/advancing-ai-for-biology-teaching-models-to-design-and-characterize-antibodies",
    "summary": "Three new papers from Amazon Bio Discovery address bottlenecks in AI-driven antibody engineering, from benchmarking binding predictors to experimentally validating de novo design.Monoclonal antibodies are one of the…",
    "title": "Advancing AI for biology: Teaching models to design and characterize antibodies"
-  },
-  {
-   "date": "2026-09-10T15:03:39+00:00",
-   "image": "https://cdn.amazon.science/28/46/0121ba1e4b42be0c56e7560c9844/compressionmodels-03-16x9.png",
-   "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-   "summary": "New research indicates that AI agents learn compressible models of data, which don’t have enough space to enable memorization.Machine learning, at its core, is about generalization, not memorization. You hand your…",
-   "title": "Why don’t machine learning research agents overfit?"
   }
  ],
  "name": "Amazon Science",

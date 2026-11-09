@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:29:33.742510+00:00",
+ "fetched_at": "2026-11-09T16:27:31.155562+00:00",
  "group": "lab",
  "items": [
   {
@@ -596,34 +596,6 @@
    "link": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
    "summary": "Deploying a large language model is only the first step toward production-ready serving. Production teams also need to serve as many concurrent users as... Deploying a large language model is only the first step toward…",
    "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra"
-  },
-  {
-   "date": "2026-09-10T15:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image4-1.webp",
-   "link": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/",
-   "summary": "Biomolecular structure prediction is now often run at proteome scale, where the goal is to move an entire worklist through the pipeline efficiently. NVIDIA... Biomolecular structure prediction is now often run at…",
-   "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime"
-  },
-  {
-   "date": "2026-09-10T09:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-4-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
-   "summary": "NVIDIA has one of the largest and most complex supply chains in the world, and its performance is measured from wafer-out to first token. The interval is in two... NVIDIA has one of the largest and most complex supply…",
-   "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry"
-  },
-  {
-   "date": "2026-09-09T20:31:04+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/multimodal-dynamo-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
-   "summary": "Encode-prefill-decode (EPD) disaggregation is an inference optimization technique for multimodal models that separates the vision encoder stage from the prefill... Encode-prefill-decode (EPD) disaggregation is an…",
-   "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving"
-  },
-  {
-   "date": "2026-09-09T20:24:12+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/cuda-python-768x432.png",
-   "link": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
-   "summary": "Every NVIDIA CUDA Toolkit release adds functionality and performance improvements that help developers get more from NVIDIA GPUs and the broader NVIDIA software... Every NVIDIA CUDA Toolkit release adds functionality…",
-   "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs"
   }
  ],
  "name": "NVIDIA Developer",
