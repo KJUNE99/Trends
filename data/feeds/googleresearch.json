@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-09T16:27:31.155562+00:00",
+ "fetched_at": "2026-11-10T14:56:45.205849+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-09T20:29:39+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LanguageExplorer-hero.png",
+   "link": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+   "summary": "Natural Language Processing",
+   "title": "Exploring the world's languages with Language Explorer"
+  },
   {
    "date": "2026-11-05T16:01:08+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Hypertension1_Overview.png",
@@ -38,7 +45,7 @@
    "title": "Empowering frontline maternal care with AI-assisted ultrasound"
   },
   {
-   "date": "2026-10-16T18:11:34+00:00",
+   "date": "2026-10-16T18:11:00+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs_Cover.gif",
    "link": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
    "summary": null,
@@ -127,13 +134,6 @@
    "link": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
    "summary": null,
    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train"
-  },
-  {
-   "date": "2026-09-10T22:50:22+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/ToolGrad1_teaser.png",
-   "link": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
-   "summary": null,
-   "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\""
   }
  ],
  "name": "Google Research",

@@ -1,7 +1,49 @@
 {
- "fetched_at": "2026-11-09T16:27:31.155562+00:00",
+ "fetched_at": "2026-11-10T14:56:45.205849+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-10T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+   "title": "Helping caregivers use AI in everyday life"
+  },
+  {
+   "date": "2026-11-10T09:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+   "title": "Closing the AI guidance gap in education"
+  },
+  {
+   "date": "2026-11-09T19:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace"
+  },
+  {
+   "date": "2026-11-09T13:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/control-room",
+   "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure"
+  },
+  {
+   "date": "2026-11-09T08:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/coderabbit-codex-daybreak",
+   "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+   "title": "CodeRabbit scales agentic software development and ships 20x more"
+  },
+  {
+   "date": "2026-11-09T08:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/kuken",
+   "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+   "title": "Kuken Industries searches 70 years of drawings in minutes"
+  },
   {
    "date": "2026-11-06T08:00:00+00:00",
    "image": null,
@@ -1009,13 +1051,6 @@
    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
    "title": "Cognition helps Devin test its own work with GPT‑6 Astra"
-  },
-  {
-   "date": "2026-09-11T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-   "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users"
   }
  ],
  "name": "OpenAI",

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-09T16:27:31.155562+00:00",
+ "fetched_at": "2026-11-10T14:56:45.205849+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-09T19:09:32+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/featured-image-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/",
+   "summary": "Picture guiding a robot arm by hand while its motors supply just enough torque to support its weight and keep the robot upright. This simple interaction, a... Picture guiding a robot arm by hand while its motors supply…",
+   "title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5"
+  },
   {
    "date": "2026-11-06T22:20:20+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/techblog-5893-article-kix-ulkeecvizi09-768x432.png",
@@ -589,13 +596,6 @@
    "link": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/",
    "summary": "Mixture of experts (MoE) has become one of the defining architectural trends in large-scale AI model training. DeepSeek, Qwen, and Mixtral are examples of MoE... Mixture of experts (MoE) has become one of the defining…",
    "title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine"
-  },
-  {
-   "date": "2026-09-10T16:55:32+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image4_1480x833-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
-   "summary": "Deploying a large language model is only the first step toward production-ready serving. Production teams also need to serve as many concurrent users as... Deploying a large language model is only the first step toward…",
-   "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra"
   }
  ],
  "name": "NVIDIA Developer",

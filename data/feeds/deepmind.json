@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-09T16:27:31.155562+00:00",
+ "fetched_at": "2026-11-10T14:56:45.205849+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-10T12:02:28+00:00",
+   "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
+   "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
+  },
   {
    "date": "2026-11-05T17:05:16+00:00",
    "image": null,

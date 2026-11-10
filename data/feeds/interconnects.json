@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:27:31.155562+00:00",
+ "fetched_at": "2026-11-10T14:56:45.205849+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -78,13 +78,6 @@
    "link": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
    "summary": "An “AI moderate’s” view on recent events and the trajectory of frontier models. We’re in an era where a few organizations are using thousands of concurrent agents to improve their processes and output. These…",
    "title": "Why I still haven’t bought into true RSI"
-  },
-  {
-   "date": "2026-09-11T12:36:25+00:00",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
-   "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-   "summary": "How to get up to speed on open models and their implications. Hey all! I’ve been prepping for some public-audience and policy-facing writing on open models, so I figured I would share my research materials. There’s lots…",
-   "title": "Open-Source AI & Open Models Reading List"
   }
  ],
  "name": "Interconnects",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:27:31.155562+00:00",
+ "fetched_at": "2026-11-10T14:56:45.205849+00:00",
  "group": "lab",
  "items": [
   {
@@ -13,7 +13,7 @@
    "date": "2026-11-09T08:00:53+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-startups-msit-1920x1080-1.jpg",
    "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-   "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups…",
+   "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across…",
    "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum"
   },
   {
@@ -561,13 +561,6 @@
    "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
    "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans…",
    "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX"
-  },
-  {
-   "date": "2026-09-10T16:30:35+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
-   "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-   "summary": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot…",
-   "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video"
   }
  ],
  "name": "NVIDIA Blog",

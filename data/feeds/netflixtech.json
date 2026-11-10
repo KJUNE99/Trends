@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-09T16:27:31.155562+00:00",
+ "fetched_at": "2026-11-10T14:56:45.205849+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-11-09T17:01:02+00:00",
+   "image": "https://cdn-images-1.medium.com/max/466/1*zkhDdQjtUryvyXdFAoMJoQ.png",
+   "link": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
+   "summary": "By Shreya S Ramanujam , Yongce Li , Afshine Amidi , Sina Ghiassian , Benjamin Klein . Introduction Picture this — you’re home after a long day at work and can’t wait to catch up on Bridgerton. You log on to Netflix…",
+   "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System"
+  },
   {
    "date": "2026-10-26T17:04:57+00:00",
    "image": "https://cdn-images-1.medium.com/max/1024/1*2TSVpCdPYj4fMMlFPuheCg.png",
