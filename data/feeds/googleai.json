@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-10T14:56:45.205849+00:00",
+ "fetched_at": "2026-11-11T14:27:52.464739+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-11T09:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
+   "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+   "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+   "title": "Experience the art and legacy of Dr. Esther Mahlangu"
+  },
+  {
+   "date": "2026-11-10T19:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp",
+   "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+   "title": "Gemini Intelligence: New features, on more devices"
+  },
   {
    "date": "2026-11-10T14:00:00+00:00",
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp",

@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-10T14:56:45.205849+00:00",
+ "fetched_at": "2026-11-11T14:27:52.464739+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-11T03:00:20+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png",
+   "link": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+   "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material"
+  },
+  {
+   "date": "2026-11-10T16:00:03+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2.jpg",
+   "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+   "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its…",
+   "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure"
+  },
   {
    "date": "2026-11-09T14:00:01+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1.png",

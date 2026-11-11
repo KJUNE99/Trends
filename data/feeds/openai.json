@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-10T14:56:45.205849+00:00",
+ "fetched_at": "2026-11-11T14:27:52.464739+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-12T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+   "title": "Gilbert + Tobin rethinks the business of law with AI"
+  },
+  {
+   "date": "2026-11-11T08:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+   "title": "ChatGPT Plus for veterans and servicemembers"
+  },
   {
    "date": "2026-11-10T12:00:00+00:00",
    "image": null,
@@ -10,11 +24,39 @@
    "title": "Helping caregivers use AI in everyday life"
   },
   {
+   "date": "2026-11-10T10:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-businesses-chatgpt",
+   "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+   "title": "Introducing Businesses in ChatGPT"
+  },
+  {
    "date": "2026-11-10T09:00:00+00:00",
    "image": null,
    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
    "title": "Closing the AI guidance gap in education"
+  },
+  {
+   "date": "2026-11-10T08:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/singapore-airlines-travel-work",
+   "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology"
+  },
+  {
+   "date": "2026-11-10T07:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/ai-effect-on-freelance-work",
+   "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+   "title": "Work at the Frontier: AI’s effect on freelance work"
+  },
+  {
+   "date": "2026-11-10T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/cogent-security",
+   "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+   "title": "Cogent and OpenAI build cyber defense factories for enterprises"
   },
   {
    "date": "2026-11-09T19:00:00+00:00",
@@ -1044,13 +1086,6 @@
    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems"
-  },
-  {
-   "date": "2026-09-11T16:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-   "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-   "title": "Cognition helps Devin test its own work with GPT‑6 Astra"
   }
  ],
  "name": "OpenAI",

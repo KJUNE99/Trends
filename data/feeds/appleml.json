@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:56:45.205849+00:00",
+ "fetched_at": "2026-11-11T14:27:52.464739+00:00",
  "group": "lab",
  "items": [
   {
@@ -8,6 +8,13 @@
    "link": "https://machinelearning.apple.com/research/faster-retrieval",
    "summary": "Maximum inner product search (MIPS) sits at the core of recommendation systems, search, and retrieval-augmented generation (RAG). Given a query vector, MIPS systems search within a database of millions of candidate key…",
    "title": "Faster Retrieval for Better, More Efficient RAG"
+  },
+  {
+   "date": "2026-11-03T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+   "summary": "State Space Models (SSMs) such as Mamba have become a popular alternative to Transformer models, due to their reduced memory consumption and higher throughput at generation compared to their Attention-based…",
+   "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation"
   },
   {
    "date": "2026-11-02T00:00:00+00:00",
@@ -22,6 +29,13 @@
    "link": "https://machinelearning.apple.com/research/gharp-head-animation",
    "summary": "We present GHARP (Real-time Gaussian Head Animation from Large-scale Reconstruction Prior), a method that animates 3D human heads in real time from a few input images of a subject and a driving expression signal. We…",
    "title": "GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior"
+  },
+  {
+   "date": "2026-10-21T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/pixels-tokens-active-learning",
+   "summary": "While foundation models and vision transformers (ViTs) have redefined visual representations, current active learning (AL) strategies for these backbones largely operate at the patch or region level, where annotation…",
+   "title": "Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation"
   },
   {
    "date": "2026-10-15T00:00:00+00:00",

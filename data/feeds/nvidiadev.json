@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-11-10T14:56:45.205849+00:00",
+ "fetched_at": "2026-11-11T14:27:52.464739+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-10T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/auto-alpamayo-2-edge-tech-blog-promo-600x338_r2-1.gif",
+   "link": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/",
+   "summary": "Autonomous vehicle (AV) developers need reasoning models that can operate within the compute and latency constraints of an onboard system. Larger models provide... Autonomous vehicle (AV) developers need reasoning…",
+   "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits"
+  },
+  {
+   "date": "2026-11-10T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image2-5-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+   "summary": "AI agents spend most of their time idle, waiting on a human prompt, a tool result or a model response. Kubernetes wasn’t built for that. Running one Pod per... AI agents spend most of their time idle, waiting on a human…",
+   "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale"
+  },
+  {
+   "date": "2026-11-10T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-snapshot-gpu-checkpoint-restore-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot/",
+   "summary": "NVIDIA Snapshot, a new open-source component of the NVIDIA DSX AI Factory Platform, makes initialized GPU workloads reusable across inference... NVIDIA Snapshot, a new open-source component of the NVIDIA DSX AI Factory…",
+   "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot"
+  },
+  {
+   "date": "2026-11-10T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/nvke-nvkr-featured-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
+   "summary": "NVIDIA is announcing two open source projects for building and operating managed Kubernetes services on GPU infrastructure—NVIDIA Kubernetes Engine (NVKE) and... NVIDIA is announcing two open source projects for…",
+   "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine"
+  },
   {
    "date": "2026-11-09T19:09:32+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/featured-image-768x432.jpg",

@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-10T14:56:45.205849+00:00",
+ "fetched_at": "2026-11-11T14:27:52.464739+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-11-10T17:00:49+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Your-algorithm-Figure-1.gif",
+   "link": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+   "summary": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more transparent and steerable, with a single editable view of the interests that shape Feed and Reels. We’re sharing how Your algorithm…",
+   "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations"
+  },
+  {
+   "date": "2026-11-10T16:59:31+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Meta-TLX-Figure-1.png",
+   "link": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+   "summary": "Triton Low-Level Extensions (TLX), is an extension to Triton that helps engineers optimize GPU performance while preserving Triton’s productive programming model. TLX introduces explicit warp-group and cluster-level…",
+   "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale"
+  },
   {
    "date": "2026-11-09T17:00:12+00:00",
    "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Extending-LLDB.png",
