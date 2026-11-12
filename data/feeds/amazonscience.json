@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-11T14:27:52.464739+00:00",
+ "fetched_at": "2026-11-12T15:19:22.055218+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-11T17:02:01+00:00",
+   "image": null,
+   "link": "https://www.amazon.science/blog/using-mathematics-to-validate-network-configurations",
+   "summary": "Static analysis of deployed networks helps reduce the risk that sensitive data leaks across partitions, supporting the security and reliability of global-scale networking.Corporations, banks, hospitals, and academic…",
+   "title": "Using mathematics to validate network configurations"
+  },
   {
    "date": "2026-11-10T15:37:39+00:00",
    "image": null,

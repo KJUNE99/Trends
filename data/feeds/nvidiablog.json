@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-11T14:27:52.464739+00:00",
+ "fetched_at": "2026-11-12T15:19:22.055218+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-12T14:00:59+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-12-blog-1920x1080-logo.jpg",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+   "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5…",
+   "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW"
+  },
   {
    "date": "2026-11-11T03:00:20+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png",

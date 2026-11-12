@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-11T14:27:52.464739+00:00",
+ "fetched_at": "2026-11-12T15:19:22.055218+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-11T17:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image1-7-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
+   "summary": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform... As teams deploy and scale AI workloads using NVIDIA Dynamo…",
+   "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory"
+  },
   {
    "date": "2026-11-10T16:00:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/auto-alpamayo-2-edge-tech-blog-promo-600x338_r2-1.gif",

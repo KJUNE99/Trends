@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-11-11T14:27:52.464739+00:00",
+ "fetched_at": "2026-11-12T15:19:22.055218+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-10T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges",
+   "summary": "This paper was accepted at the Can We Trust AI Evaluation? Workshop at NeurIPS 2026. We evaluate how good large language model (LLM) judges are for personalized writing tasks. This is important when a user’s preferred…",
+   "title": "Evaluating the Evaluators: Investigating LLM Judges for Personalized Writing Style Assessment"
+  },
+  {
+   "date": "2026-11-10T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/gating-memorization-in-context",
+   "summary": "State Space Models (SSMs) have emerged as a compelling alternative to Transformers, enabling sequence modeling with constant memory and linear compute. Although SSMs exhibit reasonable performance and favorable…",
+   "title": "On the Importance of Gating: Memorization vs. In-Context Learning in State Space Models"
+  },
+  {
+   "date": "2026-11-10T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/weighted-state-souping",
+   "summary": "This paper was accepted at the Workshop on Personalized, Aligned, Long-term Memory for AI Systems (PALM) at NeurIPS 2026. State space models (SSMs) combine fast inference and fixed state size with competitive…",
+   "title": "Weighted State Souping for Efficient Long-Context Retrieval"
+  },
   {
    "date": "2026-11-05T00:00:00+00:00",
    "image": null,

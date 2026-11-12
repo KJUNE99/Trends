@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-11T14:27:52.464739+00:00",
+ "fetched_at": "2026-11-12T15:19:22.055218+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-12T09:30:00+00:00",
+   "image": null,
+   "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+   "title": "Holiday Extras is rethinking what it can build with Codex"
+  },
   {
    "date": "2026-11-12T00:00:00+00:00",
    "image": null,
@@ -10,11 +17,25 @@
    "title": "Gilbert + Tobin rethinks the business of law with AI"
   },
   {
+   "date": "2026-11-12T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/children-first-declaration",
+   "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+   "title": "Supporting research on AI and children’s safety"
+  },
+  {
    "date": "2026-11-11T08:00:00+00:00",
    "image": null,
    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
    "title": "ChatGPT Plus for veterans and servicemembers"
+  },
+  {
+   "date": "2026-11-11T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/jiostar-vijay-seshadri",
+   "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale"
   },
   {
    "date": "2026-11-10T12:00:00+00:00",
