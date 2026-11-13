@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-12T15:19:22.055218+00:00",
+ "fetched_at": "2026-11-13T14:38:31.095457+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-13T13:00:42+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-9.25.28-AM-scaled.png",
+   "link": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+   "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching…",
+   "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner"
+  },
   {
    "date": "2026-11-12T14:00:59+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-12-blog-1920x1080-logo.jpg",
@@ -21,7 +28,7 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2.jpg",
    "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
    "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its…",
-   "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure"
+   "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure"
   },
   {
    "date": "2026-11-09T14:00:01+00:00",

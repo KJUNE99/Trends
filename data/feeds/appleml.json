@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-12T15:19:22.055218+00:00",
+ "fetched_at": "2026-11-13T14:38:31.095457+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-12T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+   "summary": "Language model (LM) alignment improves model outputs to reflect human preferences while preserving the capabilities of the base model. The most common alignment approaches are (i) reinforcement learning, which maximizes…",
+   "title": "Theoretical Limits of Language Model Alignment"
+  },
   {
    "date": "2026-11-10T00:00:00+00:00",
    "image": null,

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-12T15:19:22.055218+00:00",
+ "fetched_at": "2026-11-13T14:38:31.095457+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-12T21:31:57+00:00",
+   "image": null,
+   "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+   "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and…",
+   "title": "Microsoft Research Focus – Edition #98"
+  },
   {
    "date": "2026-11-10T20:52:56+00:00",
    "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/MSR-BLG_LAZ_HERO.png",

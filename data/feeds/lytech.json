@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-12T15:19:22.055218+00:00",
+ "fetched_at": "2026-11-13T14:38:31.095457+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-11-13T05:00:00+00:00",
+   "image": null,
+   "link": "https://techblog.lycorp.co.jp/en/reducing-ios-app-size-how-to-measure-diagnose-and-optimize",
+   "summary": "The size of an iOS app can grow with every release: a new SDK, higher-resolution images, or content ...",
+   "title": "Reducing iOS app size: How to measure, diagnose, and optimize"
+  },
   {
    "date": "2026-11-04T10:00:00+00:00",
    "image": null,

@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-12T15:19:22.055218+00:00",
+ "fetched_at": "2026-11-13T14:38:31.095457+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-13T14:05:22+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+   "summary": null,
+   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
+  },
+  {
+   "date": "2026-11-12T19:07:35+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+   "summary": null,
+   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B"
+  },
   {
    "date": "2026-11-12T00:00:00+00:00",
    "image": null,
