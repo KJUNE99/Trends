@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-13T14:38:31.095457+00:00",
+ "fetched_at": "2026-11-14T13:36:18.837401+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-11-14T12:23:15+00:00",
+   "image": "https://substack-post-media.s3.amazonaws.com/public/images/ecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
+   "link": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+   "summary": "A decapitation. It’s time to rebuild. The resignation of Nvidia CEO Jensen Huang is a major setback for the US development of an open model ecosystem. Nvidia still has the financial interests in supporting open models…",
+   "title": "Open-source AI without Jensen"
+  },
   {
    "date": "2026-11-04T16:35:44+00:00",
    "image": "https://substackcdn.com/image/fetch/$s_!hFZ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5f2798-10bc-487a-8932-5f851ad61b24_1600x840.svg",

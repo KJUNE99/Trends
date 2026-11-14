@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-13T14:38:31.095457+00:00",
+ "fetched_at": "2026-11-14T13:36:18.837401+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-13T15:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-chatgpt-wallet",
+   "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+   "title": "Introducing ChatGPT Wallet"
+  },
+  {
+   "date": "2026-11-13T08:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/business/customer-stories/shield",
+   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI"
+  },
   {
    "date": "2026-11-12T20:00:00+00:00",
    "image": null,

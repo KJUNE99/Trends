@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-13T14:38:31.095457+00:00",
+ "fetched_at": "2026-11-14T13:36:18.837401+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-11-13T17:00:39+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Cuttlefish-on-Mac-image-1.png",
+   "link": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+   "summary": "How Meta's Reality Labs brought Cuttlefish and its QEMU backend to macOS and Apple silicon. [...] Read More... The post Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon appeared…",
+   "title": "Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon"
+  },
   {
    "date": "2026-11-11T17:00:38+00:00",
    "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Meta-Intelligent-Delivery-image-1.png",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T14:38:31.095457+00:00",
+ "fetched_at": "2026-11-14T13:36:18.837401+00:00",
  "group": "lab",
  "items": [
   {
@@ -155,27 +155,6 @@
    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
    "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
    "title": "AI for everyone in every language"
-  },
-  {
-   "date": "2026-09-15T13:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-   "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
-   "title": "New insights from Google’s AI & Economy ATLAS"
-  },
-  {
-   "date": "2026-09-14T19:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-   "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-   "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery."
-  },
-  {
-   "date": "2026-09-14T16:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-   "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-   "title": "DevFest is back"
   }
  ],
  "name": "Google AI",

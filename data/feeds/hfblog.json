@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-13T14:38:31.095457+00:00",
+ "fetched_at": "2026-11-14T13:36:18.837401+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-13T18:00:39+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "summary": null,
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets"
+  },
+  {
+   "date": "2026-11-13T17:02:35+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/allenai/xybench",
+   "summary": null,
+   "title": "XYBench: Helping with the problem behind the question"
+  },
   {
    "date": "2026-11-13T14:05:22+00:00",
    "image": null,
