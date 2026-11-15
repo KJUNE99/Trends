@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T13:36:18.837401+00:00",
+ "fetched_at": "2026-11-15T13:58:56.439777+00:00",
  "group": "lab",
  "items": [
   {
@@ -134,27 +134,6 @@
    "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
    "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
    "title": "Making global data easier to explore"
-  },
-  {
-   "date": "2026-09-15T16:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-   "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-   "title": "AI for Societal Impact"
-  },
-  {
-   "date": "2026-09-15T16:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-   "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
-   "title": "Building AI to accelerate science and improve lives"
-  },
-  {
-   "date": "2026-09-15T16:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-   "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-   "title": "AI for everyone in every language"
   }
  ],
  "name": "Google AI",

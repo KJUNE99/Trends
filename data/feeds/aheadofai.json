@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-14T13:36:18.837401+00:00",
+ "fetched_at": "2026-11-15T13:58:56.439777+00:00",
  "group": "newsletter",
  "items": [
+  {
+   "date": "2026-11-15T12:10:37+00:00",
+   "image": "https://substackcdn.com/image/fetch/$s_!8RKL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb461a2cb-11ab-474a-affe-0ee99e5a8782_2850x2777.png",
+   "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+   "summary": "The Methods Behind How LLMs Represent Token Positions This article explains how LLMs encode and process token position information by covering classic and contemporary methods like RoPE. It’s essentially a comprehensive…",
+   "title": "Understanding Positional Embeddings in Modern LLMs"
+  },
   {
    "date": "2026-10-24T11:14:32+00:00",
    "image": "https://substack-post-media.s3.amazonaws.com/public/images/519db120-1320-411b-adec-a88865345f2c_4083x2916.jpeg",

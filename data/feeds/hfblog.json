@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T13:36:18.837401+00:00",
+ "fetched_at": "2026-11-15T13:58:56.439777+00:00",
  "group": "lab",
  "items": [
   {
@@ -519,13 +519,6 @@
    "link": "https://huggingface.co/blog/tokenizers-v1",
    "summary": null,
    "title": "tokenizers v1: encode, decode and scaling, measured"
-  },
-  {
-   "date": "2026-09-15T16:00:44+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-   "summary": null,
-   "title": "Your Agent Aced the Task. Will It Do It Again?"
   }
  ],
  "name": "Hugging Face",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T13:36:18.837401+00:00",
+ "fetched_at": "2026-11-15T13:58:56.439777+00:00",
  "group": "lab",
  "items": [
   {
@@ -162,13 +162,6 @@
    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
    "summary": null,
    "title": "Gemini 3.8 text-to-speech says hello"
-  },
-  {
-   "date": "2026-09-15T17:05:57+00:00",
-   "image": null,
-   "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-   "summary": null,
-   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
   }
  ],
  "name": "Google DeepMind",

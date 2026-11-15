@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T13:36:18.837401+00:00",
+ "fetched_at": "2026-11-15T13:58:56.439777+00:00",
  "group": "eng",
  "items": [
   {
@@ -29,13 +29,6 @@
    "link": "https://techblog.lycorp.co.jp/en/ai-agent-platform-sage-dev-log-part-1",
    "summary": "Hello. We are the Security Development Division (LINE Plus Security R&D) team, working to integrate ...",
    "title": "Building \"SAGE\" - an AI agent platform for security work - Part 1: Human-in-the-loop design"
-  },
-  {
-   "date": "2026-09-16T06:45:00+00:00",
-   "image": null,
-   "link": "https://techblog.lycorp.co.jp/en/a-large-scale-ios-configuration-system-implemented-with-an-attributedstring-structure",
-   "summary": "As environments change, decisions that were reasonable in the past often cease to be valid. This art...",
-   "title": "Building a large-scale iOS configuration system with the AttributedString architecture"
   }
  ],
  "name": "LY Tech",
