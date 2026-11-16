@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-15T13:58:56.439777+00:00",
+ "fetched_at": "2026-11-16T15:52:47.479728+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-16T00:00:28+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-day-seoul-wrapup-1920x1080-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+   "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions…",
+   "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities"
+  },
   {
    "date": "2026-11-13T13:00:42+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-9.25.28-AM-scaled.png",
@@ -526,20 +533,6 @@
    "link": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
    "summary": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
    "title": "5 Companies Using NVIDIA AI for Clean Energy"
-  },
-  {
-   "date": "2026-09-17T13:00:55+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gfn-thursday-9-17-blog-1920x1080-logo.jpg",
-   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
-   "summary": "A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported…",
-   "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW"
-  },
-  {
-   "date": "2026-09-16T15:00:48+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/mlperf-inference-6-1.png",
-   "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
-   "summary": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher…",
-   "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut"
   }
  ],
  "name": "NVIDIA Blog",

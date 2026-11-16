@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-15T13:58:56.439777+00:00",
+ "fetched_at": "2026-11-16T15:52:47.479728+00:00",
  "group": "lab",
  "items": [
   {
@@ -232,13 +232,6 @@
    "link": "https://machinelearning.apple.com/research/dynamically-scaled-activation-steering",
    "summary": "Activation steering has emerged as a powerful method for guiding the behavior of generative models towards desired outcomes such as toxicity mitigation. However, most existing methods apply interventions uniformly…",
    "title": "Dynamically Scaled Activation Steering"
-  },
-  {
-   "date": "2026-09-17T00:00:00+00:00",
-   "image": null,
-   "link": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
-   "summary": "A central goal of autonomous reinforcement learning is continuous policy training without external resets. However, existing paradigms largely depend on underlying environmental reversibility, a property absent in real…",
-   "title": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff"
   }
  ],
  "name": "Apple ML",
