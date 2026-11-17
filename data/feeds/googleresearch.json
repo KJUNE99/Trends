@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T15:52:47.479728+00:00",
+ "fetched_at": "2026-11-17T16:05:40.511412+00:00",
  "group": "lab",
  "items": [
   {
@@ -134,13 +134,6 @@
    "link": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
    "summary": null,
    "title": "MilleMiglia: A realistic instance generator for middle-mile logistics"
-  },
-  {
-   "date": "2026-09-17T20:45:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
-   "link": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
-   "summary": null,
-   "title": "The future of practice: Enabling teachers to create learning interactives with generative UI"
   }
  ],
  "name": "Google Research",

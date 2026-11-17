@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T15:52:47.479728+00:00",
+ "fetched_at": "2026-11-17T16:05:40.511412+00:00",
  "group": "eng",
  "items": [
   {
@@ -120,13 +120,6 @@
    "link": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
    "summary": "By Dhruv Pratap Introduction Organizations that have been around for a while usually run two identity systems side by side. One belongs to the cloud provider: IAM roles, instance profiles, execution roles. The other is…",
    "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute"
-  },
-  {
-   "date": "2026-09-18T16:01:02+00:00",
-   "image": "https://cdn-images-1.medium.com/max/848/1*AkQlaHO9bwLf_dNp-Z2HZQ.png",
-   "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
-   "summary": "Introducing composable, module system native and agent friendly command line tools for modern Java development By Danny Thomas, JVM Ecosystem Team Recent work on the Java language to pave the on-ramp has made it easier…",
-   "title": "Leave the Class Path in the Rearview Mirror"
   }
  ],
  "name": "Netflix Tech",

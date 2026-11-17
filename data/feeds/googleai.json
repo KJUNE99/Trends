@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T15:52:47.479728+00:00",
+ "fetched_at": "2026-11-17T16:05:40.511412+00:00",
  "group": "lab",
  "items": [
   {
@@ -120,27 +120,6 @@
    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
    "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
    "title": "Google Beam expands with new regions, partners, and customers"
-  },
-  {
-   "date": "2026-09-18T14:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-   "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-   "title": "New experts join Google’s AI & Economy team"
-  },
-  {
-   "date": "2026-09-18T13:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-   "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-   "title": "Co-creating the future of fashion with Google"
-  },
-  {
-   "date": "2026-09-17T20:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-   "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-   "title": "Making global data easier to explore"
   }
  ],
  "name": "Google AI",

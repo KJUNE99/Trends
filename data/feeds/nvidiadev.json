@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-11-16T15:52:47.479728+00:00",
+ "fetched_at": "2026-11-17T16:05:40.511412+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-16T22:30:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/healthcare-cupotential-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/",
+   "summary": "Molecular dynamics (MD) is an indispensable tool across physics, chemistry, biology, and materials science. Owing to its arithmetic structure, particularly the... Molecular dynamics (MD) is an indispensable tool across…",
+   "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential"
+  },
+  {
+   "date": "2026-11-16T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/mlperf-endpoints-vera-rubin-featured-768x432.png",
+   "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0/",
+   "summary": "Agentic workloads are demanding more from inference systems. AI agents carry growing conversation histories across turns and generate a mix of reasoning, tool... Agentic workloads are demanding more from inference…",
+   "title": "NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0"
+  },
+  {
+   "date": "2026-11-16T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/techblog_featured2_1520x855-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/",
+   "summary": "As AI agents tackle increasingly complex workflows, reducing time-to-train is critical for rapidly iterating on both models and the agents they power. MLPerf... As AI agents tackle increasingly complex workflows…",
+   "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1"
+  },
+  {
+   "date": "2026-11-16T16:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-5-768x432.png",
+   "link": "https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain/",
+   "summary": "Agentic AI is reshaping scientific research and innovation. Researchers communicate complex scientific hypotheses in natural language and let autonomous agents... Agentic AI is reshaping scientific research and…",
+   "title": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain"
+  },
   {
    "date": "2026-11-13T22:13:51+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image5-7-768x431.png",

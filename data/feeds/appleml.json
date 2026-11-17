@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T15:52:47.479728+00:00",
+ "fetched_at": "2026-11-17T16:05:40.511412+00:00",
  "group": "lab",
  "items": [
   {
@@ -29,6 +29,20 @@
    "link": "https://machinelearning.apple.com/research/weighted-state-souping",
    "summary": "This paper was accepted at the Workshop on Personalized, Aligned, Long-term Memory for AI Systems (PALM) at NeurIPS 2026. State space models (SSMs) combine fast inference and fixed state size with competitive…",
    "title": "Weighted State Souping for Efficient Long-Context Retrieval"
+  },
+  {
+   "date": "2026-11-10T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/private-evolution-clustering",
+   "summary": "Private Evolution (PE) is a differentially private algorithm for synthetic data generation. While it can be viewed as a Wasserstein learning algorithm, it performs much better in practice than worst-case Wasserstein…",
+   "title": "Understanding Private Evolution as Learning-Augmented Clustering"
+  },
+  {
+   "date": "2026-11-10T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/theory-evaluability",
+   "summary": "Machine learning models, particularly large foundation models, are increasingly evaluated along multiple axes that are relevant for their usage. In addition to accuracy measures appropriate for the specific task of…",
+   "title": "Toward a Theory of Evaluability"
   },
   {
    "date": "2026-11-05T00:00:00+00:00",
@@ -225,13 +239,6 @@
    "link": "https://machinelearning.apple.com/research/guide-language-flow",
    "summary": "We introduce a new method to guide flow matching models. Our approach, which we call probe guidance, uses the frozen internal states of an existing diffusion model to construct a guidance signal. This works using a…",
    "title": "How to Guide Your Language Flow"
-  },
-  {
-   "date": "2026-09-18T00:00:00+00:00",
-   "image": null,
-   "link": "https://machinelearning.apple.com/research/dynamically-scaled-activation-steering",
-   "summary": "Activation steering has emerged as a powerful method for guiding the behavior of generative models towards desired outcomes such as toxicity mitigation. However, most existing methods apply interventions uniformly…",
-   "title": "Dynamically Scaled Activation Steering"
   }
  ],
  "name": "Apple ML",

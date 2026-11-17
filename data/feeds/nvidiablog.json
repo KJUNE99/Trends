@@ -1,7 +1,63 @@
 {
- "fetched_at": "2026-11-16T15:52:47.479728+00:00",
+ "fetched_at": "2026-11-17T16:05:40.511412+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-16T23:00:05+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+   "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA…",
+   "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab"
+  },
+  {
+   "date": "2026-11-16T20:00:37+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/IMG_9825-1-scaled.jpeg",
+   "link": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+   "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over…",
+   "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future"
+  },
+  {
+   "date": "2026-11-16T16:00:51+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ethernet-lambda-blog-1920x1080-1.jpeg",
+   "link": "https://blogs.nvidia.com/blog/lambda-photonics/",
+   "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO)…",
+   "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics"
+  },
+  {
+   "date": "2026-11-16T16:00:47+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/quantum-computing-blog-slurm-kv-sc26-1920x1080-5942487.png",
+   "link": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+   "summary": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum…",
+   "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing"
+  },
+  {
+   "date": "2026-11-16T16:00:25+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/vera-rubin-mlperf-training-endpoints.png",
+   "link": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+   "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1…",
+   "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance"
+  },
+  {
+   "date": "2026-11-16T16:00:16+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376.jpg",
+   "link": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+   "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology…",
+   "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery"
+  },
+  {
+   "date": "2026-11-16T16:00:11+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/cuda-at-20-1920x1080-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/20-years-cuda/",
+   "summary": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an…",
+   "title": "CUDA at 20: How the Platform Transformed Scientific Computing"
+  },
+  {
+   "date": "2026-11-16T16:00:01+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/hpc-blog-rubin-hpc-gpu-1920x1080-5957124-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/rubin-hpc/",
+   "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists…",
+   "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics"
+  },
   {
    "date": "2026-11-16T00:00:28+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-day-seoul-wrapup-1920x1080-1.jpg",
@@ -11,10 +67,10 @@
   },
   {
    "date": "2026-11-13T13:00:42+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-9.25.28-AM-scaled.png",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/HLTH-scaled.jpg",
    "link": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
    "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching…",
-   "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner"
+   "title": "AI Is Helping Care Teams Get Patients the Right Care, Sooner"
   },
   {
    "date": "2026-11-12T14:00:59+00:00",
@@ -28,7 +84,7 @@
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png",
    "link": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
    "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
-   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material"
+   "title": "AI Helps Recyclers Turn Mixed Waste Into Reusable Material"
   },
   {
    "date": "2026-11-10T16:00:03+00:00",

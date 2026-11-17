@@ -1,13 +1,62 @@
 {
- "fetched_at": "2026-11-16T15:52:47.479728+00:00",
+ "fetched_at": "2026-11-17T16:05:40.511412+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-17T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+   "title": "Strengthening NATO and allied cyber defenses with AI"
+  },
+  {
+   "date": "2026-11-17T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-openai-for-chile",
+   "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+   "title": "Introducing OpenAI for Chile"
+  },
+  {
+   "date": "2026-11-16T17:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+   "title": "Broadening access to AI for scientists"
+  },
+  {
+   "date": "2026-11-16T17:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/strengthening-online-child-safety",
+   "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support"
+  },
+  {
+   "date": "2026-11-16T12:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/science-at-the-frontier",
+   "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+   "title": "Science at the Frontier: How scientists use ChatGPT"
+  },
+  {
+   "date": "2026-11-16T09:30:00+00:00",
+   "image": null,
+   "link": "https://openai.com/business/customer-stories/revolut",
+   "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+   "title": "How Revolut raises ambition without lowering the bar"
+  },
   {
    "date": "2026-11-16T09:00:00+00:00",
    "image": null,
    "link": "https://openai.com/index/lvmh-media-division-partnership",
    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
    "title": "LVMH’s Media Division announces strategic partnership with OpenAI"
+  },
+  {
+   "date": "2026-11-16T08:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+   "title": "Our first phase of embedded assessments"
   },
   {
    "date": "2026-11-16T06:00:00+00:00",
@@ -29,6 +78,13 @@
    "link": "https://openai.com/index/the-kings-trust-and-openai",
    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
    "title": "The King’s Trust and OpenAI launch £1m partnership"
+  },
+  {
+   "date": "2026-11-16T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
+   "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+   "title": "At Holiday Extras, dots get to work before anyone asks"
   },
   {
    "date": "2026-11-15T22:00:01+00:00",
@@ -1100,13 +1156,6 @@
    "link": "https://openai.com/index/v7",
    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
    "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna"
-  },
-  {
-   "date": "2026-09-18T12:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/australian-youth-safety-blueprint",
-   "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-   "title": "Introducing the Australian Youth Safety Blueprint"
   }
  ],
  "name": "OpenAI",
