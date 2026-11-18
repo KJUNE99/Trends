@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-11-17T16:05:40.511412+00:00",
+ "fetched_at": "2026-11-18T15:43:42.875080+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-18T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT"
+  },
+  {
+   "date": "2026-11-17T17:45:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "title": "Introducing GPT-6.2 Astra and Sol"
+  },
+  {
+   "date": "2026-11-17T08:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+   "title": "Introducing ChatGPT for Sales"
+  },
   {
    "date": "2026-11-17T00:00:00+00:00",
    "image": null,
@@ -15,6 +36,13 @@
    "link": "https://openai.com/index/introducing-openai-for-chile",
    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
    "title": "Introducing OpenAI for Chile"
+  },
+  {
+   "date": "2026-11-17T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/astra-law-6-2",
+   "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+   "title": "Astra for Law leads in legal intelligence"
   },
   {
    "date": "2026-11-16T17:00:00+00:00",
@@ -150,6 +178,13 @@
    "title": "Supporting research on AI and children’s safety"
   },
   {
+   "date": "2026-11-12T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+   "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+   "title": "ChatGPT Ads increases its market presence in 44 countries"
+  },
+  {
    "date": "2026-11-11T08:00:00+00:00",
    "image": null,
    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
@@ -232,6 +267,13 @@
    "link": "https://openai.com/index/kuken",
    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
    "title": "Kuken Industries searches 70 years of drawings in minutes"
+  },
+  {
+   "date": "2026-11-09T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/ads/customers/vistaprint",
+   "summary": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can…",
+   "title": "How VistaPrint helps small businesses get the word out"
   },
   {
    "date": "2026-11-06T08:00:00+00:00",

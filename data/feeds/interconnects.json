@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-17T16:05:40.511412+00:00",
+ "fetched_at": "2026-11-18T15:43:42.875080+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -78,13 +78,6 @@
    "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
    "summary": "The expanded form of a testimony I prepared for Congress. I was recently invited to brief a group of Congressional members and staff on the state of open-weight models in the lens of U.S.-China competition. I’m sharing…",
    "title": "The current balance of power in open models"
-  },
-  {
-   "date": "2026-09-19T15:42:20+00:00",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/db8863aa-02d1-4312-af95-965ef0d7ca9b_3182x1790.png",
-   "link": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
-   "summary": "An “AI moderate’s” view on recent events and the trajectory of frontier models. We’re in an era where a few organizations are using thousands of concurrent agents to improve their processes and output. These…",
-   "title": "Why I still haven’t bought into true RSI"
   }
  ],
  "name": "Interconnects",

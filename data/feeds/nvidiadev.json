@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-11-17T16:05:40.511412+00:00",
+ "fetched_at": "2026-11-18T15:43:42.875080+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-18T15:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-10-768x432.png",
+   "link": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/",
+   "summary": "Training a next-generation machine learning interatomic potential (MLIP) requires ground truth: tens to hundreds of millions of density functional theory (DFT)... Training a next-generation machine learning interatomic…",
+   "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision"
+  },
+  {
+   "date": "2026-11-17T17:30:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/llm-optimize-deploy-768x432.png",
+   "link": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/",
+   "summary": "Agentic workloads, long documents, and large codebases are pushing context lengths from tens of thousands of tokens to hundreds of thousands. At those lengths,... Agentic workloads, long documents, and large codebases…",
+   "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference"
+  },
+  {
+   "date": "2026-11-17T17:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/hybrid-quantum-classical-computing-architecture-768x432.png",
+   "link": "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins/",
+   "summary": "Quantum processors are being integrated into supercomputing centers worldwide. National programs in North America, Europe, and Asia are driving the installation... Quantum processors are being integrated into…",
+   "title": "Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins"
+  },
   {
    "date": "2026-11-16T22:30:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/healthcare-cupotential-768x432.jpg",
@@ -631,13 +652,6 @@
    "link": "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2/",
    "summary": "Weather-sensitive industries increasingly have access to observations that offer an earlier, more local view of changing conditions. Energy companies collect... Weather-sensitive industries increasingly have access to…",
    "title": "Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2"
-  },
-  {
-   "date": "2026-09-18T19:04:41+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image3-10-768x432.png",
-   "link": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/",
-   "summary": "You’re deploying a model on a system. It starts up, prompts are getting responses. Now the hard question: Is this fast? Your instincts might lead you to send... You’re deploying a model on a system. It starts up…",
-   "title": "Benchmarking LLM Inference at Scale with AIPerf"
   }
  ],
  "name": "NVIDIA Developer",

@@ -1,10 +1,17 @@
 {
- "fetched_at": "2026-11-17T16:05:40.511412+00:00",
+ "fetched_at": "2026-11-18T15:43:42.875080+00:00",
  "group": "lab",
  "items": [
   {
+   "date": "2026-11-17T16:52:17+00:00",
+   "image": null,
+   "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+   "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric…",
+   "title": "Can AI help build a healthier future?"
+  },
+  {
    "date": "2026-11-16T17:01:35+00:00",
-   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/TokenEconomizer-BlogHeroFeature-1400x788-1.jpg",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-scaled.png",
    "link": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
    "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents…",
    "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient"

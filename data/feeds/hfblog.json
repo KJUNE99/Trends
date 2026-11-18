@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-17T16:05:40.511412+00:00",
+ "fetched_at": "2026-11-18T15:43:42.875080+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-18T15:00:23+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+   "summary": null,
+   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases"
+  },
+  {
+   "date": "2026-11-18T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/rumble-2-flash",
+   "summary": null,
+   "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages"
+  },
   {
    "date": "2026-11-16T00:00:00+00:00",
    "image": null,

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-17T16:05:40.511412+00:00",
+ "fetched_at": "2026-11-18T15:43:42.875080+00:00",
  "group": "lab",
  "items": [
   {
@@ -127,13 +127,6 @@
    "link": "https://research.google/blog/coherent-long-form-video-generation/",
    "summary": null,
    "title": "Automating coherent long-form video generation"
-  },
-  {
-   "date": "2026-09-18T17:46:09+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/middle-mile_logistics2-LifeOfShipment.png",
-   "link": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
-   "summary": null,
-   "title": "MilleMiglia: A realistic instance generator for middle-mile logistics"
   }
  ],
  "name": "Google Research",

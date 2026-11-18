@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-17T16:05:40.511412+00:00",
+ "fetched_at": "2026-11-18T15:43:42.875080+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-16T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/split-scale-latent-3d",
+   "summary": "Latent 3D representations have significantly expanded the capabilities of modern shape modeling, enabling compact encoding of 3D scenes and supporting powerful 3D generative models. Despite this progress, current…",
+   "title": "Split-and-Scale Latent 3D Representations"
+  },
   {
    "date": "2026-11-12T00:00:00+00:00",
    "image": null,
