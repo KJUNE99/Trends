@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-18T15:43:42.875080+00:00",
+ "fetched_at": "2026-11-19T15:48:15.002716+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-18T19:54:56+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+   "summary": null,
+   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency"
+  },
+  {
+   "date": "2026-11-18T18:53:43+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+   "summary": null,
+   "title": "Why your fine-tuning job takes longer than the FLOPs say"
+  },
   {
    "date": "2026-11-18T15:00:23+00:00",
    "image": null,
@@ -15,6 +29,13 @@
    "link": "https://huggingface.co/blog/rumble-2-flash",
    "summary": null,
    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages"
+  },
+  {
+   "date": "2026-11-18T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/moe-expert-streaming",
+   "summary": null,
+   "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers"
   },
   {
    "date": "2026-11-16T00:00:00+00:00",

@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-18T15:43:42.875080+00:00",
+ "fetched_at": "2026-11-19T15:48:15.002716+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-11-18T17:00:00+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Meta-Scaling-Techniques-image-2-3.png",
+   "link": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
+   "summary": "Our previous post in this series introduced the Ranking Engineer Agent (REA), an autonomous system that generates hypotheses, designs experiments, and proves new machine learning (ML) techniques on ads ranking models…",
+   "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models"
+  },
+  {
+   "date": "2026-11-18T16:59:38+00:00",
+   "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Meta-Standard-Model-Templates-SMT-image-1.png",
+   "link": "https://engineering.fb.com/2026/11/18/ml-applications/design-once-deploy-at-scale-template-driven-ml-ecosystem/",
+   "summary": "As ML ecosystems grow to a large number of production models, the bottleneck is no longer inventing new techniques to improve these models, but rather shipping them reliably and efficiently across a fragmented model…",
+   "title": "Design Once, Deploy at Scale: Building a Template-Driven ML Ecosystem"
+  },
   {
    "date": "2026-11-13T17:00:39+00:00",
    "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Cuttlefish-on-Mac-image-1.png",

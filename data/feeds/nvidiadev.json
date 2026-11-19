@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-18T15:43:42.875080+00:00",
+ "fetched_at": "2026-11-19T15:48:15.002716+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-18T17:00:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/cosmos-gif.gif",
+   "link": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
+   "summary": "World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is... World model accuracy starts with high-quality, diverse…",
+   "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos"
+  },
   {
    "date": "2026-11-18T15:00:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-10-768x432.png",

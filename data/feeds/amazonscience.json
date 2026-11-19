@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-18T15:43:42.875080+00:00",
+ "fetched_at": "2026-11-19T15:48:15.002716+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-18T18:55:35+00:00",
+   "image": "https://cdn.amazon.science/a4/60/aa39546742c1a0f7a69557c5e4bc/aiproof-01-16x9.gif",
+   "link": "https://www.amazon.science/blog/mathematical-proof-powered-by-ai-and-no-hallucinations",
+   "summary": "With new tools that make it easier to check mathematical proofs — even as they’re being constructed — AI is becoming a valuable partner in mathematical discovery.Every day brings new evidence of the awesome power of AI…",
+   "title": "Mathematical proof, powered by AI. And no hallucinations!"
+  },
   {
    "date": "2026-11-11T17:02:01+00:00",
    "image": null,

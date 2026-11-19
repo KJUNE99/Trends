@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-17T16:05:40.511412+00:00",
+ "fetched_at": "2026-11-19T15:48:15.002716+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-18T21:35:43+00:00",
+   "image": null,
+   "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "summary": null,
+   "title": "Introducing Gemini 4 Neon"
+  },
+  {
+   "date": "2026-11-18T18:13:42+00:00",
+   "image": null,
+   "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "summary": null,
+   "title": "Genie 4 is now available"
+  },
   {
    "date": "2026-11-12T18:00:50+00:00",
    "image": null,
