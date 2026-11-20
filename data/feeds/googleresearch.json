@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-19T15:48:15.002716+00:00",
+ "fetched_at": "2026-11-20T15:30:50.716323+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-19T20:03:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/QuantumContextuality1-MagicSquareGame.png",
+   "link": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+   "summary": null,
+   "title": "A game you cannot win unless you have a quantum computer"
+  },
   {
    "date": "2026-11-13T20:47:18+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg",

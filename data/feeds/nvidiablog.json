@@ -1,7 +1,21 @@
 {
- "fetched_at": "2026-11-19T15:48:15.002716+00:00",
+ "fetched_at": "2026-11-20T15:30:50.716323+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-19T20:00:15+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-microsoft.png",
+   "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+   "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and…",
+   "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs"
+  },
+  {
+   "date": "2026-11-19T17:00:35+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
+   "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA…",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
+  },
   {
    "date": "2026-11-19T14:00:12+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday_November_19.jpg",
@@ -169,13 +183,6 @@
    "link": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
    "summary": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution…",
    "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents"
-  },
-  {
-   "date": "2026-11-05T17:00:35+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
-   "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA…",
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
   },
   {
    "date": "2026-11-05T16:00:05+00:00",
@@ -596,20 +603,6 @@
    "link": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
    "summary": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises —…",
    "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale"
-  },
-  {
-   "date": "2026-09-21T14:51:34+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/security-thought-leadership-1920x1080-1.jpg",
-   "link": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
-   "summary": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security…",
-   "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack"
-  },
-  {
-   "date": "2026-09-21T10:00:35+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/clean-energy-key-visual-1920x1080-1.jpg",
-   "link": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
-   "summary": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront…",
-   "title": "5 Companies Using NVIDIA AI for Clean Energy"
   }
  ],
  "name": "NVIDIA Blog",

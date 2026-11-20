@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-19T15:48:15.002716+00:00",
+ "fetched_at": "2026-11-20T15:30:50.716323+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-20T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+   "summary": null,
+   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost"
+  },
   {
    "date": "2026-11-18T19:54:56+00:00",
    "image": null,
@@ -547,20 +554,6 @@
    "link": "https://huggingface.co/blog/evaleval-aisi",
    "summary": null,
    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible"
-  },
-  {
-   "date": "2026-09-21T13:44:34+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-   "summary": null,
-   "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem"
-  },
-  {
-   "date": "2026-09-21T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/tokenizers-v1",
-   "summary": null,
-   "title": "tokenizers v1: encode, decode and scaling, measured"
   }
  ],
  "name": "Hugging Face",

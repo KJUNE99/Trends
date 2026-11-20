@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-19T15:48:15.002716+00:00",
+ "fetched_at": "2026-11-20T15:30:50.716323+00:00",
  "group": "lab",
  "items": [
   {
@@ -50,6 +50,13 @@
    "link": "https://machinelearning.apple.com/research/theory-evaluability",
    "summary": "Machine learning models, particularly large foundation models, are increasingly evaluated along multiple axes that are relevant for their usage. In addition to accuracy measures appropriate for the specific task of…",
    "title": "Toward a Theory of Evaluability"
+  },
+  {
+   "date": "2026-11-10T00:00:00+00:00",
+   "image": null,
+   "link": "https://machinelearning.apple.com/research/differentially-private-selection",
+   "summary": "Differential privacy (DP) has become the standard for privacy-preserving data analysis, yet its practical implementation in federated or distributed settings often faces a significant utility gap compared to the central…",
+   "title": "Complexity of Differentially Private Selection via Federated APIs"
   },
   {
    "date": "2026-11-05T00:00:00+00:00",
