@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T15:30:50.716323+00:00",
+ "fetched_at": "2026-11-21T14:42:47.221151+00:00",
  "group": "lab",
  "items": [
   {
@@ -575,34 +575,6 @@
    "link": "https://blogs.nvidia.com/blog/ai-day-singapore/",
    "summary": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate…",
    "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia"
-  },
-  {
-   "date": "2026-09-22T12:00:41+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg",
-   "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-   "summary": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics…",
-   "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development"
-  },
-  {
-   "date": "2026-09-21T18:00:07+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/end-to-end-press-dsx-ready-kv-1920x1080-1.png",
-   "link": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
-   "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that…",
-   "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories"
-  },
-  {
-   "date": "2026-09-21T16:00:46+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-pr-halos-1600x900-1.png",
-   "link": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
-   "summary": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million…",
-   "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer"
-  },
-  {
-   "date": "2026-09-21T16:00:10+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/5723250-ent-dig-egypt-ecosystem-reception-blog-1920x1080-1.jpg",
-   "link": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-   "summary": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises —…",
-   "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale"
   }
  ],
  "name": "NVIDIA Blog",

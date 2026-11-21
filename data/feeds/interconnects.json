@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T15:30:50.716323+00:00",
+ "fetched_at": "2026-11-21T14:42:47.221151+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -64,13 +64,6 @@
    "link": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
    "summary": "Open-weights, ideology, and acknowledging trade-offs. I’ve had one too many discussions on the cyber risks of open models — where someone assumes that either banning open models happens in a silo (and bad actors will…",
    "title": "The Cyber Risk Discourse is Broken"
-  },
-  {
-   "date": "2026-09-22T13:37:45+00:00",
-   "image": null,
-   "link": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
-   "summary": "Podcast #19 This episode is with Jean-Stanislas “JS” Denain of Epoch AI, who leads their Insights Team and is one of the people I find myself debating the state and trajectory of AI with more and more. We’ve had…",
-   "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI"
   }
  ],
  "name": "Interconnects",

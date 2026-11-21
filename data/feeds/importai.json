@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T15:52:47.479728+00:00",
+ "fetched_at": "2026-11-21T14:42:47.221151+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -57,13 +57,6 @@
    "link": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
    "summary": "Where do you exceed the capabilities of an LLM? Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe…",
    "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop"
-  },
-  {
-   "date": "2026-09-21T12:31:04+00:00",
-   "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
-   "link": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
-   "summary": "Is the wall AI is hitting in the room with us right now? Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please…",
-   "title": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics"
   }
  ],
  "name": "Import AI",

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-20T15:30:50.716323+00:00",
+ "fetched_at": "2026-11-21T14:42:47.221151+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-20T23:30:30+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Duplex1-TasksInGeminiHero.png",
+   "link": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+   "summary": null,
+   "title": "How Google Duplex evolved to also call businesses for you in Gemini"
+  },
   {
    "date": "2026-11-19T20:03:00+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/QuantumContextuality1-MagicSquareGame.png",

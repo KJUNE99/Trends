@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T15:30:50.716323+00:00",
+ "fetched_at": "2026-11-21T14:42:47.221151+00:00",
  "group": "lab",
  "items": [
   {
@@ -645,34 +645,6 @@
    "link": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/",
    "summary": "AI factories are power-limited systems that deliver maximum value when fully optimized. GPU workload placement is a key optimization. Poor workload placement... AI factories are power-limited systems that deliver…",
    "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph"
-  },
-  {
-   "date": "2026-09-22T13:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/24_resized-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
-   "summary": "NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and granular controls that help game developers add lifelike lighting and material detail while... NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and…",
-   "title": "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities"
-  },
-  {
-   "date": "2026-09-22T12:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robot-arm-ros-2-node-768x432.png",
-   "link": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/",
-   "summary": "GPU acceleration can speed up compute-intensive robotics workloads, but a fast CUDA kernel alone does not guarantee a fast ROS 2 graph. As messages move between... GPU acceleration can speed up compute-intensive…",
-   "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS"
-  },
-  {
-   "date": "2026-09-21T21:51:06+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/grid-robot-arm-cleaning-plate-1-768x432.png",
-   "link": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/",
-   "summary": "The compute and memory demands of generative AI increasingly exceed what a single GPU can provide. NVIDIA TensorRT multi-device inference is a new capability... The compute and memory demands of generative AI…",
-   "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton"
-  },
-  {
-   "date": "2026-09-21T21:05:28+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image4-10-768x432.png",
-   "link": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
-   "summary": "When you ship an AI agent, the key question is whether it can execute a chain of work across dozens of sequential tool calls against a live environment, and... When you ship an AI agent, the key question is whether it…",
-   "title": "How to Evaluate AI Agents From Tool Calls to Task Completion"
   }
  ],
  "name": "NVIDIA Developer",

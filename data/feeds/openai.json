@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-11-20T15:30:50.716323+00:00",
+ "fetched_at": "2026-11-21T14:42:47.221151+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-20T10:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/combatting-adversarial-distillation",
+   "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "title": "Combatting adversarial distillation"
+  },
+  {
+   "date": "2026-11-20T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/business/customer-stories/hebbia",
+   "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra"
+  },
+  {
+   "date": "2026-11-20T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-medchembench",
+   "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+   "title": "Can AI help scientists identify promising drug candidates?"
+  },
   {
    "date": "2026-11-19T08:00:00+00:00",
    "image": null,
@@ -1226,20 +1247,6 @@
    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
    "title": "Introducing GPT-6 Sol and Luna"
-  },
-  {
-   "date": "2026-09-22T12:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-   "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-   "title": "Parallel cut research time and cost in half with GPT‑6 Astra"
-  },
-  {
-   "date": "2026-09-22T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-   "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-   "title": "Priorities and principles for effective third party assessments"
   }
  ],
  "name": "OpenAI",
