@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T14:42:47.221151+00:00",
+ "fetched_at": "2026-11-22T14:38:19.983290+00:00",
  "group": "lab",
  "items": [
   {
@@ -253,13 +253,6 @@
    "link": "https://machinelearning.apple.com/research/practical-recipe-federated-asr",
    "summary": "Semi-supervised federated learning (SSFL) trains models on clients’ unlabeled data using a teacher to generate pseudo-labels, with a small labeled seed dataset on the server. Automatic Speech Recognition (ASR) is…",
    "title": "A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization"
-  },
-  {
-   "date": "2026-09-23T00:00:00+00:00",
-   "image": null,
-   "link": "https://machinelearning.apple.com/research/guide-language-flow",
-   "summary": "We introduce a new method to guide flow matching models. Our approach, which we call probe guidance, uses the frozen internal states of an existing diffusion model to construct a guidance signal. This works using a…",
-   "title": "How to Guide Your Language Flow"
   }
  ],
  "name": "Apple ML",
