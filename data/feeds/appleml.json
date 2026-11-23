@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T14:38:19.983290+00:00",
+ "fetched_at": "2026-11-23T18:16:07.416262+00:00",
  "group": "lab",
  "items": [
   {
@@ -239,20 +239,6 @@
    "link": "https://machinelearning.apple.com/research/federated-variational-inequalities",
    "summary": "In this paper, we study federated optimization for solving stochastic variational inequalities (VIs), a problem that has attracted growing attention in recent years. Despite substantial progress, a significant gap…",
    "title": "Faster Rates for Federated Variational Inequalities"
-  },
-  {
-   "date": "2026-09-24T00:00:00+00:00",
-   "image": null,
-   "link": "https://machinelearning.apple.com/research/latent-space-distillation",
-   "summary": "System-wide Dictation on Apple devices runs entirely on-device, and the speech it transcribes reaches the foundation model through a tokenizer: an encoder that maps short windows of waveform onto the representation the…",
-   "title": "Compressing Streaming Neural Audio Encoders via Latent-Space Distillation"
-  },
-  {
-   "date": "2026-09-24T00:00:00+00:00",
-   "image": null,
-   "link": "https://machinelearning.apple.com/research/practical-recipe-federated-asr",
-   "summary": "Semi-supervised federated learning (SSFL) trains models on clients’ unlabeled data using a teacher to generate pseudo-labels, with a small labeled seed dataset on the server. Automatic Speech Recognition (ASR) is…",
-   "title": "A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization"
   }
  ],
  "name": "Apple ML",

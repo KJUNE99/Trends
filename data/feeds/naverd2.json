@@ -1,7 +1,70 @@
 {
- "fetched_at": "2026-11-18T15:43:42.875080+00:00",
+ "fetched_at": "2026-11-23T18:16:07.416262+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-11-23T07:51:06+00:00",
+   "image": null,
+   "link": "https://d2.naver.com/helloworld/3284900",
+   "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI 에이전트가 뉴스 데이터를 직접 찾고 추출·분석까지 수행하는 하네스 레포 news-data를 소개합니다. 작업마다 배운 것을 회고와 PR로 되돌려 도메인을 모르는 신입사원 같은 에이전트를 시니어로 키우는 과정과 운영하며 부딪힌 한계, 앞으로의 방향을…",
+   "title": "AI 신입사원을 뉴스 데이터 시니어로 키우는 레포, news-data"
+  },
+  {
+   "date": "2026-11-23T07:03:24+00:00",
+   "image": null,
+   "link": "https://d2.naver.com/helloworld/1126768",
+   "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 개발과 운영 당번을 함께 맡으며 새벽 알림에 깨는 일, 언제까지 사람이 해야 할까요? 원인을 찾는 일부터 직접 조치하는 일까지 AI Agent에게 안심하고 맡길 수 있도록 풀어 간 경험을 공유 드립니다. ​ 발표 대상 개발과 서비스 운영(온콜)을 함께 맡고 있는…",
+   "title": "새벽 3시 54분, Agent가 먼저 분석하고 처리했습니다"
+  },
+  {
+   "date": "2026-11-23T06:19:13+00:00",
+   "image": null,
+   "link": "https://d2.naver.com/helloworld/5087915",
+   "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 기존 RAG의 텍스트 덤프 및 토큰 낭비 한계를 극복하고, 최신 인지 메모리 논문 기법을 결합해 지식 자율 진화와 99% 재현율을 달성하는 차세대 AI 메모리 아키텍처를 소개합니다. ​ 발표 대상 RAG의 검색 효율과 답변 품질 개선에 관심 있는 개발자 AI…",
+   "title": "뇌를 닮은 세컨드 브레인: 토큰 낭비 없는 RAG"
+  },
+  {
+   "date": "2026-11-23T05:33:36+00:00",
+   "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fs.pstatic.net%2Fdthumb.phinf%2F%3Fsrc%3Dhttps%253A%252F%252Fclip-service-phinf.pstatic.net%252FMjAyNjExMjNfMjU3%252FMDAxNzk1Mzk4MjE0NTcw.Lr1bVuZi8UHQU4ky8vfXKelWDA5A3lzMG5M-WoeQJ5gg.DPpqLdglEvbgZq3ZKtchXuIL0OWAeLnQe_J_6BW_W_gg.PNG%252Fimage.png%26service%3Dnavermain%26type%3Dclip_500_300_blurfill%402x%22&type=ff500_300",
+   "link": "https://d2.naver.com/helloworld/7131556",
+   "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ GPU 노드 검증 자동화: 상시 점검부터 부하 검증까지 (네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다.) [발표... NAVER D2 | GPU 노드 검증 자동화: 상시 점검부터 부하 검증까지 (네이버 사내…",
+   "title": "GPU 노드 검증 자동화: 상시 점검부터 부하 검증까지"
+  },
+  {
+   "date": "2026-11-23T05:02:11+00:00",
+   "image": null,
+   "link": "https://d2.naver.com/helloworld/2526679",
+   "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 Apache Spark가 지원하지 않는 분산 추적을 비즈니스 로직 수정 없이 플러그인 형태로 제공하여 연관된 애플리케이션들과 한 흐름으로 잇는 방법을 소개하고, 관측 결과를 성능 개선과 AI Agent 진단에 연결한 경험을 공유합니다. ​ 발표 대상 Spark…",
+   "title": "Spark 배치 파이프라인 Distributed Tracing 도입"
+  },
+  {
+   "date": "2026-11-19T06:57:02+00:00",
+   "image": null,
+   "link": "https://d2.naver.com/helloworld/5037527",
+   "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 가상의 물류회사가 매일 받는 \"이 화물 지금 어디 있고, 예외가 있었나?\"라는 질문 하나에서 출발해, 온톨로지를 어떻게 만들고 사람과 AI가 그 위에서 어떻게 찾아보고 일을 처리하는지 실제 화면으로 보여 드리는 발표입니다. 온톨로지 구축 부터 활용까지, 고객의…",
+   "title": "온톨로지, 구축에서 활용까지. 질문이 답을 설계한다."
+  },
+  {
+   "date": "2026-11-19T06:47:44+00:00",
+   "image": null,
+   "link": "https://d2.naver.com/helloworld/0118355",
+   "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 통합검색 알람 발생 시 1분 내 장애 1차 진단 리포트를 이슈로 남기는 에이전트, 그 결과를 평가해 시스템 정확도를 도출한 이야기 ​ 발표 대상 LLM 기반의 이상 신호 분석 시스템을 운영하고자 하는 독자 LLM 기반의 평가 시스템을 운영하고자 하는 독자 ​…",
+   "title": "Devops Agent 리포트 오이데~ 평가 야호~"
+  },
+  {
+   "date": "2026-11-19T05:36:19+00:00",
+   "image": null,
+   "link": "https://d2.naver.com/helloworld/2622882",
+   "summary": "​ 네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI가 답을 못 맞히는 이유가 모델이 아니라 팀 문서의 부재라는 것을 확인하고, 팀 위키를 AI가 읽고 쓰는 공유 지식층으로 만들어 운영한 경험을 공유합니다. ​ 발표 대상 팀 지식을 정리하는 방법을 고민중인 개발자 ​ 목차 에이전트가 우리 팀 일을 못…",
+   "title": "부족한 건 모델이 아니라 팀 문서였다: 팀 공유 지식층 Third Brain 구축기"
+  },
+  {
+   "date": "2026-11-19T04:22:58+00:00",
+   "image": null,
+   "link": "https://d2.naver.com/helloworld/2957037",
+   "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 가로로 넘기는 목록을 만들 때 대부분 LazyRow부터 떠올립니다. 하지만 카드가 비스듬히 겹겹이 쌓이고, 넘길 때마다 간격과 기울기가 바뀌는 3D 카드 덱은 LazyRow로 만들 수 없었습니다. 이 발표에서는 ThingsBook 서비스 내의 카드 덱 UI를…",
+   "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기"
+  },
   {
    "date": "2026-11-18T05:48:06+00:00",
    "image": "https://d2-serving.pstatic.net/v1/images?objectPath=d2%2FEDITOR%2F2026%2Fhelloworld-202611-%EA%B9%80%EB%8F%99%ED%98%84-4%2Ffiles%2F4-01.svg",

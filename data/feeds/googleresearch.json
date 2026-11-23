@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-22T14:38:19.983290+00:00",
+ "fetched_at": "2026-11-23T18:16:07.416262+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-23T17:21:12+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepCrossAttention1_Banner.gif",
+   "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+   "summary": null,
+   "title": "Supercharging transformer residual connections"
+  },
   {
    "date": "2026-11-20T23:30:30+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Duplex1-TasksInGeminiHero.png",

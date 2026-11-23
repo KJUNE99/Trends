@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-22T14:38:19.983290+00:00",
+ "fetched_at": "2026-11-23T18:16:07.416262+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-23T17:09:28+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/sirius-duckdb-gpu-analytics.gif",
+   "link": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension/",
+   "summary": "As datasets grow, analytical queries can take longer to run, slowing down data exploration, pipelines, and applications. For developers using DuckDB, reducing... As datasets grow, analytical queries can take longer to…",
+   "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension"
+  },
   {
    "date": "2026-11-19T20:28:13+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-17-768x432.png",
@@ -22,6 +29,13 @@
    "link": "https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/",
    "summary": "A tool call can arrive in pieces, an argument can be cut short, or model-specific markup can leak into the answer. A frontend parser turns that output, received... A tool call can arrive in pieces, an argument can be…",
    "title": "Build Tool-Calling Parsers in Rust with AI Agents"
+  },
+  {
+   "date": "2026-11-18T21:26:33+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/science-per-joule-featured-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/connecting-energy-use-to-scientific-output-with-science-per-joule/",
+   "summary": "For high-performance computing (HPC) centers operating under a fixed power budget, every joule spent computing needs to translate into useful scientific work.... For high-performance computing (HPC) centers operating…",
+   "title": "Connecting Energy Use to Scientific Output with Science per Joule"
   },
   {
    "date": "2026-11-18T17:00:00+00:00",
@@ -596,41 +610,6 @@
    "link": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/",
    "summary": "Every unused watt is capacity left on the table. AI factories are typically provisioned for the unlikely moment when every GPU reaches peak power, creating a... Every unused watt is capacity left on the table. AI…",
    "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency"
-  },
-  {
-   "date": "2026-09-24T15:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/DNA-Helix-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/",
-   "summary": "As language models grow, scaling dense architectures becomes increasingly expensive. In a dense transformer, every token passes through every layer, so adding... As language models grow, scaling dense architectures…",
-   "title": "Efficient MoE Training for Biological Foundation Models"
-  },
-  {
-   "date": "2026-09-23T22:54:56+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/ct-scan-image-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/",
-   "summary": "Radiology AI has made remarkable strides in detecting abnormalities across chest X-rays, pathology slides, and 2D scans. Yet one of the most clinically rich and... Radiology AI has made remarkable strides in detecting…",
-   "title": "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning"
-  },
-  {
-   "date": "2026-09-23T19:45:19+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/12/cybersecurity.jpg",
-   "link": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/",
-   "summary": "A GPU cluster can pass every health check and still fail to run an AI workload. Even when every GPU, network link, and pod reports healthy, a 512-GPU training... A GPU cluster can pass every health check and still fail…",
-   "title": "Validate GPU Cluster Readiness Before AI Workloads Land"
-  },
-  {
-   "date": "2026-09-23T18:25:49+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/kubernetes-clusters-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/",
-   "summary": "Kubernetes manages what runs on your nodes. Managing the nodes themselves is the challenge: kernel settings, system packages, storage layouts, security agents,... Kubernetes manages what runs on your nodes. Managing the…",
-   "title": "Manage Kubernetes Node Fleets with NodeWright"
-  },
-  {
-   "date": "2026-09-23T16:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-16-768x432.png",
-   "link": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/",
-   "summary": "An AI coding agent’s patch can pass tests yet fail when the server loads a real model and handles requests. Evaluating changes to inference-serving software... An AI coding agent’s patch can pass tests yet fail when the…",
-   "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving"
   }
  ],
  "name": "NVIDIA Developer",

@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-22T14:38:19.983290+00:00",
+ "fetched_at": "2026-11-23T18:16:07.416262+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-22T00:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/perplexity-and-intelligence",
+   "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+   "title": "Perplexity and Intelligence"
+  },
   {
    "date": "2026-11-20T10:00:00+00:00",
    "image": null,
@@ -1163,13 +1170,6 @@
    "link": "https://openai.com/index/wayfair",
    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI"
-  },
-  {
-   "date": "2026-09-23T16:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/two-years-of-openai-academy",
-   "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-   "title": "Two years of OpenAI Academy"
   }
  ],
  "name": "OpenAI",

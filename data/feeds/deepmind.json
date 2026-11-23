@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-22T14:38:19.983290+00:00",
+ "fetched_at": "2026-11-23T18:16:07.416262+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-23T16:59:40+00:00",
+   "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo",
+   "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+   "title": "Finding faster quantum algorithms with agents and formal verification"
+  },
   {
    "date": "2026-11-18T21:35:43+00:00",
    "image": null,
@@ -155,27 +162,6 @@
    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
    "title": "Introducing SynthID Bio"
-  },
-  {
-   "date": "2026-09-24T16:20:39+00:00",
-   "image": null,
-   "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-   "summary": null,
-   "title": "Introducing Gemini 3.8 Live with Live Avatar"
-  },
-  {
-   "date": "2026-09-23T16:00:57+00:00",
-   "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo",
-   "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-   "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-   "title": "Advancing Private AI Compute with secure, server-side memory"
-  },
-  {
-   "date": "2026-09-23T15:25:14+00:00",
-   "image": null,
-   "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-   "summary": null,
-   "title": "Gemini 3.8 text-to-speech says hello"
   }
  ],
  "name": "Google DeepMind",

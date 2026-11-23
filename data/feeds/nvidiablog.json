@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-22T14:38:19.983290+00:00",
+ "fetched_at": "2026-11-23T18:16:07.416262+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-23T17:00:08+00:00",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-holiday26-gfn-nv-blog-preview-1280x680-1.jpg",
+   "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+   "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the…",
+   "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season"
+  },
   {
    "date": "2026-11-19T20:00:15+00:00",
    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-microsoft.png",
@@ -547,27 +554,6 @@
    "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
    "summary": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of…",
    "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI"
-  },
-  {
-   "date": "2026-09-24T14:00:50+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/AF-0000000212056767-master-black-background-scaled.png",
-   "link": "https://blogs.nvidia.com/blog/open-protein-dataset/",
-   "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time. The next pandemic may…",
-   "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic"
-  },
-  {
-   "date": "2026-09-24T13:00:36+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/GFN_Thursday-Sept_24.jpg",
-   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
-   "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the…",
-   "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW"
-  },
-  {
-   "date": "2026-09-23T15:00:32+00:00",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141.png",
-   "link": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
-   "summary": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a…",
-   "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale"
   }
  ],
  "name": "NVIDIA Blog",

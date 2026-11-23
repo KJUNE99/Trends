@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-22T14:38:19.983290+00:00",
+ "fetched_at": "2026-11-23T18:16:07.416262+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-23T17:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
+   "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+   "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+   "title": "A more tailored Google Search that’s uniquely yours"
+  },
   {
    "date": "2026-11-19T18:00:00+00:00",
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
@@ -141,13 +148,6 @@
    "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
    "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
-  },
-  {
-   "date": "2026-09-23T18:00:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp",
-   "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-   "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-   "title": "Google Beam expands with new regions, partners, and customers"
   }
  ],
  "name": "Google AI",
