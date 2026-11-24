@@ -1,7 +1,28 @@
 {
- "fetched_at": "2026-11-23T18:16:07.416262+00:00",
+ "fetched_at": "2026-11-24T17:50:45.762454+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-23T21:20:00+00:00",
+   "image": null,
+   "link": "https://openai.com/index/introducing-shirudo",
+   "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+   "title": "OpenAI and Cisco introduce Shirudo"
+  },
+  {
+   "date": "2026-11-23T08:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside…",
+   "title": "Connected intelligence for in-house legal"
+  },
+  {
+   "date": "2026-11-23T08:00:00+00:00",
+   "image": null,
+   "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+   "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+   "title": "Richpanel helps companies automate 50% of support in 30 days"
+  },
   {
    "date": "2026-11-22T00:00:00+00:00",
    "image": null,
@@ -1156,20 +1177,6 @@
    "link": "https://openai.com/index/proaction",
    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex"
-  },
-  {
-   "date": "2026-09-25T07:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/lowes",
-   "summary": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward.",
-   "title": "Lowe’s answers millions of home improvement questions with OpenAI"
-  },
-  {
-   "date": "2026-09-25T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/wayfair",
-   "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-   "title": "Wayfair boosts catalog accuracy and support speed with OpenAI"
   }
  ],
  "name": "OpenAI",

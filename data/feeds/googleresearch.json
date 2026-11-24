@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T18:16:07.416262+00:00",
+ "fetched_at": "2026-11-24T17:50:45.762454+00:00",
  "group": "lab",
  "items": [
   {
@@ -141,13 +141,6 @@
    "link": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
    "summary": null,
    "title": "How Diffusion Controller unifies and simplifies AI image generation"
-  },
-  {
-   "date": "2026-09-24T19:40:00+00:00",
-   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
-   "link": "https://research.google/blog/coherent-long-form-video-generation/",
-   "summary": null,
-   "title": "Automating coherent long-form video generation"
   }
  ],
  "name": "Google Research",

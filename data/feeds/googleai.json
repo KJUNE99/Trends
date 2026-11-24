@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-23T18:16:07.416262+00:00",
+ "fetched_at": "2026-11-24T17:50:45.762454+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-24T16:00:00+00:00",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp",
+   "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+   "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+   "title": "How Gemini is changing the game for Golden State's organization and fans."
+  },
   {
    "date": "2026-11-23T17:00:00+00:00",
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",

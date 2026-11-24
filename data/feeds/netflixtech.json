@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T18:16:07.416262+00:00",
+ "fetched_at": "2026-11-24T17:50:45.762454+00:00",
  "group": "eng",
  "items": [
   {
@@ -120,13 +120,6 @@
    "link": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
    "summary": "How we detect failing GPUs and network fabric, remediate machines automatically, and let long-running jobs survive hardware loss. Authors: Nick Rutigliano , Argha C , Samartha Chandrashekar Open Netflix, and the home…",
    "title": "Reliable GPU compute for large training & inference jobs"
-  },
-  {
-   "date": "2026-09-25T16:01:03+00:00",
-   "image": "https://cdn-images-1.medium.com/max/1024/1*eIWpHw7J_6qZCuaffD0lQQ.png",
-   "link": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
-   "summary": "By Dhruv Pratap Introduction Organizations that have been around for a while usually run two identity systems side by side. One belongs to the cloud provider: IAM roles, instance profiles, execution roles. The other is…",
-   "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute"
   }
  ],
  "name": "Netflix Tech",

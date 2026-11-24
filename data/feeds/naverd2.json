@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-23T18:16:07.416262+00:00",
+ "fetched_at": "2026-11-24T17:50:45.762454+00:00",
  "group": "eng",
  "items": [
+  {
+   "date": "2026-11-24T08:45:19+00:00",
+   "image": null,
+   "link": "https://d2.naver.com/helloworld/2957037",
+   "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 가로로 넘기는 목록을 만들 때 대부분 LazyRow부터 떠올립니다. 하지만 카드가 비스듬히 겹겹이 쌓이고, 넘길 때마다 간격과 기울기가 바뀌는 3D 카드 덱은 LazyRow로 만들 수 없었습니다. 이 발표에서는 ThingsBook 서비스 내의 카드 덱 UI를…",
+   "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기 (영상)"
+  },
   {
    "date": "2026-11-23T07:51:06+00:00",
    "image": null,
@@ -57,13 +64,6 @@
    "link": "https://d2.naver.com/helloworld/2622882",
    "summary": "​ 네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI가 답을 못 맞히는 이유가 모델이 아니라 팀 문서의 부재라는 것을 확인하고, 팀 위키를 AI가 읽고 쓰는 공유 지식층으로 만들어 운영한 경험을 공유합니다. ​ 발표 대상 팀 지식을 정리하는 방법을 고민중인 개발자 ​ 목차 에이전트가 우리 팀 일을 못…",
    "title": "부족한 건 모델이 아니라 팀 문서였다: 팀 공유 지식층 Third Brain 구축기"
-  },
-  {
-   "date": "2026-11-19T04:22:58+00:00",
-   "image": null,
-   "link": "https://d2.naver.com/helloworld/2957037",
-   "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 가로로 넘기는 목록을 만들 때 대부분 LazyRow부터 떠올립니다. 하지만 카드가 비스듬히 겹겹이 쌓이고, 넘길 때마다 간격과 기울기가 바뀌는 3D 카드 덱은 LazyRow로 만들 수 없었습니다. 이 발표에서는 ThingsBook 서비스 내의 카드 덱 UI를…",
-   "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기"
   },
   {
    "date": "2026-11-18T05:48:06+00:00",
