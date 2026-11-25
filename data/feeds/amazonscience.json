@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-24T17:50:45.762454+00:00",
+ "fetched_at": "2026-11-25T17:17:28.593948+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-24T17:49:48+00:00",
+   "image": null,
+   "link": "https://www.amazon.science/blog/lazy-gas-hot-gas-and-a-thousand-robots",
+   "summary": "Viewing multirobot motion planning as an optimal-transport problem and using a Schrödinger bridge to approximate solutions enables near-optimal routing at fulfillment-center scale.Amazon Robotics operates over a million…",
+   "title": "Lazy gas, hot gas, and a thousand robots"
+  },
   {
    "date": "2026-11-18T18:55:35+00:00",
    "image": "https://cdn.amazon.science/a4/60/aa39546742c1a0f7a69557c5e4bc/aiproof-01-16x9.gif",

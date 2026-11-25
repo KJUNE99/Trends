@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-24T17:50:45.762454+00:00",
+ "fetched_at": "2026-11-25T17:17:28.593948+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-25T17:10:27+00:00",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning1-UserMediatedReality.png",
+   "link": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+   "summary": null,
+   "title": "Verifiable Social Reasoning for LLM Assistants"
+  },
   {
    "date": "2026-11-23T17:21:12+00:00",
    "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepCrossAttention1_Banner.gif",

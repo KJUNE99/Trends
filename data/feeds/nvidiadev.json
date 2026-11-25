@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-24T17:50:45.762454+00:00",
+ "fetched_at": "2026-11-25T17:17:28.593948+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-24T18:44:05+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/ai-model-768x432.jpg",
+   "link": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
+   "summary": "Running video generation models locally can be challenging when model weights and intermediate data exceed available GPU memory. NVIDIA Cosmos 3 Nano is a world... Running video generation models locally can be…",
+   "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers"
+  },
   {
    "date": "2026-11-24T17:00:00+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/megatron-market-forecasting-e1795123732504-768x432.webp",
