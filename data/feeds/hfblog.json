@@ -1,7 +1,35 @@
 {
- "fetched_at": "2026-11-25T17:17:28.593948+00:00",
+ "fetched_at": "2026-11-26T16:57:48.879886+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-26T11:37:17+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "summary": null,
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
+  },
+  {
+   "date": "2026-11-26T05:05:36+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+   "summary": null,
+   "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference"
+  },
+  {
+   "date": "2026-11-26T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/training-swarms",
+   "summary": null,
+   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems"
+  },
+  {
+   "date": "2026-11-25T18:52:55+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "summary": null,
+   "title": "Where scientists draw the line on AI agents"
+  },
   {
    "date": "2026-11-25T10:22:09+00:00",
    "image": null,

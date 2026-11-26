@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-25T17:17:28.593948+00:00",
+ "fetched_at": "2026-11-26T16:57:48.879886+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-25T19:30:00+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/10/floating-cubes-768x431.png",
+   "link": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/",
+   "summary": "Attention can be a major bottleneck when serving world foundation models, where long sequences make inference computationally demanding. On NVIDIA Hopper and... Attention can be a major bottleneck when serving world…",
+   "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling"
+  },
   {
    "date": "2026-11-24T18:44:05+00:00",
    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/ai-model-768x432.jpg",
@@ -43,6 +50,13 @@
    "link": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension/",
    "summary": "As datasets grow, analytical queries can take longer to run, slowing down data exploration, pipelines, and applications. For developers using DuckDB, reducing... As datasets grow, analytical queries can take longer to…",
    "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension"
+  },
+  {
+   "date": "2026-11-19T22:02:30+00:00",
+   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/AI-Factory-e1786140990629-768x432.webp",
+   "link": "https://developer.nvidia.com/blog/manage-liquid-cooled-ai-factories-with-nvidia-mission-control/",
+   "summary": "Managing AI infrastructure such as NVIDIA Vera Rubin NVL72 requires coordinated operation of compute, power, and cooling systems. In liquid-cooled AI factories,... Managing AI infrastructure such as NVIDIA Vera Rubin…",
+   "title": "Manage Liquid-Cooled AI Factories with NVIDIA Mission Control"
   },
   {
    "date": "2026-11-19T20:28:13+00:00",
