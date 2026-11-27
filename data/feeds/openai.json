@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-26T16:57:48.879886+00:00",
+ "fetched_at": "2026-11-27T16:43:27.293659+00:00",
  "group": "lab",
  "items": [
   {
@@ -1184,27 +1184,6 @@
    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
    "title": "Towards safety cases for frontier AI training"
-  },
-  {
-   "date": "2026-09-28T07:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-   "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support"
-  },
-  {
-   "date": "2026-09-28T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/form/codex-originals",
-   "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more…",
-   "title": "Are you a Codex Original?"
-  },
-  {
-   "date": "2026-09-28T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-   "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra"
   }
  ],
  "name": "OpenAI",

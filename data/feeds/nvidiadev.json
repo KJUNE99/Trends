@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-26T16:57:48.879886+00:00",
+ "fetched_at": "2026-11-27T16:43:27.293659+00:00",
  "group": "lab",
  "items": [
   {
@@ -638,27 +638,6 @@
    "link": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/",
    "summary": "Vision-language models have made it possible to build visual AI agents that understand video at production scale. The harder problem is turning that capability... Vision-language models have made it possible to build…",
    "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3"
-  },
-  {
-   "date": "2026-09-28T08:56:55+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/agentic-ai-openshell-logo-ver-a-5746677-1920x1080-3-768x432.png",
-   "link": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
-   "summary": "To understand where agentic AI stands today, consider the last seismic shift in technology: the rise of the internet in the 90s. It was new and full of... To understand where agentic AI stands today, consider the last…",
-   "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring"
-  },
-  {
-   "date": "2026-09-28T08:55:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/OpenShell-Controls-768x432.png",
-   "link": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
-   "summary": "AI agents can be given a goal, write code, use tools, and keep working as new information becomes available. This opens the door to applications that... AI agents can be given a goal, write code, use tools, and keep…",
-   "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell"
-  },
-  {
-   "date": "2026-09-28T01:00:00+00:00",
-   "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/MaxLPS-768x432.jpg",
-   "link": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/",
-   "summary": "Every unused watt is capacity left on the table. AI factories are typically provisioned for the unlikely moment when every GPU reaches peak power, creating a... Every unused watt is capacity left on the table. AI…",
-   "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency"
   }
  ],
  "name": "NVIDIA Developer",

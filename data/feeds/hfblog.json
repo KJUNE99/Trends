@@ -1,7 +1,14 @@
 {
- "fetched_at": "2026-11-26T16:57:48.879886+00:00",
+ "fetched_at": "2026-11-27T16:43:27.293659+00:00",
  "group": "lab",
  "items": [
+  {
+   "date": "2026-11-27T00:00:00+00:00",
+   "image": null,
+   "link": "https://huggingface.co/blog/video-trainium3",
+   "summary": null,
+   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5"
+  },
   {
    "date": "2026-11-26T11:37:17+00:00",
    "image": null,
@@ -575,20 +582,6 @@
    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
    "summary": null,
    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents"
-  },
-  {
-   "date": "2026-09-28T09:44:05+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/Hcompany/holo4",
-   "summary": null,
-   "title": "Holo4: powering generalist computer-use agents"
-  },
-  {
-   "date": "2026-09-28T00:00:00+00:00",
-   "image": null,
-   "link": "https://huggingface.co/blog/rl-environments",
-   "summary": null,
-   "title": "Welcome RL Environments to the hub"
   }
  ],
  "name": "Hugging Face",
