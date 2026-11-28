@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T16:43:27.293659+00:00",
+ "fetched_at": "2026-11-28T15:35:59.775626+00:00",
  "group": "newsletter",
  "items": [
   {
@@ -15,13 +15,6 @@
    "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
    "summary": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch. I have written a lot about reasoning models here over the last two years on Ahead…",
    "title": "Building Reasoning Models from the Ground Up: A Full Video Course"
-  },
-  {
-   "date": "2026-09-29T10:50:25+00:00",
-   "image": "https://substack-post-media.s3.amazonaws.com/public/images/0015e77a-5140-4139-b361-78e28d18df17_2494x1304.png",
-   "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-   "summary": "A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency The recently released Jev AI model has been quite a cultural phenomenon in technical communities in the…",
-   "title": "Language Models for Text Classification: From Bag-of-Words to Jev"
   }
  ],
  "name": "Ahead of AI",

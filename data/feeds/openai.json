@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T16:43:27.293659+00:00",
+ "fetched_at": "2026-11-28T15:35:59.775626+00:00",
  "group": "lab",
  "items": [
   {
@@ -1156,34 +1156,6 @@
    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
    "title": "Introducing GPT-6.1 Sol"
-  },
-  {
-   "date": "2026-09-29T10:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/devday-2026-recap",
-   "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-   "title": "DevDay 2026 Recap"
-  },
-  {
-   "date": "2026-09-29T00:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/introducing-dots",
-   "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-   "title": "Introducing dots"
-  },
-  {
-   "date": "2026-09-28T19:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-   "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-   "title": "How we will do better for Australia"
-  },
-  {
-   "date": "2026-09-28T19:00:00+00:00",
-   "image": null,
-   "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-   "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-   "title": "Towards safety cases for frontier AI training"
   }
  ],
  "name": "OpenAI",

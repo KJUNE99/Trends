@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T16:43:27.293659+00:00",
+ "fetched_at": "2026-11-28T15:35:59.775626+00:00",
  "group": "lab",
  "items": [
   {
@@ -225,13 +225,6 @@
    "link": "https://machinelearning.apple.com/research/sclate-agent-training-evaluation",
    "summary": "Continual-learning agents are systems of models, harnesses, and memory operating over long multi-session horizons. Evaluating and training them requires interleaving tasks with agent-side events such as session stop and…",
    "title": "SCLATE: A Substrate for Continual-Learning Agent Training and Evaluation"
-  },
-  {
-   "date": "2026-09-29T00:00:00+00:00",
-   "image": null,
-   "link": "https://machinelearning.apple.com/research/communication-bottleneck-serialization",
-   "summary": "When language models reason in chain-of-thought or exchange free-text intermediates, they serialize structured information into natural language. How much tree-structured compositional content survives this bottleneck?…",
-   "title": "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models"
   }
  ],
  "name": "Apple ML",
